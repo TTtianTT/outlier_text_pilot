@@ -1,0 +1,77 @@
+{
+  "scope": "accepted transmissions; same-pool NLL-proxy covers; char n-gram detector only",
+  "results": [
+    {
+      "method": "outlier",
+      "split": "test",
+      "status": "ok",
+      "train_examples": 70,
+      "test_examples": 68,
+      "test_parents": 12,
+      "auroc": 0.5216262975778546
+    },
+    {
+      "method": "outlier",
+      "split": "ood",
+      "status": "ok",
+      "train_examples": 70,
+      "test_examples": 64,
+      "test_parents": 12,
+      "auroc": 0.52001953125
+    },
+    {
+      "method": "matched",
+      "split": "test",
+      "status": "ok",
+      "train_examples": 72,
+      "test_examples": 72,
+      "test_parents": 12,
+      "auroc": 0.4224537037037037
+    },
+    {
+      "method": "matched",
+      "split": "ood",
+      "status": "ok",
+      "train_examples": 72,
+      "test_examples": 66,
+      "test_parents": 12,
+      "auroc": 0.40587695133149676
+    },
+    {
+      "method": "random",
+      "split": "test",
+      "status": "ok",
+      "train_examples": 70,
+      "test_examples": 68,
+      "test_parents": 12,
+      "auroc": 0.448961937716263
+    },
+    {
+      "method": "random",
+      "split": "ood",
+      "status": "ok",
+      "train_examples": 70,
+      "test_examples": 70,
+      "test_parents": 12,
+      "auroc": 0.5273469387755101
+    },
+    {
+      "method": "nearest",
+      "split": "test",
+      "status": "ok",
+      "train_examples": 72,
+      "test_examples": 72,
+      "test_parents": 12,
+      "auroc": 0.5050154320987654
+    },
+    {
+      "method": "nearest",
+      "split": "ood",
+      "status": "ok",
+      "train_examples": 72,
+      "test_examples": 70,
+      "test_parents": 12,
+      "auroc": 0.5248979591836734
+    }
+  ]
+}

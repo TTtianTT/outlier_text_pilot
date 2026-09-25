@@ -1,0 +1,90 @@
+{"id": "dev-daily-000", "group_id": "dev-daily-000", "split": "dev", "domain": "daily", "text": "I left my umbrella beside the front door before going to work."}
+{"id": "dev-daily-001", "group_id": "dev-daily-001", "split": "dev", "domain": "daily", "text": "The library closes one hour earlier on Saturday than on Friday."}
+{"id": "dev-daily-002", "group_id": "dev-daily-002", "split": "dev", "domain": "daily", "text": "We moved the meeting to the afternoon because the room was occupied."}
+{"id": "dev-daily-003", "group_id": "dev-daily-003", "split": "dev", "domain": "daily", "text": "The train arrived ten minutes late after a short delay at the station."}
+{"id": "dev-daily-004", "group_id": "dev-daily-004", "split": "dev", "domain": "daily", "text": "Please put the empty glass on the kitchen counter."}
+{"id": "dev-daily-005", "group_id": "dev-daily-005", "split": "dev", "domain": "daily", "text": "I usually walk to the office when the weather is dry."}
+{"id": "dev-daily-006", "group_id": "dev-daily-006", "split": "dev", "domain": "daily", "text": "The package was delivered to the reception desk this morning."}
+{"id": "dev-daily-007", "group_id": "dev-daily-007", "split": "dev", "domain": "daily", "text": "We bought fresh vegetables at the market on our way home."}
+{"id": "dev-daily-008", "group_id": "dev-daily-008", "split": "dev", "domain": "daily", "text": "The cafe near the bridge has a few tables outside."}
+{"id": "dev-daily-009", "group_id": "dev-daily-009", "split": "dev", "domain": "daily", "text": "I saved the document before shutting down the computer."}
+{"id": "dev-daily-010", "group_id": "dev-daily-010", "split": "dev", "domain": "daily", "text": "The neighbors watered our plants while we were away."}
+{"id": "dev-daily-011", "group_id": "dev-daily-011", "split": "dev", "domain": "daily", "text": "She checked the address twice before leaving the house."}
+{"id": "dev-daily-012", "group_id": "dev-daily-012", "split": "dev", "domain": "daily", "text": "We will have dinner after everyone returns from work."}
+{"id": "dev-daily-013", "group_id": "dev-daily-013", "split": "dev", "domain": "daily", "text": "The keys were inside the small pocket of my backpack."}
+{"id": "dev-daily-014", "group_id": "dev-daily-014", "split": "dev", "domain": "daily", "text": "I borrowed a book about gardening from a friend."}
+{"id": "dev-product-000", "group_id": "dev-product-000", "split": "dev", "domain": "product", "text": "This notebook has a soft cover and lined pages."}
+{"id": "dev-product-001", "group_id": "dev-product-001", "split": "dev", "domain": "product", "text": "The desk lamp has three brightness settings and a flexible neck."}
+{"id": "dev-product-002", "group_id": "dev-product-002", "split": "dev", "domain": "product", "text": "The water bottle comes with a removable carrying strap."}
+{"id": "dev-product-003", "group_id": "dev-product-003", "split": "dev", "domain": "product", "text": "This keyboard connects to a computer using a USB cable."}
+{"id": "dev-product-004", "group_id": "dev-product-004", "split": "dev", "domain": "product", "text": "The backpack has a separate compartment for a laptop."}
+{"id": "dev-product-005", "group_id": "dev-product-005", "split": "dev", "domain": "product", "text": "The storage box has a transparent lid and two side handles."}
+{"id": "dev-product-006", "group_id": "dev-product-006", "split": "dev", "domain": "product", "text": "This cotton shirt can be washed in cold water."}
+{"id": "dev-product-007", "group_id": "dev-product-007", "split": "dev", "domain": "product", "text": "The chair height can be adjusted using the lever below the seat."}
+{"id": "dev-product-008", "group_id": "dev-product-008", "split": "dev", "domain": "product", "text": "The headphones include a detachable audio cable."}
+{"id": "dev-product-009", "group_id": "dev-product-009", "split": "dev", "domain": "product", "text": "The travel mug has a lid that can be opened with one hand."}
+{"id": "dev-product-010", "group_id": "dev-product-010", "split": "dev", "domain": "product", "text": "This phone stand folds flat when it is not in use."}
+{"id": "dev-product-011", "group_id": "dev-product-011", "split": "dev", "domain": "product", "text": "The pen set contains four different ink colors."}
+{"id": "dev-product-012", "group_id": "dev-product-012", "split": "dev", "domain": "product", "text": "The calendar has a blank space for notes on each page."}
+{"id": "dev-product-013", "group_id": "dev-product-013", "split": "dev", "domain": "product", "text": "This towel has a loop for hanging it on a hook."}
+{"id": "dev-product-014", "group_id": "dev-product-014", "split": "dev", "domain": "product", "text": "The power adapter is sold separately from the device."}
+{"id": "test-daily-000", "group_id": "test-daily-000", "split": "test", "domain": "daily", "text": "He put the groceries in the refrigerator before making lunch."}
+{"id": "test-daily-001", "group_id": "test-daily-001", "split": "test", "domain": "daily", "text": "The bus stop is across the street from the post office."}
+{"id": "test-daily-002", "group_id": "test-daily-002", "split": "test", "domain": "daily", "text": "We decided to visit the museum after the rain stopped."}
+{"id": "test-daily-003", "group_id": "test-daily-003", "split": "test", "domain": "daily", "text": "I wrote the appointment time on a note beside my desk."}
+{"id": "test-daily-004", "group_id": "test-daily-004", "split": "test", "domain": "daily", "text": "The restaurant was quiet when we arrived in the early evening."}
+{"id": "test-daily-005", "group_id": "test-daily-005", "split": "test", "domain": "daily", "text": "She sent the revised schedule to the group yesterday."}
+{"id": "test-daily-006", "group_id": "test-daily-006", "split": "test", "domain": "daily", "text": "We opened the windows to let some fresh air into the room."}
+{"id": "test-daily-007", "group_id": "test-daily-007", "split": "test", "domain": "daily", "text": "The bicycle was locked to a railing near the entrance."}
+{"id": "test-daily-008", "group_id": "test-daily-008", "split": "test", "domain": "daily", "text": "I found an extra blanket in the cupboard upstairs."}
+{"id": "test-daily-009", "group_id": "test-daily-009", "split": "test", "domain": "daily", "text": "The footpath follows the river for about two kilometers."}
+{"id": "test-daily-010", "group_id": "test-daily-010", "split": "test", "domain": "daily", "text": "They prepared the guest room before their relatives arrived."}
+{"id": "test-daily-011", "group_id": "test-daily-011", "split": "test", "domain": "daily", "text": "I charged my phone while I was reading on the sofa."}
+{"id": "test-daily-012", "group_id": "test-daily-012", "split": "test", "domain": "daily", "text": "The children put their shoes on the rack by the door."}
+{"id": "test-daily-013", "group_id": "test-daily-013", "split": "test", "domain": "daily", "text": "We took a short break after finishing the first task."}
+{"id": "test-daily-014", "group_id": "test-daily-014", "split": "test", "domain": "daily", "text": "He returned the borrowed tool the following morning."}
+{"id": "test-product-000", "group_id": "test-product-000", "split": "test", "domain": "product", "text": "The suitcase has four wheels and an extendable handle."}
+{"id": "test-product-001", "group_id": "test-product-001", "split": "test", "domain": "product", "text": "This speaker can play music from a memory card."}
+{"id": "test-product-002", "group_id": "test-product-002", "split": "test", "domain": "product", "text": "The cooking pot has measurement marks on the inside."}
+{"id": "test-product-003", "group_id": "test-product-003", "split": "test", "domain": "product", "text": "The watch strap can be replaced without removing the battery."}
+{"id": "test-product-004", "group_id": "test-product-004", "split": "test", "domain": "product", "text": "This folder has two pockets for holding loose papers."}
+{"id": "test-product-005", "group_id": "test-product-005", "split": "test", "domain": "product", "text": "The fan comes with a remote control and a timer."}
+{"id": "test-product-006", "group_id": "test-product-006", "split": "test", "domain": "product", "text": "The cushion cover can be removed for washing."}
+{"id": "test-product-007", "group_id": "test-product-007", "split": "test", "domain": "product", "text": "This ruler shows measurements in both centimeters and inches."}
+{"id": "test-product-008", "group_id": "test-product-008", "split": "test", "domain": "product", "text": "The shelf includes the screws needed for assembly."}
+{"id": "test-product-009", "group_id": "test-product-009", "split": "test", "domain": "product", "text": "The camera bag has a padded divider in its main compartment."}
+{"id": "test-product-010", "group_id": "test-product-010", "split": "test", "domain": "product", "text": "This stapler can be refilled by opening the top section."}
+{"id": "test-product-011", "group_id": "test-product-011", "split": "test", "domain": "product", "text": "The lunch box contains two removable containers."}
+{"id": "test-product-012", "group_id": "test-product-012", "split": "test", "domain": "product", "text": "The mirror can stand on a table or hang on a wall."}
+{"id": "test-product-013", "group_id": "test-product-013", "split": "test", "domain": "product", "text": "This rechargeable light has a battery indicator on the side."}
+{"id": "test-product-014", "group_id": "test-product-014", "split": "test", "domain": "product", "text": "The wireless mouse requires one battery that is not included."}
+{"id": "ood-science-000", "group_id": "ood-science-000", "split": "ood", "domain": "science", "text": "Evaporation changes liquid water into water vapor."}
+{"id": "ood-science-001", "group_id": "ood-science-001", "split": "ood", "domain": "science", "text": "A shadow forms when an object blocks light from a source."}
+{"id": "ood-science-002", "group_id": "ood-science-002", "split": "ood", "domain": "science", "text": "An electric circuit must form a closed path for a steady current to flow."}
+{"id": "ood-science-003", "group_id": "ood-science-003", "split": "ood", "domain": "science", "text": "A magnet has a north pole and a south pole."}
+{"id": "ood-science-004", "group_id": "ood-science-004", "split": "ood", "domain": "science", "text": "Sound travels through air as changes in pressure."}
+{"id": "ood-science-005", "group_id": "ood-science-005", "split": "ood", "domain": "science", "text": "Plants use light energy to make sugars during photosynthesis."}
+{"id": "ood-science-006", "group_id": "ood-science-006", "split": "ood", "domain": "science", "text": "Friction can convert some mechanical energy into heat."}
+{"id": "ood-science-007", "group_id": "ood-science-007", "split": "ood", "domain": "science", "text": "A lens can change the direction of light passing through it."}
+{"id": "ood-science-008", "group_id": "ood-science-008", "split": "ood", "domain": "science", "text": "The Earth rotates about its axis as it moves around the Sun."}
+{"id": "ood-science-009", "group_id": "ood-science-009", "split": "ood", "domain": "science", "text": "Water expands when it freezes under ordinary conditions."}
+{"id": "ood-science-010", "group_id": "ood-science-010", "split": "ood", "domain": "science", "text": "A simple lever turns about a fixed point called a fulcrum."}
+{"id": "ood-science-011", "group_id": "ood-science-011", "split": "ood", "domain": "science", "text": "Insulation slows the transfer of heat between two regions."}
+{"id": "ood-science-012", "group_id": "ood-science-012", "split": "ood", "domain": "science", "text": "Dissolving salt in water produces a mixture with dissolved ions."}
+{"id": "ood-science-013", "group_id": "ood-science-013", "split": "ood", "domain": "science", "text": "The Moon reflects sunlight rather than producing its own visible light."}
+{"id": "ood-science-014", "group_id": "ood-science-014", "split": "ood", "domain": "science", "text": "A thermometer measures temperature using a property that changes with temperature."}
+{"id": "ood-science-015", "group_id": "ood-science-015", "split": "ood", "domain": "science", "text": "Seeds need suitable conditions to begin growing into plants."}
+{"id": "ood-science-016", "group_id": "ood-science-016", "split": "ood", "domain": "science", "text": "Condensation occurs when water vapor changes into liquid water."}
+{"id": "ood-science-017", "group_id": "ood-science-017", "split": "ood", "domain": "science", "text": "A prism can separate white light into a range of colors."}
+{"id": "ood-science-018", "group_id": "ood-science-018", "split": "ood", "domain": "science", "text": "The lungs exchange oxygen and carbon dioxide with the blood."}
+{"id": "ood-science-019", "group_id": "ood-science-019", "split": "ood", "domain": "science", "text": "In a series circuit the same current passes through each component."}
+{"id": "ood-science-020", "group_id": "ood-science-020", "split": "ood", "domain": "science", "text": "Air resistance acts against the motion of an object through air."}
+{"id": "ood-science-021", "group_id": "ood-science-021", "split": "ood", "domain": "science", "text": "Some materials conduct electricity more easily than others."}
+{"id": "ood-science-022", "group_id": "ood-science-022", "split": "ood", "domain": "science", "text": "A compass needle tends to align with the local magnetic field."}
+{"id": "ood-science-023", "group_id": "ood-science-023", "split": "ood", "domain": "science", "text": "The roots of a plant absorb water from the surrounding soil."}
+{"id": "ood-science-024", "group_id": "ood-science-024", "split": "ood", "domain": "science", "text": "Heat can travel through a solid by conduction."}
+{"id": "ood-science-025", "group_id": "ood-science-025", "split": "ood", "domain": "science", "text": "A larger force causes a larger acceleration when mass is unchanged."}
+{"id": "ood-science-026", "group_id": "ood-science-026", "split": "ood", "domain": "science", "text": "A food chain describes a sequence of feeding relationships."}
+{"id": "ood-science-027", "group_id": "ood-science-027", "split": "ood", "domain": "science", "text": "A wave can transfer energy without carrying matter over the same distance."}
+{"id": "ood-science-028", "group_id": "ood-science-028", "split": "ood", "domain": "science", "text": "The frequency of a repeating event is the number of repetitions per unit time."}
+{"id": "ood-science-029", "group_id": "ood-science-029", "split": "ood", "domain": "science", "text": "A mixture can sometimes be separated by taking advantage of differences in particle size."}
