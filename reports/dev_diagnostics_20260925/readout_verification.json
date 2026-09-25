@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "backend": "hf",
+  "scope": "eligible",
+  "splits": [
+    "dev"
+  ],
+  "bits_per_readout": 1,
+  "candidate_population": 305,
+  "parents_checked": 30,
+  "fresh_text_forwards": 305,
+  "bits_checked": 6100,
+  "bit_errors": 0,
+  "ber": 0.0,
+  "sender_guarded_bits": 6026,
+  "sender_guarded_bit_errors": 0,
+  "receiver_guard_rejections": 0,
+  "max_feature_l2_drift": 0.0,
+  "warning": "Same runtime only; this does not establish cross-device or edited-text reliability."
+}

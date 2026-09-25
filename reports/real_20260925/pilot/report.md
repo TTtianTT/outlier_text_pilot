@@ -17,8 +17,10 @@ Primary setting: 1 bit(s), margin 0.0001.
 
 Paired outlier minus matched-control differences (source-group × key bootstrap; exploratory 95% intervals):
 
-- test: 0.0000, [0.0000, 0.0000], 30 groups, 20 keys.
-- ood: 0.0000, [0.0000, 0.0000], 30 groups, 20 keys.
+- test: effect NA, CI NA; no comparable matched parents. Protocol delivery remains zero.
+- ood: effect NA, CI NA; no comparable matched parents. Protocol delivery remains zero.
+
+Reporting correction after the dev diagnostic review: method effects require comparable matched parents. Original all-failure zero differences remain archived in the local runs directory; no model inference or filtering changed.
 
 ## Checks and interpretation
 

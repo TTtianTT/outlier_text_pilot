@@ -158,22 +158,22 @@
         "bits": "1",
         "margin": "0.0001",
         "comparison": "outlier-minus-matched",
-        "delta": "0.0",
-        "ci_low": "0.0",
-        "ci_high": "0.0",
-        "source_groups": "30",
-        "keys": "20"
+        "delta": null,
+        "ci_low": null,
+        "ci_high": null,
+        "source_groups": 0,
+        "keys": 0
       },
       {
         "split": "ood",
         "bits": "1",
         "margin": "0.0001",
         "comparison": "outlier-minus-matched",
-        "delta": "0.0",
-        "ci_low": "0.0",
-        "ci_high": "0.0",
-        "source_groups": "30",
-        "keys": "20"
+        "delta": null,
+        "ci_low": null,
+        "ci_high": null,
+        "source_groups": 0,
+        "keys": 0
       }
     ]
   },
@@ -187,7 +187,8 @@
     "sender_guarded_bits": 0,
     "sender_guarded_bit_errors": 0,
     "receiver_guard_rejections": 0,
-    "max_feature_l2_drift": 0.0,
+    "max_feature_l2_drift": 0,
     "warning": "Same runtime only; this does not establish cross-device or edited-text reliability."
-  }
+  },
+  "effect_reporting_note": "Corrected to NA/null: no comparable matched parents. Protocol delivery remains zero; original runs artifacts retained."
 }

@@ -30,6 +30,8 @@ def two_way_ci(records, metric, method, comparator, repeats, seed):
             table[(r["group_id"], r["key_seed"], r["method"])].setdefault(r["parent_id"], r[metric])
     groups = sorted({r["group_id"] for r in records})
     keys = sorted({r["key_seed"] for r in records})
+    if not groups or not keys:
+        return {"delta": None, "ci_low": None, "ci_high": None, "source_groups": 0, "keys": 0}
     values = np.zeros((len(groups), len(keys)))
     for i, group in enumerate(groups):
         for j, key in enumerate(keys):
@@ -164,7 +166,8 @@ def evaluate(cfg, run):
                                       "coverage_matched": float(np.mean([r["coverage"] for r in ok])) if ok else None,
                                       "full_coverage_all": float(np.mean([r["full_coverage"] for r in rr])),
                                       "pool_proxy_tv_success": float(np.mean(tvs)) if tvs else None})
-                ci = two_way_ci(cells, "coverage", "outlier", "matched", cfg["evaluation"]["bootstrap"],
+                paired_cells = [r for r in cells if r["matched_parent"]]
+                ci = two_way_ci(paired_cells, "coverage", "outlier", "matched", cfg["evaluation"]["bootstrap"],
                                 stable_seed(cfg["seed"], split, width, margin))
                 deltas.append({"split": split, "bits": width, "margin": margin, "comparison": "outlier-minus-matched", **ci})
     csv_write(run / "summary.csv", summaries); csv_write(run / "paired_deltas.csv", deltas)
@@ -223,7 +226,10 @@ def write_report(run, signature, summaries, deltas, diagnostics, detector, cfg):
     lines += ["", "Paired outlier minus matched-control differences (source-group × key bootstrap; exploratory 95% intervals):", ""]
     for r in deltas:
         if r["bits"] == cfg["evaluation"]["primary_bits"] and r["margin"] == cfg["evaluation"]["primary_margin"]:
-            lines.append(f"- {r['split']}: {r['delta']:.4f}, [{r['ci_low']:.4f}, {r['ci_high']:.4f}], {r['source_groups']} groups, {r['keys']} keys.")
+            if r["delta"] is None:
+                lines.append(f"- {r['split']}: effect NA, CI NA (no comparable matched parents); delivery remains reported in coverage_all.")
+            else:
+                lines.append(f"- {r['split']}: {r['delta']:.4f}, [{r['ci_low']:.4f}, {r['ci_high']:.4f}], {r['source_groups']} groups, {r['keys']} keys (common matched subset).")
     lines += ["", "## Checks and interpretation", "",
               "- Unmatched parents remain in coverage_all with zero delivery. coverage_matched is explicitly conditional.",
               "- Main proxy is last-layer representation distance, not a demonstrated change of downstream behavior.",

@@ -28,6 +28,9 @@ def main():
     s = sub.add_parser("check"); s.add_argument("--original", required=True); s.add_argument("--recovered", required=True)
     s.add_argument("--packet", help="optional: calculate verified net wire rate from sender diagnostics")
     s = sub.add_parser("verify-readout"); s.add_argument("--run", required=True); s.add_argument("--limit", type=int, default=100)
+    s.add_argument("--scope", choices=["matched", "eligible"], default="matched")
+    s.add_argument("--split", choices=["dev", "test", "ood"])
+    s.add_argument("--bits", type=int); s.add_argument("--out")
     s = sub.add_parser("plot"); s.add_argument("--run", required=True)
     s = sub.add_parser("codec-bench")
     s.add_argument("--run", required=True); s.add_argument("--out", required=True)
@@ -74,7 +77,7 @@ def main():
             if not result["byte_exact"]: raise SystemExit(3)
         elif a.command == "verify-readout":
             from .verification import verify_readout
-            result = verify_readout(a.run, a.limit)
+            result = verify_readout(a.run, a.limit, scope=a.scope, split=a.split, bits=a.bits, output=a.out)
             print(json.dumps(result, indent=2))
             if result["status"] != "passed": raise SystemExit(3)
         elif a.command == "plot":

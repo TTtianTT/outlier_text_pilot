@@ -1,0 +1,61 @@
+audit_id,facts_preserved_yes_no_uncertain,natural_yes_no_uncertain,notes,reviewer
+audit-001,no,no,package 与 reception desk 被改成泛指 delivery 和不自然的 arrival desk,AI preliminary—not human
+audit-002,yes,yes,挂钩用环的信息保留,AI preliminary—not human
+audit-003,uncertain,yes,beside 被泛化为 at；placed 比 left 更强调主动放置,AI preliminary—not human
+audit-004,no,yes,离开房屋被泛化为到外面；地点限定不再明确,AI preliminary—not human
+audit-005,yes,yes,钥匙位于我的背包小口袋中这一事实保留,AI preliminary—not human
+audit-006,uncertain,yes,a few 与 several 的数量含义有重叠但并非严格相同,AI preliminary—not human
+audit-007,yes,yes,soft binding 和 lined sheets 可自然对应原句,AI preliminary—not human
+audit-008,yes,yes,主动结构变化但连接方式及对象保留,AI preliminary—not human
+audit-009,yes,yes,taken 在此上下文对应房间被占用,AI preliminary—not human
+audit-010,no,yes,特指这件衬衫被扩展为所有棉衬衫的泛称,AI preliminary—not human
+audit-011,no,yes,tables 被改为 seats；a few 被改为 a couple；位置也变强,AI preliminary—not human
+audit-012,yes,yes,从句顺序变化但时间与地点均保留,AI preliminary—not human
+audit-013,uncertain,yes,新增电脑属于我的限定；核心保存与关机顺序保留,AI preliminary—not human
+audit-014,yes,yes,此处 may be laundered 通常表达可用冷水洗涤,AI preliminary—not human
+audit-015,yes,yes,倒装保留事实,AI preliminary—not human
+audit-016,uncertain,no,新增 easy access 且 openable lid for easy access with one hand 表述生硬,AI preliminary—not human
+audit-017,uncertain,yes,新增 easily 程度；可拆卸不必然意味着容易拆卸,AI preliminary—not human
+audit-018,no,no,透明变为半透明；两个侧把手变为供搬运的两侧,AI preliminary—not human
+audit-019,uncertain,yes,notes section 未明确保留 blank 属性,AI preliminary—not human
+audit-020,no,yes,回家路上在市场购买被改成在家购买,AI preliminary—not human
+audit-021,yes,yes,独立的笔记本电脑隔层保留,AI preliminary—not human
+audit-022,no,yes,this morning 被泛化为 today；the package 变为 a package,AI preliminary—not human
+audit-023,yes,yes,被动改写保留邻居浇水及离家期间,AI preliminary—not human
+audit-024,yes,yes,仅 has 改为 features,AI preliminary—not human
+audit-025,yes,no,缺少完整句子主语；事实内容可辨认,AI preliminary—not human
+audit-026,yes,yes,星期与一小时时差均保留,AI preliminary—not human
+audit-027,yes,yes,条件从句前置且事实保留,AI preliminary—not human
+audit-028,yes,yes,时间从句前置且事实保留,AI preliminary—not human
+audit-029,yes,yes,每页的空白记事位置保留,AI preliminary—not human
+audit-030,no,no,玻璃杯与厨房台面变为容器与餐桌旁；vacant container 搭配异常,AI preliminary—not human
+audit-031,yes,yes,折平及未使用条件保留,AI preliminary—not human
+audit-032,no,yes,keyboard 被泛化成 device；设备类型信息丢失,AI preliminary—not human
+audit-033,no,yes,凭空加入五分钟延误及事故原因,AI preliminary—not human
+audit-034,yes,yes,折平能力与闲置条件保留,AI preliminary—not human
+audit-035,yes,yes,借入与被借给为对应关系；buddy 对应 friend,AI preliminary—not human
+audit-036,yes,yes,购买时间地点及新鲜蔬菜信息保留,AI preliminary—not human
+audit-037,no,yes,loop 被泛化为 attachment；环的形状信息丢失,AI preliminary—not human
+audit-038,no,yes,笔套装与四种颜色变为包装与四种墨水；类型和颜色属性丢失,AI preliminary—not human
+audit-039,no,yes,可拆卸被改为可互换；互换能力并非原句所断言,AI preliminary—not human
+audit-040,yes,yes,祈使句语序变化但对象地点保留,AI preliminary—not human
+audit-041,no,yes,浇水被泛化为照料；不保证做过浇水动作,AI preliminary—not human
+audit-042,no,yes,safeguarded 不等价于保存文件；computer 也被泛化为 machine,AI preliminary—not human
+audit-043,yes,yes,亮度档位与可弯折灯臂保留,AI preliminary—not human
+audit-044,no,yes,从工作返回被改为完成工作；新增一起吃饭限定,AI preliminary—not human
+audit-045,yes,yes,可拆卸提带及水瓶关系保留,AI preliminary—not human
+audit-046,yes,yes,操作座位下方杠杆可调椅子高度这一信息保留,AI preliminary—not human
+audit-047,yes,yes,可从水瓶拆下的提带保留,AI preliminary—not human
+audit-048,no,yes,销售安排变成购买行为；语义并非完全相同,AI preliminary—not human
+audit-049,yes,yes,杠杆位置和高度调节关系保留,AI preliminary—not human
+audit-050,uncertain,yes,with two side handles 的附着对象有歧义；新增 attached 关系,AI preliminary—not human
+audit-051,no,yes,单手打开盖子变为单手关闭机构；动作相反,AI preliminary—not human
+audit-052,no,yes,凭空加入会议原定上午这一信息,AI preliminary—not human
+audit-053,yes,yes,double-checked 在此可对应检查两次；地点保留,AI preliminary—not human
+audit-054,no,yes,干燥天气改成晴天；usually 与 frequently 及 walk 与 stroll 也有差别,AI preliminary—not human
+audit-055,uncertain,yes,新增 is provided 供应事件；特指灯变为泛指,AI preliminary—not human
+audit-056,yes,no,an gardening 冠词错误；借书事实基本保留,AI preliminary—not human
+audit-057,no,no,backpack 与 laptop 泛化为 bag 与 computer；possesses an individual section 生硬,AI preliminary—not human
+audit-058,no,yes,单独出售被改为设备随附独立电源；销售包含关系改变,AI preliminary—not human
+audit-059,no,yes,一小时被改为半小时,AI preliminary—not human
+audit-060,uncertain,yes,beside 被泛化为 at；门旁这一位置精度未完全保留,AI preliminary—not human

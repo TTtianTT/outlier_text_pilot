@@ -196,6 +196,16 @@ python -m otc check --original payload.bin --recovered recovered.bin \
 
 ## 8. 代码位置与下一步
 
+### 缓存上的 dev 诊断
+
+运行 `python -m otc.diagnostics --run runs/real_20260925/pilot --out runs/dev_diagnostics_20260925`，可只分析 dev 缓存：固定 1 bit、每组 2 个候选，保留原过滤/匹配条件、20 个公开密钥和 dev 校准表示。输出目录必须是新目录。
+
+`summary.csv` 的 `independent` 行单独报告完整合格池、random 和 nearest；`common_matched` 行仅在共同配对成功原句上比较四种方法；`paired_protocol` 行将配对失败原句计为零交付。完整池候选数可变，不是等预算方法比较。`paired_deltas.csv` 的效应和区间仅针对共同子集；无可比较原句时 CSV 单元格为空、JSON 为 null、报告为 NA。
+
+独立读出检查可用 `python -m otc verify-readout --run runs/real_20260925/pilot --scope eligible --split dev --bits 1 --limit 10000 --out runs/dev_diagnostics_20260925/readout_verification.json`。它从合格候选采样，不依赖配对成功；指定 `--out` 可保留原先的检查结果。`scripts/slurm_dev_diagnostics.sh` 将上述两步提交到单张 GPU。
+
+人工审查先填写 `human_audit_blind.csv`，再与 `audit_filter_key.csv` 对照。每个 dev 原句各抽取一条通过、一条拒绝样本，不展示 outlier 分数或读出收益。事实是否保留与自然度分别标注 yes/no/uncertain；合格且自然但被自动拒绝的样本标为疑似误拒。AI 初审必须单独保存并明确标为非人工；修改规则须等待人工确认。该诊断为 dev 样本内探索，不能当作确认性实验。
+
 | 文件 | 作用 |
 |---|---|
 | `otc/hf.py` | 模型加载、生成、表示与 NLL、独立语义/NLI |

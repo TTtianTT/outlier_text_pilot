@@ -35,7 +35,7 @@
 | test | 338 | 200 | 99 | 0 |
 | OOD | 286 | 79 | 183 | 1 |
 
-主设置 1 bit、margin=0.0001、20 个密钥种子：test/OOD 四种方法的 coverage_all 均为 0；coverage_matched 不可计算。outlier − matched 均为 0，程序输出探索性 95% CI [0, 0]。这来自全部未配对原句按零覆盖计入，不能解释为两种方法等效或 outlier 无效。其余 bit/margin 设置也没有可比较的 test/OOD 配对子集。
+主设置 1 bit、margin=0.0001、20 个密钥种子：test/OOD 四种方法的 coverage_all 均为 0；coverage_matched 不可计算。初版程序将全部失败计零，曾输出差值 0 和探索性 95% CI [0, 0]；后续诊断明确方法效应必须限定共同配对子集，因此本归档的 report.md、paired_deltas.csv 和 execution_summary.json 已更正为效应 NA、区间 NA。原始 runs 目录保留初版输出供追溯。这不是两种方法等效或 outlier 无效的证据，其余 bit/margin 设置也没有可比较的 test/OOD 配对子集。
 
 真实读出检查状态为 no_candidates，fresh_text_forwards=0、bits_checked=0、BER=null；不能将 bit_errors=0 解释为读出验证通过。
 

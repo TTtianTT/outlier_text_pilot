@@ -1,0 +1,100 @@
+{
+  "source_run": "runs/real_20260925/pilot",
+  "split": "dev",
+  "bits": 1,
+  "keep": 2,
+  "margins": [
+    0.0,
+    0.0001
+  ],
+  "config": {
+    "seed": 20260925,
+    "data": "data/carriers_en.jsonl",
+    "parents_per_split": null,
+    "model": {
+      "name": "Qwen/Qwen2.5-1.5B-Instruct",
+      "revision": "main",
+      "device": "cuda:0",
+      "dtype": "bfloat16",
+      "layer": -1,
+      "max_tokens": 128
+    },
+    "generation": {
+      "attempts": 32,
+      "temperature": 0.9,
+      "top_p": 0.95,
+      "max_new_tokens": 96
+    },
+    "quality": {
+      "semantic_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "semantic_revision": "main",
+      "nli_model": "cross-encoder/nli-deberta-v3-small",
+      "nli_revision": "main",
+      "entailment_id": 1,
+      "device": "cuda:0"
+    },
+    "filter": {
+      "min_cosine": 0.85,
+      "min_entailment": 0.8,
+      "min_tokens": 5,
+      "max_tokens": 80,
+      "max_edit_ratio": 0.7
+    },
+    "selection": {
+      "keep": 2,
+      "outlier_fraction": 0.25,
+      "ridge_alpha": 10.0,
+      "calipers": {
+        "sem_dist": 0.04,
+        "nll_mean": 0.35,
+        "n_tokens": 4,
+        "edit_ratio": 0.2,
+        "zipf_mean": 0.35,
+        "nli_min": 0.15
+      }
+    },
+    "evaluation": {
+      "bits": [
+        1
+      ],
+      "margins": [
+        0.0,
+        0.0001,
+        0.0005,
+        0.001
+      ],
+      "primary_bits": 1,
+      "primary_margin": 0.0001,
+      "key_seeds": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "bootstrap": 2000
+    }
+  },
+  "source_hashes": {
+    "manifest.json": "cf4389c7b1d7ce475262547b6c2ce2ec1444301109957e4d6bf25f4a8a2f5513",
+    "features.jsonl": "3bda3e020b7ce4287013d408d9191125e693620e15ff32987fbaeaddf350a9d6",
+    "vectors.npz": "77a2efd3c34a6915df02601d5eae576834dd2a8a0bdc041dbd0db80cf2209224",
+    "feature_signature.json": "4ff9113971edff690f41a9d9e4fd5a757b207f0acba84c36af43d5eb8b475d6e"
+  },
+  "warning": "Exploratory in-sample dev diagnosis; no confirmatory inference. Full pool has variable budget."
+}
