@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "test-product-011",
+    "group_id": "test-product-011",
+    "split": "test",
+    "domain": "product",
+    "text": "The lunch box contains two removable containers."
+  },
+  "attempts": [
+    {
+      "candidate_id": "test-product-011:000",
+      "parent_id": "test-product-011",
+      "attempt": 0,
+      "seed": 1316808956,
+      "text": "The lunchbox comprises two detachable receptacles.",
+      "raw": "The lunchbox comprises two detachable receptacles.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-011:001",
+      "parent_id": "test-product-011",
+      "attempt": 1,
+      "seed": 1939461223,
+      "text": "Two removable containers are contained within the lunch box.",
+      "raw": "Two removable containers are contained within the lunch box.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-011:002",
+      "parent_id": "test-product-011",
+      "attempt": 2,
+      "seed": 3965231914,
+      "text": "The lunch box consists of two detachable storage compartments.",
+      "raw": "The lunch box consists of two detachable storage compartments.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-011:003",
+      "parent_id": "test-product-011",
+      "attempt": 3,
+      "seed": 3152706710,
+      "text": "The lunch box includes two movable containers.",
+      "raw": "The lunch box includes two movable containers.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-011:004",
+      "parent_id": "test-product-011",
+      "attempt": 4,
+      "seed": 3526098337,
+      "text": "The lunch box includes two detachable containers.",
+      "raw": "The lunch box includes two detachable containers.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-011:005",
+      "parent_id": "test-product-011",
+      "attempt": 5,
+      "seed": 2912554494,
+      "text": "Two removable containers are contained in the lunch box.",
+      "raw": "Two removable containers are contained in the lunch box.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-011:006",
+      "parent_id": "test-product-011",
+      "attempt": 6,
+      "seed": 3137325055,
+      "text": "The lunch box includes two removable storage compartments.",
+      "raw": "The lunch box includes two removable storage compartments.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-011:007",
+      "parent_id": "test-product-011",
+      "attempt": 7,
+      "seed": 3477852040,
+      "text": "The lunch box includes two disengageable receptacles for storing food items.",
+      "raw": "The lunch box includes two disengageable receptacles for storing food items.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-011:008",
+      "parent_id": "test-product-011",
+      "attempt": 8,
+      "seed": 2801150220,
+      "text": "The lunch box includes two disassemblable receptacles.",
+      "raw": "The lunch box includes two disassemblable receptacles.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-011:009",
+      "parent_id": "test-product-011",
+      "attempt": 9,
+      "seed": 2396445059,
+      "text": "Two removable containers are contained in the lunch box.",
+      "raw": "Two removable containers are contained in the lunch box.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-011:010",
+      "parent_id": "test-product-011",
+      "attempt": 10,
+      "seed": 1912146913,
+      "text": "The lunch box accommodates two detachable containers.",
+      "raw": "The lunch box accommodates two detachable containers.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-011:011",
+      "parent_id": "test-product-011",
+      "attempt": 11,
+      "seed": 1415211631,
+      "text": "The lunch box has two removable containers inside.",
+      "raw": "The lunch box has two removable containers inside.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-011:012",
+      "parent_id": "test-product-011",
+      "attempt": 12,
+      "seed": 1169822851,
+      "text": "The lunch box accommodates two interchangeable receptacles.",
+      "raw": "The lunch box accommodates two interchangeable receptacles.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-011:013",
+      "parent_id": "test-product-011",
+      "attempt": 13,
+      "seed": 3652191181,
+      "text": "Two removable containers are contained in the lunch box.",
+      "raw": "Two removable containers are contained in the lunch box.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-011:014",
+      "parent_id": "test-product-011",
+      "attempt": 14,
+      "seed": 1966043729,
+      "text": "The lunch box includes two detachable containers.",
+      "raw": "The lunch box includes two detachable containers.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-011:015",
+      "parent_id": "test-product-011",
+      "attempt": 15,
+      "seed": 842298025,
+      "text": "The lunch box has two separate compartments.",
+      "raw": "The lunch box has two separate compartments.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-011:016",
+      "parent_id": "test-product-011",
+      "attempt": 16,
+      "seed": 3428099055,
+      "text": "The lunch container includes two transportable compartments.",
+      "raw": "The lunch container includes two transportable compartments.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-011:017",
+      "parent_id": "test-product-011",
+      "attempt": 17,
+      "seed": 143610552,
+      "text": "Two removable containers are contained in the lunch box.",
+      "raw": "Two removable containers are contained in the lunch box.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-011:018",
+      "parent_id": "test-product-011",
+      "attempt": 18,
+      "seed": 3024376180,
+      "text": "The lunchbox comprises of two detachable containers.",
+      "raw": "The lunchbox comprises of two detachable containers.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-011:019",
+      "parent_id": "test-product-011",
+      "attempt": 19,
+      "seed": 2701237047,
+      "text": "The lunch box holds two detachable compartments.",
+      "raw": "The lunch box holds two detachable compartments.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-011:020",
+      "parent_id": "test-product-011",
+      "attempt": 20,
+      "seed": 2355493659,
+      "text": "The lunch box features two detachable compartments.",
+      "raw": "The lunch box features two detachable compartments.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-011:021",
+      "parent_id": "test-product-011",
+      "attempt": 21,
+      "seed": 879692180,
+      "text": "Two removable containers are contained in the lunch box.",
+      "raw": "Two removable containers are contained in the lunch box.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-011:022",
+      "parent_id": "test-product-011",
+      "attempt": 22,
+      "seed": 1708097977,
+      "text": "The lunch box includes two detachable containers.",
+      "raw": "The lunch box includes two detachable containers.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-011:023",
+      "parent_id": "test-product-011",
+      "attempt": 23,
+      "seed": 558843066,
+      "text": "The lunch box includes two openable containers inside it.",
+      "raw": "The lunch box includes two openable containers inside it.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-011:024",
+      "parent_id": "test-product-011",
+      "attempt": 24,
+      "seed": 450089146,
+      "text": "The lunch box includes two detachable compartments.",
+      "raw": "The lunch box includes two detachable compartments.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-011:025",
+      "parent_id": "test-product-011",
+      "attempt": 25,
+      "seed": 2018757232,
+      "text": "Two removable containers are contained in the lunch box.",
+      "raw": "Two removable containers are contained in the lunch box.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-011:026",
+      "parent_id": "test-product-011",
+      "attempt": 26,
+      "seed": 3648584570,
+      "text": "The lunch box includes two detachable containers.",
+      "raw": "The lunch box includes two detachable containers.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-011:027",
+      "parent_id": "test-product-011",
+      "attempt": 27,
+      "seed": 3315893803,
+      "text": "The lunch box holds two collapsible containers.",
+      "raw": "The lunch box holds two collapsible containers.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-011:028",
+      "parent_id": "test-product-011",
+      "attempt": 28,
+      "seed": 3828502070,
+      "text": "The lunch container includes two detachable compartments.",
+      "raw": "The lunch container includes two detachable compartments.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-011:029",
+      "parent_id": "test-product-011",
+      "attempt": 29,
+      "seed": 1003185803,
+      "text": "Contains two removable containers in the lunch box.",
+      "raw": "Contains two removable containers in the lunch box.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-011:030",
+      "parent_id": "test-product-011",
+      "attempt": 30,
+      "seed": 400705874,
+      "text": "The lunch box holds two detachable containers.",
+      "raw": "The lunch box holds two detachable containers.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-011:031",
+      "parent_id": "test-product-011",
+      "attempt": 31,
+      "seed": 4031785228,
+      "text": "The lunch box includes two separate compartments.",
+      "raw": "The lunch box includes two separate compartments.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 341,
+  "generation_seconds": 6.167228078003973
+}

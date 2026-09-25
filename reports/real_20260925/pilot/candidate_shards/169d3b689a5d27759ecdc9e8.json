@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "ood-science-019",
+    "group_id": "ood-science-019",
+    "split": "ood",
+    "domain": "science",
+    "text": "In a series circuit the same current passes through each component."
+  },
+  "attempts": [
+    {
+      "candidate_id": "ood-science-019:000",
+      "parent_id": "ood-science-019",
+      "attempt": 0,
+      "seed": 3964273762,
+      "text": "In a series circuit, the identical current flows through every component.",
+      "raw": "In a series circuit, the identical current flows through every component.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-019:001",
+      "parent_id": "ood-science-019",
+      "attempt": 1,
+      "seed": 3862218587,
+      "text": "In a series circuit, the same current flows through every component.",
+      "raw": "In a series circuit, the same current flows through every component.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-019:002",
+      "parent_id": "ood-science-019",
+      "attempt": 2,
+      "seed": 3134203649,
+      "text": "In a series circuit, the identical current flows through every component.",
+      "raw": "In a series circuit, the identical current flows through every component.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-019:003",
+      "parent_id": "ood-science-019",
+      "attempt": 3,
+      "seed": 1637257079,
+      "text": "In a series circuit, the same current flows through every component.",
+      "raw": "In a series circuit, the same current flows through every component.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-019:004",
+      "parent_id": "ood-science-019",
+      "attempt": 4,
+      "seed": 1007427089,
+      "text": "In a series circuit, the identical current flows through every constituent element.",
+      "raw": "In a series circuit, the identical current flows through every constituent element.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-019:005",
+      "parent_id": "ood-science-019",
+      "attempt": 5,
+      "seed": 2058254865,
+      "text": "In a series circuit, the same current flows through every component.",
+      "raw": "In a series circuit, the same current flows through every component.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-019:006",
+      "parent_id": "ood-science-019",
+      "attempt": 6,
+      "seed": 1252296657,
+      "text": "In a series circuit, the identical current flows through every component simultaneously.",
+      "raw": "In a series circuit, the identical current flows through every component simultaneously.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-019:007",
+      "parent_id": "ood-science-019",
+      "attempt": 7,
+      "seed": 1891503636,
+      "text": "In a series circuit, the same current flows through every component.",
+      "raw": "In a series circuit, the same current flows through every component.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-019:008",
+      "parent_id": "ood-science-019",
+      "attempt": 8,
+      "seed": 2837340147,
+      "text": "In a circuit with components in series, the current flows uniformly through every part.",
+      "raw": "In a circuit with components in series, the current flows uniformly through every part.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-019:009",
+      "parent_id": "ood-science-019",
+      "attempt": 9,
+      "seed": 200285707,
+      "text": "In a series circuit, the same current flows through every component.",
+      "raw": "In a series circuit, the same current flows through every component.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-019:010",
+      "parent_id": "ood-science-019",
+      "attempt": 10,
+      "seed": 1072844953,
+      "text": "In an electrical circuit with components connected in series, the identical electric flow traverses every part.",
+      "raw": "In an electrical circuit with components connected in series, the identical electric flow traverses every part.",
+      "generated_tokens": 20,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-019:011",
+      "parent_id": "ood-science-019",
+      "attempt": 11,
+      "seed": 1330728677,
+      "text": "In a series circuit, the same current flows through every component.",
+      "raw": "In a series circuit, the same current flows through every component.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-019:012",
+      "parent_id": "ood-science-019",
+      "attempt": 12,
+      "seed": 4003606725,
+      "text": "In a series circuit, identical currents flow through every component.",
+      "raw": "In a series circuit, identical currents flow through every component.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-019:013",
+      "parent_id": "ood-science-019",
+      "attempt": 13,
+      "seed": 858750015,
+      "text": "In a series circuit, the same current flows through every component simultaneously.",
+      "raw": "In a series circuit, the same current flows through every component simultaneously.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-019:014",
+      "parent_id": "ood-science-019",
+      "attempt": 14,
+      "seed": 213174805,
+      "text": "In a series circuit, the same current flows through every component.",
+      "raw": "In a series circuit, the same current flows through every component.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-019:015",
+      "parent_id": "ood-science-019",
+      "attempt": 15,
+      "seed": 557576594,
+      "text": "In a series circuit, the same current flows through every component.",
+      "raw": "In a series circuit, the same current flows through every component.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-019:016",
+      "parent_id": "ood-science-019",
+      "attempt": 16,
+      "seed": 687920183,
+      "text": "In a series circuit, identical current flows through every component.",
+      "raw": "In a series circuit, identical current flows through every component.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-019:017",
+      "parent_id": "ood-science-019",
+      "attempt": 17,
+      "seed": 1956283473,
+      "text": "In a series circuit, the same current flows through every component.",
+      "raw": "In a series circuit, the same current flows through every component.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-019:018",
+      "parent_id": "ood-science-019",
+      "attempt": 18,
+      "seed": 2804095987,
+      "text": "In a series circuit, the identical current flows through every component.",
+      "raw": "In a series circuit, the identical current flows through every component.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-019:019",
+      "parent_id": "ood-science-019",
+      "attempt": 19,
+      "seed": 700171338,
+      "text": "In a series circuit, the identical current flows through every component.",
+      "raw": "In a series circuit, the identical current flows through every component.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-019:020",
+      "parent_id": "ood-science-019",
+      "attempt": 20,
+      "seed": 3089794554,
+      "text": "In an electric circuit with components connected in series, identical current flows throughout each part.",
+      "raw": "In an electric circuit with components connected in series, identical current flows throughout each part.",
+      "generated_tokens": 18,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-019:021",
+      "parent_id": "ood-science-019",
+      "attempt": 21,
+      "seed": 3075316266,
+      "text": "In a series circuit, the same current flows through every component.",
+      "raw": "In a series circuit, the same current flows through every component.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-019:022",
+      "parent_id": "ood-science-019",
+      "attempt": 22,
+      "seed": 778292970,
+      "text": "In an electric circuit where resistors are connected end-to-end in only one path, the same electrical current flows uniformly through every resistor.",
+      "raw": "In an electric circuit where resistors are connected end-to-end in only one path, the same electrical current flows uniformly through every resistor.",
+      "generated_tokens": 28,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-019:023",
+      "parent_id": "ood-science-019",
+      "attempt": 23,
+      "seed": 1908178971,
+      "text": "In a series circuit, the same current flows through every component.",
+      "raw": "In a series circuit, the same current flows through every component.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-019:024",
+      "parent_id": "ood-science-019",
+      "attempt": 24,
+      "seed": 322348963,
+      "text": "In a series circuit, the identical current flows through every component.",
+      "raw": "In a series circuit, the identical current flows through every component.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-019:025",
+      "parent_id": "ood-science-019",
+      "attempt": 25,
+      "seed": 1752526763,
+      "text": "In a series circuit, the same current flows through every component simultaneously.",
+      "raw": "In a series circuit, the same current flows through every component simultaneously.",
+      "generated_tokens": 15,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-019:026",
+      "parent_id": "ood-science-019",
+      "attempt": 26,
+      "seed": 814263462,
+      "text": "In a series circuit, the same current flows through every component.",
+      "raw": "In a series circuit, the same current flows through every component.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-019:027",
+      "parent_id": "ood-science-019",
+      "attempt": 27,
+      "seed": 1654063907,
+      "text": "In a series circuit, the identical current flows through every component.",
+      "raw": "In a series circuit, the identical current flows through every component.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-019:028",
+      "parent_id": "ood-science-019",
+      "attempt": 28,
+      "seed": 944506752,
+      "text": "In an electric circuit, identical current flows through every element.",
+      "raw": "In an electric circuit, identical current flows through every element.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-019:029",
+      "parent_id": "ood-science-019",
+      "attempt": 29,
+      "seed": 1284694152,
+      "text": "In a series circuit, the same current flows through every component.",
+      "raw": "In a series circuit, the same current flows through every component.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-019:030",
+      "parent_id": "ood-science-019",
+      "attempt": 30,
+      "seed": 3913307316,
+      "text": "In a series circuit, the identical current flows through every component.",
+      "raw": "In a series circuit, the identical current flows through every component.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-019:031",
+      "parent_id": "ood-science-019",
+      "attempt": 31,
+      "seed": 1845164295,
+      "text": "In an electrical circuit, all components receive the same current.",
+      "raw": "In an electrical circuit, all components receive the same current.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 475,
+  "generation_seconds": 8.449552506906912
+}

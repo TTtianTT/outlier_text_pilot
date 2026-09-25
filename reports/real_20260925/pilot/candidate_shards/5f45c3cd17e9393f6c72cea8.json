@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "test-product-006",
+    "group_id": "test-product-006",
+    "split": "test",
+    "domain": "product",
+    "text": "The cushion cover can be removed for washing."
+  },
+  "attempts": [
+    {
+      "candidate_id": "test-product-006:000",
+      "parent_id": "test-product-006",
+      "attempt": 0,
+      "seed": 2244402706,
+      "text": "The pillowcase may be disassembled for laundering.",
+      "raw": "The pillowcase may be disassembled for laundering.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-006:001",
+      "parent_id": "test-product-006",
+      "attempt": 1,
+      "seed": 470251245,
+      "text": "For washing, the cushion cover can be easily removed.",
+      "raw": "For washing, the cushion cover can be easily removed.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-006:002",
+      "parent_id": "test-product-006",
+      "attempt": 2,
+      "seed": 2063943286,
+      "text": "You may remove the cushion cover for cleaning.",
+      "raw": "You may remove the cushion cover for cleaning.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-006:003",
+      "parent_id": "test-product-006",
+      "attempt": 3,
+      "seed": 4044152396,
+      "text": "You may remove the cushion cover for washing it.",
+      "raw": "You may remove the cushion cover for washing it.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-006:004",
+      "parent_id": "test-product-006",
+      "attempt": 4,
+      "seed": 644007833,
+      "text": "The pillowcase may be detached for cleaning.",
+      "raw": "The pillowcase may be detached for cleaning.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-006:005",
+      "parent_id": "test-product-006",
+      "attempt": 5,
+      "seed": 2706466235,
+      "text": "Washing the cushion cover is possible by removing it.",
+      "raw": "Washing the cushion cover is possible by removing it.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-006:006",
+      "parent_id": "test-product-006",
+      "attempt": 6,
+      "seed": 1296072468,
+      "text": "You may take off the cushion cover to wash it.",
+      "raw": "You may take off the cushion cover to wash it.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-006:007",
+      "parent_id": "test-product-006",
+      "attempt": 7,
+      "seed": 1431937493,
+      "text": "You may wash the cushion cover by removing it first.",
+      "raw": "You may wash the cushion cover by removing it first.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-006:008",
+      "parent_id": "test-product-006",
+      "attempt": 8,
+      "seed": 2799165438,
+      "text": "The pillowcase may be taken off for cleaning.",
+      "raw": "The pillowcase may be taken off for cleaning.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-006:009",
+      "parent_id": "test-product-006",
+      "attempt": 9,
+      "seed": 2879654088,
+      "text": "For cleaning purposes, the cushion cover may be removed.",
+      "raw": "For cleaning purposes, the cushion cover may be removed.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-006:010",
+      "parent_id": "test-product-006",
+      "attempt": 10,
+      "seed": 432440382,
+      "text": "The cushion cover may be detached for cleaning purposes.",
+      "raw": "The cushion cover may be detached for cleaning purposes.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-006:011",
+      "parent_id": "test-product-006",
+      "attempt": 11,
+      "seed": 1998482327,
+      "text": "The cushion cover may be taken off for cleaning.",
+      "raw": "The cushion cover may be taken off for cleaning.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-006:012",
+      "parent_id": "test-product-006",
+      "attempt": 12,
+      "seed": 2883680529,
+      "text": "The cushion cover may be detached for cleaning.",
+      "raw": "The cushion cover may be detached for cleaning.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-006:013",
+      "parent_id": "test-product-006",
+      "attempt": 13,
+      "seed": 3327965708,
+      "text": "For washing, remove the cushion cover.",
+      "raw": "For washing, remove the cushion cover.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-006:014",
+      "parent_id": "test-product-006",
+      "attempt": 14,
+      "seed": 889498225,
+      "text": "You may detach the pillow case to wash it.",
+      "raw": "You may detach the pillow case to wash it.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-006:015",
+      "parent_id": "test-product-006",
+      "attempt": 15,
+      "seed": 647886623,
+      "text": "The cushion cover may be taken off for cleaning purposes.",
+      "raw": "The cushion cover may be taken off for cleaning purposes.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-006:016",
+      "parent_id": "test-product-006",
+      "attempt": 16,
+      "seed": 3586262817,
+      "text": "The upholstery cover may be detached for laundering.",
+      "raw": "The upholstery cover may be detached for laundering.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-006:017",
+      "parent_id": "test-product-006",
+      "attempt": 17,
+      "seed": 270084644,
+      "text": "For washing, the cushion cover can be removed.",
+      "raw": "For washing, the cushion cover can be removed.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-006:018",
+      "parent_id": "test-product-006",
+      "attempt": 18,
+      "seed": 1714007051,
+      "text": "You can easily remove the cushion cover for cleaning.",
+      "raw": "You can easily remove the cushion cover for cleaning.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-006:019",
+      "parent_id": "test-product-006",
+      "attempt": 19,
+      "seed": 1161492640,
+      "text": "You may take off the cushion cover to wash it.",
+      "raw": "You may take off the cushion cover to wash it.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-006:020",
+      "parent_id": "test-product-006",
+      "attempt": 20,
+      "seed": 487381455,
+      "text": "The pillowcase may be detached for cleaning.",
+      "raw": "The pillowcase may be detached for cleaning.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-006:021",
+      "parent_id": "test-product-006",
+      "attempt": 21,
+      "seed": 606378379,
+      "text": "For washing, remove the cushion cover.",
+      "raw": "For washing, remove the cushion cover.",
+      "generated_tokens": 9,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-006:022",
+      "parent_id": "test-product-006",
+      "attempt": 22,
+      "seed": 2848686121,
+      "text": "The cushion cover may be removed for washing.",
+      "raw": "The cushion cover may be removed for washing.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-006:023",
+      "parent_id": "test-product-006",
+      "attempt": 23,
+      "seed": 2163918776,
+      "text": "The cushion cover is removable for cleaning.",
+      "raw": "The cushion cover is removable for cleaning.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-006:024",
+      "parent_id": "test-product-006",
+      "attempt": 24,
+      "seed": 2145454257,
+      "text": "The cushion cover may be taken off for cleaning.",
+      "raw": "The cushion cover may be taken off for cleaning.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-006:025",
+      "parent_id": "test-product-006",
+      "attempt": 25,
+      "seed": 3483023531,
+      "text": "For washing, the cushion cover can be removed.",
+      "raw": "For washing, the cushion cover can be removed.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-006:026",
+      "parent_id": "test-product-006",
+      "attempt": 26,
+      "seed": 1178399850,
+      "text": "You may unscrew the cushion cover to wash it.",
+      "raw": "You may unscrew the cushion cover to wash it.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-006:027",
+      "parent_id": "test-product-006",
+      "attempt": 27,
+      "seed": 1538298490,
+      "text": "The cushion cover is removable for cleaning purposes.",
+      "raw": "The cushion cover is removable for cleaning purposes.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-006:028",
+      "parent_id": "test-product-006",
+      "attempt": 28,
+      "seed": 599292932,
+      "text": "The pillowcase is removable for cleaning.",
+      "raw": "The pillowcase is removable for cleaning.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-006:029",
+      "parent_id": "test-product-006",
+      "attempt": 29,
+      "seed": 2629204104,
+      "text": "For washing, you can remove the cushion cover.",
+      "raw": "For washing, you can remove the cushion cover.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-006:030",
+      "parent_id": "test-product-006",
+      "attempt": 30,
+      "seed": 2739884848,
+      "text": "The cushion cover may be taken off for cleaning.",
+      "raw": "The cushion cover may be taken off for cleaning.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-006:031",
+      "parent_id": "test-product-006",
+      "attempt": 31,
+      "seed": 1421891516,
+      "text": "The cushion cover can be easily detached for cleaning.",
+      "raw": "The cushion cover can be easily detached for cleaning.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 346,
+  "generation_seconds": 6.260140777099878
+}

@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "ood-science-001",
+    "group_id": "ood-science-001",
+    "split": "ood",
+    "domain": "science",
+    "text": "A shadow forms when an object blocks light from a source."
+  },
+  "attempts": [
+    {
+      "candidate_id": "ood-science-001:000",
+      "parent_id": "ood-science-001",
+      "attempt": 0,
+      "seed": 2817205573,
+      "text": "A silhouette emerges when an obstruction intercepts illumination from its origin.",
+      "raw": "A silhouette emerges when an obstruction intercepts illumination from its origin.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-001:001",
+      "parent_id": "ood-science-001",
+      "attempt": 1,
+      "seed": 2050155210,
+      "text": "When an object blocks light, a shadow appears.",
+      "raw": "When an object blocks light, a shadow appears.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-001:002",
+      "parent_id": "ood-science-001",
+      "attempt": 2,
+      "seed": 2401738139,
+      "text": "A silhouette appears when an object obscures light from its source.",
+      "raw": "A silhouette appears when an object obscures light from its source.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-001:003",
+      "parent_id": "ood-science-001",
+      "attempt": 3,
+      "seed": 2906703724,
+      "text": "A shade appears when something in front of light prevents it from reaching its origin.",
+      "raw": "A shade appears when something in front of light prevents it from reaching its origin.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-001:004",
+      "parent_id": "ood-science-001",
+      "attempt": 4,
+      "seed": 1799790155,
+      "text": "A silhouette emerges when an obstruction obstructs illumination.",
+      "raw": "A silhouette emerges when an obstruction obstructs illumination.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-001:005",
+      "parent_id": "ood-science-001",
+      "attempt": 5,
+      "seed": 3545670205,
+      "text": "When an object blocks light from a source, a shadow is formed.",
+      "raw": "When an object blocks light from a source, a shadow is formed.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-001:006",
+      "parent_id": "ood-science-001",
+      "attempt": 6,
+      "seed": 3888959538,
+      "text": "A silhouette appears when an object obscures light from a source.",
+      "raw": "A silhouette appears when an object obscures light from a source.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-001:007",
+      "parent_id": "ood-science-001",
+      "attempt": 7,
+      "seed": 1024088780,
+      "text": "A shade appears when something obstructs visible light emanating from its source.",
+      "raw": "A shade appears when something obstructs visible light emanating from its source.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-001:008",
+      "parent_id": "ood-science-001",
+      "attempt": 8,
+      "seed": 202896109,
+      "text": "A silhouette appears when something obstructs illumination.",
+      "raw": "A silhouette appears when something obstructs illumination.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-001:009",
+      "parent_id": "ood-science-001",
+      "attempt": 9,
+      "seed": 1975095971,
+      "text": "When an object blocks light from a source, a shadow is formed.",
+      "raw": "When an object blocks light from a source, a shadow is formed.",
+      "generated_tokens": 15,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-001:010",
+      "parent_id": "ood-science-001",
+      "attempt": 10,
+      "seed": 1637557312,
+      "text": "A shadow appears when something blocks light from shining onto it.",
+      "raw": "A shadow appears when something blocks light from shining onto it.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-001:011",
+      "parent_id": "ood-science-001",
+      "attempt": 11,
+      "seed": 2799307872,
+      "text": "A figure appears when something obstructs radiant energy.",
+      "raw": "A figure appears when something obstructs radiant energy.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-001:012",
+      "parent_id": "ood-science-001",
+      "attempt": 12,
+      "seed": 3403774198,
+      "text": "A silhouette appears when something obstructs light from an illuminant.",
+      "raw": "A silhouette appears when something obstructs light from an illuminant.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-001:013",
+      "parent_id": "ood-science-001",
+      "attempt": 13,
+      "seed": 953223780,
+      "text": "When an object blocks light from a source, a shadow is formed.",
+      "raw": "When an object blocks light from a source, a shadow is formed.",
+      "generated_tokens": 15,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-001:014",
+      "parent_id": "ood-science-001",
+      "attempt": 14,
+      "seed": 309944777,
+      "text": "A silhouette appears when something obstructs light emanating from a point of origin.",
+      "raw": "A silhouette appears when something obstructs light emanating from a point of origin.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-001:015",
+      "parent_id": "ood-science-001",
+      "attempt": 15,
+      "seed": 3805928584,
+      "text": "A shade appears when something obstructs light emanating from its origin.",
+      "raw": "A shade appears when something obstructs light emanating from its origin.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-001:016",
+      "parent_id": "ood-science-001",
+      "attempt": 16,
+      "seed": 3493096430,
+      "text": "A silhouette emerges when an obstruction conceals illumination from its origin.",
+      "raw": "A silhouette emerges when an obstruction conceals illumination from its origin.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-001:017",
+      "parent_id": "ood-science-001",
+      "attempt": 17,
+      "seed": 4056787757,
+      "text": "When an object blocks light from a source, a shadow forms.",
+      "raw": "When an object blocks light from a source, a shadow forms.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-001:018",
+      "parent_id": "ood-science-001",
+      "attempt": 18,
+      "seed": 3766388935,
+      "text": "When an object obstructs light from a source, a shadow emerges.",
+      "raw": "When an object obstructs light from a source, a shadow emerges.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-001:019",
+      "parent_id": "ood-science-001",
+      "attempt": 19,
+      "seed": 2824380280,
+      "text": "A shade appears when something obstructs light reaching its origin.",
+      "raw": "A shade appears when something obstructs light reaching its origin.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-001:020",
+      "parent_id": "ood-science-001",
+      "attempt": 20,
+      "seed": 2297042253,
+      "text": "A silhouette emerges when something obstructs illumination from its origin.",
+      "raw": "A silhouette emerges when something obstructs illumination from its origin.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-001:021",
+      "parent_id": "ood-science-001",
+      "attempt": 21,
+      "seed": 855248647,
+      "text": "When an object blocks light from a source, a shadow is formed.",
+      "raw": "When an object blocks light from a source, a shadow is formed.",
+      "generated_tokens": 15,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-001:022",
+      "parent_id": "ood-science-001",
+      "attempt": 22,
+      "seed": 2288445123,
+      "text": "A silhouette emerges when an obstruction obstructs illumination.",
+      "raw": "A silhouette emerges when an obstruction obstructs illumination.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-001:023",
+      "parent_id": "ood-science-001",
+      "attempt": 23,
+      "seed": 1964533388,
+      "text": "A shade develops whenever something obscures light coming from somewhere else.",
+      "raw": "A shade develops whenever something obscures light coming from somewhere else.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-001:024",
+      "parent_id": "ood-science-001",
+      "attempt": 24,
+      "seed": 2592075944,
+      "text": "A silhouette appears when an obstruction shields light from its origin.",
+      "raw": "A silhouette appears when an obstruction shields light from its origin.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-001:025",
+      "parent_id": "ood-science-001",
+      "attempt": 25,
+      "seed": 3041659158,
+      "text": "When an object obstructs light from a source, a shadow is created.",
+      "raw": "When an object obstructs light from a source, a shadow is created.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-001:026",
+      "parent_id": "ood-science-001",
+      "attempt": 26,
+      "seed": 1648479718,
+      "text": "A silhouette appears when something obstructs illumination from its origin.",
+      "raw": "A silhouette appears when something obstructs illumination from its origin.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-001:027",
+      "parent_id": "ood-science-001",
+      "attempt": 27,
+      "seed": 3435253311,
+      "text": "When an object obstructs light from a source, a shadow appears.",
+      "raw": "When an object obstructs light from a source, a shadow appears.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-001:028",
+      "parent_id": "ood-science-001",
+      "attempt": 28,
+      "seed": 802851328,
+      "text": "A silhouette appears when something obstructs the view of a light source.",
+      "raw": "A silhouette appears when something obstructs the view of a light source.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-001:029",
+      "parent_id": "ood-science-001",
+      "attempt": 29,
+      "seed": 3249954861,
+      "text": "When an object blocks light from a source, a shadow forms.",
+      "raw": "When an object blocks light from a source, a shadow forms.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-001:030",
+      "parent_id": "ood-science-001",
+      "attempt": 30,
+      "seed": 2183437443,
+      "text": "A silhouette appears when something obstructs light from its origin.",
+      "raw": "A silhouette appears when something obstructs light from its origin.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-001:031",
+      "parent_id": "ood-science-001",
+      "attempt": 31,
+      "seed": 2959303897,
+      "text": "A shadow appears when something obstructs light reaching its source.",
+      "raw": "A shadow appears when something obstructs light reaching its source.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 443,
+  "generation_seconds": 7.9442535899579525
+}

@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "test-daily-011",
+    "group_id": "test-daily-011",
+    "split": "test",
+    "domain": "daily",
+    "text": "I charged my phone while I was reading on the sofa."
+  },
+  "attempts": [
+    {
+      "candidate_id": "test-daily-011:000",
+      "parent_id": "test-daily-011",
+      "attempt": 0,
+      "seed": 3040827204,
+      "text": "I plugged in my phone as I read on the couch.",
+      "raw": "I plugged in my phone as I read on the couch.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-011:001",
+      "parent_id": "test-daily-011",
+      "attempt": 1,
+      "seed": 3341067485,
+      "text": "While reading on the sofa, I charged my phone.",
+      "raw": "While reading on the sofa, I charged my phone.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-011:002",
+      "parent_id": "test-daily-011",
+      "attempt": 2,
+      "seed": 1144675830,
+      "text": "I charged my phone while I read on the sofa.",
+      "raw": "I charged my phone while I read on the sofa.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-011:003",
+      "parent_id": "test-daily-011",
+      "attempt": 3,
+      "seed": 2457392342,
+      "text": "I used my phone charger while reading on the sofa.",
+      "raw": "I used my phone charger while reading on the sofa.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-011:004",
+      "parent_id": "test-daily-011",
+      "attempt": 4,
+      "seed": 528411780,
+      "text": "I charged my phone while I read on the couch.",
+      "raw": "I charged my phone while I read on the couch.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-011:005",
+      "parent_id": "test-daily-011",
+      "attempt": 5,
+      "seed": 3176127527,
+      "text": "While I was reading on the sofa, I charged my phone.",
+      "raw": "While I was reading on the sofa, I charged my phone.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-011:006",
+      "parent_id": "test-daily-011",
+      "attempt": 6,
+      "seed": 1372112899,
+      "text": "I powered up my phone as I read on the couch.",
+      "raw": "I powered up my phone as I read on the couch.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-011:007",
+      "parent_id": "test-daily-011",
+      "attempt": 7,
+      "seed": 3669541952,
+      "text": "I powered up my phone as I read on the couch.",
+      "raw": "I powered up my phone as I read on the couch.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-011:008",
+      "parent_id": "test-daily-011",
+      "attempt": 8,
+      "seed": 595655450,
+      "text": "I plugged in my phone as I read on the couch.",
+      "raw": "I plugged in my phone as I read on the couch.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-011:009",
+      "parent_id": "test-daily-011",
+      "attempt": 9,
+      "seed": 341528649,
+      "text": "While reading on the sofa, I charged my phone.",
+      "raw": "While reading on the sofa, I charged my phone.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-011:010",
+      "parent_id": "test-daily-011",
+      "attempt": 10,
+      "seed": 2405301134,
+      "text": "I charged my phone as I read on the couch.",
+      "raw": "I charged my phone as I read on the couch.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-011:011",
+      "parent_id": "test-daily-011",
+      "attempt": 11,
+      "seed": 3498146904,
+      "text": "I had my phone charged while I read on the sofa.",
+      "raw": "I had my phone charged while I read on the sofa.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-011:012",
+      "parent_id": "test-daily-011",
+      "attempt": 12,
+      "seed": 3733785262,
+      "text": "I charged my phone while reading on the couch.",
+      "raw": "I charged my phone while reading on the couch.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-011:013",
+      "parent_id": "test-daily-011",
+      "attempt": 13,
+      "seed": 2602835592,
+      "text": "While reading on the sofa, I charged my phone.",
+      "raw": "While reading on the sofa, I charged my phone.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-011:014",
+      "parent_id": "test-daily-011",
+      "attempt": 14,
+      "seed": 819273368,
+      "text": "I powered up my phone as I read on the couch.",
+      "raw": "I powered up my phone as I read on the couch.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-011:015",
+      "parent_id": "test-daily-011",
+      "attempt": 15,
+      "seed": 3156993953,
+      "text": "I charged my phone while sitting on the sofa to read.",
+      "raw": "I charged my phone while sitting on the sofa to read.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-011:016",
+      "parent_id": "test-daily-011",
+      "attempt": 16,
+      "seed": 562469986,
+      "text": "I charged my phone whilst I read on the couch.",
+      "raw": "I charged my phone whilst I read on the couch.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-011:017",
+      "parent_id": "test-daily-011",
+      "attempt": 17,
+      "seed": 2426658791,
+      "text": "While reading on the sofa, I charged my phone.",
+      "raw": "While reading on the sofa, I charged my phone.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-011:018",
+      "parent_id": "test-daily-011",
+      "attempt": 18,
+      "seed": 4228385745,
+      "text": "I charged my phone while I read on the sofa.",
+      "raw": "I charged my phone while I read on the sofa.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-011:019",
+      "parent_id": "test-daily-011",
+      "attempt": 19,
+      "seed": 741850680,
+      "text": "I powered up my device after sitting on the couch to browse.",
+      "raw": "I powered up my device after sitting on the couch to browse.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-011:020",
+      "parent_id": "test-daily-011",
+      "attempt": 20,
+      "seed": 1822738465,
+      "text": "I powered up my phone as I read on the couch.",
+      "raw": "I powered up my phone as I read on the couch.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-011:021",
+      "parent_id": "test-daily-011",
+      "attempt": 21,
+      "seed": 3988573744,
+      "text": "While I was reading on the sofa, I charged my phone.",
+      "raw": "While I was reading on the sofa, I charged my phone.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-011:022",
+      "parent_id": "test-daily-011",
+      "attempt": 22,
+      "seed": 3586639553,
+      "text": "I powered up my phone as I read on the couch.",
+      "raw": "I powered up my phone as I read on the couch.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-011:023",
+      "parent_id": "test-daily-011",
+      "attempt": 23,
+      "seed": 4227087192,
+      "text": "I plugged in my phone as I browsed during the afternoon rest.",
+      "raw": "I plugged in my phone as I browsed during the afternoon rest.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-011:024",
+      "parent_id": "test-daily-011",
+      "attempt": 24,
+      "seed": 3762566116,
+      "text": "I charged my phone as I read on the couch.",
+      "raw": "I charged my phone as I read on the couch.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-011:025",
+      "parent_id": "test-daily-011",
+      "attempt": 25,
+      "seed": 4263330108,
+      "text": "While I read on the sofa, I charged my phone.",
+      "raw": "While I read on the sofa, I charged my phone.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-011:026",
+      "parent_id": "test-daily-011",
+      "attempt": 26,
+      "seed": 515066178,
+      "text": "I charged my phone whilst I was reading on the sofa.",
+      "raw": "I charged my phone whilst I was reading on the sofa.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-011:027",
+      "parent_id": "test-daily-011",
+      "attempt": 27,
+      "seed": 3575376283,
+      "text": "I powered up my mobile device during my reading session on the couch.",
+      "raw": "I powered up my mobile device during my reading session on the couch.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-011:028",
+      "parent_id": "test-daily-011",
+      "attempt": 28,
+      "seed": 2749396203,
+      "text": "I plugged in my phone as I read on the couch.",
+      "raw": "I plugged in my phone as I read on the couch.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-011:029",
+      "parent_id": "test-daily-011",
+      "attempt": 29,
+      "seed": 6745924,
+      "text": "On the sofa, I read while charging my phone.",
+      "raw": "On the sofa, I read while charging my phone.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-011:030",
+      "parent_id": "test-daily-011",
+      "attempt": 30,
+      "seed": 1912236996,
+      "text": "I charged my phone while I was engrossed in reading on the sofa.",
+      "raw": "I charged my phone while I was engrossed in reading on the sofa.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-011:031",
+      "parent_id": "test-daily-011",
+      "attempt": 31,
+      "seed": 1460219016,
+      "text": "I charged my phone as I read on the sofa.",
+      "raw": "I charged my phone as I read on the sofa.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 412,
+  "generation_seconds": 7.250827155075967
+}

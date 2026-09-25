@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "dev-product-004",
+    "group_id": "dev-product-004",
+    "split": "dev",
+    "domain": "product",
+    "text": "The backpack has a separate compartment for a laptop."
+  },
+  "attempts": [
+    {
+      "candidate_id": "dev-product-004:000",
+      "parent_id": "dev-product-004",
+      "attempt": 0,
+      "seed": 2760905715,
+      "text": "The backpack features an independent pouch designated for holding a laptop.",
+      "raw": "The backpack features an independent pouch designated for holding a laptop.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-004:001",
+      "parent_id": "dev-product-004",
+      "attempt": 1,
+      "seed": 1380024744,
+      "text": "A compartment is separated from the main part of the backpack for housing a laptop.",
+      "raw": "A compartment is separated from the main part of the backpack for housing a laptop.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-004:002",
+      "parent_id": "dev-product-004",
+      "attempt": 2,
+      "seed": 608209567,
+      "text": "The backpack possesses an individual area designated for housing a laptop.",
+      "raw": "The backpack possesses an individual area designated for housing a laptop.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-004:003",
+      "parent_id": "dev-product-004",
+      "attempt": 3,
+      "seed": 1309231723,
+      "text": "The backpack includes an additional pocket for a laptop.",
+      "raw": "The backpack includes an additional pocket for a laptop.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-004:004",
+      "parent_id": "dev-product-004",
+      "attempt": 4,
+      "seed": 3638329346,
+      "text": "The bag features an individual section dedicated to a laptop.",
+      "raw": "The bag features an individual section dedicated to a laptop.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-004:005",
+      "parent_id": "dev-product-004",
+      "attempt": 5,
+      "seed": 1686072567,
+      "text": "A compartment is separately found in the backpack for storing a laptop.",
+      "raw": "A compartment is separately found in the backpack for storing a laptop.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-004:006",
+      "parent_id": "dev-product-004",
+      "attempt": 6,
+      "seed": 2348991907,
+      "text": "The backpack includes a distinct pocket for holding a laptop.",
+      "raw": "The backpack includes a distinct pocket for holding a laptop.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-004:007",
+      "parent_id": "dev-product-004",
+      "attempt": 7,
+      "seed": 704050953,
+      "text": "The backpack contains an additional pocket designed for a laptop.",
+      "raw": "The backpack contains an additional pocket designed for a laptop.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-004:008",
+      "parent_id": "dev-product-004",
+      "attempt": 8,
+      "seed": 1512813680,
+      "text": "The backpack contains an individual pouch dedicated to holding a laptop.",
+      "raw": "The backpack contains an individual pouch dedicated to holding a laptop.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-004:009",
+      "parent_id": "dev-product-004",
+      "attempt": 9,
+      "seed": 1044572559,
+      "text": "A separate compartment for a laptop is present in the backpack.",
+      "raw": "A separate compartment for a laptop is present in the backpack.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-004:010",
+      "parent_id": "dev-product-004",
+      "attempt": 10,
+      "seed": 655277780,
+      "text": "A separate compartment is included in the backpack for a laptop.",
+      "raw": "A separate compartment is included in the backpack for a laptop.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-004:011",
+      "parent_id": "dev-product-004",
+      "attempt": 11,
+      "seed": 1630873661,
+      "text": "There is an additional section inside the backpack designated for storing a laptop.",
+      "raw": "There is an additional section inside the backpack designated for storing a laptop.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-004:012",
+      "parent_id": "dev-product-004",
+      "attempt": 12,
+      "seed": 3929326890,
+      "text": "The backpack includes an additional pocket dedicated to holding a laptop.",
+      "raw": "The backpack includes an additional pocket dedicated to holding a laptop.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-004:013",
+      "parent_id": "dev-product-004",
+      "attempt": 13,
+      "seed": 1246302254,
+      "text": "A separate compartment is present in the backpack for holding a laptop.",
+      "raw": "A separate compartment is present in the backpack for holding a laptop.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-004:014",
+      "parent_id": "dev-product-004",
+      "attempt": 14,
+      "seed": 3304310800,
+      "text": "The backpack features an isolated pocket for holding a laptop.",
+      "raw": "The backpack features an isolated pocket for holding a laptop.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-004:015",
+      "parent_id": "dev-product-004",
+      "attempt": 15,
+      "seed": 3224047544,
+      "text": "The backpack features an individual pocket for holding a laptop.",
+      "raw": "The backpack features an individual pocket for holding a laptop.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-004:016",
+      "parent_id": "dev-product-004",
+      "attempt": 16,
+      "seed": 1023664735,
+      "text": "The backpack possesses an isolated area dedicated to holding a laptop.",
+      "raw": "The backpack possesses an isolated area dedicated to holding a laptop.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-004:017",
+      "parent_id": "dev-product-004",
+      "attempt": 17,
+      "seed": 1458916051,
+      "text": "A laptop compartment is found separately in the backpack.",
+      "raw": "A laptop compartment is found separately in the backpack.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-004:018",
+      "parent_id": "dev-product-004",
+      "attempt": 18,
+      "seed": 3658661800,
+      "text": "The backpack includes a dedicated area for storing a laptop.",
+      "raw": "The backpack includes a dedicated area for storing a laptop.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-004:019",
+      "parent_id": "dev-product-004",
+      "attempt": 19,
+      "seed": 1397438054,
+      "text": "The backpack includes a dedicated area for holding a laptop.",
+      "raw": "The backpack includes a dedicated area for holding a laptop.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-004:020",
+      "parent_id": "dev-product-004",
+      "attempt": 20,
+      "seed": 2994904356,
+      "text": "The bag possesses an individual section devoted to a computer.",
+      "raw": "The bag possesses an individual section devoted to a computer.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-004:021",
+      "parent_id": "dev-product-004",
+      "attempt": 21,
+      "seed": 2958508923,
+      "text": "A separate compartment is present in the backpack for housing a laptop.",
+      "raw": "A separate compartment is present in the backpack for housing a laptop.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-004:022",
+      "parent_id": "dev-product-004",
+      "attempt": 22,
+      "seed": 814347199,
+      "text": "The backpack features an individual space for a laptop.",
+      "raw": "The backpack features an individual space for a laptop.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-004:023",
+      "parent_id": "dev-product-004",
+      "attempt": 23,
+      "seed": 2517211020,
+      "text": "The backpack possesses an additional compartment designated for a laptop.",
+      "raw": "The backpack possesses an additional compartment designated for a laptop.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-004:024",
+      "parent_id": "dev-product-004",
+      "attempt": 24,
+      "seed": 2002347028,
+      "text": "The backpack possesses an individual section designated for a laptop.",
+      "raw": "The backpack possesses an individual section designated for a laptop.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-004:025",
+      "parent_id": "dev-product-004",
+      "attempt": 25,
+      "seed": 670649236,
+      "text": "A separate compartment for a laptop is found in the backpack.",
+      "raw": "A separate compartment for a laptop is found in the backpack.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-004:026",
+      "parent_id": "dev-product-004",
+      "attempt": 26,
+      "seed": 2298989944,
+      "text": "The backpack features an individual section designated for storage of a laptop.",
+      "raw": "The backpack features an individual section designated for storage of a laptop.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-004:027",
+      "parent_id": "dev-product-004",
+      "attempt": 27,
+      "seed": 3696763838,
+      "text": "The backpack includes an additional area designated for storing a laptop.",
+      "raw": "The backpack includes an additional area designated for storing a laptop.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-004:028",
+      "parent_id": "dev-product-004",
+      "attempt": 28,
+      "seed": 2060855231,
+      "text": "The backpack features an individual section designated for a laptop.",
+      "raw": "The backpack features an individual section designated for a laptop.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-004:029",
+      "parent_id": "dev-product-004",
+      "attempt": 29,
+      "seed": 2255739570,
+      "text": "A separate compartment is found within the backpack for holding a laptop.",
+      "raw": "A separate compartment is found within the backpack for holding a laptop.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-004:030",
+      "parent_id": "dev-product-004",
+      "attempt": 30,
+      "seed": 2111369514,
+      "text": "The backpack features an individual pocket dedicated to holding a laptop.",
+      "raw": "The backpack features an individual pocket dedicated to holding a laptop.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-004:031",
+      "parent_id": "dev-product-004",
+      "attempt": 31,
+      "seed": 1108061365,
+      "text": "The backpack contains an additional area for holding a laptop.",
+      "raw": "The backpack contains an additional area for holding a laptop.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 409,
+  "generation_seconds": 7.362373067997396
+}

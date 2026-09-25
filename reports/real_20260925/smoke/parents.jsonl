@@ -1,0 +1,12 @@
+{"domain":"product","group_id":"dev-product-007","id":"dev-product-007","split":"dev","text":"The chair height can be adjusted using the lever below the seat."}
+{"domain":"product","group_id":"dev-product-002","id":"dev-product-002","split":"dev","text":"The water bottle comes with a removable carrying strap."}
+{"domain":"product","group_id":"dev-product-003","id":"dev-product-003","split":"dev","text":"This keyboard connects to a computer using a USB cable."}
+{"domain":"daily","group_id":"dev-daily-009","id":"dev-daily-009","split":"dev","text":"I saved the document before shutting down the computer."}
+{"domain":"daily","group_id":"test-daily-006","id":"test-daily-006","split":"test","text":"We opened the windows to let some fresh air into the room."}
+{"domain":"product","group_id":"test-product-010","id":"test-product-010","split":"test","text":"This stapler can be refilled by opening the top section."}
+{"domain":"product","group_id":"test-product-011","id":"test-product-011","split":"test","text":"The lunch box contains two removable containers."}
+{"domain":"daily","group_id":"test-daily-008","id":"test-daily-008","split":"test","text":"I found an extra blanket in the cupboard upstairs."}
+{"domain":"science","group_id":"ood-science-006","id":"ood-science-006","split":"ood","text":"Friction can convert some mechanical energy into heat."}
+{"domain":"science","group_id":"ood-science-015","id":"ood-science-015","split":"ood","text":"Seeds need suitable conditions to begin growing into plants."}
+{"domain":"science","group_id":"ood-science-023","id":"ood-science-023","split":"ood","text":"The roots of a plant absorb water from the surrounding soil."}
+{"domain":"science","group_id":"ood-science-025","id":"ood-science-025","split":"ood","text":"A larger force causes a larger acceleration when mass is unchanged."}

@@ -1,0 +1,51 @@
+{
+  "backend": "hf",
+  "scope": "raw random payloads, fresh receiver features, no ECC, no retries; shared preprocessing excluded",
+  "note": "Always report recovery rate alongside net rate; pre-transmission aborts send zero tokens but consume compute.",
+  "results": [
+    {
+      "method": "outlier",
+      "messages_attempted": 20,
+      "messages_encoded": 0,
+      "messages_recovered": 0,
+      "message_recovery_rate": 0.0,
+      "total_transmitted_wire_tokens": null,
+      "net_recovered_bits_per_wire_token": null,
+      "net_recovered_bits_per_wire_bit": null,
+      "runtime_seconds": 1.962256888160482
+    },
+    {
+      "method": "matched",
+      "messages_attempted": 20,
+      "messages_encoded": 0,
+      "messages_recovered": 0,
+      "message_recovery_rate": 0.0,
+      "total_transmitted_wire_tokens": null,
+      "net_recovered_bits_per_wire_token": null,
+      "net_recovered_bits_per_wire_bit": null,
+      "runtime_seconds": 1.9638995383866131
+    },
+    {
+      "method": "random",
+      "messages_attempted": 20,
+      "messages_encoded": 0,
+      "messages_recovered": 0,
+      "message_recovery_rate": 0.0,
+      "total_transmitted_wire_tokens": null,
+      "net_recovered_bits_per_wire_token": null,
+      "net_recovered_bits_per_wire_bit": null,
+      "runtime_seconds": 1.9309931281022727
+    },
+    {
+      "method": "nearest",
+      "messages_attempted": 20,
+      "messages_encoded": 0,
+      "messages_recovered": 0,
+      "message_recovery_rate": 0.0,
+      "total_transmitted_wire_tokens": null,
+      "net_recovered_bits_per_wire_token": null,
+      "net_recovered_bits_per_wire_bit": null,
+      "runtime_seconds": 1.9530628942884505
+    }
+  ]
+}

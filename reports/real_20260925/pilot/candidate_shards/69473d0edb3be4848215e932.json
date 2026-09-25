@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "ood-science-008",
+    "group_id": "ood-science-008",
+    "split": "ood",
+    "domain": "science",
+    "text": "The Earth rotates about its axis as it moves around the Sun."
+  },
+  "attempts": [
+    {
+      "candidate_id": "ood-science-008:000",
+      "parent_id": "ood-science-008",
+      "attempt": 0,
+      "seed": 4236717379,
+      "text": "The Earth spins on its axis while orbiting the Sun.",
+      "raw": "The Earth spins on its axis while orbiting the Sun.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-008:001",
+      "parent_id": "ood-science-008",
+      "attempt": 1,
+      "seed": 57179018,
+      "text": "As the Earth orbits the Sun, it spins on its axis.",
+      "raw": "As the Earth orbits the Sun, it spins on its axis.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-008:002",
+      "parent_id": "ood-science-008",
+      "attempt": 2,
+      "seed": 1637464124,
+      "text": "The planet orbits around the sun while spinning on its axis.",
+      "raw": "The planet orbits around the sun while spinning on its axis.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-008:003",
+      "parent_id": "ood-science-008",
+      "attempt": 3,
+      "seed": 113101822,
+      "text": "The Earth spins on its axis while orbiting the Sun.",
+      "raw": "The Earth spins on its axis while orbiting the Sun.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-008:004",
+      "parent_id": "ood-science-008",
+      "attempt": 4,
+      "seed": 3438840206,
+      "text": "The Earth revolves around its axis while orbiting the Sun.",
+      "raw": "The Earth revolves around its axis while orbiting the Sun.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-008:005",
+      "parent_id": "ood-science-008",
+      "attempt": 5,
+      "seed": 1598907322,
+      "text": "As the Earth orbits the Sun, it spins on its axis.",
+      "raw": "As the Earth orbits the Sun, it spins on its axis.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-008:006",
+      "parent_id": "ood-science-008",
+      "attempt": 6,
+      "seed": 4085556121,
+      "text": "The Earth spins on its axis while orbiting the Sun.",
+      "raw": "The Earth spins on its axis while orbiting the Sun.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-008:007",
+      "parent_id": "ood-science-008",
+      "attempt": 7,
+      "seed": 3827249796,
+      "text": "The planet Earth spins on an imaginary line while orbiting the Sun.",
+      "raw": "The planet Earth spins on an imaginary line while orbiting the Sun.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-008:008",
+      "parent_id": "ood-science-008",
+      "attempt": 8,
+      "seed": 2324616260,
+      "text": "The Earth spins on its axis while orbiting the Sun.",
+      "raw": "The Earth spins on its axis while orbiting the Sun.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-008:009",
+      "parent_id": "ood-science-008",
+      "attempt": 9,
+      "seed": 3807308846,
+      "text": "As the Earth revolves around the Sun, it spins on its axis.",
+      "raw": "As the Earth revolves around the Sun, it spins on its axis.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-008:010",
+      "parent_id": "ood-science-008",
+      "attempt": 10,
+      "seed": 2085867489,
+      "text": "The Earth revolves around its axis while orbiting the Sun.",
+      "raw": "The Earth revolves around its axis while orbiting the Sun.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-008:011",
+      "parent_id": "ood-science-008",
+      "attempt": 11,
+      "seed": 2879055653,
+      "text": "The Earth spins on its axis while orbiting the Sun.",
+      "raw": "The Earth spins on its axis while orbiting the Sun.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-008:012",
+      "parent_id": "ood-science-008",
+      "attempt": 12,
+      "seed": 332443223,
+      "text": "The Earth revolves around its axis while orbiting the Sun.",
+      "raw": "The Earth revolves around its axis while orbiting the Sun.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-008:013",
+      "parent_id": "ood-science-008",
+      "attempt": 13,
+      "seed": 3611816284,
+      "text": "The Earth revolves around the Sun while spinning on its axis.",
+      "raw": "The Earth revolves around the Sun while spinning on its axis.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-008:014",
+      "parent_id": "ood-science-008",
+      "attempt": 14,
+      "seed": 1427489921,
+      "text": "The planet spins on its axis while orbiting the sun.",
+      "raw": "The planet spins on its axis while orbiting the sun.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-008:015",
+      "parent_id": "ood-science-008",
+      "attempt": 15,
+      "seed": 2196390110,
+      "text": "The Earth spins on its axis while orbiting the Sun.",
+      "raw": "The Earth spins on its axis while orbiting the Sun.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-008:016",
+      "parent_id": "ood-science-008",
+      "attempt": 16,
+      "seed": 647938171,
+      "text": "The planet rotates on its axis while orbiting the star.",
+      "raw": "The planet rotates on its axis while orbiting the star.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-008:017",
+      "parent_id": "ood-science-008",
+      "attempt": 17,
+      "seed": 4292448312,
+      "text": "As it revolves around the Sun, the Earth spins on its axis.",
+      "raw": "As it revolves around the Sun, the Earth spins on its axis.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-008:018",
+      "parent_id": "ood-science-008",
+      "attempt": 18,
+      "seed": 160905746,
+      "text": "The planet revolves around its axis while orbiting the Sun.",
+      "raw": "The planet revolves around its axis while orbiting the Sun.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-008:019",
+      "parent_id": "ood-science-008",
+      "attempt": 19,
+      "seed": 742482255,
+      "text": "The Earth spins on its axis while orbiting the Sun.",
+      "raw": "The Earth spins on its axis while orbiting the Sun.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-008:020",
+      "parent_id": "ood-science-008",
+      "attempt": 20,
+      "seed": 898839221,
+      "text": "The Earth orbits around its axis while moving towards the Sun.",
+      "raw": "The Earth orbits around its axis while moving towards the Sun.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-008:021",
+      "parent_id": "ood-science-008",
+      "attempt": 21,
+      "seed": 1321590119,
+      "text": "As the Earth moves around the Sun, it rotates on its axis.",
+      "raw": "As the Earth moves around the Sun, it rotates on its axis.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-008:022",
+      "parent_id": "ood-science-008",
+      "attempt": 22,
+      "seed": 2685086919,
+      "text": "The Earth revolves around its axis while orbiting the Sun.",
+      "raw": "The Earth revolves around its axis while orbiting the Sun.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-008:023",
+      "parent_id": "ood-science-008",
+      "attempt": 23,
+      "seed": 4259181542,
+      "text": "The planet spins on an axis while orbiting the star.",
+      "raw": "The planet spins on an axis while orbiting the star.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-008:024",
+      "parent_id": "ood-science-008",
+      "attempt": 24,
+      "seed": 4096433276,
+      "text": "The Earth spins on its axis while orbiting the Sun.",
+      "raw": "The Earth spins on its axis while orbiting the Sun.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-008:025",
+      "parent_id": "ood-science-008",
+      "attempt": 25,
+      "seed": 1392450260,
+      "text": "As the Earth revolves around the Sun, it spins on its axis.",
+      "raw": "As the Earth revolves around the Sun, it spins on its axis.",
+      "generated_tokens": 15,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-008:026",
+      "parent_id": "ood-science-008",
+      "attempt": 26,
+      "seed": 3644026831,
+      "text": "The Earth spins on its axis while orbiting the Sun.",
+      "raw": "The Earth spins on its axis while orbiting the Sun.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-008:027",
+      "parent_id": "ood-science-008",
+      "attempt": 27,
+      "seed": 1736606222,
+      "text": "The Earth spins on its axis while orbiting the Sun.",
+      "raw": "The Earth spins on its axis while orbiting the Sun.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-008:028",
+      "parent_id": "ood-science-008",
+      "attempt": 28,
+      "seed": 3330968497,
+      "text": "The planet revolves on its spin axis while orbiting the star.",
+      "raw": "The planet revolves on its spin axis while orbiting the star.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-008:029",
+      "parent_id": "ood-science-008",
+      "attempt": 29,
+      "seed": 793813911,
+      "text": "As the Earth orbits the Sun, it spins on its axis.",
+      "raw": "As the Earth orbits the Sun, it spins on its axis.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-008:030",
+      "parent_id": "ood-science-008",
+      "attempt": 30,
+      "seed": 169875265,
+      "text": "The Earth spins on its axis while orbiting the Sun.",
+      "raw": "The Earth spins on its axis while orbiting the Sun.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-008:031",
+      "parent_id": "ood-science-008",
+      "attempt": 31,
+      "seed": 74136733,
+      "text": "The Earth spins on its axis while orbiting the Sun.",
+      "raw": "The Earth spins on its axis while orbiting the Sun.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    }
+  ],
+  "generated_tokens": 430,
+  "generation_seconds": 7.531206316081807
+}

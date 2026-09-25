@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "ood-science-025",
+    "group_id": "ood-science-025",
+    "split": "ood",
+    "domain": "science",
+    "text": "A larger force causes a larger acceleration when mass is unchanged."
+  },
+  "attempts": [
+    {
+      "candidate_id": "ood-science-025:000",
+      "parent_id": "ood-science-025",
+      "attempt": 0,
+      "seed": 4066990187,
+      "text": "A greater force leads to a more significant acceleration if the mass remains constant.",
+      "raw": "A greater force leads to a more significant acceleration if the mass remains constant.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-025:001",
+      "parent_id": "ood-science-025",
+      "attempt": 1,
+      "seed": 3257923267,
+      "text": "When mass remains constant, a greater force leads to a more significant acceleration.",
+      "raw": "When mass remains constant, a greater force leads to a more significant acceleration.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-025:002",
+      "parent_id": "ood-science-025",
+      "attempt": 2,
+      "seed": 3422693292,
+      "text": "A greater force results in more acceleration if mass remains constant.",
+      "raw": "A greater force results in more acceleration if mass remains constant.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-025:003",
+      "parent_id": "ood-science-025",
+      "attempt": 3,
+      "seed": 3626697935,
+      "text": "A greater force results in more acceleration if constant mass is maintained.",
+      "raw": "A greater force results in more acceleration if constant mass is maintained.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-025:004",
+      "parent_id": "ood-science-025",
+      "attempt": 4,
+      "seed": 917874054,
+      "text": "A stronger force results in greater acceleration if mass remains constant.",
+      "raw": "A stronger force results in greater acceleration if mass remains constant.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-025:005",
+      "parent_id": "ood-science-025",
+      "attempt": 5,
+      "seed": 441864692,
+      "text": "When mass remains constant, an increased force results in greater acceleration.",
+      "raw": "When mass remains constant, an increased force results in greater acceleration.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-025:006",
+      "parent_id": "ood-science-025",
+      "attempt": 6,
+      "seed": 1424788208,
+      "text": "A stronger force leads to greater acceleration when the mass remains constant.",
+      "raw": "A stronger force leads to greater acceleration when the mass remains constant.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-025:007",
+      "parent_id": "ood-science-025",
+      "attempt": 7,
+      "seed": 3601750651,
+      "text": "A greater force results in more acceleration if mass stays constant.",
+      "raw": "A greater force results in more acceleration if mass stays constant.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-025:008",
+      "parent_id": "ood-science-025",
+      "attempt": 8,
+      "seed": 438445742,
+      "text": "A stronger push results in a greater speed change when the weight stays constant.",
+      "raw": "A stronger push results in a greater speed change when the weight stays constant.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-025:009",
+      "parent_id": "ood-science-025",
+      "attempt": 9,
+      "seed": 169802796,
+      "text": "When mass remains constant, a greater force results in a greater acceleration.",
+      "raw": "When mass remains constant, a greater force results in a greater acceleration.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-025:010",
+      "parent_id": "ood-science-025",
+      "attempt": 10,
+      "seed": 2078638763,
+      "text": "A stronger force results in greater acceleration when weight stays constant.",
+      "raw": "A stronger force results in greater acceleration when weight stays constant.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-025:011",
+      "parent_id": "ood-science-025",
+      "attempt": 11,
+      "seed": 437756208,
+      "text": "A greater force results in more acceleration if mass stays constant.",
+      "raw": "A greater force results in more acceleration if mass stays constant.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-025:012",
+      "parent_id": "ood-science-025",
+      "attempt": 12,
+      "seed": 4276863207,
+      "text": "A greater force results in a higher acceleration if mass remains constant.",
+      "raw": "A greater force results in a higher acceleration if mass remains constant.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-025:013",
+      "parent_id": "ood-science-025",
+      "attempt": 13,
+      "seed": 887166046,
+      "text": "Unchanged mass leads to greater acceleration with increased force.",
+      "raw": "Unchanged mass leads to greater acceleration with increased force.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-025:014",
+      "parent_id": "ood-science-025",
+      "attempt": 14,
+      "seed": 3327349851,
+      "text": "A greater force leads to a more significant acceleration if the mass stays constant.",
+      "raw": "A greater force leads to a more significant acceleration if the mass stays constant.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-025:015",
+      "parent_id": "ood-science-025",
+      "attempt": 15,
+      "seed": 1281492867,
+      "text": "A greater force results in more acceleration if the mass stays constant.",
+      "raw": "A greater force results in more acceleration if the mass stays constant.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-025:016",
+      "parent_id": "ood-science-025",
+      "attempt": 16,
+      "seed": 3294821988,
+      "text": "A greater force results in more acceleration if mass remains constant.",
+      "raw": "A greater force results in more acceleration if mass remains constant.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-025:017",
+      "parent_id": "ood-science-025",
+      "attempt": 17,
+      "seed": 742742382,
+      "text": "When mass remains constant, an increase in force leads to greater acceleration.",
+      "raw": "When mass remains constant, an increase in force leads to greater acceleration.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-025:018",
+      "parent_id": "ood-science-025",
+      "attempt": 18,
+      "seed": 2548233644,
+      "text": "A greater force leads to a more significant acceleration if the mass remains constant.",
+      "raw": "A greater force leads to a more significant acceleration if the mass remains constant.",
+      "generated_tokens": 16,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-025:019",
+      "parent_id": "ood-science-025",
+      "attempt": 19,
+      "seed": 2181787676,
+      "text": "A greater force results in more significant acceleration if weight remains constant.",
+      "raw": "A greater force results in more significant acceleration if weight remains constant.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-025:020",
+      "parent_id": "ood-science-025",
+      "attempt": 20,
+      "seed": 1725446665,
+      "text": "A greater force leads to a bigger acceleration if mass stays constant.",
+      "raw": "A greater force leads to a bigger acceleration if mass stays constant.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-025:021",
+      "parent_id": "ood-science-025",
+      "attempt": 21,
+      "seed": 3689617578,
+      "text": "When mass remains constant, an increased force leads to greater acceleration.",
+      "raw": "When mass remains constant, an increased force leads to greater acceleration.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-025:022",
+      "parent_id": "ood-science-025",
+      "attempt": 22,
+      "seed": 3652965903,
+      "text": "A greater force leads to increased acceleration provided mass remains constant.",
+      "raw": "A greater force leads to increased acceleration provided mass remains constant.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-025:023",
+      "parent_id": "ood-science-025",
+      "attempt": 23,
+      "seed": 134515216,
+      "text": "A greater force results in more acceleration when mass remains constant.",
+      "raw": "A greater force results in more acceleration when mass remains constant.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-025:024",
+      "parent_id": "ood-science-025",
+      "attempt": 24,
+      "seed": 1003674860,
+      "text": "A stronger force leads to greater acceleration if mass remains constant.",
+      "raw": "A stronger force leads to greater acceleration if mass remains constant.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-025:025",
+      "parent_id": "ood-science-025",
+      "attempt": 25,
+      "seed": 2094718779,
+      "text": "When mass remains constant, increasing the force results in greater acceleration.",
+      "raw": "When mass remains constant, increasing the force results in greater acceleration.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-025:026",
+      "parent_id": "ood-science-025",
+      "attempt": 26,
+      "seed": 644231927,
+      "text": "A greater force leads to more acceleration if the mass remains constant.",
+      "raw": "A greater force leads to more acceleration if the mass remains constant.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-025:027",
+      "parent_id": "ood-science-025",
+      "attempt": 27,
+      "seed": 4072468048,
+      "text": "A bigger push leads to more movement when weight stays the same.",
+      "raw": "A bigger push leads to more movement when weight stays the same.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-025:028",
+      "parent_id": "ood-science-025",
+      "attempt": 28,
+      "seed": 3531002354,
+      "text": "A greater force leads to more acceleration when the mass remains constant.",
+      "raw": "A greater force leads to more acceleration when the mass remains constant.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-025:029",
+      "parent_id": "ood-science-025",
+      "attempt": 29,
+      "seed": 2204985730,
+      "text": "When mass remains constant, a larger force leads to greater acceleration.",
+      "raw": "When mass remains constant, a larger force leads to greater acceleration.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-025:030",
+      "parent_id": "ood-science-025",
+      "attempt": 30,
+      "seed": 3357786300,
+      "text": "A greater force results in a higher acceleration when the mass remains constant.",
+      "raw": "A greater force results in a higher acceleration when the mass remains constant.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-025:031",
+      "parent_id": "ood-science-025",
+      "attempt": 31,
+      "seed": 3748267600,
+      "text": "A greater force results in a more substantial acceleration if the mass remains constant.",
+      "raw": "A greater force results in a more substantial acceleration if the mass remains constant.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 452,
+  "generation_seconds": 7.917013376019895
+}

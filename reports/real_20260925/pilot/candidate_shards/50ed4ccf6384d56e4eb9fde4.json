@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "ood-science-000",
+    "group_id": "ood-science-000",
+    "split": "ood",
+    "domain": "science",
+    "text": "Evaporation changes liquid water into water vapor."
+  },
+  "attempts": [
+    {
+      "candidate_id": "ood-science-000:000",
+      "parent_id": "ood-science-000",
+      "attempt": 0,
+      "seed": 4008369434,
+      "text": "Water changes from a liquid to vapor through evaporation.",
+      "raw": "Water changes from a liquid to vapor through evaporation.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-000:001",
+      "parent_id": "ood-science-000",
+      "attempt": 1,
+      "seed": 2835342880,
+      "text": "Liquid water transforms into water vapor through evaporation.",
+      "raw": "Liquid water transforms into water vapor through evaporation.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-000:002",
+      "parent_id": "ood-science-000",
+      "attempt": 2,
+      "seed": 2434956617,
+      "text": "Evaporation transforms liquid water into water vapor.",
+      "raw": "Evaporation transforms liquid water into water vapor.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-000:003",
+      "parent_id": "ood-science-000",
+      "attempt": 3,
+      "seed": 1120142183,
+      "text": "Evaporation transforms liquid water into water vapor.",
+      "raw": "Evaporation transforms liquid water into water vapor.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-000:004",
+      "parent_id": "ood-science-000",
+      "attempt": 4,
+      "seed": 587675599,
+      "text": "Water transforms from liquid to gaseous state during evaporation.",
+      "raw": "Water transforms from liquid to gaseous state during evaporation.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-000:005",
+      "parent_id": "ood-science-000",
+      "attempt": 5,
+      "seed": 3006738609,
+      "text": "Water turns to vapor when it evaporates.",
+      "raw": "Water turns to vapor when it evaporates.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-000:006",
+      "parent_id": "ood-science-000",
+      "attempt": 6,
+      "seed": 308457651,
+      "text": "Changes happen when liquid water turns into water vapor.",
+      "raw": "Changes happen when liquid water turns into water vapor.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-000:007",
+      "parent_id": "ood-science-000",
+      "attempt": 7,
+      "seed": 3462843094,
+      "text": "Evaporation turns liquid water into vapor.",
+      "raw": "Evaporation turns liquid water into vapor.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-000:008",
+      "parent_id": "ood-science-000",
+      "attempt": 8,
+      "seed": 3557878562,
+      "text": "Water transformation occurs by evaporation.",
+      "raw": "Water transformation occurs by evaporation.",
+      "generated_tokens": 8,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-000:009",
+      "parent_id": "ood-science-000",
+      "attempt": 9,
+      "seed": 1810595500,
+      "text": "Water vapor is produced when liquid water evaporates.",
+      "raw": "Water vapor is produced when liquid water evaporates.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-000:010",
+      "parent_id": "ood-science-000",
+      "attempt": 10,
+      "seed": 3874607311,
+      "text": "Water turns to steam when it evaporates.",
+      "raw": "Water turns to steam when it evaporates.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-000:011",
+      "parent_id": "ood-science-000",
+      "attempt": 11,
+      "seed": 2771546885,
+      "text": "Evaporating turns liquid water into water vapor.",
+      "raw": "Evaporating turns liquid water into water vapor.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-000:012",
+      "parent_id": "ood-science-000",
+      "attempt": 12,
+      "seed": 2692808572,
+      "text": "Evaporation transforms liquid water into water vapor.",
+      "raw": "Evaporation transforms liquid water into water vapor.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-000:013",
+      "parent_id": "ood-science-000",
+      "attempt": 13,
+      "seed": 3396446683,
+      "text": "Water vapor is formed by changing liquid water into vapor.",
+      "raw": "Water vapor is formed by changing liquid water into vapor.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-000:014",
+      "parent_id": "ood-science-000",
+      "attempt": 14,
+      "seed": 2146956781,
+      "text": "Evaporation transforms liquid water into water vapor.",
+      "raw": "Evaporation transforms liquid water into water vapor.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-000:015",
+      "parent_id": "ood-science-000",
+      "attempt": 15,
+      "seed": 2930210828,
+      "text": "Evaporation transforms liquid water into water vapor.",
+      "raw": "Evaporation transforms liquid water into water vapor.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-000:016",
+      "parent_id": "ood-science-000",
+      "attempt": 16,
+      "seed": 3677586008,
+      "text": "Evaporation transforms liquid water into water vapor.",
+      "raw": "Evaporation transforms liquid water into water vapor.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-000:017",
+      "parent_id": "ood-science-000",
+      "attempt": 17,
+      "seed": 3183528256,
+      "text": "Water turns to water vapor through evaporation.",
+      "raw": "Water turns to water vapor through evaporation.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-000:018",
+      "parent_id": "ood-science-000",
+      "attempt": 18,
+      "seed": 3699581136,
+      "text": "Changes from liquid water to water vapor happen through evaporation.",
+      "raw": "Changes from liquid water to water vapor happen through evaporation.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-000:019",
+      "parent_id": "ood-science-000",
+      "attempt": 19,
+      "seed": 2741839863,
+      "text": "Evaporating turns liquid water into water vapor.",
+      "raw": "Evaporating turns liquid water into water vapor.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-000:020",
+      "parent_id": "ood-science-000",
+      "attempt": 20,
+      "seed": 4017208714,
+      "text": "Evaporation transforms liquid water into water vapor.",
+      "raw": "Evaporation transforms liquid water into water vapor.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-000:021",
+      "parent_id": "ood-science-000",
+      "attempt": 21,
+      "seed": 3499686197,
+      "text": "Water vapor forms from liquids as evaporation occurs.",
+      "raw": "Water vapor forms from liquids as evaporation occurs.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-000:022",
+      "parent_id": "ood-science-000",
+      "attempt": 22,
+      "seed": 3267353460,
+      "text": "Water evaporates to become water vapor.",
+      "raw": "Water evaporates to become water vapor.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-000:023",
+      "parent_id": "ood-science-000",
+      "attempt": 23,
+      "seed": 3655678968,
+      "text": "Evaporation transforms liquid water into vapor.",
+      "raw": "Evaporation transforms liquid water into vapor.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-000:024",
+      "parent_id": "ood-science-000",
+      "attempt": 24,
+      "seed": 197236246,
+      "text": "Transpiration transforms liquid water to gaseous vapor.",
+      "raw": "Transpiration transforms liquid water to gaseous vapor.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-000:025",
+      "parent_id": "ood-science-000",
+      "attempt": 25,
+      "seed": 3493233014,
+      "text": "Water vapor is formed by changing liquid water into evaporation.",
+      "raw": "Water vapor is formed by changing liquid water into evaporation.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-000:026",
+      "parent_id": "ood-science-000",
+      "attempt": 26,
+      "seed": 2038217157,
+      "text": "Evaporation transforms liquid water into water vapor.",
+      "raw": "Evaporation transforms liquid water into water vapor.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-000:027",
+      "parent_id": "ood-science-000",
+      "attempt": 27,
+      "seed": 4057754510,
+      "text": "Water transforms from a liquid to vapor as it evaporates.",
+      "raw": "Water transforms from a liquid to vapor as it evaporates.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-000:028",
+      "parent_id": "ood-science-000",
+      "attempt": 28,
+      "seed": 3999360257,
+      "text": "Transpiration transforms liquid water into steam.",
+      "raw": "Transpiration transforms liquid water into steam.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-000:029",
+      "parent_id": "ood-science-000",
+      "attempt": 29,
+      "seed": 1477395678,
+      "text": "Liquid water transforms into water vapor through evaporation.",
+      "raw": "Liquid water transforms into water vapor through evaporation.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-000:030",
+      "parent_id": "ood-science-000",
+      "attempt": 30,
+      "seed": 3512475969,
+      "text": "Evaporation transforms liquid water into water vapor.",
+      "raw": "Evaporation transforms liquid water into water vapor.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-000:031",
+      "parent_id": "ood-science-000",
+      "attempt": 31,
+      "seed": 3782069974,
+      "text": "Evaporation turns liquid water into vapor.",
+      "raw": "Evaporation turns liquid water into vapor.",
+      "generated_tokens": 9,
+      "generation_status": "duplicate_or_identity"
+    }
+  ],
+  "generated_tokens": 339,
+  "generation_seconds": 5.971870657987893
+}

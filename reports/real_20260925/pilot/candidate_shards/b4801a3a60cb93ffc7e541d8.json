@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "dev-product-011",
+    "group_id": "dev-product-011",
+    "split": "dev",
+    "domain": "product",
+    "text": "The pen set contains four different ink colors."
+  },
+  "attempts": [
+    {
+      "candidate_id": "dev-product-011:000",
+      "parent_id": "dev-product-011",
+      "attempt": 0,
+      "seed": 2434950756,
+      "text": "The pen set includes four distinct ink shades.",
+      "raw": "The pen set includes four distinct ink shades.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-011:001",
+      "parent_id": "dev-product-011",
+      "attempt": 1,
+      "seed": 2974889528,
+      "text": "Contains four different ink colors in the pen set.",
+      "raw": "Contains four different ink colors in the pen set.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-011:002",
+      "parent_id": "dev-product-011",
+      "attempt": 2,
+      "seed": 1378229548,
+      "text": "The writing implement pack features diverse inks of four varieties.",
+      "raw": "The writing implement pack features diverse inks of four varieties.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-011:003",
+      "parent_id": "dev-product-011",
+      "attempt": 3,
+      "seed": 423181531,
+      "text": "The pen set includes four distinct ink hues.",
+      "raw": "The pen set includes four distinct ink hues.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-011:004",
+      "parent_id": "dev-product-011",
+      "attempt": 4,
+      "seed": 1768106901,
+      "text": "The pen set comprises four distinct ink shades.",
+      "raw": "The pen set comprises four distinct ink shades.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-011:005",
+      "parent_id": "dev-product-011",
+      "attempt": 5,
+      "seed": 2431573774,
+      "text": "Four different ink colors are contained in the pen set.",
+      "raw": "Four different ink colors are contained in the pen set.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-011:006",
+      "parent_id": "dev-product-011",
+      "attempt": 6,
+      "seed": 3372597040,
+      "text": "The pen set comprises four distinct ink hues.",
+      "raw": "The pen set comprises four distinct ink hues.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-011:007",
+      "parent_id": "dev-product-011",
+      "attempt": 7,
+      "seed": 4246030259,
+      "text": "The pen set comprises four distinct ink hues.",
+      "raw": "The pen set comprises four distinct ink hues.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-011:008",
+      "parent_id": "dev-product-011",
+      "attempt": 8,
+      "seed": 732906786,
+      "text": "The pen set comprises four distinct ink hues.",
+      "raw": "The pen set comprises four distinct ink hues.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-011:009",
+      "parent_id": "dev-product-011",
+      "attempt": 9,
+      "seed": 214424544,
+      "text": "Four different ink colors are included in the pen set.",
+      "raw": "Four different ink colors are included in the pen set.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-011:010",
+      "parent_id": "dev-product-011",
+      "attempt": 10,
+      "seed": 315199556,
+      "text": "The package includes four distinct inks.",
+      "raw": "The package includes four distinct inks.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-011:011",
+      "parent_id": "dev-product-011",
+      "attempt": 11,
+      "seed": 438014647,
+      "text": "The pen set includes four distinct ink varieties.",
+      "raw": "The pen set includes four distinct ink varieties.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-011:012",
+      "parent_id": "dev-product-011",
+      "attempt": 12,
+      "seed": 2700935325,
+      "text": "The pen set comprises four distinct ink hues.",
+      "raw": "The pen set comprises four distinct ink hues.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-011:013",
+      "parent_id": "dev-product-011",
+      "attempt": 13,
+      "seed": 3617099763,
+      "text": "Four different ink colors are contained in the pen set.",
+      "raw": "Four different ink colors are contained in the pen set.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-011:014",
+      "parent_id": "dev-product-011",
+      "attempt": 14,
+      "seed": 2469682072,
+      "text": "The pen set comprises four distinct ink hues.",
+      "raw": "The pen set comprises four distinct ink hues.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-011:015",
+      "parent_id": "dev-product-011",
+      "attempt": 15,
+      "seed": 4244875717,
+      "text": "The pen set has four different ink colors in it.",
+      "raw": "The pen set has four different ink colors in it.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-011:016",
+      "parent_id": "dev-product-011",
+      "attempt": 16,
+      "seed": 240169625,
+      "text": "The pen set comprises four distinct ink hues.",
+      "raw": "The pen set comprises four distinct ink hues.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-011:017",
+      "parent_id": "dev-product-011",
+      "attempt": 17,
+      "seed": 436667551,
+      "text": "Contains four different ink colors in the pen set.",
+      "raw": "Contains four different ink colors in the pen set.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-011:018",
+      "parent_id": "dev-product-011",
+      "attempt": 18,
+      "seed": 650411090,
+      "text": "The set includes four distinct ink colors.",
+      "raw": "The set includes four distinct ink colors.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-011:019",
+      "parent_id": "dev-product-011",
+      "attempt": 19,
+      "seed": 3777612476,
+      "text": "The pen set includes four distinct ink choices.",
+      "raw": "The pen set includes four distinct ink choices.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-011:020",
+      "parent_id": "dev-product-011",
+      "attempt": 20,
+      "seed": 2145131869,
+      "text": "The pen set comprises four distinct ink hues.",
+      "raw": "The pen set comprises four distinct ink hues.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-011:021",
+      "parent_id": "dev-product-011",
+      "attempt": 21,
+      "seed": 3524677132,
+      "text": "The pen set includes four distinct ink colors.",
+      "raw": "The pen set includes four distinct ink colors.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-011:022",
+      "parent_id": "dev-product-011",
+      "attempt": 22,
+      "seed": 809841317,
+      "text": "The pen set comprises four unique ink hues.",
+      "raw": "The pen set comprises four unique ink hues.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-011:023",
+      "parent_id": "dev-product-011",
+      "attempt": 23,
+      "seed": 1216001199,
+      "text": "The package includes four distinct ink options.",
+      "raw": "The package includes four distinct ink options.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-011:024",
+      "parent_id": "dev-product-011",
+      "attempt": 24,
+      "seed": 1807812651,
+      "text": "The pen set comprises four distinct ink shades.",
+      "raw": "The pen set comprises four distinct ink shades.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-011:025",
+      "parent_id": "dev-product-011",
+      "attempt": 25,
+      "seed": 113401257,
+      "text": "Four different ink colors are contained in the pen set.",
+      "raw": "Four different ink colors are contained in the pen set.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-011:026",
+      "parent_id": "dev-product-011",
+      "attempt": 26,
+      "seed": 2189734053,
+      "text": "The collection includes various ink shades.",
+      "raw": "The collection includes various ink shades.",
+      "generated_tokens": 8,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-011:027",
+      "parent_id": "dev-product-011",
+      "attempt": 27,
+      "seed": 1269973811,
+      "text": "The pen set comprises four distinct ink shades.",
+      "raw": "The pen set comprises four distinct ink shades.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-011:028",
+      "parent_id": "dev-product-011",
+      "attempt": 28,
+      "seed": 271386205,
+      "text": "The pen set comprises four distinct ink hues.",
+      "raw": "The pen set comprises four distinct ink hues.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-011:029",
+      "parent_id": "dev-product-011",
+      "attempt": 29,
+      "seed": 3050572785,
+      "text": "Four different ink colors are contained in the pen set.",
+      "raw": "Four different ink colors are contained in the pen set.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-011:030",
+      "parent_id": "dev-product-011",
+      "attempt": 30,
+      "seed": 1854204445,
+      "text": "The pen set features four various ink hues.",
+      "raw": "The pen set features four various ink hues.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-011:031",
+      "parent_id": "dev-product-011",
+      "attempt": 31,
+      "seed": 3302987364,
+      "text": "The pen set includes four distinct ink colors.",
+      "raw": "The pen set includes four distinct ink colors.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    }
+  ],
+  "generated_tokens": 332,
+  "generation_seconds": 5.819649168057367
+}

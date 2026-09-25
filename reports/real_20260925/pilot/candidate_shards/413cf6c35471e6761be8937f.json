@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "test-product-002",
+    "group_id": "test-product-002",
+    "split": "test",
+    "domain": "product",
+    "text": "The cooking pot has measurement marks on the inside."
+  },
+  "attempts": [
+    {
+      "candidate_id": "test-product-002:000",
+      "parent_id": "test-product-002",
+      "attempt": 0,
+      "seed": 2557643343,
+      "text": "The cookware includes markings within.",
+      "raw": "The cookware includes markings within.",
+      "generated_tokens": 8,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-002:001",
+      "parent_id": "test-product-002",
+      "attempt": 1,
+      "seed": 2567204100,
+      "text": "Measurement marks are present on the inside of the cooking pot.",
+      "raw": "Measurement marks are present on the inside of the cooking pot.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-002:002",
+      "parent_id": "test-product-002",
+      "attempt": 2,
+      "seed": 1240348305,
+      "text": "The measuring cups feature markings within the pot.",
+      "raw": "The measuring cups feature markings within the pot.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-002:003",
+      "parent_id": "test-product-002",
+      "attempt": 3,
+      "seed": 790755035,
+      "text": "The cooking pot features markings for measurements on its interior surface.",
+      "raw": "The cooking pot features markings for measurements on its interior surface.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-002:004",
+      "parent_id": "test-product-002",
+      "attempt": 4,
+      "seed": 3299200437,
+      "text": "The cooking pot bears markings within it.",
+      "raw": "The cooking pot bears markings within it.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-002:005",
+      "parent_id": "test-product-002",
+      "attempt": 5,
+      "seed": 3460457871,
+      "text": "Measurement marks are found on the inside of the cooking pot.",
+      "raw": "Measurement marks are found on the inside of the cooking pot.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-002:006",
+      "parent_id": "test-product-002",
+      "attempt": 6,
+      "seed": 559485923,
+      "text": "There are measurements written on the inside of the cooking pot.",
+      "raw": "There are measurements written on the inside of the cooking pot.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-002:007",
+      "parent_id": "test-product-002",
+      "attempt": 7,
+      "seed": 3620488175,
+      "text": "The cooking pot features markings for measuring inside.",
+      "raw": "The cooking pot features markings for measuring inside.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-002:008",
+      "parent_id": "test-product-002",
+      "attempt": 8,
+      "seed": 178752497,
+      "text": "The cooking pot bears markings within it.",
+      "raw": "The cooking pot bears markings within it.",
+      "generated_tokens": 9,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-002:009",
+      "parent_id": "test-product-002",
+      "attempt": 9,
+      "seed": 2096272964,
+      "text": "Measurement marks are found on the inside of the cooking pot.",
+      "raw": "Measurement marks are found on the inside of the cooking pot.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-002:010",
+      "parent_id": "test-product-002",
+      "attempt": 10,
+      "seed": 327355839,
+      "text": "The cooking pot features measurements marked within.",
+      "raw": "The cooking pot features measurements marked within.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-002:011",
+      "parent_id": "test-product-002",
+      "attempt": 11,
+      "seed": 2762571735,
+      "text": "The cooking pot features measurements inscribed on its interior surface.",
+      "raw": "The cooking pot features measurements inscribed on its interior surface.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-002:012",
+      "parent_id": "test-product-002",
+      "attempt": 12,
+      "seed": 888908776,
+      "text": "The cookware includes size indicators on its interior surface.",
+      "raw": "The cookware includes size indicators on its interior surface.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-002:013",
+      "parent_id": "test-product-002",
+      "attempt": 13,
+      "seed": 3423056850,
+      "text": "There are measurement marks on the inside of the cooking pot.",
+      "raw": "There are measurement marks on the inside of the cooking pot.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-002:014",
+      "parent_id": "test-product-002",
+      "attempt": 14,
+      "seed": 154204782,
+      "text": "The cooking pot features markings inside for measuring purposes.",
+      "raw": "The cooking pot features markings inside for measuring purposes.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-002:015",
+      "parent_id": "test-product-002",
+      "attempt": 15,
+      "seed": 2345843017,
+      "text": "The cooking pot contains measurements along its interior surface.",
+      "raw": "The cooking pot contains measurements along its interior surface.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-002:016",
+      "parent_id": "test-product-002",
+      "attempt": 16,
+      "seed": 2834995766,
+      "text": "The cooking pot contains measurements marked within it.",
+      "raw": "The cooking pot contains measurements marked within it.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-002:017",
+      "parent_id": "test-product-002",
+      "attempt": 17,
+      "seed": 1818447143,
+      "text": "Measurement marks are present on the inside of the cooking pot.",
+      "raw": "Measurement marks are present on the inside of the cooking pot.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-002:018",
+      "parent_id": "test-product-002",
+      "attempt": 18,
+      "seed": 3408021636,
+      "text": "The cooking pot features markings for measuring contents on its interior surface.",
+      "raw": "The cooking pot features markings for measuring contents on its interior surface.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-002:019",
+      "parent_id": "test-product-002",
+      "attempt": 19,
+      "seed": 883330781,
+      "text": "The cooking pot features measurement lines within it.",
+      "raw": "The cooking pot features measurement lines within it.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-002:020",
+      "parent_id": "test-product-002",
+      "attempt": 20,
+      "seed": 1659451836,
+      "text": "The cooking pot bears markings within its interior surface.",
+      "raw": "The cooking pot bears markings within its interior surface.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-002:021",
+      "parent_id": "test-product-002",
+      "attempt": 21,
+      "seed": 403285068,
+      "text": "There are measurement marks on the inside of the cooking pot.",
+      "raw": "There are measurement marks on the inside of the cooking pot.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-002:022",
+      "parent_id": "test-product-002",
+      "attempt": 22,
+      "seed": 2174178933,
+      "text": "The cooking pot features markings inside for measuring purposes.",
+      "raw": "The cooking pot features markings inside for measuring purposes.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-002:023",
+      "parent_id": "test-product-002",
+      "attempt": 23,
+      "seed": 884536468,
+      "text": "The pot features markings for measuring capacity inside it.",
+      "raw": "The pot features markings for measuring capacity inside it.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-002:024",
+      "parent_id": "test-product-002",
+      "attempt": 24,
+      "seed": 3637082226,
+      "text": "The cooking pot features internal markings for measuring purposes.",
+      "raw": "The cooking pot features internal markings for measuring purposes.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-002:025",
+      "parent_id": "test-product-002",
+      "attempt": 25,
+      "seed": 691118039,
+      "text": "Measurement marks are on the inside of the cooking pot.",
+      "raw": "Measurement marks are on the inside of the cooking pot.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-002:026",
+      "parent_id": "test-product-002",
+      "attempt": 26,
+      "seed": 2450058030,
+      "text": "The cooking pot includes measurements marked on its interior surface.",
+      "raw": "The cooking pot includes measurements marked on its interior surface.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-002:027",
+      "parent_id": "test-product-002",
+      "attempt": 27,
+      "seed": 2518815249,
+      "text": "The cooking pot includes markings for measurements inside it.",
+      "raw": "The cooking pot includes markings for measurements inside it.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-002:028",
+      "parent_id": "test-product-002",
+      "attempt": 28,
+      "seed": 2628843814,
+      "text": "The measuring cup features markings inside.",
+      "raw": "The measuring cup features markings inside.",
+      "generated_tokens": 8,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-002:029",
+      "parent_id": "test-product-002",
+      "attempt": 29,
+      "seed": 2796226691,
+      "text": "On the inside of the cooking pot, there are measurement marks present.",
+      "raw": "On the inside of the cooking pot, there are measurement marks present.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-002:030",
+      "parent_id": "test-product-002",
+      "attempt": 30,
+      "seed": 481561231,
+      "text": "The cooking pot features measurements marked on its interior surface.",
+      "raw": "The cooking pot features measurements marked on its interior surface.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-002:031",
+      "parent_id": "test-product-002",
+      "attempt": 31,
+      "seed": 2453534060,
+      "text": "The pot features markings for measuring contents.",
+      "raw": "The pot features markings for measuring contents.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 363,
+  "generation_seconds": 6.532305607106537
+}

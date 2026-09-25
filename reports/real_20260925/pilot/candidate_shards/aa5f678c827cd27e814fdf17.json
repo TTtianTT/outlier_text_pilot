@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "dev-daily-010",
+    "group_id": "dev-daily-010",
+    "split": "dev",
+    "domain": "daily",
+    "text": "The neighbors watered our plants while we were away."
+  },
+  "attempts": [
+    {
+      "candidate_id": "dev-daily-010:000",
+      "parent_id": "dev-daily-010",
+      "attempt": 0,
+      "seed": 167739142,
+      "text": "Our neighbors watered our plants when we were not there.",
+      "raw": "Our neighbors watered our plants when we were not there.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-010:001",
+      "parent_id": "dev-daily-010",
+      "attempt": 1,
+      "seed": 146851304,
+      "text": "While we were away, the neighbors watered our plants.",
+      "raw": "While we were away, the neighbors watered our plants.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-010:002",
+      "parent_id": "dev-daily-010",
+      "attempt": 2,
+      "seed": 413997296,
+      "text": "Our plants received watering by the neighbors when we weren't home.",
+      "raw": "Our plants received watering by the neighbors when we weren't home.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-010:003",
+      "parent_id": "dev-daily-010",
+      "attempt": 3,
+      "seed": 2401147163,
+      "text": "The neighbors watered our plants while we were gone.",
+      "raw": "The neighbors watered our plants while we were gone.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-010:004",
+      "parent_id": "dev-daily-010",
+      "attempt": 4,
+      "seed": 4195267350,
+      "text": "Our neighbors watered our plants when we were absent.",
+      "raw": "Our neighbors watered our plants when we were absent.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-010:005",
+      "parent_id": "dev-daily-010",
+      "attempt": 5,
+      "seed": 2634913821,
+      "text": "While we were away, the neighbors watered our plants.",
+      "raw": "While we were away, the neighbors watered our plants.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-010:006",
+      "parent_id": "dev-daily-010",
+      "attempt": 6,
+      "seed": 18644987,
+      "text": "Our neighbors watered our plants when we were out of town.",
+      "raw": "Our neighbors watered our plants when we were out of town.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-010:007",
+      "parent_id": "dev-daily-010",
+      "attempt": 7,
+      "seed": 2390940625,
+      "text": "Our plants were watered by the neighbors when we were not home.",
+      "raw": "Our plants were watered by the neighbors when we were not home.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-010:008",
+      "parent_id": "dev-daily-010",
+      "attempt": 8,
+      "seed": 3063002470,
+      "text": "The neighbors tended to our plants during our absence.",
+      "raw": "The neighbors tended to our plants during our absence.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-010:009",
+      "parent_id": "dev-daily-010",
+      "attempt": 9,
+      "seed": 2387114087,
+      "text": "While we were away, the neighbors watered our plants.",
+      "raw": "While we were away, the neighbors watered our plants.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-010:010",
+      "parent_id": "dev-daily-010",
+      "attempt": 10,
+      "seed": 2369793601,
+      "text": "The neighborhood misted our vegetation when we weren't present.",
+      "raw": "The neighborhood misted our vegetation when we weren't present.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-010:011",
+      "parent_id": "dev-daily-010",
+      "attempt": 11,
+      "seed": 701401391,
+      "text": "Our plants received water during our absence.",
+      "raw": "Our plants received water during our absence.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-010:012",
+      "parent_id": "dev-daily-010",
+      "attempt": 12,
+      "seed": 1551223234,
+      "text": "The neighbors watered our plants when we weren't home.",
+      "raw": "The neighbors watered our plants when we weren't home.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-010:013",
+      "parent_id": "dev-daily-010",
+      "attempt": 13,
+      "seed": 3203397257,
+      "text": "While we were away, our plants were watered by the neighbors.",
+      "raw": "While we were away, our plants were watered by the neighbors.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-010:014",
+      "parent_id": "dev-daily-010",
+      "attempt": 14,
+      "seed": 1835995838,
+      "text": "Our plants were watered by the neighbors while we were absent.",
+      "raw": "Our plants were watered by the neighbors while we were absent.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-010:015",
+      "parent_id": "dev-daily-010",
+      "attempt": 15,
+      "seed": 2326536072,
+      "text": "The neighbors watered our plants while we were absent.",
+      "raw": "The neighbors watered our plants while we were absent.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-010:016",
+      "parent_id": "dev-daily-010",
+      "attempt": 16,
+      "seed": 4105380092,
+      "text": "The neighbors watered our plants when we were gone.",
+      "raw": "The neighbors watered our plants when we were gone.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-010:017",
+      "parent_id": "dev-daily-010",
+      "attempt": 17,
+      "seed": 756231540,
+      "text": "While we were away, our plants were watered by the neighbors.",
+      "raw": "While we were away, our plants were watered by the neighbors.",
+      "generated_tokens": 15,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-010:018",
+      "parent_id": "dev-daily-010",
+      "attempt": 18,
+      "seed": 2737940018,
+      "text": "Our neighbors watered our plants while we were away.",
+      "raw": "Our neighbors watered our plants while we were away.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-010:019",
+      "parent_id": "dev-daily-010",
+      "attempt": 19,
+      "seed": 2000052455,
+      "text": "Our plants were watered by the neighbors when we were not home.",
+      "raw": "Our plants were watered by the neighbors when we were not home.",
+      "generated_tokens": 15,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-010:020",
+      "parent_id": "dev-daily-010",
+      "attempt": 20,
+      "seed": 1795643046,
+      "text": "The neighbors watered our plants when we were absent.",
+      "raw": "The neighbors watered our plants when we were absent.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-010:021",
+      "parent_id": "dev-daily-010",
+      "attempt": 21,
+      "seed": 580739079,
+      "text": "While we were away, the neighbors watered our plants.",
+      "raw": "While we were away, the neighbors watered our plants.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-010:022",
+      "parent_id": "dev-daily-010",
+      "attempt": 22,
+      "seed": 930134181,
+      "text": "Our neighbors watered our plants when we were absent.",
+      "raw": "Our neighbors watered our plants when we were absent.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-010:023",
+      "parent_id": "dev-daily-010",
+      "attempt": 23,
+      "seed": 1308011040,
+      "text": "The neighbors watered our plants during our absence.",
+      "raw": "The neighbors watered our plants during our absence.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-010:024",
+      "parent_id": "dev-daily-010",
+      "attempt": 24,
+      "seed": 136312765,
+      "text": "The neighbors tended to our plants when we were absent.",
+      "raw": "The neighbors tended to our plants when we were absent.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-010:025",
+      "parent_id": "dev-daily-010",
+      "attempt": 25,
+      "seed": 2878742835,
+      "text": "While we were away, the neighbors watered our plants.",
+      "raw": "While we were away, the neighbors watered our plants.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-010:026",
+      "parent_id": "dev-daily-010",
+      "attempt": 26,
+      "seed": 3473942528,
+      "text": "Our plants received watering by the neighbors while we were absent.",
+      "raw": "Our plants received watering by the neighbors while we were absent.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-010:027",
+      "parent_id": "dev-daily-010",
+      "attempt": 27,
+      "seed": 3408318934,
+      "text": "Our plants were watered by the neighbors when we were not home.",
+      "raw": "Our plants were watered by the neighbors when we were not home.",
+      "generated_tokens": 15,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-010:028",
+      "parent_id": "dev-daily-010",
+      "attempt": 28,
+      "seed": 3737731811,
+      "text": "Our plants were watered by the neighbors when we were not there.",
+      "raw": "Our plants were watered by the neighbors when we were not there.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-010:029",
+      "parent_id": "dev-daily-010",
+      "attempt": 29,
+      "seed": 2255574756,
+      "text": "While we were away, the neighbors watered our plants.",
+      "raw": "While we were away, the neighbors watered our plants.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-010:030",
+      "parent_id": "dev-daily-010",
+      "attempt": 30,
+      "seed": 1816826441,
+      "text": "Our plants were watered by the neighbors when we were absent.",
+      "raw": "Our plants were watered by the neighbors when we were absent.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-010:031",
+      "parent_id": "dev-daily-010",
+      "attempt": 31,
+      "seed": 3513195951,
+      "text": "The neighbors watered our plants during our absence.",
+      "raw": "The neighbors watered our plants during our absence.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    }
+  ],
+  "generated_tokens": 414,
+  "generation_seconds": 7.416569526074454
+}

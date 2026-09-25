@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "test-daily-009",
+    "group_id": "test-daily-009",
+    "split": "test",
+    "domain": "daily",
+    "text": "The footpath follows the river for about two kilometers."
+  },
+  "attempts": [
+    {
+      "candidate_id": "test-daily-009:000",
+      "parent_id": "test-daily-009",
+      "attempt": 0,
+      "seed": 3139693537,
+      "text": "The path along the stream stretches for roughly 2 kilometers.",
+      "raw": "The path along the stream stretches for roughly 2 kilometers.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-009:001",
+      "parent_id": "test-daily-009",
+      "attempt": 1,
+      "seed": 156041428,
+      "text": "For approximately two kilometers, the footpath traverses alongside the river.",
+      "raw": "For approximately two kilometers, the footpath traverses alongside the river.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-009:002",
+      "parent_id": "test-daily-009",
+      "attempt": 2,
+      "seed": 2706243680,
+      "text": "The path nears the waterway over approximately 2 kilometers.",
+      "raw": "The path nears the waterway over approximately 2 kilometers.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-009:003",
+      "parent_id": "test-daily-009",
+      "attempt": 3,
+      "seed": 1894471906,
+      "text": "The footpath runs alongside the river for approximately two kilometers.",
+      "raw": "The footpath runs alongside the river for approximately two kilometers.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-009:004",
+      "parent_id": "test-daily-009",
+      "attempt": 4,
+      "seed": 24832757,
+      "text": "The walking trail proceeds alongside the stream over approximately 2 kilometers.",
+      "raw": "The walking trail proceeds alongside the stream over approximately 2 kilometers.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-009:005",
+      "parent_id": "test-daily-009",
+      "attempt": 5,
+      "seed": 1558769525,
+      "text": "For approximately two kilometers, the footpath trails alongside the river.",
+      "raw": "For approximately two kilometers, the footpath trails alongside the river.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-009:006",
+      "parent_id": "test-daily-009",
+      "attempt": 6,
+      "seed": 3862173546,
+      "text": "The footpath runs alongside the river for approximately 2 kilometers.",
+      "raw": "The footpath runs alongside the river for approximately 2 kilometers.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-009:007",
+      "parent_id": "test-daily-009",
+      "attempt": 7,
+      "seed": 1801117692,
+      "text": "The path along the river is approximately 2 kilometers long.",
+      "raw": "The path along the river is approximately 2 kilometers long.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-009:008",
+      "parent_id": "test-daily-009",
+      "attempt": 8,
+      "seed": 1019277105,
+      "text": "The trail winds along the river for approximately two kilometers.",
+      "raw": "The trail winds along the river for approximately two kilometers.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-009:009",
+      "parent_id": "test-daily-009",
+      "attempt": 9,
+      "seed": 1627143858,
+      "text": "For approximately two kilometers, the footpath travels alongside the river.",
+      "raw": "For approximately two kilometers, the footpath travels alongside the river.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-009:010",
+      "parent_id": "test-daily-009",
+      "attempt": 10,
+      "seed": 2412312453,
+      "text": "The path alongside the waterway is approximately 2 kilometers long.",
+      "raw": "The path alongside the waterway is approximately 2 kilometers long.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-009:011",
+      "parent_id": "test-daily-009",
+      "attempt": 11,
+      "seed": 1419157919,
+      "text": "The footpath runs alongside the river over a distance of approximately two kilometers.",
+      "raw": "The footpath runs alongside the river over a distance of approximately two kilometers.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-009:012",
+      "parent_id": "test-daily-009",
+      "attempt": 12,
+      "seed": 4124643674,
+      "text": "The path nears the waterway approximately two miles.",
+      "raw": "The path nears the waterway approximately two miles.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-009:013",
+      "parent_id": "test-daily-009",
+      "attempt": 13,
+      "seed": 2180376632,
+      "text": "For about two kilometers, the footpath follows the river.",
+      "raw": "For about two kilometers, the footpath follows the river.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-009:014",
+      "parent_id": "test-daily-009",
+      "attempt": 14,
+      "seed": 47860328,
+      "text": "The path winds along the stream for roughly two kilometers.",
+      "raw": "The path winds along the stream for roughly two kilometers.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-009:015",
+      "parent_id": "test-daily-009",
+      "attempt": 15,
+      "seed": 657890570,
+      "text": "The footpath meanders alongside the river for approximately 2 km.",
+      "raw": "The footpath meanders alongside the river for approximately 2 km.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-009:016",
+      "parent_id": "test-daily-009",
+      "attempt": 16,
+      "seed": 2683269319,
+      "text": "The footpath meanders alongside the river for approximately two kilometers.",
+      "raw": "The footpath meanders alongside the river for approximately two kilometers.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-009:017",
+      "parent_id": "test-daily-009",
+      "attempt": 17,
+      "seed": 2960537100,
+      "text": "For approximately two kilometers, the footpath traverses along the river.",
+      "raw": "For approximately two kilometers, the footpath traverses along the river.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-009:018",
+      "parent_id": "test-daily-009",
+      "attempt": 18,
+      "seed": 1750110302,
+      "text": "The footpath runs alongside the river for approximately two kilometers.",
+      "raw": "The footpath runs alongside the river for approximately two kilometers.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-009:019",
+      "parent_id": "test-daily-009",
+      "attempt": 19,
+      "seed": 4227028883,
+      "text": "The footpath near the river extends approximately two kilometers.",
+      "raw": "The footpath near the river extends approximately two kilometers.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-009:020",
+      "parent_id": "test-daily-009",
+      "attempt": 20,
+      "seed": 608941448,
+      "text": "The path winds along the stream for approximately two kilometers.",
+      "raw": "The path winds along the stream for approximately two kilometers.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-009:021",
+      "parent_id": "test-daily-009",
+      "attempt": 21,
+      "seed": 1057629133,
+      "text": "For approximately two kilometers, the footpath tracks alongside the river.",
+      "raw": "For approximately two kilometers, the footpath tracks alongside the river.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-009:022",
+      "parent_id": "test-daily-009",
+      "attempt": 22,
+      "seed": 452017550,
+      "text": "The footpath parallels the river for approximately 2 kilometers.",
+      "raw": "The footpath parallels the river for approximately 2 kilometers.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-009:023",
+      "parent_id": "test-daily-009",
+      "attempt": 23,
+      "seed": 3767601021,
+      "text": "The footpath runs alongside the river for approximately 2 kilometers.",
+      "raw": "The footpath runs alongside the river for approximately 2 kilometers.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-009:024",
+      "parent_id": "test-daily-009",
+      "attempt": 24,
+      "seed": 3701345497,
+      "text": "The path closely follows the stream for approximately two kilometers.",
+      "raw": "The path closely follows the stream for approximately two kilometers.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-009:025",
+      "parent_id": "test-daily-009",
+      "attempt": 25,
+      "seed": 350723890,
+      "text": "For approximately two kilometers, the footpath follows the river.",
+      "raw": "For approximately two kilometers, the footpath follows the river.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-009:026",
+      "parent_id": "test-daily-009",
+      "attempt": 26,
+      "seed": 2645205279,
+      "text": "The path hugs the waterway for approximately two kilometers.",
+      "raw": "The path hugs the waterway for approximately two kilometers.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-009:027",
+      "parent_id": "test-daily-009",
+      "attempt": 27,
+      "seed": 390898558,
+      "text": "The footpath runs alongside the river over a distance of approximately two kilometers.",
+      "raw": "The footpath runs alongside the river over a distance of approximately two kilometers.",
+      "generated_tokens": 16,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-009:028",
+      "parent_id": "test-daily-009",
+      "attempt": 28,
+      "seed": 1804485797,
+      "text": "The path traverses the stream for approximately 2 kilometers.",
+      "raw": "The path traverses the stream for approximately 2 kilometers.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-009:029",
+      "parent_id": "test-daily-009",
+      "attempt": 29,
+      "seed": 3506621949,
+      "text": "For approximately two kilometers, the footpath traverses alongside the river.",
+      "raw": "For approximately two kilometers, the footpath traverses alongside the river.",
+      "generated_tokens": 15,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-009:030",
+      "parent_id": "test-daily-009",
+      "attempt": 30,
+      "seed": 2099465157,
+      "text": "The footpath runs alongside the river over approximately 2 km.",
+      "raw": "The footpath runs alongside the river over approximately 2 km.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-009:031",
+      "parent_id": "test-daily-009",
+      "attempt": 31,
+      "seed": 873528512,
+      "text": "The footpath stays by the river for approximately 2 kilometers.",
+      "raw": "The footpath stays by the river for approximately 2 kilometers.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 434,
+  "generation_seconds": 7.608859402826056
+}

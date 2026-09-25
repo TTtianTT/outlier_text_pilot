@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "dev-product-000",
+    "group_id": "dev-product-000",
+    "split": "dev",
+    "domain": "product",
+    "text": "This notebook has a soft cover and lined pages."
+  },
+  "attempts": [
+    {
+      "candidate_id": "dev-product-000:000",
+      "parent_id": "dev-product-000",
+      "attempt": 0,
+      "seed": 2308256940,
+      "text": "This notebook possesses a soft shell and marked sheets.",
+      "raw": "This notebook possesses a soft shell and marked sheets.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-000:001",
+      "parent_id": "dev-product-000",
+      "attempt": 1,
+      "seed": 1915320199,
+      "text": "A notebook with a soft cover and lined pages has been changed to this sentence.",
+      "raw": "A notebook with a soft cover and lined pages has been changed to this sentence.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-000:002",
+      "parent_id": "dev-product-000",
+      "attempt": 2,
+      "seed": 2408095755,
+      "text": "This notebook features a smooth casing and horizontal text spaces.",
+      "raw": "This notebook features a smooth casing and horizontal text spaces.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-000:003",
+      "parent_id": "dev-product-000",
+      "attempt": 3,
+      "seed": 2391059701,
+      "text": "The book features an elastic sleeve and structured sheets.",
+      "raw": "The book features an elastic sleeve and structured sheets.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-000:004",
+      "parent_id": "dev-product-000",
+      "attempt": 4,
+      "seed": 3203407331,
+      "text": "This notebook features a soft case and ruled surfaces.",
+      "raw": "This notebook features a soft case and ruled surfaces.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-000:005",
+      "parent_id": "dev-product-000",
+      "attempt": 5,
+      "seed": 4207242812,
+      "text": "A soft-covered, lined-notebook it is.",
+      "raw": "A soft-covered, lined-notebook it is.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-000:006",
+      "parent_id": "dev-product-000",
+      "attempt": 6,
+      "seed": 1002060617,
+      "text": "This notebook possesses a soft binding and features lined paper.",
+      "raw": "This notebook possesses a soft binding and features lined paper.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-000:007",
+      "parent_id": "dev-product-000",
+      "attempt": 7,
+      "seed": 460575195,
+      "text": "The notebook features a soft cover and lined pages.",
+      "raw": "The notebook features a soft cover and lined pages.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-000:008",
+      "parent_id": "dev-product-000",
+      "attempt": 8,
+      "seed": 2995900464,
+      "text": "This notebook possesses an elastic binding and manuscript sheets.",
+      "raw": "This notebook possesses an elastic binding and manuscript sheets.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-000:009",
+      "parent_id": "dev-product-000",
+      "attempt": 9,
+      "seed": 3389618827,
+      "text": "A soft cover notebook with lined pages is this one.",
+      "raw": "A soft cover notebook with lined pages is this one.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-000:010",
+      "parent_id": "dev-product-000",
+      "attempt": 10,
+      "seed": 1256577913,
+      "text": "This notebook features a soft exterior with ruled writing surfaces.",
+      "raw": "This notebook features a soft exterior with ruled writing surfaces.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-000:011",
+      "parent_id": "dev-product-000",
+      "attempt": 11,
+      "seed": 3190045168,
+      "text": "This notebook features a soft cover and lined pages.",
+      "raw": "This notebook features a soft cover and lined pages.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-000:012",
+      "parent_id": "dev-product-000",
+      "attempt": 12,
+      "seed": 3647590891,
+      "text": "This notebook features a soft case and ruled surfaces.",
+      "raw": "This notebook features a soft case and ruled surfaces.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-000:013",
+      "parent_id": "dev-product-000",
+      "attempt": 13,
+      "seed": 3658550181,
+      "text": "A soft-cover notebook with lined pages it is.",
+      "raw": "A soft-cover notebook with lined pages it is.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-000:014",
+      "parent_id": "dev-product-000",
+      "attempt": 14,
+      "seed": 675997341,
+      "text": "This notebook boasts a soft binding and lined sheets.",
+      "raw": "This notebook boasts a soft binding and lined sheets.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-000:015",
+      "parent_id": "dev-product-000",
+      "attempt": 15,
+      "seed": 1464378554,
+      "text": "This notebook possesses a soft cover and lined paper.",
+      "raw": "This notebook possesses a soft cover and lined paper.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-000:016",
+      "parent_id": "dev-product-000",
+      "attempt": 16,
+      "seed": 3016633668,
+      "text": "This notebook possesses a gentle cover and ruled interior.",
+      "raw": "This notebook possesses a gentle cover and ruled interior.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-000:017",
+      "parent_id": "dev-product-000",
+      "attempt": 17,
+      "seed": 1287892643,
+      "text": "A soft covered notebook with lined pages is changed.",
+      "raw": "A soft covered notebook with lined pages is changed.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-000:018",
+      "parent_id": "dev-product-000",
+      "attempt": 18,
+      "seed": 2257614697,
+      "text": "This notebook possesses a soft casing and lined sheets.",
+      "raw": "This notebook possesses a soft casing and lined sheets.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-000:019",
+      "parent_id": "dev-product-000",
+      "attempt": 19,
+      "seed": 4216834111,
+      "text": "The notebook features a soft cover and lined pages.",
+      "raw": "The notebook features a soft cover and lined pages.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-000:020",
+      "parent_id": "dev-product-000",
+      "attempt": 20,
+      "seed": 1058994464,
+      "text": "This composition book has a flexible binding and horizontal lines.",
+      "raw": "This composition book has a flexible binding and horizontal lines.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-000:021",
+      "parent_id": "dev-product-000",
+      "attempt": 21,
+      "seed": 589748456,
+      "text": "A notebook with a soft cover and lined pages is this one.",
+      "raw": "A notebook with a soft cover and lined pages is this one.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-000:022",
+      "parent_id": "dev-product-000",
+      "attempt": 22,
+      "seed": 3105925280,
+      "text": "This notebook boasts an ergonomic casing and embossed grid surfaces.",
+      "raw": "This notebook boasts an ergonomic casing and embossed grid surfaces.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-000:023",
+      "parent_id": "dev-product-000",
+      "attempt": 23,
+      "seed": 2370847193,
+      "text": "This notebook features a soft cover and lined pages.",
+      "raw": "This notebook features a soft cover and lined pages.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-000:024",
+      "parent_id": "dev-product-000",
+      "attempt": 24,
+      "seed": 2788087721,
+      "text": "This journal possesses an interior made of soft material and contains ruled surfaces.",
+      "raw": "This journal possesses an interior made of soft material and contains ruled surfaces.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-000:025",
+      "parent_id": "dev-product-000",
+      "attempt": 25,
+      "seed": 1260761450,
+      "text": "Soft-cover notebooks feature lined pages.",
+      "raw": "Soft-cover notebooks feature lined pages.",
+      "generated_tokens": 8,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-000:026",
+      "parent_id": "dev-product-000",
+      "attempt": 26,
+      "seed": 4102491277,
+      "text": "This notebook possesses a soft binding with ruled sheets inside.",
+      "raw": "This notebook possesses a soft binding with ruled sheets inside.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-000:027",
+      "parent_id": "dev-product-000",
+      "attempt": 27,
+      "seed": 1859596536,
+      "text": "This notebook possesses a soft cover and lined pages.",
+      "raw": "This notebook possesses a soft cover and lined pages.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-000:028",
+      "parent_id": "dev-product-000",
+      "attempt": 28,
+      "seed": 1130785725,
+      "text": "This book possesses a pliable casing and embossed lines.",
+      "raw": "This book possesses a pliable casing and embossed lines.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-000:029",
+      "parent_id": "dev-product-000",
+      "attempt": 29,
+      "seed": 438993557,
+      "text": "A soft-cover notebook with lined pages is this item.",
+      "raw": "A soft-cover notebook with lined pages is this item.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-000:030",
+      "parent_id": "dev-product-000",
+      "attempt": 30,
+      "seed": 324218446,
+      "text": "This notebook possesses a soft casing and numbered pages.",
+      "raw": "This notebook possesses a soft casing and numbered pages.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-000:031",
+      "parent_id": "dev-product-000",
+      "attempt": 31,
+      "seed": 567029834,
+      "text": "This notebook features a soft cover and lined pages.",
+      "raw": "This notebook features a soft cover and lined pages.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    }
+  ],
+  "generated_tokens": 373,
+  "generation_seconds": 6.708928252803162
+}

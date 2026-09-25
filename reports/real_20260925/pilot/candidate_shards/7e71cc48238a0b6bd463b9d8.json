@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "test-daily-001",
+    "group_id": "test-daily-001",
+    "split": "test",
+    "domain": "daily",
+    "text": "The bus stop is across the street from the post office."
+  },
+  "attempts": [
+    {
+      "candidate_id": "test-daily-001:000",
+      "parent_id": "test-daily-001",
+      "attempt": 0,
+      "seed": 4186071876,
+      "text": "The bus stop adjoins the post office.",
+      "raw": "The bus stop adjoins the post office.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-001:001",
+      "parent_id": "test-daily-001",
+      "attempt": 1,
+      "seed": 1281343966,
+      "text": "Across the street from the post office is a bus stop.",
+      "raw": "Across the street from the post office is a bus stop.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-001:002",
+      "parent_id": "test-daily-001",
+      "attempt": 2,
+      "seed": 18581880,
+      "text": "The bus stop is located on the opposite side of the street from the post office.",
+      "raw": "The bus stop is located on the opposite side of the street from the post office.",
+      "generated_tokens": 18,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-001:003",
+      "parent_id": "test-daily-001",
+      "attempt": 3,
+      "seed": 1919582224,
+      "text": "The bus stop is located beside the post office.",
+      "raw": "The bus stop is located beside the post office.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-001:004",
+      "parent_id": "test-daily-001",
+      "attempt": 4,
+      "seed": 1385800974,
+      "text": "The bus stop adjoins the post office.",
+      "raw": "The bus stop adjoins the post office.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-001:005",
+      "parent_id": "test-daily-001",
+      "attempt": 5,
+      "seed": 1123626650,
+      "text": "The post office is located next to the bus stop.",
+      "raw": "The post office is located next to the bus stop.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-001:006",
+      "parent_id": "test-daily-001",
+      "attempt": 6,
+      "seed": 2645928544,
+      "text": "The bus stop is beside the post office on the other side of the road.",
+      "raw": "The bus stop is beside the post office on the other side of the road.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-001:007",
+      "parent_id": "test-daily-001",
+      "attempt": 7,
+      "seed": 712457868,
+      "text": "The bus stop is located right next to the post office.",
+      "raw": "The bus stop is located right next to the post office.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-001:008",
+      "parent_id": "test-daily-001",
+      "attempt": 8,
+      "seed": 4149753591,
+      "text": "The bus stop adjoins the post office.",
+      "raw": "The bus stop adjoins the post office.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-001:009",
+      "parent_id": "test-daily-001",
+      "attempt": 9,
+      "seed": 2706024616,
+      "text": "From the post office, the bus stop is located across the street.",
+      "raw": "From the post office, the bus stop is located across the street.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-001:010",
+      "parent_id": "test-daily-001",
+      "attempt": 10,
+      "seed": 1131647258,
+      "text": "The bus stop is located on the other side of the road from the post office.",
+      "raw": "The bus stop is located on the other side of the road from the post office.",
+      "generated_tokens": 18,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-001:011",
+      "parent_id": "test-daily-001",
+      "attempt": 11,
+      "seed": 1178544300,
+      "text": "The bus stop is adjacent to the post office.",
+      "raw": "The bus stop is adjacent to the post office.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-001:012",
+      "parent_id": "test-daily-001",
+      "attempt": 12,
+      "seed": 1995263263,
+      "text": "The bus stop adjoins the post office on the opposite side of the road.",
+      "raw": "The bus stop adjoins the post office on the opposite side of the road.",
+      "generated_tokens": 18,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-001:013",
+      "parent_id": "test-daily-001",
+      "attempt": 13,
+      "seed": 3241905989,
+      "text": "Across the street from the post office stands a bus stop.",
+      "raw": "Across the street from the post office stands a bus stop.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-001:014",
+      "parent_id": "test-daily-001",
+      "attempt": 14,
+      "seed": 2195167880,
+      "text": "The bus stop is located beside the post office.",
+      "raw": "The bus stop is located beside the post office.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-001:015",
+      "parent_id": "test-daily-001",
+      "attempt": 15,
+      "seed": 3110537276,
+      "text": "The bus stop is next to the post office.",
+      "raw": "The bus stop is next to the post office.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-001:016",
+      "parent_id": "test-daily-001",
+      "attempt": 16,
+      "seed": 227348024,
+      "text": "The bus stop adjoins the post office across the road.",
+      "raw": "The bus stop adjoins the post office across the road.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-001:017",
+      "parent_id": "test-daily-001",
+      "attempt": 17,
+      "seed": 3225102540,
+      "text": "The post office is located directly opposite the bus stop.",
+      "raw": "The post office is located directly opposite the bus stop.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-001:018",
+      "parent_id": "test-daily-001",
+      "attempt": 18,
+      "seed": 110272167,
+      "text": "The bus stop is situated beside the post office.",
+      "raw": "The bus stop is situated beside the post office.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-001:019",
+      "parent_id": "test-daily-001",
+      "attempt": 19,
+      "seed": 2938564435,
+      "text": "The bus stop is located next to the post office.",
+      "raw": "The bus stop is located next to the post office.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-001:020",
+      "parent_id": "test-daily-001",
+      "attempt": 20,
+      "seed": 2777551461,
+      "text": "The bus stop adjoins the post office.",
+      "raw": "The bus stop adjoins the post office.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-001:021",
+      "parent_id": "test-daily-001",
+      "attempt": 21,
+      "seed": 2728776852,
+      "text": "The post office is located across the street from the bus stop.",
+      "raw": "The post office is located across the street from the bus stop.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-001:022",
+      "parent_id": "test-daily-001",
+      "attempt": 22,
+      "seed": 3055417064,
+      "text": "The bus stop is located next to the post office.",
+      "raw": "The bus stop is located next to the post office.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-001:023",
+      "parent_id": "test-daily-001",
+      "attempt": 23,
+      "seed": 1210978096,
+      "text": "The bus stop is next to the post office.",
+      "raw": "The bus stop is next to the post office.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-001:024",
+      "parent_id": "test-daily-001",
+      "attempt": 24,
+      "seed": 556369290,
+      "text": "The bus stop is beside the post office.",
+      "raw": "The bus stop is beside the post office.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-001:025",
+      "parent_id": "test-daily-001",
+      "attempt": 25,
+      "seed": 2643818756,
+      "text": "The post office stands directly opposite the bus stop.",
+      "raw": "The post office stands directly opposite the bus stop.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-001:026",
+      "parent_id": "test-daily-001",
+      "attempt": 26,
+      "seed": 2047459438,
+      "text": "The bus stop stands beside the post office.",
+      "raw": "The bus stop stands beside the post office.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-001:027",
+      "parent_id": "test-daily-001",
+      "attempt": 27,
+      "seed": 2394512790,
+      "text": "The bus stop is next to the post office.",
+      "raw": "The bus stop is next to the post office.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-001:028",
+      "parent_id": "test-daily-001",
+      "attempt": 28,
+      "seed": 2346990859,
+      "text": "The bus stop is next to the post office.",
+      "raw": "The bus stop is next to the post office.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-001:029",
+      "parent_id": "test-daily-001",
+      "attempt": 29,
+      "seed": 1554026738,
+      "text": "The post office stands across the street from the bus stop.",
+      "raw": "The post office stands across the street from the bus stop.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-001:030",
+      "parent_id": "test-daily-001",
+      "attempt": 30,
+      "seed": 656594632,
+      "text": "The bus stop is located next to the post office on the opposite side of the street.",
+      "raw": "The bus stop is located next to the post office on the opposite side of the street.",
+      "generated_tokens": 19,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-001:031",
+      "parent_id": "test-daily-001",
+      "attempt": 31,
+      "seed": 3705210817,
+      "text": "The bus stop is located beside the post office.",
+      "raw": "The bus stop is located beside the post office.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    }
+  ],
+  "generated_tokens": 407,
+  "generation_seconds": 7.155041685095057
+}

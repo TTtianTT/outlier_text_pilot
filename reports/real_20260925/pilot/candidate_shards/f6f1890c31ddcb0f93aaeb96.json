@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "dev-product-001",
+    "group_id": "dev-product-001",
+    "split": "dev",
+    "domain": "product",
+    "text": "The desk lamp has three brightness settings and a flexible neck."
+  },
+  "attempts": [
+    {
+      "candidate_id": "dev-product-001:000",
+      "parent_id": "dev-product-001",
+      "attempt": 0,
+      "seed": 924112128,
+      "text": "The desk lamp offers three brightness levels and an adjustable neck.",
+      "raw": "The desk lamp offers three brightness levels and an adjustable neck.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-001:001",
+      "parent_id": "dev-product-001",
+      "attempt": 1,
+      "seed": 3770903363,
+      "text": "A desk lamp offers three brightness settings with an adjustable neck.",
+      "raw": "A desk lamp offers three brightness settings with an adjustable neck.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-001:002",
+      "parent_id": "dev-product-001",
+      "attempt": 2,
+      "seed": 2571991653,
+      "text": "The desk lamp offers three brightness levels with a bendable arm.",
+      "raw": "The desk lamp offers three brightness levels with a bendable arm.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-001:003",
+      "parent_id": "dev-product-001",
+      "attempt": 3,
+      "seed": 1858772688,
+      "text": "The desk lamp offers three brightness levels and a bendable arm.",
+      "raw": "The desk lamp offers three brightness levels and a bendable arm.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-001:004",
+      "parent_id": "dev-product-001",
+      "attempt": 4,
+      "seed": 582904122,
+      "text": "The desk lamp has three brightness levels and a bendable arm.",
+      "raw": "The desk lamp has three brightness levels and a bendable arm.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-001:005",
+      "parent_id": "dev-product-001",
+      "attempt": 5,
+      "seed": 593291249,
+      "text": "Three brightness settings and a flexible neck are available on the desk lamp.",
+      "raw": "Three brightness settings and a flexible neck are available on the desk lamp.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-001:006",
+      "parent_id": "dev-product-001",
+      "attempt": 6,
+      "seed": 2060646202,
+      "text": "The desk lamp features three brightness adjustments and an adaptable neck.",
+      "raw": "The desk lamp features three brightness adjustments and an adaptable neck.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-001:007",
+      "parent_id": "dev-product-001",
+      "attempt": 7,
+      "seed": 2167554244,
+      "text": "The desk lamp offers three brightness levels and a bendable arm.",
+      "raw": "The desk lamp offers three brightness levels and a bendable arm.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-001:008",
+      "parent_id": "dev-product-001",
+      "attempt": 8,
+      "seed": 528303801,
+      "text": "The desk lamp possesses three brightness levels and an adjustable neck.",
+      "raw": "The desk lamp possesses three brightness levels and an adjustable neck.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-001:009",
+      "parent_id": "dev-product-001",
+      "attempt": 9,
+      "seed": 1537002839,
+      "text": "Three brightness settings and a flexible neck are found in the desk lamp.",
+      "raw": "Three brightness settings and a flexible neck are found in the desk lamp.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-001:010",
+      "parent_id": "dev-product-001",
+      "attempt": 10,
+      "seed": 2599789377,
+      "text": "The desk lamp offers three brightness levels with a flexible neck adjustment.",
+      "raw": "The desk lamp offers three brightness levels with a flexible neck adjustment.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-001:011",
+      "parent_id": "dev-product-001",
+      "attempt": 11,
+      "seed": 168259884,
+      "text": "The desk lamp features three brightness adjustments and a bendable stem.",
+      "raw": "The desk lamp features three brightness adjustments and a bendable stem.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-001:012",
+      "parent_id": "dev-product-001",
+      "attempt": 12,
+      "seed": 1303235638,
+      "text": "The desk lamp possesses three brightness levels and an adjustable neck.",
+      "raw": "The desk lamp possesses three brightness levels and an adjustable neck.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-001:013",
+      "parent_id": "dev-product-001",
+      "attempt": 13,
+      "seed": 3435679580,
+      "text": "Three brightness settings and a flexible neck are found in the desk lamp.",
+      "raw": "Three brightness settings and a flexible neck are found in the desk lamp.",
+      "generated_tokens": 15,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-001:014",
+      "parent_id": "dev-product-001",
+      "attempt": 14,
+      "seed": 3791690013,
+      "text": "The desk lamp offers three brightness levels with a swivelable neck design.",
+      "raw": "The desk lamp offers three brightness levels with a swivelable neck design.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-001:015",
+      "parent_id": "dev-product-001",
+      "attempt": 15,
+      "seed": 2661232240,
+      "text": "The desk lamp has three brightness levels and an adjustable neck.",
+      "raw": "The desk lamp has three brightness levels and an adjustable neck.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-001:016",
+      "parent_id": "dev-product-001",
+      "attempt": 16,
+      "seed": 3678532685,
+      "text": "The desk lamp possesses three brightness levels and a swiveling head.",
+      "raw": "The desk lamp possesses three brightness levels and a swiveling head.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-001:017",
+      "parent_id": "dev-product-001",
+      "attempt": 17,
+      "seed": 3998850385,
+      "text": "Three brightness settings and a flexible neck are found in the desk lamp.",
+      "raw": "Three brightness settings and a flexible neck are found in the desk lamp.",
+      "generated_tokens": 15,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-001:018",
+      "parent_id": "dev-product-001",
+      "attempt": 18,
+      "seed": 1576650433,
+      "text": "The desk lamp offers three brightness levels with a swivelable neck design.",
+      "raw": "The desk lamp offers three brightness levels with a swivelable neck design.",
+      "generated_tokens": 16,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-001:019",
+      "parent_id": "dev-product-001",
+      "attempt": 19,
+      "seed": 2247061447,
+      "text": "The desk lamp offers three brightness options and a flexible arm.",
+      "raw": "The desk lamp offers three brightness options and a flexible arm.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-001:020",
+      "parent_id": "dev-product-001",
+      "attempt": 20,
+      "seed": 2788435748,
+      "text": "The desk lamp offers three brightness options and is adjustable at the base.",
+      "raw": "The desk lamp offers three brightness options and is adjustable at the base.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-001:021",
+      "parent_id": "dev-product-001",
+      "attempt": 21,
+      "seed": 50568972,
+      "text": "A desk lamp with three brightness settings and a flexible neck is changed.",
+      "raw": "A desk lamp with three brightness settings and a flexible neck is changed.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-001:022",
+      "parent_id": "dev-product-001",
+      "attempt": 22,
+      "seed": 3106727384,
+      "text": "The desk lamp offers three brightness options with a flexible neck adjustment.",
+      "raw": "The desk lamp offers three brightness options with a flexible neck adjustment.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-001:023",
+      "parent_id": "dev-product-001",
+      "attempt": 23,
+      "seed": 2099048975,
+      "text": "The desk lamp boasts three brightness levels and a swivelable head.",
+      "raw": "The desk lamp boasts three brightness levels and a swivelable head.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-001:024",
+      "parent_id": "dev-product-001",
+      "attempt": 24,
+      "seed": 1640274280,
+      "text": "The desk lamp has three brightness levels and a movable arm.",
+      "raw": "The desk lamp has three brightness levels and a movable arm.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-001:025",
+      "parent_id": "dev-product-001",
+      "attempt": 25,
+      "seed": 3835783285,
+      "text": "A desk lamp featuring three brightness levels and an adjustable neck is provided.",
+      "raw": "A desk lamp featuring three brightness levels and an adjustable neck is provided.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-001:026",
+      "parent_id": "dev-product-001",
+      "attempt": 26,
+      "seed": 3959617380,
+      "text": "The desk lamp offers three brightness levels with a bendable neck.",
+      "raw": "The desk lamp offers three brightness levels with a bendable neck.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-001:027",
+      "parent_id": "dev-product-001",
+      "attempt": 27,
+      "seed": 602346032,
+      "text": "The desk lamp possesses three brightness adjustments and a controllable arm.",
+      "raw": "The desk lamp possesses three brightness adjustments and a controllable arm.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-001:028",
+      "parent_id": "dev-product-001",
+      "attempt": 28,
+      "seed": 2094132848,
+      "text": "The desk lamp features three brightness levels with an adjustable neck.",
+      "raw": "The desk lamp features three brightness levels with an adjustable neck.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-001:029",
+      "parent_id": "dev-product-001",
+      "attempt": 29,
+      "seed": 3379696525,
+      "text": "A desk lamp has three brightness settings with a flexible neck.",
+      "raw": "A desk lamp has three brightness settings with a flexible neck.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-001:030",
+      "parent_id": "dev-product-001",
+      "attempt": 30,
+      "seed": 772108586,
+      "text": "The desk lamp offers three brightness levels and a flexible neck.",
+      "raw": "The desk lamp offers three brightness levels and a flexible neck.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-001:031",
+      "parent_id": "dev-product-001",
+      "attempt": 31,
+      "seed": 714676632,
+      "text": "The desk lamp offers three brightness options and a moveable base.",
+      "raw": "The desk lamp offers three brightness options and a moveable base.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 450,
+  "generation_seconds": 7.886514812940732
+}

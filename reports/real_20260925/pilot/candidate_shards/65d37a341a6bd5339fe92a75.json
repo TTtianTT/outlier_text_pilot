@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "ood-science-010",
+    "group_id": "ood-science-010",
+    "split": "ood",
+    "domain": "science",
+    "text": "A simple lever turns about a fixed point called a fulcrum."
+  },
+  "attempts": [
+    {
+      "candidate_id": "ood-science-010:000",
+      "parent_id": "ood-science-010",
+      "attempt": 0,
+      "seed": 2425176737,
+      "text": "A straightforward lever rotates around a stationary point known as a fulcrum.",
+      "raw": "A straightforward lever rotates around a stationary point known as a fulcrum.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-010:001",
+      "parent_id": "ood-science-010",
+      "attempt": 1,
+      "seed": 701851723,
+      "text": "A device with a light weight attached to a heavy weight can be moved by turning it around a fixed pivot point is called a lever.",
+      "raw": "A device with a light weight attached to a heavy weight can be moved by turning it around a fixed pivot point is called a lever.",
+      "generated_tokens": 28,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-010:002",
+      "parent_id": "ood-science-010",
+      "attempt": 2,
+      "seed": 2397981543,
+      "text": "A lever works by turning around a fixed point known as a fulcrum.",
+      "raw": "A lever works by turning around a fixed point known as a fulcrum.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-010:003",
+      "parent_id": "ood-science-010",
+      "attempt": 3,
+      "seed": 765853405,
+      "text": "A simple lever moves around a fixed point known as a fulcrum.",
+      "raw": "A simple lever moves around a fixed point known as a fulcrum.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-010:004",
+      "parent_id": "ood-science-010",
+      "attempt": 4,
+      "seed": 1330995542,
+      "text": "A simple lever rotates around a stationary point known as a fulcrum.",
+      "raw": "A simple lever rotates around a stationary point known as a fulcrum.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-010:005",
+      "parent_id": "ood-science-010",
+      "attempt": 5,
+      "seed": 534836291,
+      "text": "A fulcrum is a fixed point around which a lever rotates; it's essential for turning mechanisms to work effectively.",
+      "raw": "A fulcrum is a fixed point around which a lever rotates; it's essential for turning mechanisms to work effectively.",
+      "generated_tokens": 25,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-010:006",
+      "parent_id": "ood-science-010",
+      "attempt": 6,
+      "seed": 3967192670,
+      "text": "A simple lever rotates around a fixed point known as a fulcrum.",
+      "raw": "A simple lever rotates around a fixed point known as a fulcrum.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-010:007",
+      "parent_id": "ood-science-010",
+      "attempt": 7,
+      "seed": 2959416502,
+      "text": "A lever pivots around an immobile center known as a fulcrum.",
+      "raw": "A lever pivots around an immobile center known as a fulcrum.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-010:008",
+      "parent_id": "ood-science-010",
+      "attempt": 8,
+      "seed": 2403778466,
+      "text": "A basic lever rotates around an immovable center known as a fulcrum.",
+      "raw": "A basic lever rotates around an immovable center known as a fulcrum.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-010:009",
+      "parent_id": "ood-science-010",
+      "attempt": 9,
+      "seed": 363126973,
+      "text": "A fulcrum is a fixed point around which a lever turns.",
+      "raw": "A fulcrum is a fixed point around which a lever turns.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-010:010",
+      "parent_id": "ood-science-010",
+      "attempt": 10,
+      "seed": 3641381391,
+      "text": "A basic bar moves around a stationary point known as a pivot.",
+      "raw": "A basic bar moves around a stationary point known as a pivot.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-010:011",
+      "parent_id": "ood-science-010",
+      "attempt": 11,
+      "seed": 2365689492,
+      "text": "A simple lever moves around a stable point known as a fulcrum.",
+      "raw": "A simple lever moves around a stable point known as a fulcrum.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-010:012",
+      "parent_id": "ood-science-010",
+      "attempt": 12,
+      "seed": 2759385345,
+      "text": "A straightforward mechanism revolves around an immobile axis known as a fulcrum.",
+      "raw": "A straightforward mechanism revolves around an immobile axis known as a fulcrum.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-010:013",
+      "parent_id": "ood-science-010",
+      "attempt": 13,
+      "seed": 3993923464,
+      "text": "A lever that is turned by a simple device involves a fulcrum at which it rotates around a fixed reference point.",
+      "raw": "A lever that is turned by a simple device involves a fulcrum at which it rotates around a fixed reference point.",
+      "generated_tokens": 25,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-010:014",
+      "parent_id": "ood-science-010",
+      "attempt": 14,
+      "seed": 2566577288,
+      "text": "A simple lever rotates around a stationary point known as a fulcrum.",
+      "raw": "A simple lever rotates around a stationary point known as a fulcrum.",
+      "generated_tokens": 16,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-010:015",
+      "parent_id": "ood-science-010",
+      "attempt": 15,
+      "seed": 3713909875,
+      "text": "A simple lever rotates around a stationary point known as the fulcrum.",
+      "raw": "A simple lever rotates around a stationary point known as the fulcrum.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-010:016",
+      "parent_id": "ood-science-010",
+      "attempt": 16,
+      "seed": 3890688336,
+      "text": "A basic lever rotates around an immobile point known as a fulcrum.",
+      "raw": "A basic lever rotates around an immobile point known as a fulcrum.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-010:017",
+      "parent_id": "ood-science-010",
+      "attempt": 17,
+      "seed": 3667969988,
+      "text": "A device that uses a simple lever operates by rotating around an anchor known as a fulcrum.",
+      "raw": "A device that uses a simple lever operates by rotating around an anchor known as a fulcrum.",
+      "generated_tokens": 21,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-010:018",
+      "parent_id": "ood-science-010",
+      "attempt": 18,
+      "seed": 199455364,
+      "text": "A simple lever rotates around a stationary point known as a fulcrum.",
+      "raw": "A simple lever rotates around a stationary point known as a fulcrum.",
+      "generated_tokens": 16,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-010:019",
+      "parent_id": "ood-science-010",
+      "attempt": 19,
+      "seed": 138208186,
+      "text": "A simple lever revolves around a stationary point known as a fulcrum.",
+      "raw": "A simple lever revolves around a stationary point known as a fulcrum.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-010:020",
+      "parent_id": "ood-science-010",
+      "attempt": 20,
+      "seed": 2642516148,
+      "text": "A basic lever operates with a pivot point known as the fulcrum.",
+      "raw": "A basic lever operates with a pivot point known as the fulcrum.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-010:021",
+      "parent_id": "ood-science-010",
+      "attempt": 21,
+      "seed": 2494925848,
+      "text": "A fulcrum is an object around which a lever rotates; it's called stationary in relation to the movement of its force arm on either side.",
+      "raw": "A fulcrum is an object around which a lever rotates; it's called stationary in relation to the movement of its force arm on either side.",
+      "generated_tokens": 31,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-010:022",
+      "parent_id": "ood-science-010",
+      "attempt": 22,
+      "seed": 2368722355,
+      "text": "A straightforward lever rotates around an immovable pivot known as a fulcrum.",
+      "raw": "A straightforward lever rotates around an immovable pivot known as a fulcrum.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-010:023",
+      "parent_id": "ood-science-010",
+      "attempt": 23,
+      "seed": 1139536975,
+      "text": "A simple lever operates around a fixed point known as a fulcrum.",
+      "raw": "A simple lever operates around a fixed point known as a fulcrum.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-010:024",
+      "parent_id": "ood-science-010",
+      "attempt": 24,
+      "seed": 611150354,
+      "text": "A simple lever rotates around a stationary point known as a fulcrum.",
+      "raw": "A simple lever rotates around a stationary point known as a fulcrum.",
+      "generated_tokens": 16,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-010:025",
+      "parent_id": "ood-science-010",
+      "attempt": 25,
+      "seed": 3591089241,
+      "text": "A fulcrum is a fixed point around which a lever turns, allowing it to perform its function.",
+      "raw": "A fulcrum is a fixed point around which a lever turns, allowing it to perform its function.",
+      "generated_tokens": 22,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-010:026",
+      "parent_id": "ood-science-010",
+      "attempt": 26,
+      "seed": 3254937073,
+      "text": "A simple mechanism causes motion around an immovable pivot known as a fulcrum.",
+      "raw": "A simple mechanism causes motion around an immovable pivot known as a fulcrum.",
+      "generated_tokens": 18,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-010:027",
+      "parent_id": "ood-science-010",
+      "attempt": 27,
+      "seed": 3605002917,
+      "text": "A simple lever moves around an immovable point known as the fulcrum.",
+      "raw": "A simple lever moves around an immovable point known as the fulcrum.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-010:028",
+      "parent_id": "ood-science-010",
+      "attempt": 28,
+      "seed": 3490087855,
+      "text": "A simple lever rotates around an immobile point known as a fulcrum.",
+      "raw": "A simple lever rotates around an immobile point known as a fulcrum.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-010:029",
+      "parent_id": "ood-science-010",
+      "attempt": 29,
+      "seed": 1841569101,
+      "text": "A lever with a simple mechanism rotates around a central pivot known as a fulcrum.",
+      "raw": "A lever with a simple mechanism rotates around a central pivot known as a fulcrum.",
+      "generated_tokens": 19,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-010:030",
+      "parent_id": "ood-science-010",
+      "attempt": 30,
+      "seed": 4205405061,
+      "text": "A basic lever operates around an immobile pivot known as a fulcrum.",
+      "raw": "A basic lever operates around an immobile pivot known as a fulcrum.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-010:031",
+      "parent_id": "ood-science-010",
+      "attempt": 31,
+      "seed": 4128179016,
+      "text": "A lever rotates around a fixed point known as a fulcrum.",
+      "raw": "A lever rotates around a fixed point known as a fulcrum.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 578,
+  "generation_seconds": 10.277973106130958
+}

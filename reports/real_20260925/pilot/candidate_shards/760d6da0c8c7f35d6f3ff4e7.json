@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "dev-daily-004",
+    "group_id": "dev-daily-004",
+    "split": "dev",
+    "domain": "daily",
+    "text": "Please put the empty glass on the kitchen counter."
+  },
+  "attempts": [
+    {
+      "candidate_id": "dev-daily-004:000",
+      "parent_id": "dev-daily-004",
+      "attempt": 0,
+      "seed": 2519508207,
+      "text": "Please place the vacated container on the residence's kitchen surface.",
+      "raw": "Please place the vacated container on the residence's kitchen surface.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-004:001",
+      "parent_id": "dev-daily-004",
+      "attempt": 1,
+      "seed": 3085475017,
+      "text": "Place your empty glass at the kitchen counter please.",
+      "raw": "Place your empty glass at the kitchen counter please.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-004:002",
+      "parent_id": "dev-daily-004",
+      "attempt": 2,
+      "seed": 3994693617,
+      "text": "Could you please place an empty glass on the kitchen countertop?",
+      "raw": "Could you please place an empty glass on the kitchen countertop?",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-004:003",
+      "parent_id": "dev-daily-004",
+      "attempt": 3,
+      "seed": 3718564770,
+      "text": "Place the empty glass on the kitchen countertop.",
+      "raw": "Place the empty glass on the kitchen countertop.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-004:004",
+      "parent_id": "dev-daily-004",
+      "attempt": 4,
+      "seed": 2710561333,
+      "text": "Place an empty glass on the kitchen countertop.",
+      "raw": "Place an empty glass on the kitchen countertop.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-004:005",
+      "parent_id": "dev-daily-004",
+      "attempt": 5,
+      "seed": 1499457856,
+      "text": "Place an empty glass onto the kitchen countertop.",
+      "raw": "Place an empty glass onto the kitchen countertop.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-004:006",
+      "parent_id": "dev-daily-004",
+      "attempt": 6,
+      "seed": 3475020232,
+      "text": "Place the vacant glass at the kitchen window.",
+      "raw": "Place the vacant glass at the kitchen window.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-004:007",
+      "parent_id": "dev-daily-004",
+      "attempt": 7,
+      "seed": 57525880,
+      "text": "Place the vacant cup atop the kitchen shelf.",
+      "raw": "Place the vacant cup atop the kitchen shelf.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-004:008",
+      "parent_id": "dev-daily-004",
+      "attempt": 8,
+      "seed": 3396085120,
+      "text": "Place the vacated beverage vessel at the dining area perch.",
+      "raw": "Place the vacated beverage vessel at the dining area perch.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-004:009",
+      "parent_id": "dev-daily-004",
+      "attempt": 9,
+      "seed": 2416872265,
+      "text": "Put the empty glass on the kitchen counter please.",
+      "raw": "Put the empty glass on the kitchen counter please.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-004:010",
+      "parent_id": "dev-daily-004",
+      "attempt": 10,
+      "seed": 2256484213,
+      "text": "Place the vacant glass at the kitchen window.",
+      "raw": "Place the vacant glass at the kitchen window.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-004:011",
+      "parent_id": "dev-daily-004",
+      "attempt": 11,
+      "seed": 1045797827,
+      "text": "Place the vacant container atop the dining room cabinet.",
+      "raw": "Place the vacant container atop the dining room cabinet.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-004:012",
+      "parent_id": "dev-daily-004",
+      "attempt": 12,
+      "seed": 2564433545,
+      "text": "Please place an empty glass on the kitchen countertop.",
+      "raw": "Please place an empty glass on the kitchen countertop.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-004:013",
+      "parent_id": "dev-daily-004",
+      "attempt": 13,
+      "seed": 924186583,
+      "text": "Place the empty glass on the kitchen counter please.",
+      "raw": "Place the empty glass on the kitchen counter please.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-004:014",
+      "parent_id": "dev-daily-004",
+      "attempt": 14,
+      "seed": 4278535308,
+      "text": "Place the vacant cup on the dining area table.",
+      "raw": "Place the vacant cup on the dining area table.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-004:015",
+      "parent_id": "dev-daily-004",
+      "attempt": 15,
+      "seed": 3054267352,
+      "text": "Please place the vacant cup beside the kitchen table.",
+      "raw": "Please place the vacant cup beside the kitchen table.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-004:016",
+      "parent_id": "dev-daily-004",
+      "attempt": 16,
+      "seed": 2191322525,
+      "text": "Place the vacant glass atop the kitchen table.",
+      "raw": "Place the vacant glass atop the kitchen table.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-004:017",
+      "parent_id": "dev-daily-004",
+      "attempt": 17,
+      "seed": 4131718696,
+      "text": "Place your empty glass at the top of the kitchen counter.",
+      "raw": "Place your empty glass at the top of the kitchen counter.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-004:018",
+      "parent_id": "dev-daily-004",
+      "attempt": 18,
+      "seed": 1707241406,
+      "text": "Place the empty glass on the kitchen countertop.",
+      "raw": "Place the empty glass on the kitchen countertop.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-004:019",
+      "parent_id": "dev-daily-004",
+      "attempt": 19,
+      "seed": 1438832941,
+      "text": "Please place the vacant glass at the kitchen countertop.",
+      "raw": "Please place the vacant glass at the kitchen countertop.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-004:020",
+      "parent_id": "dev-daily-004",
+      "attempt": 20,
+      "seed": 115203024,
+      "text": "Place the vacant container beside the dining room table.",
+      "raw": "Place the vacant container beside the dining room table.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-004:021",
+      "parent_id": "dev-daily-004",
+      "attempt": 21,
+      "seed": 331348823,
+      "text": "Put an empty glass on the kitchen counter please.",
+      "raw": "Put an empty glass on the kitchen counter please.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-004:022",
+      "parent_id": "dev-daily-004",
+      "attempt": 22,
+      "seed": 1040307711,
+      "text": "Could you place an empty glass on the kitchen counter?",
+      "raw": "Could you place an empty glass on the kitchen counter?",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-004:023",
+      "parent_id": "dev-daily-004",
+      "attempt": 23,
+      "seed": 4015361749,
+      "text": "Place the vacant container near the entryway table.",
+      "raw": "Place the vacant container near the entryway table.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-004:024",
+      "parent_id": "dev-daily-004",
+      "attempt": 24,
+      "seed": 703480223,
+      "text": "Place the vacant glass atop the kitchen countertop.",
+      "raw": "Place the vacant glass atop the kitchen countertop.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-004:025",
+      "parent_id": "dev-daily-004",
+      "attempt": 25,
+      "seed": 302690062,
+      "text": "Place the empty glass on the kitchen counter please.",
+      "raw": "Place the empty glass on the kitchen counter please.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-004:026",
+      "parent_id": "dev-daily-004",
+      "attempt": 26,
+      "seed": 1527990304,
+      "text": "Could you place the vacant bottle on the bathroom shelf?",
+      "raw": "Could you place the vacant bottle on the bathroom shelf?",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-004:027",
+      "parent_id": "dev-daily-004",
+      "attempt": 27,
+      "seed": 437393009,
+      "text": "Please place the vacant container beside the dining room table.",
+      "raw": "Please place the vacant container beside the dining room table.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-004:028",
+      "parent_id": "dev-daily-004",
+      "attempt": 28,
+      "seed": 3299359492,
+      "text": "Place an empty glass at the kitchen countertop.",
+      "raw": "Place an empty glass at the kitchen countertop.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-004:029",
+      "parent_id": "dev-daily-004",
+      "attempt": 29,
+      "seed": 2888474652,
+      "text": "Place the empty glass at the kitchen counter please.",
+      "raw": "Place the empty glass at the kitchen counter please.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-004:030",
+      "parent_id": "dev-daily-004",
+      "attempt": 30,
+      "seed": 1842796641,
+      "text": "Could you kindly place the empty glass on the kitchen counter?",
+      "raw": "Could you kindly place the empty glass on the kitchen counter?",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-004:031",
+      "parent_id": "dev-daily-004",
+      "attempt": 31,
+      "seed": 2297926839,
+      "text": "Place the clean glass atop the kitchen bench.",
+      "raw": "Place the clean glass atop the kitchen bench.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 364,
+  "generation_seconds": 6.375877758022398
+}

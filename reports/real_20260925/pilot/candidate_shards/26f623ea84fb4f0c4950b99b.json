@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "dev-product-005",
+    "group_id": "dev-product-005",
+    "split": "dev",
+    "domain": "product",
+    "text": "The storage box has a transparent lid and two side handles."
+  },
+  "attempts": [
+    {
+      "candidate_id": "dev-product-005:000",
+      "parent_id": "dev-product-005",
+      "attempt": 0,
+      "seed": 1742414887,
+      "text": "The container features glass cover and dual shoulder straps.",
+      "raw": "The container features glass cover and dual shoulder straps.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-005:001",
+      "parent_id": "dev-product-005",
+      "attempt": 1,
+      "seed": 2631916880,
+      "text": "A storage box with a transparent lid and two side handles is present.",
+      "raw": "A storage box with a transparent lid and two side handles is present.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-005:002",
+      "parent_id": "dev-product-005",
+      "attempt": 2,
+      "seed": 4223252871,
+      "text": "The storage box features a transparent lid with two side handles.",
+      "raw": "The storage box features a transparent lid with two side handles.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-005:003",
+      "parent_id": "dev-product-005",
+      "attempt": 3,
+      "seed": 3054934573,
+      "text": "The storage box features a translucent cover and two handle sides.",
+      "raw": "The storage box features a translucent cover and two handle sides.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-005:004",
+      "parent_id": "dev-product-005",
+      "attempt": 4,
+      "seed": 751602289,
+      "text": "The storage container boasts a visible cover with dual handrails.",
+      "raw": "The storage container boasts a visible cover with dual handrails.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-005:005",
+      "parent_id": "dev-product-005",
+      "attempt": 5,
+      "seed": 3771621758,
+      "text": "A transparent lid with two side handles is found on the storage box.",
+      "raw": "A transparent lid with two side handles is found on the storage box.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-005:006",
+      "parent_id": "dev-product-005",
+      "attempt": 6,
+      "seed": 1353865479,
+      "text": "The container boasts an opalescent cap and dual lateral pegs.",
+      "raw": "The container boasts an opalescent cap and dual lateral pegs.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-005:007",
+      "parent_id": "dev-product-005",
+      "attempt": 7,
+      "seed": 2927909414,
+      "text": "The container possesses a see-through cap and two lateral grips.",
+      "raw": "The container possesses a see-through cap and two lateral grips.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-005:008",
+      "parent_id": "dev-product-005",
+      "attempt": 8,
+      "seed": 3296880496,
+      "text": "The container bears an observable cover with dual peripheral grips.",
+      "raw": "The container bears an observable cover with dual peripheral grips.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-005:009",
+      "parent_id": "dev-product-005",
+      "attempt": 9,
+      "seed": 2471115757,
+      "text": "A transparent lid with side handles is present on the storage box.",
+      "raw": "A transparent lid with side handles is present on the storage box.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-005:010",
+      "parent_id": "dev-product-005",
+      "attempt": 10,
+      "seed": 2429261812,
+      "text": "The storage box possesses a clear lid with two side handles.",
+      "raw": "The storage box possesses a clear lid with two side handles.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-005:011",
+      "parent_id": "dev-product-005",
+      "attempt": 11,
+      "seed": 3281101049,
+      "text": "The storage box boasts a translucent cover and two sides for carrying.",
+      "raw": "The storage box boasts a translucent cover and two sides for carrying.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-005:012",
+      "parent_id": "dev-product-005",
+      "attempt": 12,
+      "seed": 4019770052,
+      "text": "The storage box possesses an opaque lid and two side straps.",
+      "raw": "The storage box possesses an opaque lid and two side straps.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-005:013",
+      "parent_id": "dev-product-005",
+      "attempt": 13,
+      "seed": 2823798856,
+      "text": "A transparent lid and two side handles are present in the storage box.",
+      "raw": "A transparent lid and two side handles are present in the storage box.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-005:014",
+      "parent_id": "dev-product-005",
+      "attempt": 14,
+      "seed": 1684140695,
+      "text": "The storage box has a clear cover with two handle sides.",
+      "raw": "The storage box has a clear cover with two handle sides.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-005:015",
+      "parent_id": "dev-product-005",
+      "attempt": 15,
+      "seed": 1633391180,
+      "text": "The storage box features a transparent lid with two side handles.",
+      "raw": "The storage box features a transparent lid with two side handles.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-005:016",
+      "parent_id": "dev-product-005",
+      "attempt": 16,
+      "seed": 2636480255,
+      "text": "The storage box features a see-through top and two handle sides.",
+      "raw": "The storage box features a see-through top and two handle sides.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-005:017",
+      "parent_id": "dev-product-005",
+      "attempt": 17,
+      "seed": 725712509,
+      "text": "Two side handles and a transparent lid are found in the storage box.",
+      "raw": "Two side handles and a transparent lid are found in the storage box.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-005:018",
+      "parent_id": "dev-product-005",
+      "attempt": 18,
+      "seed": 2077417087,
+      "text": "The storage box features a glass lid with two side handles.",
+      "raw": "The storage box features a glass lid with two side handles.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-005:019",
+      "parent_id": "dev-product-005",
+      "attempt": 19,
+      "seed": 2496530541,
+      "text": "The storage box features a transparent lid with two side handles.",
+      "raw": "The storage box features a transparent lid with two side handles.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-005:020",
+      "parent_id": "dev-product-005",
+      "attempt": 20,
+      "seed": 3746079349,
+      "text": "The container boasts a see-through cover with two handles on each side.",
+      "raw": "The container boasts a see-through cover with two handles on each side.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-005:021",
+      "parent_id": "dev-product-005",
+      "attempt": 21,
+      "seed": 2832785886,
+      "text": "A storage box with a transparent lid and two side handles is being referred to.",
+      "raw": "A storage box with a transparent lid and two side handles is being referred to.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-005:022",
+      "parent_id": "dev-product-005",
+      "attempt": 22,
+      "seed": 487202408,
+      "text": "The storage box boasts a see-through lid and handles on both sides.",
+      "raw": "The storage box boasts a see-through lid and handles on both sides.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-005:023",
+      "parent_id": "dev-product-005",
+      "attempt": 23,
+      "seed": 3432297366,
+      "text": "The storage box features a translucent cover with two exterior grips.",
+      "raw": "The storage box features a translucent cover with two exterior grips.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-005:024",
+      "parent_id": "dev-product-005",
+      "attempt": 24,
+      "seed": 923169151,
+      "text": "The storage container possesses a see-through cover with two edge grips.",
+      "raw": "The storage container possesses a see-through cover with two edge grips.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-005:025",
+      "parent_id": "dev-product-005",
+      "attempt": 25,
+      "seed": 1382091561,
+      "text": "A transparent lid is attached to the storage box with two side handles.",
+      "raw": "A transparent lid is attached to the storage box with two side handles.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-005:026",
+      "parent_id": "dev-product-005",
+      "attempt": 26,
+      "seed": 423661021,
+      "text": "The storage box boasts a translucent lid and dual handle sides.",
+      "raw": "The storage box boasts a translucent lid and dual handle sides.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-005:027",
+      "parent_id": "dev-product-005",
+      "attempt": 27,
+      "seed": 2466360201,
+      "text": "The storage box boasts a see-through lid with two handle sides.",
+      "raw": "The storage box boasts a see-through lid with two handle sides.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-005:028",
+      "parent_id": "dev-product-005",
+      "attempt": 28,
+      "seed": 853240561,
+      "text": "The storage box features a glass-top cover and dual handle sides.",
+      "raw": "The storage box features a glass-top cover and dual handle sides.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-005:029",
+      "parent_id": "dev-product-005",
+      "attempt": 29,
+      "seed": 82357584,
+      "text": "A transparent lid is on the storage box with two side handles.",
+      "raw": "A transparent lid is on the storage box with two side handles.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-005:030",
+      "parent_id": "dev-product-005",
+      "attempt": 30,
+      "seed": 1685114062,
+      "text": "The storage box boasts a clear top and two handle sides.",
+      "raw": "The storage box boasts a clear top and two handle sides.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-005:031",
+      "parent_id": "dev-product-005",
+      "attempt": 31,
+      "seed": 3787830242,
+      "text": "The storage box features a transparent lid with two side handles.",
+      "raw": "The storage box features a transparent lid with two side handles.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    }
+  ],
+  "generated_tokens": 440,
+  "generation_seconds": 7.686046913964674
+}

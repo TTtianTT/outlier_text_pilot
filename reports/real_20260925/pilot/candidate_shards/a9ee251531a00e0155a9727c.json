@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "dev-daily-006",
+    "group_id": "dev-daily-006",
+    "split": "dev",
+    "domain": "daily",
+    "text": "The package was delivered to the reception desk this morning."
+  },
+  "attempts": [
+    {
+      "candidate_id": "dev-daily-006:000",
+      "parent_id": "dev-daily-006",
+      "attempt": 0,
+      "seed": 4244762921,
+      "text": "A package arrived at the reception desk this morning.",
+      "raw": "A package arrived at the reception desk this morning.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-006:001",
+      "parent_id": "dev-daily-006",
+      "attempt": 1,
+      "seed": 3557956958,
+      "text": "This morning, the package was delivered to the reception desk.",
+      "raw": "This morning, the package was delivered to the reception desk.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-006:002",
+      "parent_id": "dev-daily-006",
+      "attempt": 2,
+      "seed": 3813665205,
+      "text": "The item arrived at the concierge's station today.",
+      "raw": "The item arrived at the concierge's station today.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-006:003",
+      "parent_id": "dev-daily-006",
+      "attempt": 3,
+      "seed": 259245779,
+      "text": "The package reached the reception desk today.",
+      "raw": "The package reached the reception desk today.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-006:004",
+      "parent_id": "dev-daily-006",
+      "attempt": 4,
+      "seed": 3636554253,
+      "text": "A shipment arrived at the front desk today.",
+      "raw": "A shipment arrived at the front desk today.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-006:005",
+      "parent_id": "dev-daily-006",
+      "attempt": 5,
+      "seed": 2226392216,
+      "text": "This morning, the package was delivered to the reception desk.",
+      "raw": "This morning, the package was delivered to the reception desk.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-006:006",
+      "parent_id": "dev-daily-006",
+      "attempt": 6,
+      "seed": 1994919478,
+      "text": "A shipment arrived at the front desk this morning.",
+      "raw": "A shipment arrived at the front desk this morning.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-006:007",
+      "parent_id": "dev-daily-006",
+      "attempt": 7,
+      "seed": 3227923892,
+      "text": "The delivery arrived at the reception area today.",
+      "raw": "The delivery arrived at the reception area today.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-006:008",
+      "parent_id": "dev-daily-006",
+      "attempt": 8,
+      "seed": 944622282,
+      "text": "The delivery arrived at the reception desk today.",
+      "raw": "The delivery arrived at the reception desk today.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-006:009",
+      "parent_id": "dev-daily-006",
+      "attempt": 9,
+      "seed": 1971348874,
+      "text": "This morning, the package was delivered to the reception desk.",
+      "raw": "This morning, the package was delivered to the reception desk.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-006:010",
+      "parent_id": "dev-daily-006",
+      "attempt": 10,
+      "seed": 3865886054,
+      "text": "This morning, the package arrived at the reception desk.",
+      "raw": "This morning, the package arrived at the reception desk.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-006:011",
+      "parent_id": "dev-daily-006",
+      "attempt": 11,
+      "seed": 87800649,
+      "text": "The package arrived at the reception desk today.",
+      "raw": "The package arrived at the reception desk today.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-006:012",
+      "parent_id": "dev-daily-006",
+      "attempt": 12,
+      "seed": 3687863431,
+      "text": "The shipment arrived at the concierge area today.",
+      "raw": "The shipment arrived at the concierge area today.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-006:013",
+      "parent_id": "dev-daily-006",
+      "attempt": 13,
+      "seed": 2359049184,
+      "text": "This morning, the package was delivered to the reception desk.",
+      "raw": "This morning, the package was delivered to the reception desk.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-006:014",
+      "parent_id": "dev-daily-006",
+      "attempt": 14,
+      "seed": 4075441082,
+      "text": "This morning, the package arrived at the reception desk.",
+      "raw": "This morning, the package arrived at the reception desk.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-006:015",
+      "parent_id": "dev-daily-006",
+      "attempt": 15,
+      "seed": 299592457,
+      "text": "The package arrived at the reception desk today.",
+      "raw": "The package arrived at the reception desk today.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-006:016",
+      "parent_id": "dev-daily-006",
+      "attempt": 16,
+      "seed": 4201873341,
+      "text": "The shipment arrived at the front desk today.",
+      "raw": "The shipment arrived at the front desk today.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-006:017",
+      "parent_id": "dev-daily-006",
+      "attempt": 17,
+      "seed": 1234566714,
+      "text": "This morning, the package was delivered to the reception desk.",
+      "raw": "This morning, the package was delivered to the reception desk.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-006:018",
+      "parent_id": "dev-daily-006",
+      "attempt": 18,
+      "seed": 2631896461,
+      "text": "The parcel arrived at the front desk earlier today.",
+      "raw": "The parcel arrived at the front desk earlier today.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-006:019",
+      "parent_id": "dev-daily-006",
+      "attempt": 19,
+      "seed": 812912069,
+      "text": "The delivery arrived at the reception area early this day.",
+      "raw": "The delivery arrived at the reception area early this day.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-006:020",
+      "parent_id": "dev-daily-006",
+      "attempt": 20,
+      "seed": 1127874653,
+      "text": "A delivery arrived at the arrival desk this morning.",
+      "raw": "A delivery arrived at the arrival desk this morning.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-006:021",
+      "parent_id": "dev-daily-006",
+      "attempt": 21,
+      "seed": 2380934491,
+      "text": "This morning, a package was delivered to the reception desk.",
+      "raw": "This morning, a package was delivered to the reception desk.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-006:022",
+      "parent_id": "dev-daily-006",
+      "attempt": 22,
+      "seed": 3472917607,
+      "text": "The delivery arrived at the reception desk early this afternoon.",
+      "raw": "The delivery arrived at the reception desk early this afternoon.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-006:023",
+      "parent_id": "dev-daily-006",
+      "attempt": 23,
+      "seed": 2553140154,
+      "text": "A package was delivered at the reception desk today.",
+      "raw": "A package was delivered at the reception desk today.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-006:024",
+      "parent_id": "dev-daily-006",
+      "attempt": 24,
+      "seed": 2643070080,
+      "text": "The parcel arrived at the front desk this morning.",
+      "raw": "The parcel arrived at the front desk this morning.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-006:025",
+      "parent_id": "dev-daily-006",
+      "attempt": 25,
+      "seed": 549768511,
+      "text": "This morning, the package was delivered to the reception desk.",
+      "raw": "This morning, the package was delivered to the reception desk.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-006:026",
+      "parent_id": "dev-daily-006",
+      "attempt": 26,
+      "seed": 2276816535,
+      "text": "This morning, the package was handed over at the reception desk.",
+      "raw": "This morning, the package was handed over at the reception desk.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-006:027",
+      "parent_id": "dev-daily-006",
+      "attempt": 27,
+      "seed": 2489466177,
+      "text": "The delivery reached the reception area today.",
+      "raw": "The delivery reached the reception area today.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-006:028",
+      "parent_id": "dev-daily-006",
+      "attempt": 28,
+      "seed": 276060862,
+      "text": "The delivery arrived at the front desk today.",
+      "raw": "The delivery arrived at the front desk today.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-006:029",
+      "parent_id": "dev-daily-006",
+      "attempt": 29,
+      "seed": 1109903899,
+      "text": "This morning, the package was delivered to the reception desk.",
+      "raw": "This morning, the package was delivered to the reception desk.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-006:030",
+      "parent_id": "dev-daily-006",
+      "attempt": 30,
+      "seed": 631934207,
+      "text": "This morning, the package was delivered at the reception desk.",
+      "raw": "This morning, the package was delivered at the reception desk.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-006:031",
+      "parent_id": "dev-daily-006",
+      "attempt": 31,
+      "seed": 4120384604,
+      "text": "The package arrived at the reception desk today.",
+      "raw": "The package arrived at the reception desk today.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    }
+  ],
+  "generated_tokens": 366,
+  "generation_seconds": 6.413995892973617
+}

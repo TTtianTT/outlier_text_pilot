@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "ood-science-018",
+    "group_id": "ood-science-018",
+    "split": "ood",
+    "domain": "science",
+    "text": "The lungs exchange oxygen and carbon dioxide with the blood."
+  },
+  "attempts": [
+    {
+      "candidate_id": "ood-science-018:000",
+      "parent_id": "ood-science-018",
+      "attempt": 0,
+      "seed": 3960186019,
+      "text": "The lungs transfer oxygen to and carbon dioxide from the bloodstream.",
+      "raw": "The lungs transfer oxygen to and carbon dioxide from the bloodstream.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-018:001",
+      "parent_id": "ood-science-018",
+      "attempt": 1,
+      "seed": 2244566013,
+      "text": "Blood exchanges oxygen and carbon dioxide with the lungs.",
+      "raw": "Blood exchanges oxygen and carbon dioxide with the lungs.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-018:002",
+      "parent_id": "ood-science-018",
+      "attempt": 2,
+      "seed": 1069358087,
+      "text": "The lungs interchanged oxygen and carbon dioxide with the bloodstream.",
+      "raw": "The lungs interchanged oxygen and carbon dioxide with the bloodstream.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-018:003",
+      "parent_id": "ood-science-018",
+      "attempt": 3,
+      "seed": 2252528121,
+      "text": "The respiratory system exchanges gases like oxygen and carbon dioxide within the body's circulatory network.",
+      "raw": "The respiratory system exchanges gases like oxygen and carbon dioxide within the body's circulatory network.",
+      "generated_tokens": 19,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-018:004",
+      "parent_id": "ood-science-018",
+      "attempt": 4,
+      "seed": 2683368144,
+      "text": "The lungs perform respiration by exchanging oxygen for carbon dioxide in the blood.",
+      "raw": "The lungs perform respiration by exchanging oxygen for carbon dioxide in the blood.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-018:005",
+      "parent_id": "ood-science-018",
+      "attempt": 5,
+      "seed": 2701368272,
+      "text": "Blood exchanges oxygen and carbon dioxide with the lungs.",
+      "raw": "Blood exchanges oxygen and carbon dioxide with the lungs.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-018:006",
+      "parent_id": "ood-science-018",
+      "attempt": 6,
+      "seed": 3643970935,
+      "text": "The lungs perform gas exchange by transferring oxygen from the air to the bloodstream and expelling carbon dioxide into the environment.",
+      "raw": "The lungs perform gas exchange by transferring oxygen from the air to the bloodstream and expelling carbon dioxide into the environment.",
+      "generated_tokens": 24,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-018:007",
+      "parent_id": "ood-science-018",
+      "attempt": 7,
+      "seed": 860765502,
+      "text": "Lungs swap oxygen for carbon dioxide in the bloodstream.",
+      "raw": "Lungs swap oxygen for carbon dioxide in the bloodstream.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-018:008",
+      "parent_id": "ood-science-018",
+      "attempt": 8,
+      "seed": 4026305580,
+      "text": "The lungs perform gas exchange between oxygen and carbon dioxide in the bloodstream.",
+      "raw": "The lungs perform gas exchange between oxygen and carbon dioxide in the bloodstream.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-018:009",
+      "parent_id": "ood-science-018",
+      "attempt": 9,
+      "seed": 3762746787,
+      "text": "Blood exchanges oxygen and carbon dioxide with the lungs.",
+      "raw": "Blood exchanges oxygen and carbon dioxide with the lungs.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-018:010",
+      "parent_id": "ood-science-018",
+      "attempt": 10,
+      "seed": 4203751532,
+      "text": "The lungs transfer oxygen and carbon dioxide to the bloodstream.",
+      "raw": "The lungs transfer oxygen and carbon dioxide to the bloodstream.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-018:011",
+      "parent_id": "ood-science-018",
+      "attempt": 11,
+      "seed": 1046200314,
+      "text": "The lungs facilitate gas exchange between them and blood.",
+      "raw": "The lungs facilitate gas exchange between them and blood.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-018:012",
+      "parent_id": "ood-science-018",
+      "attempt": 12,
+      "seed": 1803097716,
+      "text": "The lungs perfuse oxygen and eliminate carbon dioxide from the bloodstream.",
+      "raw": "The lungs perfuse oxygen and eliminate carbon dioxide from the bloodstream.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-018:013",
+      "parent_id": "ood-science-018",
+      "attempt": 13,
+      "seed": 1483902069,
+      "text": "Blood exchanges oxygen and carbon dioxide with the lungs.",
+      "raw": "Blood exchanges oxygen and carbon dioxide with the lungs.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-018:014",
+      "parent_id": "ood-science-018",
+      "attempt": 14,
+      "seed": 599707268,
+      "text": "The lungs perform gas exchange by transferring oxygen from the air into the bloodstream and expelling carbon dioxide from it to the atmosphere.",
+      "raw": "The lungs perform gas exchange by transferring oxygen from the air into the bloodstream and expelling carbon dioxide from it to the atmosphere.",
+      "generated_tokens": 26,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-018:015",
+      "parent_id": "ood-science-018",
+      "attempt": 15,
+      "seed": 3403529537,
+      "text": "The lungs perform gas exchange between oxygen and carbon dioxide in the blood.",
+      "raw": "The lungs perform gas exchange between oxygen and carbon dioxide in the blood.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-018:016",
+      "parent_id": "ood-science-018",
+      "attempt": 16,
+      "seed": 3723026228,
+      "text": "The lungs facilitate the gas exchange of oxygen and carbon dioxide in the bloodstream.",
+      "raw": "The lungs facilitate the gas exchange of oxygen and carbon dioxide in the bloodstream.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-018:017",
+      "parent_id": "ood-science-018",
+      "attempt": 17,
+      "seed": 437630033,
+      "text": "The blood exchanges oxygen and carbon dioxide with the lungs.",
+      "raw": "The blood exchanges oxygen and carbon dioxide with the lungs.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-018:018",
+      "parent_id": "ood-science-018",
+      "attempt": 18,
+      "seed": 2516824914,
+      "text": "The lungs facilitate the exchange of oxygen and carbon dioxide in the bloodstream.",
+      "raw": "The lungs facilitate the exchange of oxygen and carbon dioxide in the bloodstream.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-018:019",
+      "parent_id": "ood-science-018",
+      "attempt": 19,
+      "seed": 2478485969,
+      "text": "The lungs transfer oxygen to the bloodstream.",
+      "raw": "The lungs transfer oxygen to the bloodstream.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-018:020",
+      "parent_id": "ood-science-018",
+      "attempt": 20,
+      "seed": 1188919397,
+      "text": "The lungs transfer oxygen to and carbon dioxide from the blood.",
+      "raw": "The lungs transfer oxygen to and carbon dioxide from the blood.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-018:021",
+      "parent_id": "ood-science-018",
+      "attempt": 21,
+      "seed": 2146220209,
+      "text": "The lungs circulate oxygen and eliminate carbon dioxide in the bloodstream.",
+      "raw": "The lungs circulate oxygen and eliminate carbon dioxide in the bloodstream.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-018:022",
+      "parent_id": "ood-science-018",
+      "attempt": 22,
+      "seed": 1396407833,
+      "text": "The lungs transfer oxygen into the bloodstream and expel carbon dioxide from it.",
+      "raw": "The lungs transfer oxygen into the bloodstream and expel carbon dioxide from it.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-018:023",
+      "parent_id": "ood-science-018",
+      "attempt": 23,
+      "seed": 2095414205,
+      "text": "Lungs convey oxygen and carbon dioxide between the bloodstream.",
+      "raw": "Lungs convey oxygen and carbon dioxide between the bloodstream.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-018:024",
+      "parent_id": "ood-science-018",
+      "attempt": 24,
+      "seed": 2024523100,
+      "text": "Lungs facilitate the interchange of oxygen and carbon dioxide within the bloodstream.",
+      "raw": "Lungs facilitate the interchange of oxygen and carbon dioxide within the bloodstream.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-018:025",
+      "parent_id": "ood-science-018",
+      "attempt": 25,
+      "seed": 2485928092,
+      "text": "Blood exchanges oxygen and carbon dioxide with the lungs.",
+      "raw": "Blood exchanges oxygen and carbon dioxide with the lungs.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-018:026",
+      "parent_id": "ood-science-018",
+      "attempt": 26,
+      "seed": 3208442937,
+      "text": "Lungs share oxygen and carbon dioxide with blood.",
+      "raw": "Lungs share oxygen and carbon dioxide with blood.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-018:027",
+      "parent_id": "ood-science-018",
+      "attempt": 27,
+      "seed": 2935015670,
+      "text": "The lungs facilitate the exchange of oxygen and carbon dioxide between them and the bloodstream.",
+      "raw": "The lungs facilitate the exchange of oxygen and carbon dioxide between them and the bloodstream.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-018:028",
+      "parent_id": "ood-science-018",
+      "attempt": 28,
+      "seed": 2616740027,
+      "text": "Lungs perform gas exchange, transferring oxygen from inhaled air to the bloodstream and removing carbon dioxide for exhalation.",
+      "raw": "Lungs perform gas exchange, transferring oxygen from inhaled air to the bloodstream and removing carbon dioxide for exhalation.",
+      "generated_tokens": 25,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-018:029",
+      "parent_id": "ood-science-018",
+      "attempt": 29,
+      "seed": 1587977380,
+      "text": "With the blood, the lungs exchange oxygen and carbon dioxide.",
+      "raw": "With the blood, the lungs exchange oxygen and carbon dioxide.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-018:030",
+      "parent_id": "ood-science-018",
+      "attempt": 30,
+      "seed": 385009589,
+      "text": "The lungs transfer oxygen and carbon dioxide to the bloodstream.",
+      "raw": "The lungs transfer oxygen and carbon dioxide to the bloodstream.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-018:031",
+      "parent_id": "ood-science-018",
+      "attempt": 31,
+      "seed": 2065893509,
+      "text": "Lungs exchange oxygen for blood.",
+      "raw": "Lungs exchange oxygen for blood.",
+      "generated_tokens": 8,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 453,
+  "generation_seconds": 7.94942150101997
+}

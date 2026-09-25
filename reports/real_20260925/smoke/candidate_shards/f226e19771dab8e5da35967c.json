@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "dev-product-003",
+    "group_id": "dev-product-003",
+    "split": "dev",
+    "domain": "product",
+    "text": "This keyboard connects to a computer using a USB cable."
+  },
+  "attempts": [
+    {
+      "candidate_id": "dev-product-003:000",
+      "parent_id": "dev-product-003",
+      "attempt": 0,
+      "seed": 3386959892,
+      "text": "This device interfaces with a personal computer via a USB connection.",
+      "raw": "This device interfaces with a personal computer via a USB connection.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-003:001",
+      "parent_id": "dev-product-003",
+      "attempt": 1,
+      "seed": 1091316272,
+      "text": "A computer is connected to this keyboard via a USB cable.",
+      "raw": "A computer is connected to this keyboard via a USB cable.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-003:002",
+      "parent_id": "dev-product-003",
+      "attempt": 2,
+      "seed": 30622462,
+      "text": "This device pairs with a PC through a USB cord.",
+      "raw": "This device pairs with a PC through a USB cord.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-003:003",
+      "parent_id": "dev-product-003",
+      "attempt": 3,
+      "seed": 2306763312,
+      "text": "This device links to your system via a USB wire.",
+      "raw": "This device links to your system via a USB wire.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-003:004",
+      "parent_id": "dev-product-003",
+      "attempt": 4,
+      "seed": 1744988512,
+      "text": "This device interfaces with a personal computer via a USB wire.",
+      "raw": "This device interfaces with a personal computer via a USB wire.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-003:005",
+      "parent_id": "dev-product-003",
+      "attempt": 5,
+      "seed": 1770914848,
+      "text": "A USB cable connects this keyboard to a computer.",
+      "raw": "A USB cable connects this keyboard to a computer.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-003:006",
+      "parent_id": "dev-product-003",
+      "attempt": 6,
+      "seed": 1414142974,
+      "text": "This device plugs into your PC via its USB port.",
+      "raw": "This device plugs into your PC via its USB port.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-003:007",
+      "parent_id": "dev-product-003",
+      "attempt": 7,
+      "seed": 1262948131,
+      "text": "This device enables connectivity via a USB plug to an information processing apparatus.",
+      "raw": "This device enables connectivity via a USB plug to an information processing apparatus.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-003:008",
+      "parent_id": "dev-product-003",
+      "attempt": 8,
+      "seed": 3578658966,
+      "text": "This device interfaces with a personal computer via a USB cord.",
+      "raw": "This device interfaces with a personal computer via a USB cord.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-003:009",
+      "parent_id": "dev-product-003",
+      "attempt": 9,
+      "seed": 2550765767,
+      "text": "A computer can be connected to this keyboard via a USB cable.",
+      "raw": "A computer can be connected to this keyboard via a USB cable.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-003:010",
+      "parent_id": "dev-product-003",
+      "attempt": 10,
+      "seed": 2008438673,
+      "text": "A keyboard links with a PC via a USB cord.",
+      "raw": "A keyboard links with a PC via a USB cord.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-003:011",
+      "parent_id": "dev-product-003",
+      "attempt": 11,
+      "seed": 1473105023,
+      "text": "The keyboard interfaces with your computer via a USB cable.",
+      "raw": "The keyboard interfaces with your computer via a USB cable.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-003:012",
+      "parent_id": "dev-product-003",
+      "attempt": 12,
+      "seed": 2036255626,
+      "text": "This device interfaces with a personal computer via a USB cord.",
+      "raw": "This device interfaces with a personal computer via a USB cord.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-003:013",
+      "parent_id": "dev-product-003",
+      "attempt": 13,
+      "seed": 1691916819,
+      "text": "A USB cable connects this keyboard to a computer.",
+      "raw": "A USB cable connects this keyboard to a computer.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-003:014",
+      "parent_id": "dev-product-003",
+      "attempt": 14,
+      "seed": 1510853865,
+      "text": "The keyboard connects to a computer via a USB cable.",
+      "raw": "The keyboard connects to a computer via a USB cable.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-003:015",
+      "parent_id": "dev-product-003",
+      "attempt": 15,
+      "seed": 600085505,
+      "text": "This device connects to a PC through a USB port.",
+      "raw": "This device connects to a PC through a USB port.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-003:016",
+      "parent_id": "dev-product-003",
+      "attempt": 16,
+      "seed": 391787172,
+      "text": "This device interfaces with a PC via a USB connection.",
+      "raw": "This device interfaces with a PC via a USB connection.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-003:017",
+      "parent_id": "dev-product-003",
+      "attempt": 17,
+      "seed": 990865262,
+      "text": "A computer can be connected to this keyboard via a USB cable.",
+      "raw": "A computer can be connected to this keyboard via a USB cable.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-003:018",
+      "parent_id": "dev-product-003",
+      "attempt": 18,
+      "seed": 1474883099,
+      "text": "A USB cable enables this keyboard to connect with a computer.",
+      "raw": "A USB cable enables this keyboard to connect with a computer.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-003:019",
+      "parent_id": "dev-product-003",
+      "attempt": 19,
+      "seed": 598636906,
+      "text": "The keyboard is connected to a computer via a USB cable.",
+      "raw": "The keyboard is connected to a computer via a USB cable.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-003:020",
+      "parent_id": "dev-product-003",
+      "attempt": 20,
+      "seed": 3471952194,
+      "text": "This device couples with a system via a USB cord.",
+      "raw": "This device couples with a system via a USB cord.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-003:021",
+      "parent_id": "dev-product-003",
+      "attempt": 21,
+      "seed": 2251373934,
+      "text": "A USB cable connects this keyboard to a computer.",
+      "raw": "A USB cable connects this keyboard to a computer.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-003:022",
+      "parent_id": "dev-product-003",
+      "attempt": 22,
+      "seed": 2921951230,
+      "text": "This device is connected to a computer via a USB cord.",
+      "raw": "This device is connected to a computer via a USB cord.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-003:023",
+      "parent_id": "dev-product-003",
+      "attempt": 23,
+      "seed": 1022494673,
+      "text": "This device interfaces with a PC via a USB wire.",
+      "raw": "This device interfaces with a PC via a USB wire.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-003:024",
+      "parent_id": "dev-product-003",
+      "attempt": 24,
+      "seed": 1286101703,
+      "text": "This device interfaces with a personal computer via a USB cable connection.",
+      "raw": "This device interfaces with a personal computer via a USB cable connection.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-003:025",
+      "parent_id": "dev-product-003",
+      "attempt": 25,
+      "seed": 3497106700,
+      "text": "A USB cable allows this keyboard to connect to a computer.",
+      "raw": "A USB cable allows this keyboard to connect to a computer.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-003:026",
+      "parent_id": "dev-product-003",
+      "attempt": 26,
+      "seed": 367597360,
+      "text": "This device interfaces with a personal computer via a USB connector.",
+      "raw": "This device interfaces with a personal computer via a USB connector.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-003:027",
+      "parent_id": "dev-product-003",
+      "attempt": 27,
+      "seed": 2746150603,
+      "text": "The keyboard interfaces with a computer via a USB cord.",
+      "raw": "The keyboard interfaces with a computer via a USB cord.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-003:028",
+      "parent_id": "dev-product-003",
+      "attempt": 28,
+      "seed": 383371762,
+      "text": "This device employs a USB connection with the computing unit.",
+      "raw": "This device employs a USB connection with the computing unit.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-003:029",
+      "parent_id": "dev-product-003",
+      "attempt": 29,
+      "seed": 2010598579,
+      "text": "A computer can connect to this keyboard via a USB cable.",
+      "raw": "A computer can connect to this keyboard via a USB cable.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-003:030",
+      "parent_id": "dev-product-003",
+      "attempt": 30,
+      "seed": 2170634515,
+      "text": "This device plugs into a PC via a USB cord.",
+      "raw": "This device plugs into a PC via a USB cord.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-003:031",
+      "parent_id": "dev-product-003",
+      "attempt": 31,
+      "seed": 3312965714,
+      "text": "This device plugs into a machine via a USB line.",
+      "raw": "This device plugs into a machine via a USB line.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 401,
+  "generation_seconds": 7.0371926869265735
+}

@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "ood-science-021",
+    "group_id": "ood-science-021",
+    "split": "ood",
+    "domain": "science",
+    "text": "Some materials conduct electricity more easily than others."
+  },
+  "attempts": [
+    {
+      "candidate_id": "ood-science-021:000",
+      "parent_id": "ood-science-021",
+      "attempt": 0,
+      "seed": 1725377382,
+      "text": "Some materials are better conductors of electricity compared to others.",
+      "raw": "Some materials are better conductors of electricity compared to others.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-021:001",
+      "parent_id": "ood-science-021",
+      "attempt": 1,
+      "seed": 3926975753,
+      "text": "Electricity is conducted more easily by some materials compared to others.",
+      "raw": "Electricity is conducted more easily by some materials compared to others.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-021:002",
+      "parent_id": "ood-science-021",
+      "attempt": 2,
+      "seed": 1709012086,
+      "text": "Many materials allow electricity to flow through them more freely compared to others.",
+      "raw": "Many materials allow electricity to flow through them more freely compared to others.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-021:003",
+      "parent_id": "ood-science-021",
+      "attempt": 3,
+      "seed": 3619954111,
+      "text": "Some substances allow electric current to flow faster compared to others.",
+      "raw": "Some substances allow electric current to flow faster compared to others.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-021:004",
+      "parent_id": "ood-science-021",
+      "attempt": 4,
+      "seed": 2686888479,
+      "text": "Some substances facilitate electrical conductivity better than others.",
+      "raw": "Some substances facilitate electrical conductivity better than others.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-021:005",
+      "parent_id": "ood-science-021",
+      "attempt": 5,
+      "seed": 2275209523,
+      "text": "More readily conducting materials exist compared to others.",
+      "raw": "More readily conducting materials exist compared to others.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-021:006",
+      "parent_id": "ood-science-021",
+      "attempt": 6,
+      "seed": 1880632468,
+      "text": "Some substances allow electricity to pass through them more readily compared to others.",
+      "raw": "Some substances allow electricity to pass through them more readily compared to others.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-021:007",
+      "parent_id": "ood-science-021",
+      "attempt": 7,
+      "seed": 1047581991,
+      "text": "Materials that conduct electricity well differ from those that don't in their electrical conductivity properties.",
+      "raw": "Materials that conduct electricity well differ from those that don't in their electrical conductivity properties.",
+      "generated_tokens": 18,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-021:008",
+      "parent_id": "ood-science-021",
+      "attempt": 8,
+      "seed": 246539047,
+      "text": "Some substances are better conductors of electricity compared to others.",
+      "raw": "Some substances are better conductors of electricity compared to others.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-021:009",
+      "parent_id": "ood-science-021",
+      "attempt": 9,
+      "seed": 2539901456,
+      "text": "Others are better at conducting electricity than some materials.",
+      "raw": "Others are better at conducting electricity than some materials.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-021:010",
+      "parent_id": "ood-science-021",
+      "attempt": 10,
+      "seed": 1294272842,
+      "text": "Other materials allow electricity to pass through them more efficiently than some other substances.",
+      "raw": "Other materials allow electricity to pass through them more efficiently than some other substances.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-021:011",
+      "parent_id": "ood-science-021",
+      "attempt": 11,
+      "seed": 874381918,
+      "text": "Materials that carry electricity well differ from those that don't.",
+      "raw": "Materials that carry electricity well differ from those that don't.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-021:012",
+      "parent_id": "ood-science-021",
+      "attempt": 12,
+      "seed": 1492617006,
+      "text": "Some materials are better at conducting electricity compared to others.",
+      "raw": "Some materials are better at conducting electricity compared to others.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-021:013",
+      "parent_id": "ood-science-021",
+      "attempt": 13,
+      "seed": 3561179880,
+      "text": "More readily than others, some materials conduct electricity.",
+      "raw": "More readily than others, some materials conduct electricity.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-021:014",
+      "parent_id": "ood-science-021",
+      "attempt": 14,
+      "seed": 2785348456,
+      "text": "Some materials facilitate electricity better than others.",
+      "raw": "Some materials facilitate electricity better than others.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-021:015",
+      "parent_id": "ood-science-021",
+      "attempt": 15,
+      "seed": 1650624410,
+      "text": "Some substances are better at conducting electricity compared to others.",
+      "raw": "Some substances are better at conducting electricity compared to others.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-021:016",
+      "parent_id": "ood-science-021",
+      "attempt": 16,
+      "seed": 1974136919,
+      "text": "Some substances are better electric conductors compared to others.",
+      "raw": "Some substances are better electric conductors compared to others.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-021:017",
+      "parent_id": "ood-science-021",
+      "attempt": 17,
+      "seed": 1089785566,
+      "text": "Others conduct electricity more readily than certain materials.",
+      "raw": "Others conduct electricity more readily than certain materials.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-021:018",
+      "parent_id": "ood-science-021",
+      "attempt": 18,
+      "seed": 173595857,
+      "text": "Other materials allow for easier electrical conductivity.",
+      "raw": "Other materials allow for easier electrical conductivity.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-021:019",
+      "parent_id": "ood-science-021",
+      "attempt": 19,
+      "seed": 287389674,
+      "text": "Materials with better conductivity facilitate electrical flow better than those with lower conductivity.",
+      "raw": "Materials with better conductivity facilitate electrical flow better than those with lower conductivity.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-021:020",
+      "parent_id": "ood-science-021",
+      "attempt": 20,
+      "seed": 454101505,
+      "text": "Certain substances facilitate electron flow compared to others.",
+      "raw": "Certain substances facilitate electron flow compared to others.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-021:021",
+      "parent_id": "ood-science-021",
+      "attempt": 21,
+      "seed": 855014312,
+      "text": "More readily than others, some materials conduct electricity.",
+      "raw": "More readily than others, some materials conduct electricity.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-021:022",
+      "parent_id": "ood-science-021",
+      "attempt": 22,
+      "seed": 3885302624,
+      "text": "Materials that conduct electricity efficiently are fewer in number than those that do not.",
+      "raw": "Materials that conduct electricity efficiently are fewer in number than those that do not.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-021:023",
+      "parent_id": "ood-science-021",
+      "attempt": 23,
+      "seed": 2825633700,
+      "text": "Some materials facilitate electric current better than others.",
+      "raw": "Some materials facilitate electric current better than others.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-021:024",
+      "parent_id": "ood-science-021",
+      "attempt": 24,
+      "seed": 2685055534,
+      "text": "Materials exhibit greater electrical conductivity compared to others.",
+      "raw": "Materials exhibit greater electrical conductivity compared to others.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-021:025",
+      "parent_id": "ood-science-021",
+      "attempt": 25,
+      "seed": 1527328178,
+      "text": "Others conduct electricity less readily than some materials.",
+      "raw": "Others conduct electricity less readily than some materials.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-021:026",
+      "parent_id": "ood-science-021",
+      "attempt": 26,
+      "seed": 2753681465,
+      "text": "Some substances conduct electricity better than others.",
+      "raw": "Some substances conduct electricity better than others.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-021:027",
+      "parent_id": "ood-science-021",
+      "attempt": 27,
+      "seed": 2271540787,
+      "text": "Materials that conduct electricity better than others exist.",
+      "raw": "Materials that conduct electricity better than others exist.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-021:028",
+      "parent_id": "ood-science-021",
+      "attempt": 28,
+      "seed": 3667123019,
+      "text": "Certain substances facilitate electrical conductivity over others.",
+      "raw": "Certain substances facilitate electrical conductivity over others.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-021:029",
+      "parent_id": "ood-science-021",
+      "attempt": 29,
+      "seed": 2703711028,
+      "text": "Others have a better ability to conduct electricity compared to some materials.",
+      "raw": "Others have a better ability to conduct electricity compared to some materials.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-021:030",
+      "parent_id": "ood-science-021",
+      "attempt": 30,
+      "seed": 1119246586,
+      "text": "Other materials conduct electricity less easily than some.",
+      "raw": "Other materials conduct electricity less easily than some.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-021:031",
+      "parent_id": "ood-science-021",
+      "attempt": 31,
+      "seed": 3355587103,
+      "text": "Materials that conduct electricity efficiently are different from those that do not.",
+      "raw": "Materials that conduct electricity efficiently are different from those that do not.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 384,
+  "generation_seconds": 6.723419266985729
+}

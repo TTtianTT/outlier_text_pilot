@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "ood-science-026",
+    "group_id": "ood-science-026",
+    "split": "ood",
+    "domain": "science",
+    "text": "A food chain describes a sequence of feeding relationships."
+  },
+  "attempts": [
+    {
+      "candidate_id": "ood-science-026:000",
+      "parent_id": "ood-science-026",
+      "attempt": 0,
+      "seed": 1326014105,
+      "text": "A food web illustrates a series of interaction dynamics among organisms.",
+      "raw": "A food web illustrates a series of interaction dynamics among organisms.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-026:001",
+      "parent_id": "ood-science-026",
+      "attempt": 1,
+      "seed": 4221402040,
+      "text": "A food chain illustrates a series of feeding connections between organisms.",
+      "raw": "A food chain illustrates a series of feeding connections between organisms.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-026:002",
+      "parent_id": "ood-science-026",
+      "attempt": 2,
+      "seed": 1070224817,
+      "text": "A food web outlines the interconnectedness through various eating patterns.",
+      "raw": "A food web outlines the interconnectedness through various eating patterns.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-026:003",
+      "parent_id": "ood-science-026",
+      "attempt": 3,
+      "seed": 135513370,
+      "text": "A food chain shows how animals eat each other in an ecosystem.",
+      "raw": "A food chain shows how animals eat each other in an ecosystem.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-026:004",
+      "parent_id": "ood-science-026",
+      "attempt": 4,
+      "seed": 4205165139,
+      "text": "A food web illustrates sequential feeding connections.",
+      "raw": "A food web illustrates sequential feeding connections.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-026:005",
+      "parent_id": "ood-science-026",
+      "attempt": 5,
+      "seed": 3661995199,
+      "text": "A food chain illustrates the interconnectedness of feeding behaviors in an ecosystem.",
+      "raw": "A food chain illustrates the interconnectedness of feeding behaviors in an ecosystem.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-026:006",
+      "parent_id": "ood-science-026",
+      "attempt": 6,
+      "seed": 2143908403,
+      "text": "A food web represents a series of interrelated feeding patterns.",
+      "raw": "A food web represents a series of interrelated feeding patterns.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-026:007",
+      "parent_id": "ood-science-026",
+      "attempt": 7,
+      "seed": 4112202381,
+      "text": "A food chain outlines how creatures feed on each other in an ecosystem.",
+      "raw": "A food chain outlines how creatures feed on each other in an ecosystem.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-026:008",
+      "parent_id": "ood-science-026",
+      "attempt": 8,
+      "seed": 4058242493,
+      "text": "A food web illustrates a series of feeding connections.",
+      "raw": "A food web illustrates a series of feeding connections.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-026:009",
+      "parent_id": "ood-science-026",
+      "attempt": 9,
+      "seed": 3324581873,
+      "text": "A sequence of feeding relationships is described by a food chain.",
+      "raw": "A sequence of feeding relationships is described by a food chain.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-026:010",
+      "parent_id": "ood-science-026",
+      "attempt": 10,
+      "seed": 2363144365,
+      "text": "A food web illustrates interconnected eating habits.",
+      "raw": "A food web illustrates interconnected eating habits.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-026:011",
+      "parent_id": "ood-science-026",
+      "attempt": 11,
+      "seed": 1663456266,
+      "text": "A food chain shows how animals eat each other in a line.",
+      "raw": "A food chain shows how animals eat each other in a line.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-026:012",
+      "parent_id": "ood-science-026",
+      "attempt": 12,
+      "seed": 2865999666,
+      "text": "A food web illustrates interconnected feeding relationships.",
+      "raw": "A food web illustrates interconnected feeding relationships.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-026:013",
+      "parent_id": "ood-science-026",
+      "attempt": 13,
+      "seed": 2321011167,
+      "text": "A food chain represents a series of interactions where each organism feeds on another.",
+      "raw": "A food chain represents a series of interactions where each organism feeds on another.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-026:014",
+      "parent_id": "ood-science-026",
+      "attempt": 14,
+      "seed": 2343994886,
+      "text": "A food chain represents a series of interactions where organisms obtain nutrition from other species.",
+      "raw": "A food chain represents a series of interactions where organisms obtain nutrition from other species.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-026:015",
+      "parent_id": "ood-science-026",
+      "attempt": 15,
+      "seed": 4207250559,
+      "text": "A food web explains a series of eating connections.",
+      "raw": "A food web explains a series of eating connections.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-026:016",
+      "parent_id": "ood-science-026",
+      "attempt": 16,
+      "seed": 2847370273,
+      "text": "A food web illustrates an arrangement of feeding links.",
+      "raw": "A food web illustrates an arrangement of feeding links.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-026:017",
+      "parent_id": "ood-science-026",
+      "attempt": 17,
+      "seed": 11077292,
+      "text": "A food chain represents a series of feeding links.",
+      "raw": "A food chain represents a series of feeding links.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-026:018",
+      "parent_id": "ood-science-026",
+      "attempt": 18,
+      "seed": 3135356323,
+      "text": "A food web depicts a series of consuming links.",
+      "raw": "A food web depicts a series of consuming links.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-026:019",
+      "parent_id": "ood-science-026",
+      "attempt": 19,
+      "seed": 2605651923,
+      "text": "A food web illustrates a series of interdependent feeding connections.",
+      "raw": "A food web illustrates a series of interdependent feeding connections.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-026:020",
+      "parent_id": "ood-science-026",
+      "attempt": 20,
+      "seed": 3898060316,
+      "text": "A food web depicts an interconnected series of eating connections.",
+      "raw": "A food web depicts an interconnected series of eating connections.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-026:021",
+      "parent_id": "ood-science-026",
+      "attempt": 21,
+      "seed": 4020556167,
+      "text": "A food web outlines the succession of feeding links.",
+      "raw": "A food web outlines the succession of feeding links.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-026:022",
+      "parent_id": "ood-science-026",
+      "attempt": 22,
+      "seed": 808537870,
+      "text": "A food web illustrates a series of feeding connections.",
+      "raw": "A food web illustrates a series of feeding connections.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-026:023",
+      "parent_id": "ood-science-026",
+      "attempt": 23,
+      "seed": 226716909,
+      "text": "A food web outlines the interactions between organisms in an ecosystem by tracing how each organism feeds on others sequentially.",
+      "raw": "A food web outlines the interactions between organisms in an ecosystem by tracing how each organism feeds on others sequentially.",
+      "generated_tokens": 22,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-026:024",
+      "parent_id": "ood-science-026",
+      "attempt": 24,
+      "seed": 4237163400,
+      "text": "A food web depicts a sequence of interdependent feeding connections.",
+      "raw": "A food web depicts a sequence of interdependent feeding connections.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-026:025",
+      "parent_id": "ood-science-026",
+      "attempt": 25,
+      "seed": 1156197684,
+      "text": "A food chain represents a series of feeding connections.",
+      "raw": "A food chain represents a series of feeding connections.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-026:026",
+      "parent_id": "ood-science-026",
+      "attempt": 26,
+      "seed": 1103307095,
+      "text": "A food web illustrates a series of feeding connections.",
+      "raw": "A food web illustrates a series of feeding connections.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-026:027",
+      "parent_id": "ood-science-026",
+      "attempt": 27,
+      "seed": 666428704,
+      "text": "A food web illustrates sequential eating connections.",
+      "raw": "A food web illustrates sequential eating connections.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-026:028",
+      "parent_id": "ood-science-026",
+      "attempt": 28,
+      "seed": 3204703775,
+      "text": "A food web illustrates interconnected feeding patterns.",
+      "raw": "A food web illustrates interconnected feeding patterns.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-026:029",
+      "parent_id": "ood-science-026",
+      "attempt": 29,
+      "seed": 3754599944,
+      "text": "A food chain outlines sequential feeding connections.",
+      "raw": "A food chain outlines sequential feeding connections.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-026:030",
+      "parent_id": "ood-science-026",
+      "attempt": 30,
+      "seed": 2254618583,
+      "text": "A food web illustrates a series of feeding connections.",
+      "raw": "A food web illustrates a series of feeding connections.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-026:031",
+      "parent_id": "ood-science-026",
+      "attempt": 31,
+      "seed": 98638726,
+      "text": "A food chain illustrates a progression in feeding interactions.",
+      "raw": "A food chain illustrates a progression in feeding interactions.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 391,
+  "generation_seconds": 6.8569191980641335
+}

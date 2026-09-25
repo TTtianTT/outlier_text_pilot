@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "dev-daily-008",
+    "group_id": "dev-daily-008",
+    "split": "dev",
+    "domain": "daily",
+    "text": "The cafe near the bridge has a few tables outside."
+  },
+  "attempts": [
+    {
+      "candidate_id": "dev-daily-008:000",
+      "parent_id": "dev-daily-008",
+      "attempt": 0,
+      "seed": 3411042137,
+      "text": "The café beside the bridge features a couple of benches outdoors.",
+      "raw": "The café beside the bridge features a couple of benches outdoors.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-008:001",
+      "parent_id": "dev-daily-008",
+      "attempt": 1,
+      "seed": 1581963589,
+      "text": "A few tables outside the cafe near the bridge exist.",
+      "raw": "A few tables outside the cafe near the bridge exist.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-008:002",
+      "parent_id": "dev-daily-008",
+      "attempt": 2,
+      "seed": 3639224649,
+      "text": "A café close to the bridge features a couple of seats outdoors.",
+      "raw": "A café close to the bridge features a couple of seats outdoors.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-008:003",
+      "parent_id": "dev-daily-008",
+      "attempt": 3,
+      "seed": 1623846040,
+      "text": "There is a cafe beside the bridge with a couple of outdoor seats.",
+      "raw": "There is a cafe beside the bridge with a couple of outdoor seats.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-008:004",
+      "parent_id": "dev-daily-008",
+      "attempt": 4,
+      "seed": 303634688,
+      "text": "The café adjacent to the bridge contains a couple of seating arrangements outdoors.",
+      "raw": "The café adjacent to the bridge contains a couple of seating arrangements outdoors.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-008:005",
+      "parent_id": "dev-daily-008",
+      "attempt": 5,
+      "seed": 3068505757,
+      "text": "A few tables are located outside of the cafe near the bridge.",
+      "raw": "A few tables are located outside of the cafe near the bridge.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-008:006",
+      "parent_id": "dev-daily-008",
+      "attempt": 6,
+      "seed": 2081090446,
+      "text": "A few tables in the cafe situated near the bridge are accessible outdoors.",
+      "raw": "A few tables in the cafe situated near the bridge are accessible outdoors.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-008:007",
+      "parent_id": "dev-daily-008",
+      "attempt": 7,
+      "seed": 1367048883,
+      "text": "The cafe close to the bridge features several seats outdoors.",
+      "raw": "The cafe close to the bridge features several seats outdoors.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-008:008",
+      "parent_id": "dev-daily-008",
+      "attempt": 8,
+      "seed": 3183174274,
+      "text": "The cafe adjacent to the bridge boasts several seating spots outdoors.",
+      "raw": "The cafe adjacent to the bridge boasts several seating spots outdoors.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-008:009",
+      "parent_id": "dev-daily-008",
+      "attempt": 9,
+      "seed": 2670827429,
+      "text": "A few tables at the cafe near the bridge are available outside.",
+      "raw": "A few tables at the cafe near the bridge are available outside.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-008:010",
+      "parent_id": "dev-daily-008",
+      "attempt": 10,
+      "seed": 4269735210,
+      "text": "Near the bridge, there are a couple of tables available outdoors at the cafe.",
+      "raw": "Near the bridge, there are a couple of tables available outdoors at the cafe.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-008:011",
+      "parent_id": "dev-daily-008",
+      "attempt": 11,
+      "seed": 2422093057,
+      "text": "There is a cafe beside the bridge with some benches outdoors.",
+      "raw": "There is a cafe beside the bridge with some benches outdoors.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-008:012",
+      "parent_id": "dev-daily-008",
+      "attempt": 12,
+      "seed": 990192531,
+      "text": "The café adjacent to the bridge features a couple of benches outdoors.",
+      "raw": "The café adjacent to the bridge features a couple of benches outdoors.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-008:013",
+      "parent_id": "dev-daily-008",
+      "attempt": 13,
+      "seed": 1503638839,
+      "text": "Near the bridge stands a cafe with several outdoor tables.",
+      "raw": "Near the bridge stands a cafe with several outdoor tables.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-008:014",
+      "parent_id": "dev-daily-008",
+      "attempt": 14,
+      "seed": 2527606219,
+      "text": "The cafe adjacent to the bridge is available with outdoor seating.",
+      "raw": "The cafe adjacent to the bridge is available with outdoor seating.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-008:015",
+      "parent_id": "dev-daily-008",
+      "attempt": 15,
+      "seed": 1559344300,
+      "text": "The bridge-side cafe contains several outdoor seats.",
+      "raw": "The bridge-side cafe contains several outdoor seats.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-008:016",
+      "parent_id": "dev-daily-008",
+      "attempt": 16,
+      "seed": 3004121318,
+      "text": "The café adjacent to the bridge possesses several outdoor seats.",
+      "raw": "The café adjacent to the bridge possesses several outdoor seats.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-008:017",
+      "parent_id": "dev-daily-008",
+      "attempt": 17,
+      "seed": 2917528058,
+      "text": "A few tables outside the cafe near the bridge.",
+      "raw": "A few tables outside the cafe near the bridge.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-008:018",
+      "parent_id": "dev-daily-008",
+      "attempt": 18,
+      "seed": 3270112769,
+      "text": "There is a cafe situated beside the bridge with some outdoor seating options available.",
+      "raw": "There is a cafe situated beside the bridge with some outdoor seating options available.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-008:019",
+      "parent_id": "dev-daily-008",
+      "attempt": 19,
+      "seed": 2074854442,
+      "text": "The cafe by the bridge offers several outdoor seats.",
+      "raw": "The cafe by the bridge offers several outdoor seats.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-008:020",
+      "parent_id": "dev-daily-008",
+      "attempt": 20,
+      "seed": 2381105569,
+      "text": "A café by the bridge features a couple of seats outdoors.",
+      "raw": "A café by the bridge features a couple of seats outdoors.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-008:021",
+      "parent_id": "dev-daily-008",
+      "attempt": 21,
+      "seed": 3876608554,
+      "text": "Near the bridge stands a cafe with a couple of tables outdoors.",
+      "raw": "Near the bridge stands a cafe with a couple of tables outdoors.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-008:022",
+      "parent_id": "dev-daily-008",
+      "attempt": 22,
+      "seed": 2969505091,
+      "text": "There is a cafe nearby with several outdoor seats.",
+      "raw": "There is a cafe nearby with several outdoor seats.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-008:023",
+      "parent_id": "dev-daily-008",
+      "attempt": 23,
+      "seed": 3213806014,
+      "text": "There is a cafe adjacent to a bridge that offers seating outdoors.",
+      "raw": "There is a cafe adjacent to a bridge that offers seating outdoors.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-008:024",
+      "parent_id": "dev-daily-008",
+      "attempt": 24,
+      "seed": 1830993311,
+      "text": "The cafe next to the bridge offers a couple of outdoor seats.",
+      "raw": "The cafe next to the bridge offers a couple of outdoor seats.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-008:025",
+      "parent_id": "dev-daily-008",
+      "attempt": 25,
+      "seed": 569000381,
+      "text": "Few tables in the cafe beside the bridge are exposed to air.",
+      "raw": "Few tables in the cafe beside the bridge are exposed to air.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-008:026",
+      "parent_id": "dev-daily-008",
+      "attempt": 26,
+      "seed": 509616902,
+      "text": "The café by the bridge features several outdoor tables.",
+      "raw": "The café by the bridge features several outdoor tables.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-008:027",
+      "parent_id": "dev-daily-008",
+      "attempt": 27,
+      "seed": 90715936,
+      "text": "The cafe by the bridge offers some outdoor seating.",
+      "raw": "The cafe by the bridge offers some outdoor seating.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-008:028",
+      "parent_id": "dev-daily-008",
+      "attempt": 28,
+      "seed": 1732698485,
+      "text": "A couple of tables are available outdoors at the cafe beside the bridge.",
+      "raw": "A couple of tables are available outdoors at the cafe beside the bridge.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-008:029",
+      "parent_id": "dev-daily-008",
+      "attempt": 29,
+      "seed": 325850913,
+      "text": "A few tables outside the cafe by the bridge are available.",
+      "raw": "A few tables outside the cafe by the bridge are available.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-008:030",
+      "parent_id": "dev-daily-008",
+      "attempt": 30,
+      "seed": 2116323951,
+      "text": "There is a cafe close to the bridge with a couple of tables outdoors.",
+      "raw": "There is a cafe close to the bridge with a couple of tables outdoors.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-008:031",
+      "parent_id": "dev-daily-008",
+      "attempt": 31,
+      "seed": 3908538954,
+      "text": "The cafe beside the bridge offers several outdoor seats.",
+      "raw": "The cafe beside the bridge offers several outdoor seats.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 423,
+  "generation_seconds": 7.393727421062067
+}

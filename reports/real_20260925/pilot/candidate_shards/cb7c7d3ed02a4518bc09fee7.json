@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "ood-science-005",
+    "group_id": "ood-science-005",
+    "split": "ood",
+    "domain": "science",
+    "text": "Plants use light energy to make sugars during photosynthesis."
+  },
+  "attempts": [
+    {
+      "candidate_id": "ood-science-005:000",
+      "parent_id": "ood-science-005",
+      "attempt": 0,
+      "seed": 2354343815,
+      "text": "Plants convert sunlight into sugars through photosynthesis.",
+      "raw": "Plants convert sunlight into sugars through photosynthesis.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-005:001",
+      "parent_id": "ood-science-005",
+      "attempt": 1,
+      "seed": 1851723717,
+      "text": "During photosynthesis, plants convert light energy into sugars.",
+      "raw": "During photosynthesis, plants convert light energy into sugars.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-005:002",
+      "parent_id": "ood-science-005",
+      "attempt": 2,
+      "seed": 2187576248,
+      "text": "Plants convert light energy into sugar through photosynthesis.",
+      "raw": "Plants convert light energy into sugar through photosynthesis.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-005:003",
+      "parent_id": "ood-science-005",
+      "attempt": 3,
+      "seed": 1353750545,
+      "text": "Plants convert light energy into sugars through photosynthesis.",
+      "raw": "Plants convert light energy into sugars through photosynthesis.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-005:004",
+      "parent_id": "ood-science-005",
+      "attempt": 4,
+      "seed": 1232798552,
+      "text": "Plants convert light into sugar through photosynthesis.",
+      "raw": "Plants convert light into sugar through photosynthesis.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-005:005",
+      "parent_id": "ood-science-005",
+      "attempt": 5,
+      "seed": 1252113643,
+      "text": "During photosynthesis, plants convert light energy into sugars.",
+      "raw": "During photosynthesis, plants convert light energy into sugars.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-005:006",
+      "parent_id": "ood-science-005",
+      "attempt": 6,
+      "seed": 993746537,
+      "text": "Plants absorb light energy and convert it into sugars through photosynthesis.",
+      "raw": "Plants absorb light energy and convert it into sugars through photosynthesis.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-005:007",
+      "parent_id": "ood-science-005",
+      "attempt": 7,
+      "seed": 1533879810,
+      "text": "Photosynthesis converts sunlight into sugars by plants.",
+      "raw": "Photosynthesis converts sunlight into sugars by plants.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-005:008",
+      "parent_id": "ood-science-005",
+      "attempt": 8,
+      "seed": 2706830259,
+      "text": "Plants utilize sunlight to synthesize sugars through photosynthesis.",
+      "raw": "Plants utilize sunlight to synthesize sugars through photosynthesis.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-005:009",
+      "parent_id": "ood-science-005",
+      "attempt": 9,
+      "seed": 2800298570,
+      "text": "During photosynthesis, plants utilize light energy to generate sugars.",
+      "raw": "During photosynthesis, plants utilize light energy to generate sugars.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-005:010",
+      "parent_id": "ood-science-005",
+      "attempt": 10,
+      "seed": 426749788,
+      "text": "Plants convert light energy into sugars through photosynthesis.",
+      "raw": "Plants convert light energy into sugars through photosynthesis.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-005:011",
+      "parent_id": "ood-science-005",
+      "attempt": 11,
+      "seed": 1981261400,
+      "text": "Plants harness light energy for sugar creation through photosynthesis.",
+      "raw": "Plants harness light energy for sugar creation through photosynthesis.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-005:012",
+      "parent_id": "ood-science-005",
+      "attempt": 12,
+      "seed": 4108888332,
+      "text": "Plants convert sunlight into glucose through photosynthesis.",
+      "raw": "Plants convert sunlight into glucose through photosynthesis.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-005:013",
+      "parent_id": "ood-science-005",
+      "attempt": 13,
+      "seed": 3048542627,
+      "text": "During photosynthesis, plants convert light energy into sugars.",
+      "raw": "During photosynthesis, plants convert light energy into sugars.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-005:014",
+      "parent_id": "ood-science-005",
+      "attempt": 14,
+      "seed": 895797153,
+      "text": "Plants convert sunlight into glucose through photosynthesis.",
+      "raw": "Plants convert sunlight into glucose through photosynthesis.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-005:015",
+      "parent_id": "ood-science-005",
+      "attempt": 15,
+      "seed": 333218942,
+      "text": "Plants convert sunlight into sugar through photosynthesis.",
+      "raw": "Plants convert sunlight into sugar through photosynthesis.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-005:016",
+      "parent_id": "ood-science-005",
+      "attempt": 16,
+      "seed": 3972349694,
+      "text": "Plants harness light energy to create sugars through photosynthesis.",
+      "raw": "Plants harness light energy to create sugars through photosynthesis.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-005:017",
+      "parent_id": "ood-science-005",
+      "attempt": 17,
+      "seed": 3899815286,
+      "text": "During photosynthesis, plants convert light energy into sugars.",
+      "raw": "During photosynthesis, plants convert light energy into sugars.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-005:018",
+      "parent_id": "ood-science-005",
+      "attempt": 18,
+      "seed": 1619613947,
+      "text": "Plants utilize sunlight to create glucose through photosynthesis.",
+      "raw": "Plants utilize sunlight to create glucose through photosynthesis.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-005:019",
+      "parent_id": "ood-science-005",
+      "attempt": 19,
+      "seed": 209188890,
+      "text": "Plants utilize light energy for sugar production through photosynthesis.",
+      "raw": "Plants utilize light energy for sugar production through photosynthesis.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-005:020",
+      "parent_id": "ood-science-005",
+      "attempt": 20,
+      "seed": 1717918623,
+      "text": "Plants employ light energy to create sugars through photosynthesis.",
+      "raw": "Plants employ light energy to create sugars through photosynthesis.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-005:021",
+      "parent_id": "ood-science-005",
+      "attempt": 21,
+      "seed": 1843029518,
+      "text": "During photosynthesis, plants convert light energy into sugars.",
+      "raw": "During photosynthesis, plants convert light energy into sugars.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-005:022",
+      "parent_id": "ood-science-005",
+      "attempt": 22,
+      "seed": 3752409811,
+      "text": "Plants convert sunlight into sugar through photosynthesis.",
+      "raw": "Plants convert sunlight into sugar through photosynthesis.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-005:023",
+      "parent_id": "ood-science-005",
+      "attempt": 23,
+      "seed": 3133739568,
+      "text": "Plants harness sunlight to create glucose through photosynthesis.",
+      "raw": "Plants harness sunlight to create glucose through photosynthesis.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-005:024",
+      "parent_id": "ood-science-005",
+      "attempt": 24,
+      "seed": 511924347,
+      "text": "Plants convert sunlight into glucose through photosynthesis.",
+      "raw": "Plants convert sunlight into glucose through photosynthesis.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-005:025",
+      "parent_id": "ood-science-005",
+      "attempt": 25,
+      "seed": 3671022623,
+      "text": "During photosynthesis, plants convert light energy into sugars.",
+      "raw": "During photosynthesis, plants convert light energy into sugars.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-005:026",
+      "parent_id": "ood-science-005",
+      "attempt": 26,
+      "seed": 1961118208,
+      "text": "Plants convert sunlight into glucose through photosynthesis.",
+      "raw": "Plants convert sunlight into glucose through photosynthesis.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-005:027",
+      "parent_id": "ood-science-005",
+      "attempt": 27,
+      "seed": 943811495,
+      "text": "Plants convert sunlight into energy through photosynthesis.",
+      "raw": "Plants convert sunlight into energy through photosynthesis.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-005:028",
+      "parent_id": "ood-science-005",
+      "attempt": 28,
+      "seed": 2053005974,
+      "text": "Plants harness sunlight to synthesize carbohydrates through photosynthesis.",
+      "raw": "Plants harness sunlight to synthesize carbohydrates through photosynthesis.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-005:029",
+      "parent_id": "ood-science-005",
+      "attempt": 29,
+      "seed": 3158259143,
+      "text": "During photosynthesis, plants utilize light energy to produce sugars.",
+      "raw": "During photosynthesis, plants utilize light energy to produce sugars.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-005:030",
+      "parent_id": "ood-science-005",
+      "attempt": 30,
+      "seed": 2005355386,
+      "text": "Plants convert sunlight into glucose through photosynthesis.",
+      "raw": "Plants convert sunlight into glucose through photosynthesis.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-005:031",
+      "parent_id": "ood-science-005",
+      "attempt": 31,
+      "seed": 977855504,
+      "text": "Plants convert sunlight into sugar through photosynthesis.",
+      "raw": "Plants convert sunlight into sugar through photosynthesis.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    }
+  ],
+  "generated_tokens": 382,
+  "generation_seconds": 6.903652724111453
+}

@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "test-daily-004",
+    "group_id": "test-daily-004",
+    "split": "test",
+    "domain": "daily",
+    "text": "The restaurant was quiet when we arrived in the early evening."
+  },
+  "attempts": [
+    {
+      "candidate_id": "test-daily-004:000",
+      "parent_id": "test-daily-004",
+      "attempt": 0,
+      "seed": 1915947717,
+      "text": "The establishment was peaceful upon our arrival in the late afternoon.",
+      "raw": "The establishment was peaceful upon our arrival in the late afternoon.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-004:001",
+      "parent_id": "test-daily-004",
+      "attempt": 1,
+      "seed": 903857088,
+      "text": "We were greeted by a quiet restaurant during our arrival in the early evening.",
+      "raw": "We were greeted by a quiet restaurant during our arrival in the early evening.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-004:002",
+      "parent_id": "test-daily-004",
+      "attempt": 2,
+      "seed": 2112077596,
+      "text": "We found the restaurant to be quite at our arrival during the early evening hours.",
+      "raw": "We found the restaurant to be quite at our arrival during the early evening hours.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-004:003",
+      "parent_id": "test-daily-004",
+      "attempt": 3,
+      "seed": 4260005760,
+      "text": "When we reached the restaurant in the early evening, it was quite.",
+      "raw": "When we reached the restaurant in the early evening, it was quite.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-004:004",
+      "parent_id": "test-daily-004",
+      "attempt": 4,
+      "seed": 2092235272,
+      "text": "The establishment was calm upon our arrival in the late afternoon.",
+      "raw": "The establishment was calm upon our arrival in the late afternoon.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-004:005",
+      "parent_id": "test-daily-004",
+      "attempt": 5,
+      "seed": 1413446166,
+      "text": "We arrived at the restaurant during its early evening with it being quite.",
+      "raw": "We arrived at the restaurant during its early evening with it being quite.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-004:006",
+      "parent_id": "test-daily-004",
+      "attempt": 6,
+      "seed": 1674023607,
+      "text": "We found the restaurant to be quite during our visit in the early evening.",
+      "raw": "We found the restaurant to be quite during our visit in the early evening.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-004:007",
+      "parent_id": "test-daily-004",
+      "attempt": 7,
+      "seed": 2088614574,
+      "text": "The restaurant remained quiet during our visit at dusk.",
+      "raw": "The restaurant remained quiet during our visit at dusk.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-004:008",
+      "parent_id": "test-daily-004",
+      "attempt": 8,
+      "seed": 451235764,
+      "text": "The establishment remained peaceful upon our arrival late in the afternoon.",
+      "raw": "The establishment remained peaceful upon our arrival late in the afternoon.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-004:009",
+      "parent_id": "test-daily-004",
+      "attempt": 9,
+      "seed": 2800985347,
+      "text": "We arrived at the restaurant during the early evening hours, finding it to be quite quiet.",
+      "raw": "We arrived at the restaurant during the early evening hours, finding it to be quite quiet.",
+      "generated_tokens": 19,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-004:010",
+      "parent_id": "test-daily-004",
+      "attempt": 10,
+      "seed": 132003748,
+      "text": "The restaurant remained calm upon our arrival during the early evening.",
+      "raw": "The restaurant remained calm upon our arrival during the early evening.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-004:011",
+      "parent_id": "test-daily-004",
+      "attempt": 11,
+      "seed": 3463808651,
+      "text": "The restaurant remained calm during our visit in the late afternoon.",
+      "raw": "The restaurant remained calm during our visit in the late afternoon.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-004:012",
+      "parent_id": "test-daily-004",
+      "attempt": 12,
+      "seed": 1603309159,
+      "text": "The establishment remained tranquil upon our arrival at dusk.",
+      "raw": "The establishment remained tranquil upon our arrival at dusk.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-004:013",
+      "parent_id": "test-daily-004",
+      "attempt": 13,
+      "seed": 2758420493,
+      "text": "In the early evening, we found the restaurant to be quite.",
+      "raw": "In the early evening, we found the restaurant to be quite.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-004:014",
+      "parent_id": "test-daily-004",
+      "attempt": 14,
+      "seed": 680818448,
+      "text": "The restaurant was quite during our arrival in the early evening.",
+      "raw": "The restaurant was quite during our arrival in the early evening.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-004:015",
+      "parent_id": "test-daily-004",
+      "attempt": 15,
+      "seed": 4125690214,
+      "text": "We found the restaurant quite silent upon our arrival late in the afternoon.",
+      "raw": "We found the restaurant quite silent upon our arrival late in the afternoon.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-004:016",
+      "parent_id": "test-daily-004",
+      "attempt": 16,
+      "seed": 713558645,
+      "text": "The establishment was serene upon our arrival at dusk.",
+      "raw": "The establishment was serene upon our arrival at dusk.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-004:017",
+      "parent_id": "test-daily-004",
+      "attempt": 17,
+      "seed": 494101882,
+      "text": "In the early evening, the restaurant was found to be quiet.",
+      "raw": "In the early evening, the restaurant was found to be quiet.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-004:018",
+      "parent_id": "test-daily-004",
+      "attempt": 18,
+      "seed": 3536493388,
+      "text": "We found the restaurant to be quiet upon arrival at the early evening hour.",
+      "raw": "We found the restaurant to be quiet upon arrival at the early evening hour.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-004:019",
+      "parent_id": "test-daily-004",
+      "attempt": 19,
+      "seed": 2183315271,
+      "text": "The restaurant was quiet upon our arrival at dawn that day.",
+      "raw": "The restaurant was quiet upon our arrival at dawn that day.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-004:020",
+      "parent_id": "test-daily-004",
+      "attempt": 20,
+      "seed": 3212909836,
+      "text": "The restaurant remained silent upon our arrival in the late afternoon.",
+      "raw": "The restaurant remained silent upon our arrival in the late afternoon.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-004:021",
+      "parent_id": "test-daily-004",
+      "attempt": 21,
+      "seed": 1830532718,
+      "text": "When we arrived at the restaurant in the early evening, it was quite quiet.",
+      "raw": "When we arrived at the restaurant in the early evening, it was quite quiet.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-004:022",
+      "parent_id": "test-daily-004",
+      "attempt": 22,
+      "seed": 3378675694,
+      "text": "The restaurant remained quiet upon our arrival during the early evening hour.",
+      "raw": "The restaurant remained quiet upon our arrival during the early evening hour.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-004:023",
+      "parent_id": "test-daily-004",
+      "attempt": 23,
+      "seed": 3900982314,
+      "text": "We encountered silence at the establishment as we approached around dusk.",
+      "raw": "We encountered silence at the establishment as we approached around dusk.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-004:024",
+      "parent_id": "test-daily-004",
+      "attempt": 24,
+      "seed": 2654712287,
+      "text": "The establishment was subdued upon our arrival at dusk.",
+      "raw": "The establishment was subdued upon our arrival at dusk.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-004:025",
+      "parent_id": "test-daily-004",
+      "attempt": 25,
+      "seed": 310710490,
+      "text": "In the early evening, the restaurant was quiet when we arrived there.",
+      "raw": "In the early evening, the restaurant was quiet when we arrived there.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-004:026",
+      "parent_id": "test-daily-004",
+      "attempt": 26,
+      "seed": 1364141111,
+      "text": "The establishment was serene upon our arrival late in the day.",
+      "raw": "The establishment was serene upon our arrival late in the day.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-004:027",
+      "parent_id": "test-daily-004",
+      "attempt": 27,
+      "seed": 861660517,
+      "text": "We found the restaurant quite serene upon our arrival at dusk.",
+      "raw": "We found the restaurant quite serene upon our arrival at dusk.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-004:028",
+      "parent_id": "test-daily-004",
+      "attempt": 28,
+      "seed": 2414418321,
+      "text": "The establishment remained silent upon our arrival during the early evening hours.",
+      "raw": "The establishment remained silent upon our arrival during the early evening hours.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-004:029",
+      "parent_id": "test-daily-004",
+      "attempt": 29,
+      "seed": 3430641232,
+      "text": "We arrived at the restaurant during its early evening hours with it being quite quiet.",
+      "raw": "We arrived at the restaurant during its early evening hours with it being quite quiet.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-004:030",
+      "parent_id": "test-daily-004",
+      "attempt": 30,
+      "seed": 2867564890,
+      "text": "We encountered a quiet environment upon our arrival in the early evening at the restaurant.",
+      "raw": "We encountered a quiet environment upon our arrival in the early evening at the restaurant.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-004:031",
+      "parent_id": "test-daily-004",
+      "attempt": 31,
+      "seed": 427127365,
+      "text": "There was silence at the establishment upon our arrival during the midday hours.",
+      "raw": "There was silence at the establishment upon our arrival during the midday hours.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 454,
+  "generation_seconds": 7.966199075104669
+}

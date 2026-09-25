@@ -1,0 +1,21 @@
+{
+  "scope": "accepted transmissions; same-pool NLL-proxy covers; char n-gram detector only",
+  "results": [
+    {
+      "method": "outlier",
+      "status": "insufficient_dev_samples"
+    },
+    {
+      "method": "matched",
+      "status": "insufficient_dev_samples"
+    },
+    {
+      "method": "random",
+      "status": "insufficient_dev_samples"
+    },
+    {
+      "method": "nearest",
+      "status": "insufficient_dev_samples"
+    }
+  ]
+}

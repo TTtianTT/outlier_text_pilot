@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "dev-product-009",
+    "group_id": "dev-product-009",
+    "split": "dev",
+    "domain": "product",
+    "text": "The travel mug has a lid that can be opened with one hand."
+  },
+  "attempts": [
+    {
+      "candidate_id": "dev-product-009:000",
+      "parent_id": "dev-product-009",
+      "attempt": 0,
+      "seed": 1944907165,
+      "text": "The coffee mug is compatible for use in one-hand operation.",
+      "raw": "The coffee mug is compatible for use in one-hand operation.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-009:001",
+      "parent_id": "dev-product-009",
+      "attempt": 1,
+      "seed": 3123037970,
+      "text": "A lid for the travel mug can be opened with one hand.",
+      "raw": "A lid for the travel mug can be opened with one hand.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-009:002",
+      "parent_id": "dev-product-009",
+      "attempt": 2,
+      "seed": 3110726032,
+      "text": "The coffee mug has a closure mechanism that allows for easy opening with one hand.",
+      "raw": "The coffee mug has a closure mechanism that allows for easy opening with one hand.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-009:003",
+      "parent_id": "dev-product-009",
+      "attempt": 3,
+      "seed": 3271199836,
+      "text": "The travel mug features an opening lid suitable for handling in one hand.",
+      "raw": "The travel mug features an opening lid suitable for handling in one hand.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-009:004",
+      "parent_id": "dev-product-009",
+      "attempt": 4,
+      "seed": 1564605835,
+      "text": "The travel mug features a hand-friendly opening mechanism for its lid.",
+      "raw": "The travel mug features a hand-friendly opening mechanism for its lid.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-009:005",
+      "parent_id": "dev-product-009",
+      "attempt": 5,
+      "seed": 1949553692,
+      "text": "With one hand, you can open the travel mug's lid.",
+      "raw": "With one hand, you can open the travel mug's lid.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-009:006",
+      "parent_id": "dev-product-009",
+      "attempt": 6,
+      "seed": 1392543831,
+      "text": "You can open the travel mug's lid with just one hand.",
+      "raw": "You can open the travel mug's lid with just one hand.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-009:007",
+      "parent_id": "dev-product-009",
+      "attempt": 7,
+      "seed": 2314322880,
+      "text": "A travel mug has an opening mechanism that requires one hand to open it.",
+      "raw": "A travel mug has an opening mechanism that requires one hand to open it.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-009:008",
+      "parent_id": "dev-product-009",
+      "attempt": 8,
+      "seed": 2575802740,
+      "text": "The travel mug features an opening mechanism for easy access with one hand.",
+      "raw": "The travel mug features an opening mechanism for easy access with one hand.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-009:009",
+      "parent_id": "dev-product-009",
+      "attempt": 9,
+      "seed": 1043524519,
+      "text": "One can open the lid of the travel mug using only one hand.",
+      "raw": "One can open the lid of the travel mug using only one hand.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-009:010",
+      "parent_id": "dev-product-009",
+      "attempt": 10,
+      "seed": 3304265642,
+      "text": "A travel mug features a lid that opens easily with just one hand.",
+      "raw": "A travel mug features a lid that opens easily with just one hand.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-009:011",
+      "parent_id": "dev-product-009",
+      "attempt": 11,
+      "seed": 868099645,
+      "text": "The travel mug features an openable lid suitable for single-handed operation.",
+      "raw": "The travel mug features an openable lid suitable for single-handed operation.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-009:012",
+      "parent_id": "dev-product-009",
+      "attempt": 12,
+      "seed": 22801319,
+      "text": "The travel mug possesses an opening mechanism amenable to operation by utilizing just one hand.",
+      "raw": "The travel mug possesses an opening mechanism amenable to operation by utilizing just one hand.",
+      "generated_tokens": 18,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-009:013",
+      "parent_id": "dev-product-009",
+      "attempt": 13,
+      "seed": 365536613,
+      "text": "One hand can open the lid of the travel mug.",
+      "raw": "One hand can open the lid of the travel mug.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-009:014",
+      "parent_id": "dev-product-009",
+      "attempt": 14,
+      "seed": 3344112410,
+      "text": "The travel mug features an opening mechanism that enables it to be closed easily with just one hand.",
+      "raw": "The travel mug features an opening mechanism that enables it to be closed easily with just one hand.",
+      "generated_tokens": 20,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-009:015",
+      "parent_id": "dev-product-009",
+      "attempt": 15,
+      "seed": 175764376,
+      "text": "The travel mug features a lid that opens effortlessly with just one hand.",
+      "raw": "The travel mug features a lid that opens effortlessly with just one hand.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-009:016",
+      "parent_id": "dev-product-009",
+      "attempt": 16,
+      "seed": 290839969,
+      "text": "The travel mug possesses an opening mechanism for easy one-handed operation.",
+      "raw": "The travel mug possesses an opening mechanism for easy one-handed operation.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-009:017",
+      "parent_id": "dev-product-009",
+      "attempt": 17,
+      "seed": 4187473193,
+      "text": "With one hand, you can open the lid of the travel mug.",
+      "raw": "With one hand, you can open the lid of the travel mug.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-009:018",
+      "parent_id": "dev-product-009",
+      "attempt": 18,
+      "seed": 3400766973,
+      "text": "The travel mug features an opening mechanism for use by only one hand.",
+      "raw": "The travel mug features an opening mechanism for use by only one hand.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-009:019",
+      "parent_id": "dev-product-009",
+      "attempt": 19,
+      "seed": 2303171617,
+      "text": "The travel mug features an opening mechanism for easy one-handed access to its lid.",
+      "raw": "The travel mug features an opening mechanism for easy one-handed access to its lid.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-009:020",
+      "parent_id": "dev-product-009",
+      "attempt": 20,
+      "seed": 1629450295,
+      "text": "The travel mug's lid is accessible by one-hand operation.",
+      "raw": "The travel mug's lid is accessible by one-hand operation.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-009:021",
+      "parent_id": "dev-product-009",
+      "attempt": 21,
+      "seed": 2455949516,
+      "text": "One-handedly opening the lid of the travel mug is possible.",
+      "raw": "One-handedly opening the lid of the travel mug is possible.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-009:022",
+      "parent_id": "dev-product-009",
+      "attempt": 22,
+      "seed": 3602085312,
+      "text": "A travel mug equipped with an openable lid is convenient.",
+      "raw": "A travel mug equipped with an openable lid is convenient.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-009:023",
+      "parent_id": "dev-product-009",
+      "attempt": 23,
+      "seed": 4092948814,
+      "text": "The mug's lid opens easily with just one hand.",
+      "raw": "The mug's lid opens easily with just one hand.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-009:024",
+      "parent_id": "dev-product-009",
+      "attempt": 24,
+      "seed": 3225441949,
+      "text": "A travel mug features a lid that requires minimal dexterity to open.",
+      "raw": "A travel mug features a lid that requires minimal dexterity to open.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-009:025",
+      "parent_id": "dev-product-009",
+      "attempt": 25,
+      "seed": 617179836,
+      "text": "One hand can open the lid of the travel mug.",
+      "raw": "One hand can open the lid of the travel mug.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-009:026",
+      "parent_id": "dev-product-009",
+      "attempt": 26,
+      "seed": 151001320,
+      "text": "The travel mug features an openable lid for easy use.",
+      "raw": "The travel mug features an openable lid for easy use.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-009:027",
+      "parent_id": "dev-product-009",
+      "attempt": 27,
+      "seed": 2349911065,
+      "text": "The travel mug features an openable lid for easy access with one hand.",
+      "raw": "The travel mug features an openable lid for easy access with one hand.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-009:028",
+      "parent_id": "dev-product-009",
+      "attempt": 28,
+      "seed": 458686617,
+      "text": "The travel mug possesses an opening mechanism operable by a single hand.",
+      "raw": "The travel mug possesses an opening mechanism operable by a single hand.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-009:029",
+      "parent_id": "dev-product-009",
+      "attempt": 29,
+      "seed": 4265708094,
+      "text": "With one hand, you can open the lid of the travel mug.",
+      "raw": "With one hand, you can open the lid of the travel mug.",
+      "generated_tokens": 15,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-009:030",
+      "parent_id": "dev-product-009",
+      "attempt": 30,
+      "seed": 1500736353,
+      "text": "The coffee mug comes with an opening lid suitable for one-handed operation.",
+      "raw": "The coffee mug comes with an opening lid suitable for one-handed operation.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-009:031",
+      "parent_id": "dev-product-009",
+      "attempt": 31,
+      "seed": 2898463940,
+      "text": "The travel mug features an openable lid by one hand.",
+      "raw": "The travel mug features an openable lid by one hand.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 469,
+  "generation_seconds": 8.373501460067928
+}

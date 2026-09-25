@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "ood-science-023",
+    "group_id": "ood-science-023",
+    "split": "ood",
+    "domain": "science",
+    "text": "The roots of a plant absorb water from the surrounding soil."
+  },
+  "attempts": [
+    {
+      "candidate_id": "ood-science-023:000",
+      "parent_id": "ood-science-023",
+      "attempt": 0,
+      "seed": 1861535569,
+      "text": "Roots draw moisture from the vicinity soil.",
+      "raw": "Roots draw moisture from the vicinity soil.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-023:001",
+      "parent_id": "ood-science-023",
+      "attempt": 1,
+      "seed": 3872100845,
+      "text": "Water is absorbed by a plant's roots from the soil around it.",
+      "raw": "Water is absorbed by a plant's roots from the soil around it.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-023:002",
+      "parent_id": "ood-science-023",
+      "attempt": 2,
+      "seed": 222602682,
+      "text": "Plants draw water through their roots from the earth's layers.",
+      "raw": "Plants draw water through their roots from the earth's layers.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-023:003",
+      "parent_id": "ood-science-023",
+      "attempt": 3,
+      "seed": 4146390827,
+      "text": "Roots extract water from soil close by.",
+      "raw": "Roots extract water from soil close by.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-023:004",
+      "parent_id": "ood-science-023",
+      "attempt": 4,
+      "seed": 993191413,
+      "text": "The roots draw moisture from the vicinity's soil.",
+      "raw": "The roots draw moisture from the vicinity's soil.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-023:005",
+      "parent_id": "ood-science-023",
+      "attempt": 5,
+      "seed": 544670209,
+      "text": "Water is absorbed by the roots in plants from their surroundings.",
+      "raw": "Water is absorbed by the roots in plants from their surroundings.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-023:006",
+      "parent_id": "ood-science-023",
+      "attempt": 6,
+      "seed": 389906302,
+      "text": "The root system draws moisture from the nearby soil.",
+      "raw": "The root system draws moisture from the nearby soil.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-023:007",
+      "parent_id": "ood-science-023",
+      "attempt": 7,
+      "seed": 683526248,
+      "text": "Plants draw moisture from their environment through their roots.",
+      "raw": "Plants draw moisture from their environment through their roots.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-023:008",
+      "parent_id": "ood-science-023",
+      "attempt": 8,
+      "seed": 3452591702,
+      "text": "The roots of a plant draw moisture from its environment.",
+      "raw": "The roots of a plant draw moisture from its environment.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-023:009",
+      "parent_id": "ood-science-023",
+      "attempt": 9,
+      "seed": 3892881975,
+      "text": "Water is absorbed by the roots of plants from their surroundings.",
+      "raw": "Water is absorbed by the roots of plants from their surroundings.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-023:010",
+      "parent_id": "ood-science-023",
+      "attempt": 10,
+      "seed": 238720168,
+      "text": "Plants obtain moisture from the ground near them.",
+      "raw": "Plants obtain moisture from the ground near them.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-023:011",
+      "parent_id": "ood-science-023",
+      "attempt": 11,
+      "seed": 3525094463,
+      "text": "The roots draw moisture from its environment.",
+      "raw": "The roots draw moisture from its environment.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-023:012",
+      "parent_id": "ood-science-023",
+      "attempt": 12,
+      "seed": 3446423153,
+      "text": "Roots draw moisture from their environment.",
+      "raw": "Roots draw moisture from their environment.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-023:013",
+      "parent_id": "ood-science-023",
+      "attempt": 13,
+      "seed": 1209647944,
+      "text": "Water is absorbed by plant roots from the soil surrounding them.",
+      "raw": "Water is absorbed by plant roots from the soil surrounding them.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-023:014",
+      "parent_id": "ood-science-023",
+      "attempt": 14,
+      "seed": 2400007967,
+      "text": "Plants draw water through their roots from the ground around them.",
+      "raw": "Plants draw water through their roots from the ground around them.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-023:015",
+      "parent_id": "ood-science-023",
+      "attempt": 15,
+      "seed": 444724689,
+      "text": "Plants use their roots to draw water from the ground.",
+      "raw": "Plants use their roots to draw water from the ground.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-023:016",
+      "parent_id": "ood-science-023",
+      "attempt": 16,
+      "seed": 2636679692,
+      "text": "The root system of a plant draws moisture from the adjacent soil.",
+      "raw": "The root system of a plant draws moisture from the adjacent soil.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-023:017",
+      "parent_id": "ood-science-023",
+      "attempt": 17,
+      "seed": 1470983497,
+      "text": "Water is absorbed by the roots of a plant from the surrounding soil.",
+      "raw": "Water is absorbed by the roots of a plant from the surrounding soil.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-023:018",
+      "parent_id": "ood-science-023",
+      "attempt": 18,
+      "seed": 3936014452,
+      "text": "Plants draw moisture from their environment through their root system.",
+      "raw": "Plants draw moisture from their environment through their root system.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-023:019",
+      "parent_id": "ood-science-023",
+      "attempt": 19,
+      "seed": 83986951,
+      "text": "The root system draws moisture from its environment.",
+      "raw": "The root system draws moisture from its environment.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-023:020",
+      "parent_id": "ood-science-023",
+      "attempt": 20,
+      "seed": 3876877546,
+      "text": "The roots draw moisture from the immediate soil layer.",
+      "raw": "The roots draw moisture from the immediate soil layer.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-023:021",
+      "parent_id": "ood-science-023",
+      "attempt": 21,
+      "seed": 3238508364,
+      "text": "Water is absorbed by the roots located within the soil.",
+      "raw": "Water is absorbed by the roots located within the soil.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-023:022",
+      "parent_id": "ood-science-023",
+      "attempt": 22,
+      "seed": 1516799120,
+      "text": "Plants draw water through their root systems from the earth's surface.",
+      "raw": "Plants draw water through their root systems from the earth's surface.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-023:023",
+      "parent_id": "ood-science-023",
+      "attempt": 23,
+      "seed": 3806541213,
+      "text": "The roots gather moisture from the immediate soil area.",
+      "raw": "The roots gather moisture from the immediate soil area.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-023:024",
+      "parent_id": "ood-science-023",
+      "attempt": 24,
+      "seed": 312565274,
+      "text": "Roots draw water from the soil adjacent to them.",
+      "raw": "Roots draw water from the soil adjacent to them.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-023:025",
+      "parent_id": "ood-science-023",
+      "attempt": 25,
+      "seed": 2483432458,
+      "text": "From the surrounding soil, water is absorbed by the roots of a plant.",
+      "raw": "From the surrounding soil, water is absorbed by the roots of a plant.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-023:026",
+      "parent_id": "ood-science-023",
+      "attempt": 26,
+      "seed": 1609050992,
+      "text": "Roots draw moisture from their immediate environment.",
+      "raw": "Roots draw moisture from their immediate environment.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-023:027",
+      "parent_id": "ood-science-023",
+      "attempt": 27,
+      "seed": 2859769799,
+      "text": "The roots draw water from soil around plants.",
+      "raw": "The roots draw water from soil around plants.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-023:028",
+      "parent_id": "ood-science-023",
+      "attempt": 28,
+      "seed": 90177766,
+      "text": "The root system of a plant draws water from its environment.",
+      "raw": "The root system of a plant draws water from its environment.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-023:029",
+      "parent_id": "ood-science-023",
+      "attempt": 29,
+      "seed": 3229303990,
+      "text": "Water is absorbed by the roots of a plant from the surrounding soil.",
+      "raw": "Water is absorbed by the roots of a plant from the surrounding soil.",
+      "generated_tokens": 15,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-023:030",
+      "parent_id": "ood-science-023",
+      "attempt": 30,
+      "seed": 2367031699,
+      "text": "Plants draw moisture from their environment through their roots.",
+      "raw": "Plants draw moisture from their environment through their roots.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-023:031",
+      "parent_id": "ood-science-023",
+      "attempt": 31,
+      "seed": 680257265,
+      "text": "Roots extract water from the soil close by.",
+      "raw": "Roots extract water from the soil close by.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 390,
+  "generation_seconds": 6.996990151004866
+}

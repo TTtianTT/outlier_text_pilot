@@ -1,0 +1,193 @@
+{
+  "generation_status": {
+    "ok": 2230,
+    "duplicate_or_identity": 650
+  },
+  "splits": {
+    "dev": {
+      "parents": 30,
+      "feature_candidates": 781,
+      "eligible_candidates": 305,
+      "matched_parents": 1,
+      "selection_reasons": {
+        "too_few_eligible": 25,
+        "caliper_match_failed": 4,
+        "ok": 1
+      },
+      "filter_failure_counts_nonexclusive": {
+        "cosine": 370,
+        "bidirectional_nli": 238,
+        "edit_ratio": 164,
+        "ascii": 7
+      }
+    },
+    "test": {
+      "parents": 30,
+      "feature_candidates": 713,
+      "eligible_candidates": 289,
+      "matched_parents": 0,
+      "selection_reasons": {
+        "too_few_eligible": 27,
+        "caliper_match_failed": 3
+      },
+      "filter_failure_counts_nonexclusive": {
+        "cosine": 338,
+        "bidirectional_nli": 200,
+        "edit_ratio": 99
+      }
+    },
+    "ood": {
+      "parents": 30,
+      "feature_candidates": 736,
+      "eligible_candidates": 368,
+      "matched_parents": 0,
+      "selection_reasons": {
+        "too_few_eligible": 20,
+        "caliper_match_failed": 10
+      },
+      "filter_failure_counts_nonexclusive": {
+        "edit_ratio": 183,
+        "cosine": 286,
+        "bidirectional_nli": 79,
+        "ascii": 1
+      }
+    }
+  },
+  "primary": {
+    "summary": [
+      {
+        "split": "test",
+        "bits": "1",
+        "margin": "0.0001",
+        "method": "outlier",
+        "parents": "30",
+        "matched_parents": "0",
+        "coverage_all": "0.0",
+        "coverage_matched": "",
+        "full_coverage_all": "0.0",
+        "pool_proxy_tv_success": ""
+      },
+      {
+        "split": "test",
+        "bits": "1",
+        "margin": "0.0001",
+        "method": "matched",
+        "parents": "30",
+        "matched_parents": "0",
+        "coverage_all": "0.0",
+        "coverage_matched": "",
+        "full_coverage_all": "0.0",
+        "pool_proxy_tv_success": ""
+      },
+      {
+        "split": "test",
+        "bits": "1",
+        "margin": "0.0001",
+        "method": "random",
+        "parents": "30",
+        "matched_parents": "0",
+        "coverage_all": "0.0",
+        "coverage_matched": "",
+        "full_coverage_all": "0.0",
+        "pool_proxy_tv_success": ""
+      },
+      {
+        "split": "test",
+        "bits": "1",
+        "margin": "0.0001",
+        "method": "nearest",
+        "parents": "30",
+        "matched_parents": "0",
+        "coverage_all": "0.0",
+        "coverage_matched": "",
+        "full_coverage_all": "0.0",
+        "pool_proxy_tv_success": ""
+      },
+      {
+        "split": "ood",
+        "bits": "1",
+        "margin": "0.0001",
+        "method": "outlier",
+        "parents": "30",
+        "matched_parents": "0",
+        "coverage_all": "0.0",
+        "coverage_matched": "",
+        "full_coverage_all": "0.0",
+        "pool_proxy_tv_success": ""
+      },
+      {
+        "split": "ood",
+        "bits": "1",
+        "margin": "0.0001",
+        "method": "matched",
+        "parents": "30",
+        "matched_parents": "0",
+        "coverage_all": "0.0",
+        "coverage_matched": "",
+        "full_coverage_all": "0.0",
+        "pool_proxy_tv_success": ""
+      },
+      {
+        "split": "ood",
+        "bits": "1",
+        "margin": "0.0001",
+        "method": "random",
+        "parents": "30",
+        "matched_parents": "0",
+        "coverage_all": "0.0",
+        "coverage_matched": "",
+        "full_coverage_all": "0.0",
+        "pool_proxy_tv_success": ""
+      },
+      {
+        "split": "ood",
+        "bits": "1",
+        "margin": "0.0001",
+        "method": "nearest",
+        "parents": "30",
+        "matched_parents": "0",
+        "coverage_all": "0.0",
+        "coverage_matched": "",
+        "full_coverage_all": "0.0",
+        "pool_proxy_tv_success": ""
+      }
+    ],
+    "paired_deltas": [
+      {
+        "split": "test",
+        "bits": "1",
+        "margin": "0.0001",
+        "comparison": "outlier-minus-matched",
+        "delta": "0.0",
+        "ci_low": "0.0",
+        "ci_high": "0.0",
+        "source_groups": "30",
+        "keys": "20"
+      },
+      {
+        "split": "ood",
+        "bits": "1",
+        "margin": "0.0001",
+        "comparison": "outlier-minus-matched",
+        "delta": "0.0",
+        "ci_low": "0.0",
+        "ci_high": "0.0",
+        "source_groups": "30",
+        "keys": "20"
+      }
+    ]
+  },
+  "readout": {
+    "status": "no_candidates",
+    "backend": "hf",
+    "fresh_text_forwards": 0,
+    "bits_checked": 0,
+    "bit_errors": 0,
+    "ber": null,
+    "sender_guarded_bits": 0,
+    "sender_guarded_bit_errors": 0,
+    "receiver_guard_rejections": 0,
+    "max_feature_l2_drift": 0.0,
+    "warning": "Same runtime only; this does not establish cross-device or edited-text reliability."
+  }
+}

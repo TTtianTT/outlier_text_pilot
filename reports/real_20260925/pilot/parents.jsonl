@@ -1,0 +1,90 @@
+{"domain":"daily","group_id":"dev-daily-000","id":"dev-daily-000","split":"dev","text":"I left my umbrella beside the front door before going to work."}
+{"domain":"daily","group_id":"dev-daily-001","id":"dev-daily-001","split":"dev","text":"The library closes one hour earlier on Saturday than on Friday."}
+{"domain":"daily","group_id":"dev-daily-002","id":"dev-daily-002","split":"dev","text":"We moved the meeting to the afternoon because the room was occupied."}
+{"domain":"daily","group_id":"dev-daily-003","id":"dev-daily-003","split":"dev","text":"The train arrived ten minutes late after a short delay at the station."}
+{"domain":"daily","group_id":"dev-daily-004","id":"dev-daily-004","split":"dev","text":"Please put the empty glass on the kitchen counter."}
+{"domain":"daily","group_id":"dev-daily-005","id":"dev-daily-005","split":"dev","text":"I usually walk to the office when the weather is dry."}
+{"domain":"daily","group_id":"dev-daily-006","id":"dev-daily-006","split":"dev","text":"The package was delivered to the reception desk this morning."}
+{"domain":"daily","group_id":"dev-daily-007","id":"dev-daily-007","split":"dev","text":"We bought fresh vegetables at the market on our way home."}
+{"domain":"daily","group_id":"dev-daily-008","id":"dev-daily-008","split":"dev","text":"The cafe near the bridge has a few tables outside."}
+{"domain":"daily","group_id":"dev-daily-009","id":"dev-daily-009","split":"dev","text":"I saved the document before shutting down the computer."}
+{"domain":"daily","group_id":"dev-daily-010","id":"dev-daily-010","split":"dev","text":"The neighbors watered our plants while we were away."}
+{"domain":"daily","group_id":"dev-daily-011","id":"dev-daily-011","split":"dev","text":"She checked the address twice before leaving the house."}
+{"domain":"daily","group_id":"dev-daily-012","id":"dev-daily-012","split":"dev","text":"We will have dinner after everyone returns from work."}
+{"domain":"daily","group_id":"dev-daily-013","id":"dev-daily-013","split":"dev","text":"The keys were inside the small pocket of my backpack."}
+{"domain":"daily","group_id":"dev-daily-014","id":"dev-daily-014","split":"dev","text":"I borrowed a book about gardening from a friend."}
+{"domain":"product","group_id":"dev-product-000","id":"dev-product-000","split":"dev","text":"This notebook has a soft cover and lined pages."}
+{"domain":"product","group_id":"dev-product-001","id":"dev-product-001","split":"dev","text":"The desk lamp has three brightness settings and a flexible neck."}
+{"domain":"product","group_id":"dev-product-002","id":"dev-product-002","split":"dev","text":"The water bottle comes with a removable carrying strap."}
+{"domain":"product","group_id":"dev-product-003","id":"dev-product-003","split":"dev","text":"This keyboard connects to a computer using a USB cable."}
+{"domain":"product","group_id":"dev-product-004","id":"dev-product-004","split":"dev","text":"The backpack has a separate compartment for a laptop."}
+{"domain":"product","group_id":"dev-product-005","id":"dev-product-005","split":"dev","text":"The storage box has a transparent lid and two side handles."}
+{"domain":"product","group_id":"dev-product-006","id":"dev-product-006","split":"dev","text":"This cotton shirt can be washed in cold water."}
+{"domain":"product","group_id":"dev-product-007","id":"dev-product-007","split":"dev","text":"The chair height can be adjusted using the lever below the seat."}
+{"domain":"product","group_id":"dev-product-008","id":"dev-product-008","split":"dev","text":"The headphones include a detachable audio cable."}
+{"domain":"product","group_id":"dev-product-009","id":"dev-product-009","split":"dev","text":"The travel mug has a lid that can be opened with one hand."}
+{"domain":"product","group_id":"dev-product-010","id":"dev-product-010","split":"dev","text":"This phone stand folds flat when it is not in use."}
+{"domain":"product","group_id":"dev-product-011","id":"dev-product-011","split":"dev","text":"The pen set contains four different ink colors."}
+{"domain":"product","group_id":"dev-product-012","id":"dev-product-012","split":"dev","text":"The calendar has a blank space for notes on each page."}
+{"domain":"product","group_id":"dev-product-013","id":"dev-product-013","split":"dev","text":"This towel has a loop for hanging it on a hook."}
+{"domain":"product","group_id":"dev-product-014","id":"dev-product-014","split":"dev","text":"The power adapter is sold separately from the device."}
+{"domain":"daily","group_id":"test-daily-000","id":"test-daily-000","split":"test","text":"He put the groceries in the refrigerator before making lunch."}
+{"domain":"daily","group_id":"test-daily-001","id":"test-daily-001","split":"test","text":"The bus stop is across the street from the post office."}
+{"domain":"daily","group_id":"test-daily-002","id":"test-daily-002","split":"test","text":"We decided to visit the museum after the rain stopped."}
+{"domain":"daily","group_id":"test-daily-003","id":"test-daily-003","split":"test","text":"I wrote the appointment time on a note beside my desk."}
+{"domain":"daily","group_id":"test-daily-004","id":"test-daily-004","split":"test","text":"The restaurant was quiet when we arrived in the early evening."}
+{"domain":"daily","group_id":"test-daily-005","id":"test-daily-005","split":"test","text":"She sent the revised schedule to the group yesterday."}
+{"domain":"daily","group_id":"test-daily-006","id":"test-daily-006","split":"test","text":"We opened the windows to let some fresh air into the room."}
+{"domain":"daily","group_id":"test-daily-007","id":"test-daily-007","split":"test","text":"The bicycle was locked to a railing near the entrance."}
+{"domain":"daily","group_id":"test-daily-008","id":"test-daily-008","split":"test","text":"I found an extra blanket in the cupboard upstairs."}
+{"domain":"daily","group_id":"test-daily-009","id":"test-daily-009","split":"test","text":"The footpath follows the river for about two kilometers."}
+{"domain":"daily","group_id":"test-daily-010","id":"test-daily-010","split":"test","text":"They prepared the guest room before their relatives arrived."}
+{"domain":"daily","group_id":"test-daily-011","id":"test-daily-011","split":"test","text":"I charged my phone while I was reading on the sofa."}
+{"domain":"daily","group_id":"test-daily-012","id":"test-daily-012","split":"test","text":"The children put their shoes on the rack by the door."}
+{"domain":"daily","group_id":"test-daily-013","id":"test-daily-013","split":"test","text":"We took a short break after finishing the first task."}
+{"domain":"daily","group_id":"test-daily-014","id":"test-daily-014","split":"test","text":"He returned the borrowed tool the following morning."}
+{"domain":"product","group_id":"test-product-000","id":"test-product-000","split":"test","text":"The suitcase has four wheels and an extendable handle."}
+{"domain":"product","group_id":"test-product-001","id":"test-product-001","split":"test","text":"This speaker can play music from a memory card."}
+{"domain":"product","group_id":"test-product-002","id":"test-product-002","split":"test","text":"The cooking pot has measurement marks on the inside."}
+{"domain":"product","group_id":"test-product-003","id":"test-product-003","split":"test","text":"The watch strap can be replaced without removing the battery."}
+{"domain":"product","group_id":"test-product-004","id":"test-product-004","split":"test","text":"This folder has two pockets for holding loose papers."}
+{"domain":"product","group_id":"test-product-005","id":"test-product-005","split":"test","text":"The fan comes with a remote control and a timer."}
+{"domain":"product","group_id":"test-product-006","id":"test-product-006","split":"test","text":"The cushion cover can be removed for washing."}
+{"domain":"product","group_id":"test-product-007","id":"test-product-007","split":"test","text":"This ruler shows measurements in both centimeters and inches."}
+{"domain":"product","group_id":"test-product-008","id":"test-product-008","split":"test","text":"The shelf includes the screws needed for assembly."}
+{"domain":"product","group_id":"test-product-009","id":"test-product-009","split":"test","text":"The camera bag has a padded divider in its main compartment."}
+{"domain":"product","group_id":"test-product-010","id":"test-product-010","split":"test","text":"This stapler can be refilled by opening the top section."}
+{"domain":"product","group_id":"test-product-011","id":"test-product-011","split":"test","text":"The lunch box contains two removable containers."}
+{"domain":"product","group_id":"test-product-012","id":"test-product-012","split":"test","text":"The mirror can stand on a table or hang on a wall."}
+{"domain":"product","group_id":"test-product-013","id":"test-product-013","split":"test","text":"This rechargeable light has a battery indicator on the side."}
+{"domain":"product","group_id":"test-product-014","id":"test-product-014","split":"test","text":"The wireless mouse requires one battery that is not included."}
+{"domain":"science","group_id":"ood-science-000","id":"ood-science-000","split":"ood","text":"Evaporation changes liquid water into water vapor."}
+{"domain":"science","group_id":"ood-science-001","id":"ood-science-001","split":"ood","text":"A shadow forms when an object blocks light from a source."}
+{"domain":"science","group_id":"ood-science-002","id":"ood-science-002","split":"ood","text":"An electric circuit must form a closed path for a steady current to flow."}
+{"domain":"science","group_id":"ood-science-003","id":"ood-science-003","split":"ood","text":"A magnet has a north pole and a south pole."}
+{"domain":"science","group_id":"ood-science-004","id":"ood-science-004","split":"ood","text":"Sound travels through air as changes in pressure."}
+{"domain":"science","group_id":"ood-science-005","id":"ood-science-005","split":"ood","text":"Plants use light energy to make sugars during photosynthesis."}
+{"domain":"science","group_id":"ood-science-006","id":"ood-science-006","split":"ood","text":"Friction can convert some mechanical energy into heat."}
+{"domain":"science","group_id":"ood-science-007","id":"ood-science-007","split":"ood","text":"A lens can change the direction of light passing through it."}
+{"domain":"science","group_id":"ood-science-008","id":"ood-science-008","split":"ood","text":"The Earth rotates about its axis as it moves around the Sun."}
+{"domain":"science","group_id":"ood-science-009","id":"ood-science-009","split":"ood","text":"Water expands when it freezes under ordinary conditions."}
+{"domain":"science","group_id":"ood-science-010","id":"ood-science-010","split":"ood","text":"A simple lever turns about a fixed point called a fulcrum."}
+{"domain":"science","group_id":"ood-science-011","id":"ood-science-011","split":"ood","text":"Insulation slows the transfer of heat between two regions."}
+{"domain":"science","group_id":"ood-science-012","id":"ood-science-012","split":"ood","text":"Dissolving salt in water produces a mixture with dissolved ions."}
+{"domain":"science","group_id":"ood-science-013","id":"ood-science-013","split":"ood","text":"The Moon reflects sunlight rather than producing its own visible light."}
+{"domain":"science","group_id":"ood-science-014","id":"ood-science-014","split":"ood","text":"A thermometer measures temperature using a property that changes with temperature."}
+{"domain":"science","group_id":"ood-science-015","id":"ood-science-015","split":"ood","text":"Seeds need suitable conditions to begin growing into plants."}
+{"domain":"science","group_id":"ood-science-016","id":"ood-science-016","split":"ood","text":"Condensation occurs when water vapor changes into liquid water."}
+{"domain":"science","group_id":"ood-science-017","id":"ood-science-017","split":"ood","text":"A prism can separate white light into a range of colors."}
+{"domain":"science","group_id":"ood-science-018","id":"ood-science-018","split":"ood","text":"The lungs exchange oxygen and carbon dioxide with the blood."}
+{"domain":"science","group_id":"ood-science-019","id":"ood-science-019","split":"ood","text":"In a series circuit the same current passes through each component."}
+{"domain":"science","group_id":"ood-science-020","id":"ood-science-020","split":"ood","text":"Air resistance acts against the motion of an object through air."}
+{"domain":"science","group_id":"ood-science-021","id":"ood-science-021","split":"ood","text":"Some materials conduct electricity more easily than others."}
+{"domain":"science","group_id":"ood-science-022","id":"ood-science-022","split":"ood","text":"A compass needle tends to align with the local magnetic field."}
+{"domain":"science","group_id":"ood-science-023","id":"ood-science-023","split":"ood","text":"The roots of a plant absorb water from the surrounding soil."}
+{"domain":"science","group_id":"ood-science-024","id":"ood-science-024","split":"ood","text":"Heat can travel through a solid by conduction."}
+{"domain":"science","group_id":"ood-science-025","id":"ood-science-025","split":"ood","text":"A larger force causes a larger acceleration when mass is unchanged."}
+{"domain":"science","group_id":"ood-science-026","id":"ood-science-026","split":"ood","text":"A food chain describes a sequence of feeding relationships."}
+{"domain":"science","group_id":"ood-science-027","id":"ood-science-027","split":"ood","text":"A wave can transfer energy without carrying matter over the same distance."}
+{"domain":"science","group_id":"ood-science-028","id":"ood-science-028","split":"ood","text":"The frequency of a repeating event is the number of repetitions per unit time."}
+{"domain":"science","group_id":"ood-science-029","id":"ood-science-029","split":"ood","text":"A mixture can sometimes be separated by taking advantage of differences in particle size."}

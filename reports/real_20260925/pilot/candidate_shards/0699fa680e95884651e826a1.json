@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "dev-product-002",
+    "group_id": "dev-product-002",
+    "split": "dev",
+    "domain": "product",
+    "text": "The water bottle comes with a removable carrying strap."
+  },
+  "attempts": [
+    {
+      "candidate_id": "dev-product-002:000",
+      "parent_id": "dev-product-002",
+      "attempt": 0,
+      "seed": 1229015859,
+      "text": "A water bottle is equipped with a detachable handle.",
+      "raw": "A water bottle is equipped with a detachable handle.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-002:001",
+      "parent_id": "dev-product-002",
+      "attempt": 1,
+      "seed": 3877798113,
+      "text": "With this water bottle, you can remove the carrying strap.",
+      "raw": "With this water bottle, you can remove the carrying strap.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-002:002",
+      "parent_id": "dev-product-002",
+      "attempt": 2,
+      "seed": 575612071,
+      "text": "You can purchase an adjustable handle for your water bottle instead.",
+      "raw": "You can purchase an adjustable handle for your water bottle instead.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-002:003",
+      "parent_id": "dev-product-002",
+      "attempt": 3,
+      "seed": 1779004191,
+      "text": "The included water bottle possesses a detachable carrying handle.",
+      "raw": "The included water bottle possesses a detachable carrying handle.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-002:004",
+      "parent_id": "dev-product-002",
+      "attempt": 4,
+      "seed": 1746780810,
+      "text": "The water bottle includes an interchangeable carrying handle.",
+      "raw": "The water bottle includes an interchangeable carrying handle.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-002:005",
+      "parent_id": "dev-product-002",
+      "attempt": 5,
+      "seed": 571645792,
+      "text": "A removable carrying strap comes with the water bottle.",
+      "raw": "A removable carrying strap comes with the water bottle.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-002:006",
+      "parent_id": "dev-product-002",
+      "attempt": 6,
+      "seed": 2180785315,
+      "text": "The water bottle includes an attachable handhold accessory.",
+      "raw": "The water bottle includes an attachable handhold accessory.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-002:007",
+      "parent_id": "dev-product-002",
+      "attempt": 7,
+      "seed": 3279866955,
+      "text": "The water bottle includes a detachable carrying handle.",
+      "raw": "The water bottle includes a detachable carrying handle.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-002:008",
+      "parent_id": "dev-product-002",
+      "attempt": 8,
+      "seed": 125248081,
+      "text": "The water bottle features an interchangeable carrying handle.",
+      "raw": "The water bottle features an interchangeable carrying handle.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-002:009",
+      "parent_id": "dev-product-002",
+      "attempt": 9,
+      "seed": 1017113336,
+      "text": "A carrying strap can be removed from the water bottle.",
+      "raw": "A carrying strap can be removed from the water bottle.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-002:010",
+      "parent_id": "dev-product-002",
+      "attempt": 10,
+      "seed": 1372016159,
+      "text": "You receive an adaptable holster for your beverage container.",
+      "raw": "You receive an adaptable holster for your beverage container.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-002:011",
+      "parent_id": "dev-product-002",
+      "attempt": 11,
+      "seed": 2807190856,
+      "text": "The bottle provided includes an attachable handle for easy carrying.",
+      "raw": "The bottle provided includes an attachable handle for easy carrying.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-002:012",
+      "parent_id": "dev-product-002",
+      "attempt": 12,
+      "seed": 105478934,
+      "text": "A water bottle includes an adjustable carrying handle.",
+      "raw": "A water bottle includes an adjustable carrying handle.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-002:013",
+      "parent_id": "dev-product-002",
+      "attempt": 13,
+      "seed": 3649242248,
+      "text": "A removable carrying strap is included in the water bottle.",
+      "raw": "A removable carrying strap is included in the water bottle.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-002:014",
+      "parent_id": "dev-product-002",
+      "attempt": 14,
+      "seed": 4228398245,
+      "text": "The water bottle includes an adjustable carrying handle.",
+      "raw": "The water bottle includes an adjustable carrying handle.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-002:015",
+      "parent_id": "dev-product-002",
+      "attempt": 15,
+      "seed": 3111023908,
+      "text": "The water bottle includes a detachable handle for easy transport.",
+      "raw": "The water bottle includes a detachable handle for easy transport.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-002:016",
+      "parent_id": "dev-product-002",
+      "attempt": 16,
+      "seed": 1879468289,
+      "text": "The water bottle features an interchangeable carrying handle.",
+      "raw": "The water bottle features an interchangeable carrying handle.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-002:017",
+      "parent_id": "dev-product-002",
+      "attempt": 17,
+      "seed": 3483483312,
+      "text": "A removable carrying strap comes along with the water bottle.",
+      "raw": "A removable carrying strap comes along with the water bottle.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-002:018",
+      "parent_id": "dev-product-002",
+      "attempt": 18,
+      "seed": 3076379797,
+      "text": "A reusable water bottle includes an optional carrying handle.",
+      "raw": "A reusable water bottle includes an optional carrying handle.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-002:019",
+      "parent_id": "dev-product-002",
+      "attempt": 19,
+      "seed": 1784591113,
+      "text": "The water bottle includes a detachable carrying handle.",
+      "raw": "The water bottle includes a detachable carrying handle.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-002:020",
+      "parent_id": "dev-product-002",
+      "attempt": 20,
+      "seed": 2112769824,
+      "text": "A water bottle includes an interchangeable carrying handle.",
+      "raw": "A water bottle includes an interchangeable carrying handle.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-002:021",
+      "parent_id": "dev-product-002",
+      "attempt": 21,
+      "seed": 3587288395,
+      "text": "A removable carrying strap comes included in the water bottle.",
+      "raw": "A removable carrying strap comes included in the water bottle.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-002:022",
+      "parent_id": "dev-product-002",
+      "attempt": 22,
+      "seed": 1806711139,
+      "text": "A water bottle includes an interchangeable carrying handle.",
+      "raw": "A water bottle includes an interchangeable carrying handle.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-002:023",
+      "parent_id": "dev-product-002",
+      "attempt": 23,
+      "seed": 47186365,
+      "text": "The water bottle features an easily detachable handle.",
+      "raw": "The water bottle features an easily detachable handle.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-002:024",
+      "parent_id": "dev-product-002",
+      "attempt": 24,
+      "seed": 2181985141,
+      "text": "The water bottle features a detachable carrying handle.",
+      "raw": "The water bottle features a detachable carrying handle.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-002:025",
+      "parent_id": "dev-product-002",
+      "attempt": 25,
+      "seed": 1051037354,
+      "text": "A removable carrying strap is included in the water bottle.",
+      "raw": "A removable carrying strap is included in the water bottle.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-002:026",
+      "parent_id": "dev-product-002",
+      "attempt": 26,
+      "seed": 1137604828,
+      "text": "You can take out the handle on this water bottle.",
+      "raw": "You can take out the handle on this water bottle.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-002:027",
+      "parent_id": "dev-product-002",
+      "attempt": 27,
+      "seed": 2502207273,
+      "text": "The included water bottle has a detachable carrying handle.",
+      "raw": "The included water bottle has a detachable carrying handle.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-002:028",
+      "parent_id": "dev-product-002",
+      "attempt": 28,
+      "seed": 4127324897,
+      "text": "A water bottle includes an interchangeable carrying handle.",
+      "raw": "A water bottle includes an interchangeable carrying handle.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-002:029",
+      "parent_id": "dev-product-002",
+      "attempt": 29,
+      "seed": 3655232511,
+      "text": "A removable carrying strap is included in the water bottle.",
+      "raw": "A removable carrying strap is included in the water bottle.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-002:030",
+      "parent_id": "dev-product-002",
+      "attempt": 30,
+      "seed": 2295479114,
+      "text": "A water bottle includes a detachable carrying handle.",
+      "raw": "A water bottle includes a detachable carrying handle.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-002:031",
+      "parent_id": "dev-product-002",
+      "attempt": 31,
+      "seed": 2959334431,
+      "text": "The included item is a reusable cap.",
+      "raw": "The included item is a reusable cap.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 361,
+  "generation_seconds": 6.332339195068926
+}

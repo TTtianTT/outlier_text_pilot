@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "ood-science-011",
+    "group_id": "ood-science-011",
+    "split": "ood",
+    "domain": "science",
+    "text": "Insulation slows the transfer of heat between two regions."
+  },
+  "attempts": [
+    {
+      "candidate_id": "ood-science-011:000",
+      "parent_id": "ood-science-011",
+      "attempt": 0,
+      "seed": 1404394199,
+      "text": "Insulation hinders heat circulation between distinct areas.",
+      "raw": "Insulation hinders heat circulation between distinct areas.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-011:001",
+      "parent_id": "ood-science-011",
+      "attempt": 1,
+      "seed": 2958487801,
+      "text": "Heat is slowed by insulation when moving between two regions.",
+      "raw": "Heat is slowed by insulation when moving between two regions.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-011:002",
+      "parent_id": "ood-science-011",
+      "attempt": 2,
+      "seed": 41047015,
+      "text": "Insulation hinders the flow of warmth from one part to another region.",
+      "raw": "Insulation hinders the flow of warmth from one part to another region.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-011:003",
+      "parent_id": "ood-science-011",
+      "attempt": 3,
+      "seed": 3916251688,
+      "text": "Insulation reduces heat transfer between two areas.",
+      "raw": "Insulation reduces heat transfer between two areas.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-011:004",
+      "parent_id": "ood-science-011",
+      "attempt": 4,
+      "seed": 2173011804,
+      "text": "Insulation hinders the movement of warmth between different areas.",
+      "raw": "Insulation hinders the movement of warmth between different areas.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-011:005",
+      "parent_id": "ood-science-011",
+      "attempt": 5,
+      "seed": 1445902108,
+      "text": "Heat transfer is slowed by insulation between two regions.",
+      "raw": "Heat transfer is slowed by insulation between two regions.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-011:006",
+      "parent_id": "ood-science-011",
+      "attempt": 6,
+      "seed": 1387636265,
+      "text": "Insulating materials reduce heat flow across areas.",
+      "raw": "Insulating materials reduce heat flow across areas.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-011:007",
+      "parent_id": "ood-science-011",
+      "attempt": 7,
+      "seed": 3515957669,
+      "text": "Insulation reduces heat transfer between two areas.",
+      "raw": "Insulation reduces heat transfer between two areas.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-011:008",
+      "parent_id": "ood-science-011",
+      "attempt": 8,
+      "seed": 2421680987,
+      "text": "Insulation impedes the flow of thermal energy across boundaries.",
+      "raw": "Insulation impedes the flow of thermal energy across boundaries.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-011:009",
+      "parent_id": "ood-science-011",
+      "attempt": 9,
+      "seed": 3905164407,
+      "text": "Heat is slowed by insulation as it transfers between regions.",
+      "raw": "Heat is slowed by insulation as it transfers between regions.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-011:010",
+      "parent_id": "ood-science-011",
+      "attempt": 10,
+      "seed": 946451782,
+      "text": "Insulation impedes the movement of warmth between different areas.",
+      "raw": "Insulation impedes the movement of warmth between different areas.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-011:011",
+      "parent_id": "ood-science-011",
+      "attempt": 11,
+      "seed": 1731991609,
+      "text": "Insulation impedes heat flow between separate areas.",
+      "raw": "Insulation impedes heat flow between separate areas.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-011:012",
+      "parent_id": "ood-science-011",
+      "attempt": 12,
+      "seed": 243052919,
+      "text": "Insulation hinders the flow of warmth across areas.",
+      "raw": "Insulation hinders the flow of warmth across areas.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-011:013",
+      "parent_id": "ood-science-011",
+      "attempt": 13,
+      "seed": 3772343698,
+      "text": "The transfer of heat between two regions is slowed by insulation.",
+      "raw": "The transfer of heat between two regions is slowed by insulation.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-011:014",
+      "parent_id": "ood-science-011",
+      "attempt": 14,
+      "seed": 2965700282,
+      "text": "Insulation hinders the flow of warmth between different areas.",
+      "raw": "Insulation hinders the flow of warmth between different areas.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-011:015",
+      "parent_id": "ood-science-011",
+      "attempt": 15,
+      "seed": 3184174386,
+      "text": "Insulation reduces heat transfer between two areas.",
+      "raw": "Insulation reduces heat transfer between two areas.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-011:016",
+      "parent_id": "ood-science-011",
+      "attempt": 16,
+      "seed": 1832913006,
+      "text": "Insulate decreases heat movement between distinct areas.",
+      "raw": "Insulate decreases heat movement between distinct areas.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-011:017",
+      "parent_id": "ood-science-011",
+      "attempt": 17,
+      "seed": 1295204137,
+      "text": "Heat transfers more quickly between two regions unless insulated.",
+      "raw": "Heat transfers more quickly between two regions unless insulated.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-011:018",
+      "parent_id": "ood-science-011",
+      "attempt": 18,
+      "seed": 2302805082,
+      "text": "Insulation hampers the circulation of warmth between two areas.",
+      "raw": "Insulation hampers the circulation of warmth between two areas.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-011:019",
+      "parent_id": "ood-science-011",
+      "attempt": 19,
+      "seed": 3425456404,
+      "text": "Insulate to prevent heat flow between areas.",
+      "raw": "Insulate to prevent heat flow between areas.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-011:020",
+      "parent_id": "ood-science-011",
+      "attempt": 20,
+      "seed": 1940073777,
+      "text": "Insulate reduces temperature exchange in distinct areas.",
+      "raw": "Insulate reduces temperature exchange in distinct areas.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-011:021",
+      "parent_id": "ood-science-011",
+      "attempt": 21,
+      "seed": 2204786463,
+      "text": "Heat is transferred more quickly between two regions without insulation.",
+      "raw": "Heat is transferred more quickly between two regions without insulation.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-011:022",
+      "parent_id": "ood-science-011",
+      "attempt": 22,
+      "seed": 2734021750,
+      "text": "Insulation reduces the flow of warmth between different areas.",
+      "raw": "Insulation reduces the flow of warmth between different areas.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-011:023",
+      "parent_id": "ood-science-011",
+      "attempt": 23,
+      "seed": 1663039536,
+      "text": "Insulation reduces heat flow between two areas.",
+      "raw": "Insulation reduces heat flow between two areas.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-011:024",
+      "parent_id": "ood-science-011",
+      "attempt": 24,
+      "seed": 3800415643,
+      "text": "Insulation hinders the movement of warmth between different areas.",
+      "raw": "Insulation hinders the movement of warmth between different areas.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-011:025",
+      "parent_id": "ood-science-011",
+      "attempt": 25,
+      "seed": 1362832149,
+      "text": "The transfer of heat is slowed by insulation between two regions.",
+      "raw": "The transfer of heat is slowed by insulation between two regions.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-011:026",
+      "parent_id": "ood-science-011",
+      "attempt": 26,
+      "seed": 1585113081,
+      "text": "Insulation hinders the exchange of thermal energy between different areas.",
+      "raw": "Insulation hinders the exchange of thermal energy between different areas.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-011:027",
+      "parent_id": "ood-science-011",
+      "attempt": 27,
+      "seed": 1614587766,
+      "text": "Insulation reduces heat flow between areas.",
+      "raw": "Insulation reduces heat flow between areas.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-011:028",
+      "parent_id": "ood-science-011",
+      "attempt": 28,
+      "seed": 1470120067,
+      "text": "Insulation reduces heat flow between areas.",
+      "raw": "Insulation reduces heat flow between areas.",
+      "generated_tokens": 9,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-011:029",
+      "parent_id": "ood-science-011",
+      "attempt": 29,
+      "seed": 3518441847,
+      "text": "Heat transfer is slowed by insulation between two regions.",
+      "raw": "Heat transfer is slowed by insulation between two regions.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-011:030",
+      "parent_id": "ood-science-011",
+      "attempt": 30,
+      "seed": 656526034,
+      "text": "Insulation impedes the flow of warmth across different areas.",
+      "raw": "Insulation impedes the flow of warmth across different areas.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-011:031",
+      "parent_id": "ood-science-011",
+      "attempt": 31,
+      "seed": 306953287,
+      "text": "Insulation reduces heat flow between two areas.",
+      "raw": "Insulation reduces heat flow between two areas.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    }
+  ],
+  "generated_tokens": 371,
+  "generation_seconds": 6.537898846901953
+}

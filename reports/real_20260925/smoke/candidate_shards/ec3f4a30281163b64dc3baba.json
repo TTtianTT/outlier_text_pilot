@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "ood-science-006",
+    "group_id": "ood-science-006",
+    "split": "ood",
+    "domain": "science",
+    "text": "Friction can convert some mechanical energy into heat."
+  },
+  "attempts": [
+    {
+      "candidate_id": "ood-science-006:000",
+      "parent_id": "ood-science-006",
+      "attempt": 0,
+      "seed": 468358959,
+      "text": "Friction transforms some mechanical energy into heat.",
+      "raw": "Friction transforms some mechanical energy into heat.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-006:001",
+      "parent_id": "ood-science-006",
+      "attempt": 1,
+      "seed": 1688303542,
+      "text": "Mechanical energy can be converted into heat by friction.",
+      "raw": "Mechanical energy can be converted into heat by friction.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-006:002",
+      "parent_id": "ood-science-006",
+      "attempt": 2,
+      "seed": 2750677011,
+      "text": "Mechanical energy can be converted to heat through friction.",
+      "raw": "Mechanical energy can be converted to heat through friction.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-006:003",
+      "parent_id": "ood-science-006",
+      "attempt": 3,
+      "seed": 2739662625,
+      "text": "Friction transforms some mechanical energy into heat.",
+      "raw": "Friction transforms some mechanical energy into heat.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-006:004",
+      "parent_id": "ood-science-006",
+      "attempt": 4,
+      "seed": 3793052887,
+      "text": "Friction transforms part of mechanical energy into heat.",
+      "raw": "Friction transforms part of mechanical energy into heat.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-006:005",
+      "parent_id": "ood-science-006",
+      "attempt": 5,
+      "seed": 2612906283,
+      "text": "Some mechanical energy can be converted into heat by friction.",
+      "raw": "Some mechanical energy can be converted into heat by friction.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-006:006",
+      "parent_id": "ood-science-006",
+      "attempt": 6,
+      "seed": 1093025305,
+      "text": "Mechanical energy can be converted into heat through friction.",
+      "raw": "Mechanical energy can be converted into heat through friction.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-006:007",
+      "parent_id": "ood-science-006",
+      "attempt": 7,
+      "seed": 3552073184,
+      "text": "Friction transforms at least some mechanical energy to heat.",
+      "raw": "Friction transforms at least some mechanical energy to heat.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-006:008",
+      "parent_id": "ood-science-006",
+      "attempt": 8,
+      "seed": 3271122025,
+      "text": "Friction converts some mechanical energy to heat.",
+      "raw": "Friction converts some mechanical energy to heat.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-006:009",
+      "parent_id": "ood-science-006",
+      "attempt": 9,
+      "seed": 2725200040,
+      "text": "Some mechanical energy can be converted into heat by friction.",
+      "raw": "Some mechanical energy can be converted into heat by friction.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-006:010",
+      "parent_id": "ood-science-006",
+      "attempt": 10,
+      "seed": 1212204407,
+      "text": "Friction transforms some mechanical energy into heat.",
+      "raw": "Friction transforms some mechanical energy into heat.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-006:011",
+      "parent_id": "ood-science-006",
+      "attempt": 11,
+      "seed": 34692075,
+      "text": "Mechanical energy can be converted to heat through friction.",
+      "raw": "Mechanical energy can be converted to heat through friction.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-006:012",
+      "parent_id": "ood-science-006",
+      "attempt": 12,
+      "seed": 1408204328,
+      "text": "Friction transforms some mechanical energy into heat.",
+      "raw": "Friction transforms some mechanical energy into heat.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-006:013",
+      "parent_id": "ood-science-006",
+      "attempt": 13,
+      "seed": 3037411824,
+      "text": "Some mechanical energy can be converted by friction into heat.",
+      "raw": "Some mechanical energy can be converted by friction into heat.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-006:014",
+      "parent_id": "ood-science-006",
+      "attempt": 14,
+      "seed": 2304736652,
+      "text": "Friction converts some mechanical energy into heat.",
+      "raw": "Friction converts some mechanical energy into heat.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-006:015",
+      "parent_id": "ood-science-006",
+      "attempt": 15,
+      "seed": 4129200491,
+      "text": "Friction transforms some mechanical energy into heat.",
+      "raw": "Friction transforms some mechanical energy into heat.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-006:016",
+      "parent_id": "ood-science-006",
+      "attempt": 16,
+      "seed": 2913868297,
+      "text": "Friction can transmute some mechanical energy to heat.",
+      "raw": "Friction can transmute some mechanical energy to heat.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-006:017",
+      "parent_id": "ood-science-006",
+      "attempt": 17,
+      "seed": 2652751567,
+      "text": "Mechanical energy can be converted into heat by friction.",
+      "raw": "Mechanical energy can be converted into heat by friction.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-006:018",
+      "parent_id": "ood-science-006",
+      "attempt": 18,
+      "seed": 683522763,
+      "text": "Some frictional forces transform mechanical energy into heat.",
+      "raw": "Some frictional forces transform mechanical energy into heat.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-006:019",
+      "parent_id": "ood-science-006",
+      "attempt": 19,
+      "seed": 1326768497,
+      "text": "Friction transforms some mechanical energy into heat.",
+      "raw": "Friction transforms some mechanical energy into heat.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-006:020",
+      "parent_id": "ood-science-006",
+      "attempt": 20,
+      "seed": 2930526455,
+      "text": "Friction transforms some mechanical energy into heat.",
+      "raw": "Friction transforms some mechanical energy into heat.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-006:021",
+      "parent_id": "ood-science-006",
+      "attempt": 21,
+      "seed": 3761733877,
+      "text": "Some mechanical energy can be converted into heat by friction.",
+      "raw": "Some mechanical energy can be converted into heat by friction.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-006:022",
+      "parent_id": "ood-science-006",
+      "attempt": 22,
+      "seed": 2108347341,
+      "text": "Some friction converts mechanical energy to heat.",
+      "raw": "Some friction converts mechanical energy to heat.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-006:023",
+      "parent_id": "ood-science-006",
+      "attempt": 23,
+      "seed": 3518928637,
+      "text": "Friction transforms some mechanical energy into heat.",
+      "raw": "Friction transforms some mechanical energy into heat.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-006:024",
+      "parent_id": "ood-science-006",
+      "attempt": 24,
+      "seed": 2793642515,
+      "text": "Friction transforms some mechanical energy into heat.",
+      "raw": "Friction transforms some mechanical energy into heat.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-006:025",
+      "parent_id": "ood-science-006",
+      "attempt": 25,
+      "seed": 3852662978,
+      "text": "Some mechanical energy can be converted by friction into heat.",
+      "raw": "Some mechanical energy can be converted by friction into heat.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-006:026",
+      "parent_id": "ood-science-006",
+      "attempt": 26,
+      "seed": 3688753,
+      "text": "Mechanical energy can be converted into heat through friction.",
+      "raw": "Mechanical energy can be converted into heat through friction.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-006:027",
+      "parent_id": "ood-science-006",
+      "attempt": 27,
+      "seed": 3888601862,
+      "text": "Friction transforms part of mechanical energy into heat.",
+      "raw": "Friction transforms part of mechanical energy into heat.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-006:028",
+      "parent_id": "ood-science-006",
+      "attempt": 28,
+      "seed": 545560105,
+      "text": "Friction transmutes some mechanical energy into heat.",
+      "raw": "Friction transmutes some mechanical energy into heat.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-006:029",
+      "parent_id": "ood-science-006",
+      "attempt": 29,
+      "seed": 2632460381,
+      "text": "Some mechanical energy can be converted into heat by friction.",
+      "raw": "Some mechanical energy can be converted into heat by friction.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-006:030",
+      "parent_id": "ood-science-006",
+      "attempt": 30,
+      "seed": 2976762590,
+      "text": "Friction can transform some mechanical energy into heat.",
+      "raw": "Friction can transform some mechanical energy into heat.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-006:031",
+      "parent_id": "ood-science-006",
+      "attempt": 31,
+      "seed": 1205968852,
+      "text": "Friction transforms a portion of mechanical energy into heat.",
+      "raw": "Friction transforms a portion of mechanical energy into heat.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 355,
+  "generation_seconds": 6.245573522988707
+}

@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "test-daily-005",
+    "group_id": "test-daily-005",
+    "split": "test",
+    "domain": "daily",
+    "text": "She sent the revised schedule to the group yesterday."
+  },
+  "attempts": [
+    {
+      "candidate_id": "test-daily-005:000",
+      "parent_id": "test-daily-005",
+      "attempt": 0,
+      "seed": 2441094048,
+      "text": "She emailed the updated plan to the team the previous day.",
+      "raw": "She emailed the updated plan to the team the previous day.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-005:001",
+      "parent_id": "test-daily-005",
+      "attempt": 1,
+      "seed": 719370453,
+      "text": "The revised schedule was sent to the group by her yesterday.",
+      "raw": "The revised schedule was sent to the group by her yesterday.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-005:002",
+      "parent_id": "test-daily-005",
+      "attempt": 2,
+      "seed": 4065372592,
+      "text": "She handed out the amended plan to the team previously.",
+      "raw": "She handed out the amended plan to the team previously.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-005:003",
+      "parent_id": "test-daily-005",
+      "attempt": 3,
+      "seed": 739686890,
+      "text": "She transmitted the amended plan to the team on prior days.",
+      "raw": "She transmitted the amended plan to the team on prior days.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-005:004",
+      "parent_id": "test-daily-005",
+      "attempt": 4,
+      "seed": 929816208,
+      "text": "She transmitted the updated schedule to the assembly yesterday.",
+      "raw": "She transmitted the updated schedule to the assembly yesterday.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-005:005",
+      "parent_id": "test-daily-005",
+      "attempt": 5,
+      "seed": 2022647886,
+      "text": "Yesterday, she sent the revised schedule to the group.",
+      "raw": "Yesterday, she sent the revised schedule to the group.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-005:006",
+      "parent_id": "test-daily-005",
+      "attempt": 6,
+      "seed": 412582998,
+      "text": "She forwarded the updated plan to the team the previous day.",
+      "raw": "She forwarded the updated plan to the team the previous day.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-005:007",
+      "parent_id": "test-daily-005",
+      "attempt": 7,
+      "seed": 618737242,
+      "text": "She sent the updated timeline to her team a day ago.",
+      "raw": "She sent the updated timeline to her team a day ago.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-005:008",
+      "parent_id": "test-daily-005",
+      "attempt": 8,
+      "seed": 2186622308,
+      "text": "She forwarded the revised schedule to the team previously.",
+      "raw": "She forwarded the revised schedule to the team previously.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-005:009",
+      "parent_id": "test-daily-005",
+      "attempt": 9,
+      "seed": 3954718081,
+      "text": "The revised schedule was sent to the group by her yesterday.",
+      "raw": "The revised schedule was sent to the group by her yesterday.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-005:010",
+      "parent_id": "test-daily-005",
+      "attempt": 10,
+      "seed": 4281671093,
+      "text": "Yesterday, she sent the revised schedule to the group.",
+      "raw": "Yesterday, she sent the revised schedule to the group.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-005:011",
+      "parent_id": "test-daily-005",
+      "attempt": 11,
+      "seed": 322802275,
+      "text": "She sent the revised schedule to the group yesterday.",
+      "raw": "She sent the revised schedule to the group yesterday.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-005:012",
+      "parent_id": "test-daily-005",
+      "attempt": 12,
+      "seed": 2769418042,
+      "text": "She transmitted the amended plan to the crew earlier.",
+      "raw": "She transmitted the amended plan to the crew earlier.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-005:013",
+      "parent_id": "test-daily-005",
+      "attempt": 13,
+      "seed": 4044790870,
+      "text": "Yesterday, she sent the revised schedule to the group.",
+      "raw": "Yesterday, she sent the revised schedule to the group.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-005:014",
+      "parent_id": "test-daily-005",
+      "attempt": 14,
+      "seed": 668456628,
+      "text": "She emailed the revised schedule to the team yesterday.",
+      "raw": "She emailed the revised schedule to the team yesterday.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-005:015",
+      "parent_id": "test-daily-005",
+      "attempt": 15,
+      "seed": 346471470,
+      "text": "She emailed the updated plan to the team yesterday.",
+      "raw": "She emailed the updated plan to the team yesterday.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-005:016",
+      "parent_id": "test-daily-005",
+      "attempt": 16,
+      "seed": 213907153,
+      "text": "She distributed the modified calendar amongst the cohort today.",
+      "raw": "She distributed the modified calendar amongst the cohort today.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-005:017",
+      "parent_id": "test-daily-005",
+      "attempt": 17,
+      "seed": 1890183509,
+      "text": "The revised schedule was sent by her to the group yesterday.",
+      "raw": "The revised schedule was sent by her to the group yesterday.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-005:018",
+      "parent_id": "test-daily-005",
+      "attempt": 18,
+      "seed": 1150823195,
+      "text": "She handed out the finalized plan to her team last week.",
+      "raw": "She handed out the finalized plan to her team last week.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-005:019",
+      "parent_id": "test-daily-005",
+      "attempt": 19,
+      "seed": 2651964745,
+      "text": "She delivered the modified plan to the team previously.",
+      "raw": "She delivered the modified plan to the team previously.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-005:020",
+      "parent_id": "test-daily-005",
+      "attempt": 20,
+      "seed": 890619730,
+      "text": "She transmitted the amended plan to the crew previously.",
+      "raw": "She transmitted the amended plan to the crew previously.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-005:021",
+      "parent_id": "test-daily-005",
+      "attempt": 21,
+      "seed": 1782108858,
+      "text": "Yesterday, she sent the revised schedule to the group.",
+      "raw": "Yesterday, she sent the revised schedule to the group.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-005:022",
+      "parent_id": "test-daily-005",
+      "attempt": 22,
+      "seed": 2458979047,
+      "text": "Yesterday, she sent the revised schedule to the group.",
+      "raw": "Yesterday, she sent the revised schedule to the group.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-005:023",
+      "parent_id": "test-daily-005",
+      "attempt": 23,
+      "seed": 1884416706,
+      "text": "She distributed the revised schedule among the team last day.",
+      "raw": "She distributed the revised schedule among the team last day.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-005:024",
+      "parent_id": "test-daily-005",
+      "attempt": 24,
+      "seed": 1858906035,
+      "text": "She forwarded the updated plan to the team yesterday.",
+      "raw": "She forwarded the updated plan to the team yesterday.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-005:025",
+      "parent_id": "test-daily-005",
+      "attempt": 25,
+      "seed": 1694054328,
+      "text": "The revised schedule was sent to the group by her yesterday.",
+      "raw": "The revised schedule was sent to the group by her yesterday.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-005:026",
+      "parent_id": "test-daily-005",
+      "attempt": 26,
+      "seed": 4114838376,
+      "text": "She passed the updated schedule on to the team last week.",
+      "raw": "She passed the updated schedule on to the team last week.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-005:027",
+      "parent_id": "test-daily-005",
+      "attempt": 27,
+      "seed": 3233301626,
+      "text": "She sent the revised schedule to the group yesterday.",
+      "raw": "She sent the revised schedule to the group yesterday.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-005:028",
+      "parent_id": "test-daily-005",
+      "attempt": 28,
+      "seed": 2680538603,
+      "text": "She handed over the adjusted plan to the team earlier that day.",
+      "raw": "She handed over the adjusted plan to the team earlier that day.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-005:029",
+      "parent_id": "test-daily-005",
+      "attempt": 29,
+      "seed": 2406406916,
+      "text": "Yesterday, she sent the revised schedule to the group.",
+      "raw": "Yesterday, she sent the revised schedule to the group.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-005:030",
+      "parent_id": "test-daily-005",
+      "attempt": 30,
+      "seed": 3755107725,
+      "text": "She emailed the revised schedule to the group yesterday.",
+      "raw": "She emailed the revised schedule to the group yesterday.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-005:031",
+      "parent_id": "test-daily-005",
+      "attempt": 31,
+      "seed": 3155159994,
+      "text": "She forwarded the amended plan to the assembly earlier today.",
+      "raw": "She forwarded the amended plan to the assembly earlier today.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 384,
+  "generation_seconds": 6.7129409541375935
+}

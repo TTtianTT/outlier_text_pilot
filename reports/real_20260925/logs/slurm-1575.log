@@ -1,0 +1,80 @@
+Fri Sep 25 14:45:36 2026       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 595.71.05              Driver Version: 595.71.05      CUDA Version: 13.2     |
++-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  NVIDIA RTX PRO 6000 Blac...    On  |   00000000:01:00.0 Off |                    0 |
+| N/A   22C    P8             33W /  600W |       0MiB /  97887MiB |      0%   E. Process |
+|                                         |                        |             Disabled |
++-----------------------------------------+------------------------+----------------------+
+
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|  No running processes found                                                             |
++-----------------------------------------------------------------------------------------+
+test_aead_and_wrong_key (test_core.CodecTests.test_aead_and_wrong_key) ... ok
+test_injected_target_field_and_missing_block_rejected (test_core.CodecTests.test_injected_target_field_and_missing_block_rejected) ... ok
+test_keygen_refuses_overwrite (test_core.CodecTests.test_keygen_refuses_overwrite) ... ok
+test_profile_tampering_rejected (test_core.CodecTests.test_profile_tampering_rejected) ... ok
+test_raw_decode_in_isolated_receiver_without_sender_cache (test_core.CodecTests.test_raw_decode_in_isolated_receiver_without_sender_cache) ... ok
+test_selection_failure_writes_no_successful_packet (test_core.CodecTests.test_selection_failure_writes_no_successful_packet) ... ok
+test_bit_packing_all_widths (test_core.ReadoutTests.test_bit_packing_all_widths) ... ok
+test_finite_pool_distribution_and_aborts (test_core.ReadoutTests.test_finite_pool_distribution_and_aborts) ... ok
+test_key_nonce_block_separation_and_margin (test_core.ReadoutTests.test_key_nonce_block_separation_and_margin) ... ok
+test_nonzero_padding_is_rejected (test_core.ReadoutTests.test_nonzero_padding_is_rejected) ... ok
+test_bootstrap_preserves_parent_pairing (test_core.SelectionTests.test_bootstrap_preserves_parent_pairing) ... ok
+test_matching_is_equal_budget_and_can_fail (test_core.SelectionTests.test_matching_is_equal_budget_and_can_fail) ... ok
+test_test_data_cannot_fit_nuisance_model (test_core.SelectionTests.test_test_data_cannot_fit_nuisance_model) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 0.100s
+
+OK
+`torch_dtype` is deprecated! Use `dtype` instead!
+generate 1/12 dev-product-007: 30 unique
+generate 2/12 dev-product-002: 26 unique
+generate 3/12 dev-product-003: 28 unique
+generate 4/12 dev-daily-009: 21 unique
+generate 5/12 test-daily-006: 16 unique
+generate 6/12 test-product-010: 27 unique
+generate 7/12 test-product-011: 24 unique
+generate 8/12 test-daily-008: 28 unique
+generate 9/12 ood-science-006: 16 unique
+generate 10/12 ood-science-015: 27 unique
+generate 11/12 ood-science-023: 30 unique
+generate 12/12 ood-science-025: 29 unique
+`torch_dtype` is deprecated! Use `dtype` instead!
+features 1/12 dev-product-007
+features 2/12 dev-product-002
+features 3/12 dev-product-003
+features 4/12 dev-daily-009
+features 5/12 test-daily-006
+features 6/12 test-product-010
+features 7/12 test-product-011
+features 8/12 test-daily-008
+features 9/12 ood-science-006
+features 10/12 ood-science-015
+features 11/12 ood-science-023
+features 12/12 ood-science-025
+saved 302 candidate features; calibration uses 4 dev parents only
+report: runs/real_20260925/smoke/report.md
+`torch_dtype` is deprecated! Use `dtype` instead!
+{
+  "status": "no_candidates",
+  "backend": "hf",
+  "fresh_text_forwards": 0,
+  "bits_checked": 0,
+  "bit_errors": 0,
+  "ber": null,
+  "sender_guarded_bits": 0,
+  "sender_guarded_bit_errors": 0,
+  "receiver_guard_rejections": 0,
+  "max_feature_l2_drift": 0.0,
+  "warning": "Same runtime only; this does not establish cross-device or edited-text reliability."
+}

@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "test-daily-012",
+    "group_id": "test-daily-012",
+    "split": "test",
+    "domain": "daily",
+    "text": "The children put their shoes on the rack by the door."
+  },
+  "attempts": [
+    {
+      "candidate_id": "test-daily-012:000",
+      "parent_id": "test-daily-012",
+      "attempt": 0,
+      "seed": 3824473018,
+      "text": "The kids hung their shoes on the closet near the entrance.",
+      "raw": "The kids hung their shoes on the closet near the entrance.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-012:001",
+      "parent_id": "test-daily-012",
+      "attempt": 1,
+      "seed": 1054127035,
+      "text": "By the door, the children placed their shoes on the rack.",
+      "raw": "By the door, the children placed their shoes on the rack.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-012:002",
+      "parent_id": "test-daily-012",
+      "attempt": 2,
+      "seed": 3695738468,
+      "text": "The kids placed their footwear in the storage compartment adjacent to the entrance.",
+      "raw": "The kids placed their footwear in the storage compartment adjacent to the entrance.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-012:003",
+      "parent_id": "test-daily-012",
+      "attempt": 3,
+      "seed": 344331698,
+      "text": "The kids fastened their footwear to the closet near the entrance.",
+      "raw": "The kids fastened their footwear to the closet near the entrance.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-012:004",
+      "parent_id": "test-daily-012",
+      "attempt": 4,
+      "seed": 704495863,
+      "text": "The children positioned their footwear upon the storage shelf near the entrance.",
+      "raw": "The children positioned their footwear upon the storage shelf near the entrance.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-012:005",
+      "parent_id": "test-daily-012",
+      "attempt": 5,
+      "seed": 1711969014,
+      "text": "By the door, the children placed their shoes onto a rack.",
+      "raw": "By the door, the children placed their shoes onto a rack.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-012:006",
+      "parent_id": "test-daily-012",
+      "attempt": 6,
+      "seed": 2337902969,
+      "text": "The kids placed their footwear in the cabinet near the entrance.",
+      "raw": "The kids placed their footwear in the cabinet near the entrance.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-012:007",
+      "parent_id": "test-daily-012",
+      "attempt": 7,
+      "seed": 2583480664,
+      "text": "Children placed their shoes onto the shoe rack near the entrance door.",
+      "raw": "Children placed their shoes onto the shoe rack near the entrance door.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-012:008",
+      "parent_id": "test-daily-012",
+      "attempt": 8,
+      "seed": 3183629098,
+      "text": "The kids hung their shoes on the doormat.",
+      "raw": "The kids hung their shoes on the doormat.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-012:009",
+      "parent_id": "test-daily-012",
+      "attempt": 9,
+      "seed": 3870335027,
+      "text": "By the door, the children placed their shoes onto a rack.",
+      "raw": "By the door, the children placed their shoes onto a rack.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-012:010",
+      "parent_id": "test-daily-012",
+      "attempt": 10,
+      "seed": 3143169459,
+      "text": "The children placed their shoes on the closet at the doorway.",
+      "raw": "The children placed their shoes on the closet at the doorway.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-012:011",
+      "parent_id": "test-daily-012",
+      "attempt": 11,
+      "seed": 1569908368,
+      "text": "The kids fastened their boots to the closet against the entrance.",
+      "raw": "The kids fastened their boots to the closet against the entrance.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-012:012",
+      "parent_id": "test-daily-012",
+      "attempt": 12,
+      "seed": 1038729084,
+      "text": "The children placed their footwear in the storage bin near the entrance.",
+      "raw": "The children placed their footwear in the storage bin near the entrance.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-012:013",
+      "parent_id": "test-daily-012",
+      "attempt": 13,
+      "seed": 3500846197,
+      "text": "By the door, the children placed their shoes onto a rack.",
+      "raw": "By the door, the children placed their shoes onto a rack.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-012:014",
+      "parent_id": "test-daily-012",
+      "attempt": 14,
+      "seed": 3544259139,
+      "text": "The children placed their footwear inside the closet at the entrance.",
+      "raw": "The children placed their footwear inside the closet at the entrance.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-012:015",
+      "parent_id": "test-daily-012",
+      "attempt": 15,
+      "seed": 561469675,
+      "text": "The kids affixed their footwear to the storage fixture adjacent to the entranceway.",
+      "raw": "The kids affixed their footwear to the storage fixture adjacent to the entranceway.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-012:016",
+      "parent_id": "test-daily-012",
+      "attempt": 16,
+      "seed": 288614447,
+      "text": "The kids placed their footwear in the closet adjacent to the entrance.",
+      "raw": "The kids placed their footwear in the closet adjacent to the entrance.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-012:017",
+      "parent_id": "test-daily-012",
+      "attempt": 17,
+      "seed": 2123319581,
+      "text": "By the door, the children placed their shoes on a rack.",
+      "raw": "By the door, the children placed their shoes on a rack.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-012:018",
+      "parent_id": "test-daily-012",
+      "attempt": 18,
+      "seed": 1926465132,
+      "text": "The kids hung their footwear in the closet adjacent to the entrance.",
+      "raw": "The kids hung their footwear in the closet adjacent to the entrance.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-012:019",
+      "parent_id": "test-daily-012",
+      "attempt": 19,
+      "seed": 2370020266,
+      "text": "The children placed their shoes on the door's side rack.",
+      "raw": "The children placed their shoes on the door's side rack.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-012:020",
+      "parent_id": "test-daily-012",
+      "attempt": 20,
+      "seed": 3786588104,
+      "text": "The kids stashed their boots in the closet near the entrance.",
+      "raw": "The kids stashed their boots in the closet near the entrance.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-012:021",
+      "parent_id": "test-daily-012",
+      "attempt": 21,
+      "seed": 2166785027,
+      "text": "By the door, they placed their shoes onto the rack.",
+      "raw": "By the door, they placed their shoes onto the rack.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-012:022",
+      "parent_id": "test-daily-012",
+      "attempt": 22,
+      "seed": 1461289177,
+      "text": "The kids placed their footwear inside the storage compartment adjacent to the entrance.",
+      "raw": "The kids placed their footwear inside the storage compartment adjacent to the entrance.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-012:023",
+      "parent_id": "test-daily-012",
+      "attempt": 23,
+      "seed": 2897438415,
+      "text": "The kids hung their boots in front of the entryway.",
+      "raw": "The kids hung their boots in front of the entryway.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-012:024",
+      "parent_id": "test-daily-012",
+      "attempt": 24,
+      "seed": 2189206124,
+      "text": "The kids tuck their footwear in the bin beside the entrance.",
+      "raw": "The kids tuck their footwear in the bin beside the entrance.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-012:025",
+      "parent_id": "test-daily-012",
+      "attempt": 25,
+      "seed": 796290484,
+      "text": "By the door, the children placed their shoes on a rack.",
+      "raw": "By the door, the children placed their shoes on a rack.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-012:026",
+      "parent_id": "test-daily-012",
+      "attempt": 26,
+      "seed": 354590246,
+      "text": "The children hung their shoes on the closet above the entrance.",
+      "raw": "The children hung their shoes on the closet above the entrance.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-012:027",
+      "parent_id": "test-daily-012",
+      "attempt": 27,
+      "seed": 1854365774,
+      "text": "The children placed their footwear in the storage area near the entrance.",
+      "raw": "The children placed their footwear in the storage area near the entrance.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-012:028",
+      "parent_id": "test-daily-012",
+      "attempt": 28,
+      "seed": 2480032399,
+      "text": "The kids placed their footwear inside the closet adjacent to the entrance.",
+      "raw": "The kids placed their footwear inside the closet adjacent to the entrance.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-012:029",
+      "parent_id": "test-daily-012",
+      "attempt": 29,
+      "seed": 2495441337,
+      "text": "By the door, the children placed their shoes on the rack.",
+      "raw": "By the door, the children placed their shoes on the rack.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-012:030",
+      "parent_id": "test-daily-012",
+      "attempt": 30,
+      "seed": 4048183892,
+      "text": "The children placed their footwear in the storage bin adjacent to the entrance.",
+      "raw": "The children placed their footwear in the storage bin adjacent to the entrance.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-012:031",
+      "parent_id": "test-daily-012",
+      "attempt": 31,
+      "seed": 1777509733,
+      "text": "The kids affixed their boots to the closet above the entrance.",
+      "raw": "The kids affixed their boots to the closet above the entrance.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 444,
+  "generation_seconds": 7.977337226038799
+}

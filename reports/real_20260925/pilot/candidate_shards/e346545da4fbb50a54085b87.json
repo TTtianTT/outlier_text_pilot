@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "dev-daily-003",
+    "group_id": "dev-daily-003",
+    "split": "dev",
+    "domain": "daily",
+    "text": "The train arrived ten minutes late after a short delay at the station."
+  },
+  "attempts": [
+    {
+      "candidate_id": "dev-daily-003:000",
+      "parent_id": "dev-daily-003",
+      "attempt": 0,
+      "seed": 467417923,
+      "text": "The train was fifteen minutes late due to a minor hold-up at the depot.",
+      "raw": "The train was fifteen minutes late due to a minor hold-up at the depot.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-003:001",
+      "parent_id": "dev-daily-003",
+      "attempt": 1,
+      "seed": 2746631578,
+      "text": "After a short delay at the station, the train arrived ten minutes late.",
+      "raw": "After a short delay at the station, the train arrived ten minutes late.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-003:002",
+      "parent_id": "dev-daily-003",
+      "attempt": 2,
+      "seed": 4200934148,
+      "text": "The train was ten minutes late with a brief stopover at the station.",
+      "raw": "The train was ten minutes late with a brief stopover at the station.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-003:003",
+      "parent_id": "dev-daily-003",
+      "attempt": 3,
+      "seed": 412292133,
+      "text": "The train was delayed for ten minutes before reaching the station.",
+      "raw": "The train was delayed for ten minutes before reaching the station.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-003:004",
+      "parent_id": "dev-daily-003",
+      "attempt": 4,
+      "seed": 496713995,
+      "text": "The train was punctually delayed by ten minutes due to a brief halt at the station.",
+      "raw": "The train was punctually delayed by ten minutes due to a brief halt at the station.",
+      "generated_tokens": 19,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-003:005",
+      "parent_id": "dev-daily-003",
+      "attempt": 5,
+      "seed": 3892897066,
+      "text": "After a brief stop at the station for ten minutes, the train was delayed by another 10 minutes.",
+      "raw": "After a brief stop at the station for ten minutes, the train was delayed by another 10 minutes.",
+      "generated_tokens": 23,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-003:006",
+      "parent_id": "dev-daily-003",
+      "attempt": 6,
+      "seed": 1354128542,
+      "text": "The train was delayed by five minutes due to a minor incident at the station before arriving ten minutes past its scheduled time.",
+      "raw": "The train was delayed by five minutes due to a minor incident at the station before arriving ten minutes past its scheduled time.",
+      "generated_tokens": 25,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-003:007",
+      "parent_id": "dev-daily-003",
+      "attempt": 7,
+      "seed": 1627179700,
+      "text": "The train was delayed by a short period of time at the station before arriving ten minutes later.",
+      "raw": "The train was delayed by a short period of time at the station before arriving ten minutes later.",
+      "generated_tokens": 20,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-003:008",
+      "parent_id": "dev-daily-003",
+      "attempt": 8,
+      "seed": 2212024343,
+      "text": "The train was 10 minutes late due to a brief stop at the station.",
+      "raw": "The train was 10 minutes late due to a brief stop at the station.",
+      "generated_tokens": 18,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-003:009",
+      "parent_id": "dev-daily-003",
+      "attempt": 9,
+      "seed": 2722217369,
+      "text": "After a brief stop at the station, the train was delayed by ten minutes and finally arrived.",
+      "raw": "After a brief stop at the station, the train was delayed by ten minutes and finally arrived.",
+      "generated_tokens": 20,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-003:010",
+      "parent_id": "dev-daily-003",
+      "attempt": 10,
+      "seed": 2267113104,
+      "text": "The train was delayed by a short period but before it reached its destination an extra ten minutes later.",
+      "raw": "The train was delayed by a short period but before it reached its destination an extra ten minutes later.",
+      "generated_tokens": 21,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-003:011",
+      "parent_id": "dev-daily-003",
+      "attempt": 11,
+      "seed": 3403342319,
+      "text": "The train was delayed by ten minutes after stopping briefly at the station.",
+      "raw": "The train was delayed by ten minutes after stopping briefly at the station.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-003:012",
+      "parent_id": "dev-daily-003",
+      "attempt": 12,
+      "seed": 661181076,
+      "text": "The train was delayed by ten minutes upon arrival at the station following a brief stopover.",
+      "raw": "The train was delayed by ten minutes upon arrival at the station following a brief stopover.",
+      "generated_tokens": 19,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-003:013",
+      "parent_id": "dev-daily-003",
+      "attempt": 13,
+      "seed": 1221294756,
+      "text": "After a short delay at the station, the train arrived ten minutes late.",
+      "raw": "After a short delay at the station, the train arrived ten minutes late.",
+      "generated_tokens": 16,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-003:014",
+      "parent_id": "dev-daily-003",
+      "attempt": 14,
+      "seed": 3332318590,
+      "text": "The train was delayed by 10 minutes upon arriving at the station following a brief stop.",
+      "raw": "The train was delayed by 10 minutes upon arriving at the station following a brief stop.",
+      "generated_tokens": 20,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-003:015",
+      "parent_id": "dev-daily-003",
+      "attempt": 15,
+      "seed": 527689627,
+      "text": "The delayed train arrived ten minutes past its scheduled time at the station.",
+      "raw": "The delayed train arrived ten minutes past its scheduled time at the station.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-003:016",
+      "parent_id": "dev-daily-003",
+      "attempt": 16,
+      "seed": 1531309078,
+      "text": "The train was delayed by ten minutes following an early arrival at the station.",
+      "raw": "The train was delayed by ten minutes following an early arrival at the station.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-003:017",
+      "parent_id": "dev-daily-003",
+      "attempt": 17,
+      "seed": 2367180461,
+      "text": "A short delay at the station caused the train to arrive ten minutes late.",
+      "raw": "A short delay at the station caused the train to arrive ten minutes late.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-003:018",
+      "parent_id": "dev-daily-003",
+      "attempt": 18,
+      "seed": 1750224854,
+      "text": "The train was delayed by an hour at the station before arriving 10 minutes late.",
+      "raw": "The train was delayed by an hour at the station before arriving 10 minutes late.",
+      "generated_tokens": 19,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-003:019",
+      "parent_id": "dev-daily-003",
+      "attempt": 19,
+      "seed": 545457996,
+      "text": "The train was five minutes early. It encountered some delays but made up for them by arriving right on time.",
+      "raw": "The train was five minutes early. It encountered some delays but made up for them by arriving right on time.",
+      "generated_tokens": 23,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-003:020",
+      "parent_id": "dev-daily-003",
+      "attempt": 20,
+      "seed": 4150144748,
+      "text": "The train was delayed for ten minutes after an initial stop at the station.",
+      "raw": "The train was delayed for ten minutes after an initial stop at the station.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-003:021",
+      "parent_id": "dev-daily-003",
+      "attempt": 21,
+      "seed": 377308891,
+      "text": "After a short delay at the station, the train arrived ten minutes late.",
+      "raw": "After a short delay at the station, the train arrived ten minutes late.",
+      "generated_tokens": 16,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-003:022",
+      "parent_id": "dev-daily-003",
+      "attempt": 22,
+      "seed": 3384681147,
+      "text": "The train was ten minutes late due to a brief stop at the station.",
+      "raw": "The train was ten minutes late due to a brief stop at the station.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-003:023",
+      "parent_id": "dev-daily-003",
+      "attempt": 23,
+      "seed": 1053755852,
+      "text": "The delayed train was 10 minutes late as it made a brief stop at the station.",
+      "raw": "The delayed train was 10 minutes late as it made a brief stop at the station.",
+      "generated_tokens": 20,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-003:024",
+      "parent_id": "dev-daily-003",
+      "attempt": 24,
+      "seed": 847994052,
+      "text": "The train was delayed for ten minutes upon arriving at the station after a brief stop.",
+      "raw": "The train was delayed for ten minutes upon arriving at the station after a brief stop.",
+      "generated_tokens": 18,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-003:025",
+      "parent_id": "dev-daily-003",
+      "attempt": 25,
+      "seed": 978804165,
+      "text": "After a short delay at the station, the train arrived ten minutes late.",
+      "raw": "After a short delay at the station, the train arrived ten minutes late.",
+      "generated_tokens": 16,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-003:026",
+      "parent_id": "dev-daily-003",
+      "attempt": 26,
+      "seed": 398386788,
+      "text": "The train was delayed by a few minutes upon arrival at the station shortly afterward.",
+      "raw": "The train was delayed by a few minutes upon arrival at the station shortly afterward.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-003:027",
+      "parent_id": "dev-daily-003",
+      "attempt": 27,
+      "seed": 780731149,
+      "text": "The train was delayed for ten minutes upon arriving at its destination.",
+      "raw": "The train was delayed for ten minutes upon arriving at its destination.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-003:028",
+      "parent_id": "dev-daily-003",
+      "attempt": 28,
+      "seed": 3643361946,
+      "text": "The train was delayed for ten minutes en route to its destination due to a brief stoppage at the station.",
+      "raw": "The train was delayed for ten minutes en route to its destination due to a brief stoppage at the station.",
+      "generated_tokens": 23,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-003:029",
+      "parent_id": "dev-daily-003",
+      "attempt": 29,
+      "seed": 3560962075,
+      "text": "After a short delay at the station, the train was ten minutes late.",
+      "raw": "After a short delay at the station, the train was ten minutes late.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-003:030",
+      "parent_id": "dev-daily-003",
+      "attempt": 30,
+      "seed": 1679636207,
+      "text": "The train was delayed by ten minutes upon arrival due to a brief stoppage at the station.",
+      "raw": "The train was delayed by ten minutes upon arrival due to a brief stoppage at the station.",
+      "generated_tokens": 20,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-003:031",
+      "parent_id": "dev-daily-003",
+      "attempt": 31,
+      "seed": 1208979077,
+      "text": "The train was ten minutes late due to a short delay at the station.",
+      "raw": "The train was ten minutes late due to a short delay at the station.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 575,
+  "generation_seconds": 10.095704903826118
+}

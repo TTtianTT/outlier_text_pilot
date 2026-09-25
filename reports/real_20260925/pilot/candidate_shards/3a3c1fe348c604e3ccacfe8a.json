@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "ood-science-028",
+    "group_id": "ood-science-028",
+    "split": "ood",
+    "domain": "science",
+    "text": "The frequency of a repeating event is the number of repetitions per unit time."
+  },
+  "attempts": [
+    {
+      "candidate_id": "ood-science-028:000",
+      "parent_id": "ood-science-028",
+      "attempt": 0,
+      "seed": 1468455944,
+      "text": "Frequency refers to the count of occurrences over a specific period.",
+      "raw": "Frequency refers to the count of occurrences over a specific period.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-028:001",
+      "parent_id": "ood-science-028",
+      "attempt": 1,
+      "seed": 3042215568,
+      "text": "A repeating event's frequency equals how many times it occurs in a specific duration.",
+      "raw": "A repeating event's frequency equals how many times it occurs in a specific duration.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-028:002",
+      "parent_id": "ood-science-028",
+      "attempt": 2,
+      "seed": 2443260920,
+      "text": "A recurring occurrence's rate is determined by the count of instances happening every given period.",
+      "raw": "A recurring occurrence's rate is determined by the count of instances happening every given period.",
+      "generated_tokens": 18,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-028:003",
+      "parent_id": "ood-science-028",
+      "attempt": 3,
+      "seed": 2464493366,
+      "text": "Frequency is the number of times an event occurs in a given period.",
+      "raw": "Frequency is the number of times an event occurs in a given period.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-028:004",
+      "parent_id": "ood-science-028",
+      "attempt": 4,
+      "seed": 464082462,
+      "text": "The rate at which an event occurs equals the quantity of instances divided by the duration.",
+      "raw": "The rate at which an event occurs equals the quantity of instances divided by the duration.",
+      "generated_tokens": 18,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-028:005",
+      "parent_id": "ood-science-028",
+      "attempt": 5,
+      "seed": 2520338688,
+      "text": "The number of times an event repeats within a given period equals its frequency.",
+      "raw": "The number of times an event repeats within a given period equals its frequency.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-028:006",
+      "parent_id": "ood-science-028",
+      "attempt": 6,
+      "seed": 570743717,
+      "text": "A recurring action's occurrence rate equals how often it repeats within a specified duration.",
+      "raw": "A recurring action's occurrence rate equals how often it repeats within a specified duration.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-028:007",
+      "parent_id": "ood-science-028",
+      "attempt": 7,
+      "seed": 409152797,
+      "text": "A repetitive occurrence happens at a rate defined by the total number of occurrences divided by the duration measured in units of time.",
+      "raw": "A repetitive occurrence happens at a rate defined by the total number of occurrences divided by the duration measured in units of time.",
+      "generated_tokens": 25,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-028:008",
+      "parent_id": "ood-science-028",
+      "attempt": 8,
+      "seed": 420001307,
+      "text": "A recurring action's rate equals how often it happens within a specific period.",
+      "raw": "A recurring action's rate equals how often it happens within a specific period.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-028:009",
+      "parent_id": "ood-science-028",
+      "attempt": 9,
+      "seed": 2028096677,
+      "text": "The amount of occurrences within a specified period equals the count divided by the duration.",
+      "raw": "The amount of occurrences within a specified period equals the count divided by the duration.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-028:010",
+      "parent_id": "ood-science-028",
+      "attempt": 10,
+      "seed": 3774629249,
+      "text": "The frequency of an event indicates how many times it occurs in a specific period.",
+      "raw": "The frequency of an event indicates how many times it occurs in a specific period.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-028:011",
+      "parent_id": "ood-science-028",
+      "attempt": 11,
+      "seed": 2991521254,
+      "text": "Frequency equals the number of instances occurring in a given time span.",
+      "raw": "Frequency equals the number of instances occurring in a given time span.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-028:012",
+      "parent_id": "ood-science-028",
+      "attempt": 12,
+      "seed": 1695323760,
+      "text": "Frequency equals the count of occurrences within any given span of time.",
+      "raw": "Frequency equals the count of occurrences within any given span of time.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-028:013",
+      "parent_id": "ood-science-028",
+      "attempt": 13,
+      "seed": 2877095508,
+      "text": "The number of times an event occurs within a specific period is called its frequency.",
+      "raw": "The number of times an event occurs within a specific period is called its frequency.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-028:014",
+      "parent_id": "ood-science-028",
+      "attempt": 14,
+      "seed": 3362555816,
+      "text": "A repeating event's rate equals the quantity of occurrences over time intervals.",
+      "raw": "A repeating event's rate equals the quantity of occurrences over time intervals.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-028:015",
+      "parent_id": "ood-science-028",
+      "attempt": 15,
+      "seed": 82643731,
+      "text": "A repeat happens regularly when measured by how many times in any given period.",
+      "raw": "A repeat happens regularly when measured by how many times in any given period.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-028:016",
+      "parent_id": "ood-science-028",
+      "attempt": 16,
+      "seed": 2478686842,
+      "text": "A recurring occurrence's rate equals the total instances in an interval duration.",
+      "raw": "A recurring occurrence's rate equals the total instances in an interval duration.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-028:017",
+      "parent_id": "ood-science-028",
+      "attempt": 17,
+      "seed": 3165710390,
+      "text": "The amount of times an event happens in a set period equals its frequency.",
+      "raw": "The amount of times an event happens in a set period equals its frequency.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-028:018",
+      "parent_id": "ood-science-028",
+      "attempt": 18,
+      "seed": 2866191856,
+      "text": "Frequency refers to how often an action repeats within a specific timeframe.",
+      "raw": "Frequency refers to how often an action repeats within a specific timeframe.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-028:019",
+      "parent_id": "ood-science-028",
+      "attempt": 19,
+      "seed": 2154193969,
+      "text": "The occurrence rate of an event equals the count of how many times it repeats over a given interval.",
+      "raw": "The occurrence rate of an event equals the count of how many times it repeats over a given interval.",
+      "generated_tokens": 21,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-028:020",
+      "parent_id": "ood-science-028",
+      "attempt": 20,
+      "seed": 189476504,
+      "text": "Frequency equals the count of occurrences in a given duration.",
+      "raw": "Frequency equals the count of occurrences in a given duration.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-028:021",
+      "parent_id": "ood-science-028",
+      "attempt": 21,
+      "seed": 1775185987,
+      "text": "Number of repetitions per unit time defines the frequency of a repeating event.",
+      "raw": "Number of repetitions per unit time defines the frequency of a repeating event.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-028:022",
+      "parent_id": "ood-science-028",
+      "attempt": 22,
+      "seed": 1791142930,
+      "text": "The rate at which something happens is determined by counting how many times it occurs within a given period.",
+      "raw": "The rate at which something happens is determined by counting how many times it occurs within a given period.",
+      "generated_tokens": 21,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-028:023",
+      "parent_id": "ood-science-028",
+      "attempt": 23,
+      "seed": 1131494184,
+      "text": "The frequency equals the number of occurrences over a given period.",
+      "raw": "The frequency equals the number of occurrences over a given period.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-028:024",
+      "parent_id": "ood-science-028",
+      "attempt": 24,
+      "seed": 3963893995,
+      "text": "A repeating event's rate equals the number of occurrences each interval duration represents.",
+      "raw": "A repeating event's rate equals the number of occurrences each interval duration represents.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-028:025",
+      "parent_id": "ood-science-028",
+      "attempt": 25,
+      "seed": 3280860436,
+      "text": "The number of times an event repeats in a given period is its frequency.",
+      "raw": "The number of times an event repeats in a given period is its frequency.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-028:026",
+      "parent_id": "ood-science-028",
+      "attempt": 26,
+      "seed": 381044383,
+      "text": "A recurring occurrence's pace equals the total instances occurring over specific units of duration.",
+      "raw": "A recurring occurrence's pace equals the total instances occurring over specific units of duration.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-028:027",
+      "parent_id": "ood-science-028",
+      "attempt": 27,
+      "seed": 3055112278,
+      "text": "Frequency refers to how often an event repeats over a period, calculated as repetitions divided by time.",
+      "raw": "Frequency refers to how often an event repeats over a period, calculated as repetitions divided by time.",
+      "generated_tokens": 20,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-028:028",
+      "parent_id": "ood-science-028",
+      "attempt": 28,
+      "seed": 4276749261,
+      "text": "The rate at which an occurrence happens is measured by the quantity of instances over a specified period of time.",
+      "raw": "The rate at which an occurrence happens is measured by the quantity of instances over a specified period of time.",
+      "generated_tokens": 22,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-028:029",
+      "parent_id": "ood-science-028",
+      "attempt": 29,
+      "seed": 824745192,
+      "text": "Number of repetitions per unit time determines the frequency of a repeating event.",
+      "raw": "Number of repetitions per unit time determines the frequency of a repeating event.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-028:030",
+      "parent_id": "ood-science-028",
+      "attempt": 30,
+      "seed": 1605382882,
+      "text": "The rate at which an event happens determines how often it occurs over a specific period.",
+      "raw": "The rate at which an event happens determines how often it occurs over a specific period.",
+      "generated_tokens": 18,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-028:031",
+      "parent_id": "ood-science-028",
+      "attempt": 31,
+      "seed": 3537685263,
+      "text": "A recurring pattern happens how many times within any given time frame?",
+      "raw": "A recurring pattern happens how many times within any given time frame?",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 530,
+  "generation_seconds": 9.43800023989752
+}

@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "test-daily-008",
+    "group_id": "test-daily-008",
+    "split": "test",
+    "domain": "daily",
+    "text": "I found an extra blanket in the cupboard upstairs."
+  },
+  "attempts": [
+    {
+      "candidate_id": "test-daily-008:000",
+      "parent_id": "test-daily-008",
+      "attempt": 0,
+      "seed": 1645290372,
+      "text": "I discovered an additional blanket in the attic bedroom.",
+      "raw": "I discovered an additional blanket in the attic bedroom.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-008:001",
+      "parent_id": "test-daily-008",
+      "attempt": 1,
+      "seed": 88793986,
+      "text": "An extra blanket was discovered in the cupboard on the upper floor.",
+      "raw": "An extra blanket was discovered in the cupboard on the upper floor.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-008:002",
+      "parent_id": "test-daily-008",
+      "attempt": 2,
+      "seed": 897962217,
+      "text": "I discovered an additional blanket hidden in the attic.",
+      "raw": "I discovered an additional blanket hidden in the attic.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-008:003",
+      "parent_id": "test-daily-008",
+      "attempt": 3,
+      "seed": 1999605223,
+      "text": "There is an additional blanket nestled within the storage space above my bedroom.",
+      "raw": "There is an additional blanket nestled within the storage space above my bedroom.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-008:004",
+      "parent_id": "test-daily-008",
+      "attempt": 4,
+      "seed": 857780348,
+      "text": "I discovered an additional blanket nestled within the upper cupboard.",
+      "raw": "I discovered an additional blanket nestled within the upper cupboard.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-008:005",
+      "parent_id": "test-daily-008",
+      "attempt": 5,
+      "seed": 3202881081,
+      "text": "Upstairs, I discovered an additional blanket in the cupboard.",
+      "raw": "Upstairs, I discovered an additional blanket in the cupboard.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-008:006",
+      "parent_id": "test-daily-008",
+      "attempt": 6,
+      "seed": 3021282847,
+      "text": "I discovered an additional blanket in my upper cupboard.",
+      "raw": "I discovered an additional blanket in my upper cupboard.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-008:007",
+      "parent_id": "test-daily-008",
+      "attempt": 7,
+      "seed": 224812591,
+      "text": "There was a spare throw rug inside my attic closet.",
+      "raw": "There was a spare throw rug inside my attic closet.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-008:008",
+      "parent_id": "test-daily-008",
+      "attempt": 8,
+      "seed": 3205653011,
+      "text": "I discovered an additional blanket hidden in the attic on the upper floor.",
+      "raw": "I discovered an additional blanket hidden in the attic on the upper floor.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-008:009",
+      "parent_id": "test-daily-008",
+      "attempt": 9,
+      "seed": 3388885410,
+      "text": "In the cupboard upstairs, I discovered an extra blanket.",
+      "raw": "In the cupboard upstairs, I discovered an extra blanket.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-008:010",
+      "parent_id": "test-daily-008",
+      "attempt": 10,
+      "seed": 191265923,
+      "text": "I discovered an additional blanket hidden inside the bedroom upstairs.",
+      "raw": "I discovered an additional blanket hidden inside the bedroom upstairs.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-008:011",
+      "parent_id": "test-daily-008",
+      "attempt": 11,
+      "seed": 861901420,
+      "text": "I discovered an additional blanket nestled in the attic closet.",
+      "raw": "I discovered an additional blanket nestled in the attic closet.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-008:012",
+      "parent_id": "test-daily-008",
+      "attempt": 12,
+      "seed": 1361074925,
+      "text": "I discovered an additional comforter within the upper storage area.",
+      "raw": "I discovered an additional comforter within the upper storage area.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-008:013",
+      "parent_id": "test-daily-008",
+      "attempt": 13,
+      "seed": 2273947774,
+      "text": "An extra blanket was discovered in the cupboard upstairs.",
+      "raw": "An extra blanket was discovered in the cupboard upstairs.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-008:014",
+      "parent_id": "test-daily-008",
+      "attempt": 14,
+      "seed": 44665390,
+      "text": "I discovered an additional comforter tucked away in the attic bedroom cabinet.",
+      "raw": "I discovered an additional comforter tucked away in the attic bedroom cabinet.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-008:015",
+      "parent_id": "test-daily-008",
+      "attempt": 15,
+      "seed": 3188750586,
+      "text": "I discovered a surplus bedding item within the attic space above my bedroom.",
+      "raw": "I discovered a surplus bedding item within the attic space above my bedroom.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-008:016",
+      "parent_id": "test-daily-008",
+      "attempt": 16,
+      "seed": 1657047427,
+      "text": "I discovered an additional quilt in the attic above my bedroom.",
+      "raw": "I discovered an additional quilt in the attic above my bedroom.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-008:017",
+      "parent_id": "test-daily-008",
+      "attempt": 17,
+      "seed": 2053565698,
+      "text": "An extra blanket was discovered in the cupboard upstairs.",
+      "raw": "An extra blanket was discovered in the cupboard upstairs.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-008:018",
+      "parent_id": "test-daily-008",
+      "attempt": 18,
+      "seed": 4111103323,
+      "text": "I discovered a spare quilt hidden in the attic room.",
+      "raw": "I discovered a spare quilt hidden in the attic room.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-008:019",
+      "parent_id": "test-daily-008",
+      "attempt": 19,
+      "seed": 1719794492,
+      "text": "I discovered an additional blanket in the upper cabinet.",
+      "raw": "I discovered an additional blanket in the upper cabinet.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-008:020",
+      "parent_id": "test-daily-008",
+      "attempt": 20,
+      "seed": 399211798,
+      "text": "I discovered an additional quilt in my attic bedroom.",
+      "raw": "I discovered an additional quilt in my attic bedroom.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-008:021",
+      "parent_id": "test-daily-008",
+      "attempt": 21,
+      "seed": 3482957924,
+      "text": "In the cupboard upstairs, I discovered an extra blanket.",
+      "raw": "In the cupboard upstairs, I discovered an extra blanket.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-008:022",
+      "parent_id": "test-daily-008",
+      "attempt": 22,
+      "seed": 174224527,
+      "text": "I discovered an additional blanket beneath the attic's shelves.",
+      "raw": "I discovered an additional blanket beneath the attic's shelves.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-008:023",
+      "parent_id": "test-daily-008",
+      "attempt": 23,
+      "seed": 468980828,
+      "text": "I discovered a supplementary comforter nestled within the attic chamber.",
+      "raw": "I discovered a supplementary comforter nestled within the attic chamber.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-008:024",
+      "parent_id": "test-daily-008",
+      "attempt": 24,
+      "seed": 653383657,
+      "text": "I discovered an additional comforter beneath the upper cabinet's roof.",
+      "raw": "I discovered an additional comforter beneath the upper cabinet's roof.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-008:025",
+      "parent_id": "test-daily-008",
+      "attempt": 25,
+      "seed": 1564015876,
+      "text": "In the cupboard upstairs, I discovered an extra blanket.",
+      "raw": "In the cupboard upstairs, I discovered an extra blanket.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-008:026",
+      "parent_id": "test-daily-008",
+      "attempt": 26,
+      "seed": 3996878433,
+      "text": "I discovered an extra comforter beneath the stairs on the upper floor.",
+      "raw": "I discovered an extra comforter beneath the stairs on the upper floor.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-008:027",
+      "parent_id": "test-daily-008",
+      "attempt": 27,
+      "seed": 530337505,
+      "text": "I discovered a surplus comforter beneath my bedroom's attics roof.",
+      "raw": "I discovered a surplus comforter beneath my bedroom's attics roof.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-008:028",
+      "parent_id": "test-daily-008",
+      "attempt": 28,
+      "seed": 2746813672,
+      "text": "I discovered an additional quilt in the attic.",
+      "raw": "I discovered an additional quilt in the attic.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-008:029",
+      "parent_id": "test-daily-008",
+      "attempt": 29,
+      "seed": 4232382454,
+      "text": "An extra blanket was discovered in the cupboard upstairs.",
+      "raw": "An extra blanket was discovered in the cupboard upstairs.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-008:030",
+      "parent_id": "test-daily-008",
+      "attempt": 30,
+      "seed": 2847411415,
+      "text": "I discovered an additional blanket nestled within the storage space above the bedroom.",
+      "raw": "I discovered an additional blanket nestled within the storage space above the bedroom.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-008:031",
+      "parent_id": "test-daily-008",
+      "attempt": 31,
+      "seed": 3906754124,
+      "text": "There was an additional blanket discovered in the upstairs cupboard.",
+      "raw": "There was an additional blanket discovered in the upstairs cupboard.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 403,
+  "generation_seconds": 7.0409988451283425
+}

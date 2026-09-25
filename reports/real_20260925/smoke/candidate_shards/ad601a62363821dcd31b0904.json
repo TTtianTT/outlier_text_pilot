@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "ood-science-015",
+    "group_id": "ood-science-015",
+    "split": "ood",
+    "domain": "science",
+    "text": "Seeds need suitable conditions to begin growing into plants."
+  },
+  "attempts": [
+    {
+      "candidate_id": "ood-science-015:000",
+      "parent_id": "ood-science-015",
+      "attempt": 0,
+      "seed": 4098334673,
+      "text": "Seeds require optimal circumstances for germination into vegetation.",
+      "raw": "Seeds require optimal circumstances for germination into vegetation.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-015:001",
+      "parent_id": "ood-science-015",
+      "attempt": 1,
+      "seed": 3536803589,
+      "text": "Suitable conditions are necessary for seeds to grow into plants.",
+      "raw": "Suitable conditions are necessary for seeds to grow into plants.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-015:002",
+      "parent_id": "ood-science-015",
+      "attempt": 2,
+      "seed": 776037191,
+      "text": "Seeds require ideal conditions for germination into plants.",
+      "raw": "Seeds require ideal conditions for germination into plants.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-015:003",
+      "parent_id": "ood-science-015",
+      "attempt": 3,
+      "seed": 3961458127,
+      "text": "Seeds require optimal conditions for germination into mature plants.",
+      "raw": "Seeds require optimal conditions for germination into mature plants.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-015:004",
+      "parent_id": "ood-science-015",
+      "attempt": 4,
+      "seed": 2839303984,
+      "text": "Seeds require optimal circumstances for germination into plants.",
+      "raw": "Seeds require optimal circumstances for germination into plants.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-015:005",
+      "parent_id": "ood-science-015",
+      "attempt": 5,
+      "seed": 161584515,
+      "text": "To grow into plants, seeds require suitable conditions.",
+      "raw": "To grow into plants, seeds require suitable conditions.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-015:006",
+      "parent_id": "ood-science-015",
+      "attempt": 6,
+      "seed": 4084523714,
+      "text": "Seeds require favorable conditions for initiating growth into plants.",
+      "raw": "Seeds require favorable conditions for initiating growth into plants.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-015:007",
+      "parent_id": "ood-science-015",
+      "attempt": 7,
+      "seed": 2277645293,
+      "text": "Seeds require appropriate circumstances for development into plants.",
+      "raw": "Seeds require appropriate circumstances for development into plants.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-015:008",
+      "parent_id": "ood-science-015",
+      "attempt": 8,
+      "seed": 4156107790,
+      "text": "Seeds require favorable circumstances for germination.",
+      "raw": "Seeds require favorable circumstances for germination.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-015:009",
+      "parent_id": "ood-science-015",
+      "attempt": 9,
+      "seed": 2538719750,
+      "text": "Suitable conditions are necessary for seeds to start growing into plants.",
+      "raw": "Suitable conditions are necessary for seeds to start growing into plants.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-015:010",
+      "parent_id": "ood-science-015",
+      "attempt": 10,
+      "seed": 3786184733,
+      "text": "Seeds require favorable conditions for growth into plants.",
+      "raw": "Seeds require favorable conditions for growth into plants.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-015:011",
+      "parent_id": "ood-science-015",
+      "attempt": 11,
+      "seed": 1200299053,
+      "text": "Seeds require ideal circumstances for germination into plant forms.",
+      "raw": "Seeds require ideal circumstances for germination into plant forms.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-015:012",
+      "parent_id": "ood-science-015",
+      "attempt": 12,
+      "seed": 2805189233,
+      "text": "Seeds require optimal circumstances to initiate their transformation into vegetation.",
+      "raw": "Seeds require optimal circumstances to initiate their transformation into vegetation.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-015:013",
+      "parent_id": "ood-science-015",
+      "attempt": 13,
+      "seed": 3050946131,
+      "text": "To grow into plants, seeds require suitable conditions.",
+      "raw": "To grow into plants, seeds require suitable conditions.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-015:014",
+      "parent_id": "ood-science-015",
+      "attempt": 14,
+      "seed": 2378907197,
+      "text": "Seeds require ideal circumstances for germination into mature plants.",
+      "raw": "Seeds require ideal circumstances for germination into mature plants.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-015:015",
+      "parent_id": "ood-science-015",
+      "attempt": 15,
+      "seed": 2750006285,
+      "text": "Seeds require appropriate conditions for growth into plants.",
+      "raw": "Seeds require appropriate conditions for growth into plants.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-015:016",
+      "parent_id": "ood-science-015",
+      "attempt": 16,
+      "seed": 1758877185,
+      "text": "Seeds require appropriate circumstances for germination.",
+      "raw": "Seeds require appropriate circumstances for germination.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-015:017",
+      "parent_id": "ood-science-015",
+      "attempt": 17,
+      "seed": 1525852999,
+      "text": "Suitable conditions are needed for seeds to grow into plants.",
+      "raw": "Suitable conditions are needed for seeds to grow into plants.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-015:018",
+      "parent_id": "ood-science-015",
+      "attempt": 18,
+      "seed": 2227128277,
+      "text": "Seeds require ideal circumstances for germination into plants.",
+      "raw": "Seeds require ideal circumstances for germination into plants.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-015:019",
+      "parent_id": "ood-science-015",
+      "attempt": 19,
+      "seed": 72878242,
+      "text": "Seeds require ideal circumstances for growth into plants.",
+      "raw": "Seeds require ideal circumstances for growth into plants.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-015:020",
+      "parent_id": "ood-science-015",
+      "attempt": 20,
+      "seed": 2900145442,
+      "text": "Seeds require appropriate conditions for germination into plants.",
+      "raw": "Seeds require appropriate conditions for germination into plants.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-015:021",
+      "parent_id": "ood-science-015",
+      "attempt": 21,
+      "seed": 755991316,
+      "text": "Suitable conditions are needed for seeds to start growing into plants.",
+      "raw": "Suitable conditions are needed for seeds to start growing into plants.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-015:022",
+      "parent_id": "ood-science-015",
+      "attempt": 22,
+      "seed": 2983213026,
+      "text": "Seeds require appropriate conditions for germination into plants.",
+      "raw": "Seeds require appropriate conditions for germination into plants.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-015:023",
+      "parent_id": "ood-science-015",
+      "attempt": 23,
+      "seed": 316218651,
+      "text": "Seeds require proper conditions for growth into plants.",
+      "raw": "Seeds require proper conditions for growth into plants.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-015:024",
+      "parent_id": "ood-science-015",
+      "attempt": 24,
+      "seed": 1530364119,
+      "text": "Seeds require appropriate conditions for germination into plants.",
+      "raw": "Seeds require appropriate conditions for germination into plants.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-015:025",
+      "parent_id": "ood-science-015",
+      "attempt": 25,
+      "seed": 1658418631,
+      "text": "Suitable conditions are needed for seeds to start growing into plants.",
+      "raw": "Suitable conditions are needed for seeds to start growing into plants.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-015:026",
+      "parent_id": "ood-science-015",
+      "attempt": 26,
+      "seed": 3431938755,
+      "text": "Seeds require optimal conditions for germination into plants.",
+      "raw": "Seeds require optimal conditions for germination into plants.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-015:027",
+      "parent_id": "ood-science-015",
+      "attempt": 27,
+      "seed": 3857207879,
+      "text": "Seeds require ideal conditions for growth into plants.",
+      "raw": "Seeds require ideal conditions for growth into plants.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-015:028",
+      "parent_id": "ood-science-015",
+      "attempt": 28,
+      "seed": 36868641,
+      "text": "Seeds require favorable conditions for germination into plant forms.",
+      "raw": "Seeds require favorable conditions for germination into plant forms.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-015:029",
+      "parent_id": "ood-science-015",
+      "attempt": 29,
+      "seed": 4088898790,
+      "text": "Into plants, seeds require suitable conditions for growth.",
+      "raw": "Into plants, seeds require suitable conditions for growth.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-015:030",
+      "parent_id": "ood-science-015",
+      "attempt": 30,
+      "seed": 2875101752,
+      "text": "Plants require appropriate conditions for growth into seedlings.",
+      "raw": "Plants require appropriate conditions for growth into seedlings.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-015:031",
+      "parent_id": "ood-science-015",
+      "attempt": 31,
+      "seed": 3079596519,
+      "text": "Seeds require appropriate conditions for growth into plants.",
+      "raw": "Seeds require appropriate conditions for growth into plants.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    }
+  ],
+  "generated_tokens": 383,
+  "generation_seconds": 6.729782821144909
+}

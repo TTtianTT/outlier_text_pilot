@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "dev-daily-012",
+    "group_id": "dev-daily-012",
+    "split": "dev",
+    "domain": "daily",
+    "text": "We will have dinner after everyone returns from work."
+  },
+  "attempts": [
+    {
+      "candidate_id": "dev-daily-012:000",
+      "parent_id": "dev-daily-012",
+      "attempt": 0,
+      "seed": 2117927700,
+      "text": "We shall consume sustenance following the gathering of each individual's labor.",
+      "raw": "We shall consume sustenance following the gathering of each individual's labor.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-012:001",
+      "parent_id": "dev-daily-012",
+      "attempt": 1,
+      "seed": 1633983798,
+      "text": "After everyone returns from work, we will have dinner.",
+      "raw": "After everyone returns from work, we will have dinner.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-012:002",
+      "parent_id": "dev-daily-012",
+      "attempt": 2,
+      "seed": 24045032,
+      "text": "Everyone will return from work before we enjoy our meal.",
+      "raw": "Everyone will return from work before we enjoy our meal.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-012:003",
+      "parent_id": "dev-daily-012",
+      "attempt": 3,
+      "seed": 3510706383,
+      "text": "We shall dine after everyone has come back to their workplace.",
+      "raw": "We shall dine after everyone has come back to their workplace.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-012:004",
+      "parent_id": "dev-daily-012",
+      "attempt": 4,
+      "seed": 4168068110,
+      "text": "We shall dine following each individual's departure from employment.",
+      "raw": "We shall dine following each individual's departure from employment.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-012:005",
+      "parent_id": "dev-daily-012",
+      "attempt": 5,
+      "seed": 1829777499,
+      "text": "After everyone returns from work, we will have dinner.",
+      "raw": "After everyone returns from work, we will have dinner.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-012:006",
+      "parent_id": "dev-daily-012",
+      "attempt": 6,
+      "seed": 934327838,
+      "text": "We'll enjoy dinner once everyone has returned from work.",
+      "raw": "We'll enjoy dinner once everyone has returned from work.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-012:007",
+      "parent_id": "dev-daily-012",
+      "attempt": 7,
+      "seed": 1083041616,
+      "text": "We'll dine afterward upon all individuals' return to the workplace.",
+      "raw": "We'll dine afterward upon all individuals' return to the workplace.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-012:008",
+      "parent_id": "dev-daily-012",
+      "attempt": 8,
+      "seed": 3273060612,
+      "text": "We shall dine when everyone has vacated the workplace.",
+      "raw": "We shall dine when everyone has vacated the workplace.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-012:009",
+      "parent_id": "dev-daily-012",
+      "attempt": 9,
+      "seed": 1448913239,
+      "text": "Everyone will return from work before we enjoy dinner.",
+      "raw": "Everyone will return from work before we enjoy dinner.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-012:010",
+      "parent_id": "dev-daily-012",
+      "attempt": 10,
+      "seed": 1399618494,
+      "text": "We'll have dinner once everyone comes back from work.",
+      "raw": "We'll have dinner once everyone comes back from work.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-012:011",
+      "parent_id": "dev-daily-012",
+      "attempt": 11,
+      "seed": 1764060753,
+      "text": "We'll eat later when everybody gets home.",
+      "raw": "We'll eat later when everybody gets home.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-012:012",
+      "parent_id": "dev-daily-012",
+      "attempt": 12,
+      "seed": 3663970265,
+      "text": "We shall partake in a meal following the arrival of all individuals at their workplace.",
+      "raw": "We shall partake in a meal following the arrival of all individuals at their workplace.",
+      "generated_tokens": 18,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-012:013",
+      "parent_id": "dev-daily-012",
+      "attempt": 13,
+      "seed": 2374762919,
+      "text": "Everyone returns from work before we eat dinner.",
+      "raw": "Everyone returns from work before we eat dinner.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-012:014",
+      "parent_id": "dev-daily-012",
+      "attempt": 14,
+      "seed": 4264774469,
+      "text": "After everyone finishes work, we'll dine together.",
+      "raw": "After everyone finishes work, we'll dine together.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-012:015",
+      "parent_id": "dev-daily-012",
+      "attempt": 15,
+      "seed": 3227748287,
+      "text": "We will dine after everybody comes back from work.",
+      "raw": "We will dine after everybody comes back from work.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-012:016",
+      "parent_id": "dev-daily-012",
+      "attempt": 16,
+      "seed": 424513760,
+      "text": "We shall dine following the return of all colleagues.",
+      "raw": "We shall dine following the return of all colleagues.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-012:017",
+      "parent_id": "dev-daily-012",
+      "attempt": 17,
+      "seed": 170846687,
+      "text": "After everyone returns from work, we will have dinner.",
+      "raw": "After everyone returns from work, we will have dinner.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-012:018",
+      "parent_id": "dev-daily-012",
+      "attempt": 18,
+      "seed": 549315715,
+      "text": "After everyone finishes work, we'll dine together.",
+      "raw": "After everyone finishes work, we'll dine together.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-012:019",
+      "parent_id": "dev-daily-012",
+      "attempt": 19,
+      "seed": 2251021172,
+      "text": "We will dine afterward when everybody arrives home.",
+      "raw": "We will dine afterward when everybody arrives home.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-012:020",
+      "parent_id": "dev-daily-012",
+      "attempt": 20,
+      "seed": 1956792731,
+      "text": "We shall partake in a meal following each individual's departure from the workplace.",
+      "raw": "We shall partake in a meal following each individual's departure from the workplace.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-012:021",
+      "parent_id": "dev-daily-012",
+      "attempt": 21,
+      "seed": 1599066694,
+      "text": "After everyone returns from work, we will have dinner.",
+      "raw": "After everyone returns from work, we will have dinner.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-012:022",
+      "parent_id": "dev-daily-012",
+      "attempt": 22,
+      "seed": 3240622046,
+      "text": "We shall dine once everyone has returned to their workplace.",
+      "raw": "We shall dine once everyone has returned to their workplace.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-012:023",
+      "parent_id": "dev-daily-012",
+      "attempt": 23,
+      "seed": 3774280134,
+      "text": "We'll dine when folks return to work.",
+      "raw": "We'll dine when folks return to work.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-012:024",
+      "parent_id": "dev-daily-012",
+      "attempt": 24,
+      "seed": 3836490264,
+      "text": "We shall dine following everyone's return to the office.",
+      "raw": "We shall dine following everyone's return to the office.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-012:025",
+      "parent_id": "dev-daily-012",
+      "attempt": 25,
+      "seed": 3183524856,
+      "text": "Everyone returns from work, then we have dinner.",
+      "raw": "Everyone returns from work, then we have dinner.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-012:026",
+      "parent_id": "dev-daily-012",
+      "attempt": 26,
+      "seed": 638812414,
+      "text": "After everyone finishes their work, we'll be having dinner together.",
+      "raw": "After everyone finishes their work, we'll be having dinner together.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-012:027",
+      "parent_id": "dev-daily-012",
+      "attempt": 27,
+      "seed": 1764951965,
+      "text": "We'll dine once everyone's back at the office.",
+      "raw": "We'll dine once everyone's back at the office.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-012:028",
+      "parent_id": "dev-daily-012",
+      "attempt": 28,
+      "seed": 3451515747,
+      "text": "We shall have a meal following when all employees return to their offices.",
+      "raw": "We shall have a meal following when all employees return to their offices.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-012:029",
+      "parent_id": "dev-daily-012",
+      "attempt": 29,
+      "seed": 17969570,
+      "text": "Everyone will return from work before we dine.",
+      "raw": "Everyone will return from work before we dine.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-012:030",
+      "parent_id": "dev-daily-012",
+      "attempt": 30,
+      "seed": 897489728,
+      "text": "After everyone finishes their work, we will dine together.",
+      "raw": "After everyone finishes their work, we will dine together.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-012:031",
+      "parent_id": "dev-daily-012",
+      "attempt": 31,
+      "seed": 9241136,
+      "text": "Everyone will return to work before we dine.",
+      "raw": "Everyone will return to work before we dine.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 388,
+  "generation_seconds": 6.807851218851283
+}

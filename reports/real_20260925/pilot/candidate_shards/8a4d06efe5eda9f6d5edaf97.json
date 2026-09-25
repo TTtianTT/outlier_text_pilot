@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "dev-product-012",
+    "group_id": "dev-product-012",
+    "split": "dev",
+    "domain": "product",
+    "text": "The calendar has a blank space for notes on each page."
+  },
+  "attempts": [
+    {
+      "candidate_id": "dev-product-012:000",
+      "parent_id": "dev-product-012",
+      "attempt": 0,
+      "seed": 393344334,
+      "text": "The calendar features an empty field reserved for jotting down notes on every page.",
+      "raw": "The calendar features an empty field reserved for jotting down notes on every page.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-012:001",
+      "parent_id": "dev-product-012",
+      "attempt": 1,
+      "seed": 1822745746,
+      "text": "On each page of the calendar, there is a blank space reserved for jotting down notes.",
+      "raw": "On each page of the calendar, there is a blank space reserved for jotting down notes.",
+      "generated_tokens": 20,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-012:002",
+      "parent_id": "dev-product-012",
+      "attempt": 2,
+      "seed": 2867153407,
+      "text": "Each page of the calendar includes a designated area for jotting down notes.",
+      "raw": "Each page of the calendar includes a designated area for jotting down notes.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-012:003",
+      "parent_id": "dev-product-012",
+      "attempt": 3,
+      "seed": 1425519919,
+      "text": "The calendar includes an empty spot for jotting down notes on every page.",
+      "raw": "The calendar includes an empty spot for jotting down notes on every page.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-012:004",
+      "parent_id": "dev-product-012",
+      "attempt": 4,
+      "seed": 1976752535,
+      "text": "A note placeholder exists on every page of the calendar.",
+      "raw": "A note placeholder exists on every page of the calendar.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-012:005",
+      "parent_id": "dev-product-012",
+      "attempt": 5,
+      "seed": 1648114566,
+      "text": "On each page of the calendar, there's a blank space reserved for jotting down notes.",
+      "raw": "On each page of the calendar, there's a blank space reserved for jotting down notes.",
+      "generated_tokens": 20,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-012:006",
+      "parent_id": "dev-product-012",
+      "attempt": 6,
+      "seed": 1869403732,
+      "text": "Each page of the calendar includes a designated area for jotting down notes.",
+      "raw": "Each page of the calendar includes a designated area for jotting down notes.",
+      "generated_tokens": 16,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-012:007",
+      "parent_id": "dev-product-012",
+      "attempt": 7,
+      "seed": 4187922426,
+      "text": "The calendar features an empty area for jotting down notes on every sheet.",
+      "raw": "The calendar features an empty area for jotting down notes on every sheet.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-012:008",
+      "parent_id": "dev-product-012",
+      "attempt": 8,
+      "seed": 1401951802,
+      "text": "The calendar affords blank pages for making entries.",
+      "raw": "The calendar affords blank pages for making entries.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-012:009",
+      "parent_id": "dev-product-012",
+      "attempt": 9,
+      "seed": 2569455737,
+      "text": "Each page of the calendar is marked with an empty spot for jotting down notes.",
+      "raw": "Each page of the calendar is marked with an empty spot for jotting down notes.",
+      "generated_tokens": 18,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-012:010",
+      "parent_id": "dev-product-012",
+      "attempt": 10,
+      "seed": 2886184341,
+      "text": "A note spot is available on every page of the calendar.",
+      "raw": "A note spot is available on every page of the calendar.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-012:011",
+      "parent_id": "dev-product-012",
+      "attempt": 11,
+      "seed": 2734699164,
+      "text": "The calendar includes an area for jotting down notes on every page.",
+      "raw": "The calendar includes an area for jotting down notes on every page.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-012:012",
+      "parent_id": "dev-product-012",
+      "attempt": 12,
+      "seed": 3432010195,
+      "text": "The calendar includes an open area reserved for jotting down notes on every single sheet.",
+      "raw": "The calendar includes an open area reserved for jotting down notes on every single sheet.",
+      "generated_tokens": 18,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-012:013",
+      "parent_id": "dev-product-012",
+      "attempt": 13,
+      "seed": 3564327980,
+      "text": "On each page of the calendar, there's a blank space reserved for jotting down notes.",
+      "raw": "On each page of the calendar, there's a blank space reserved for jotting down notes.",
+      "generated_tokens": 20,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-012:014",
+      "parent_id": "dev-product-012",
+      "attempt": 14,
+      "seed": 3340943615,
+      "text": "Each page of the calendar includes a designated spot for jotting down notes.",
+      "raw": "Each page of the calendar includes a designated spot for jotting down notes.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-012:015",
+      "parent_id": "dev-product-012",
+      "attempt": 15,
+      "seed": 3237056219,
+      "text": "There is an open area for jotting down reminders on every sheet of paper in the annual guide.",
+      "raw": "There is an open area for jotting down reminders on every sheet of paper in the annual guide.",
+      "generated_tokens": 21,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-012:016",
+      "parent_id": "dev-product-012",
+      "attempt": 16,
+      "seed": 456621975,
+      "text": "The calendar includes an empty spot for jotting notes per sheet.",
+      "raw": "The calendar includes an empty spot for jotting notes per sheet.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-012:017",
+      "parent_id": "dev-product-012",
+      "attempt": 17,
+      "seed": 2167494789,
+      "text": "Each page of the calendar features a designated area for jotting down notes.",
+      "raw": "Each page of the calendar features a designated area for jotting down notes.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-012:018",
+      "parent_id": "dev-product-012",
+      "attempt": 18,
+      "seed": 2433224202,
+      "text": "Each page of the calendar features a designated spot for jotting down notes.",
+      "raw": "Each page of the calendar features a designated spot for jotting down notes.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-012:019",
+      "parent_id": "dev-product-012",
+      "attempt": 19,
+      "seed": 1014496895,
+      "text": "The calendar features an empty area for jotting down notes per sheet.",
+      "raw": "The calendar features an empty area for jotting down notes per sheet.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-012:020",
+      "parent_id": "dev-product-012",
+      "attempt": 20,
+      "seed": 1599871133,
+      "text": "The calendar includes an area for jotting down notes on every sheet.",
+      "raw": "The calendar includes an area for jotting down notes on every sheet.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-012:021",
+      "parent_id": "dev-product-012",
+      "attempt": 21,
+      "seed": 1494201724,
+      "text": "Each page of the calendar is marked with a blank space for jotting down notes.",
+      "raw": "Each page of the calendar is marked with a blank space for jotting down notes.",
+      "generated_tokens": 18,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-012:022",
+      "parent_id": "dev-product-012",
+      "attempt": 22,
+      "seed": 1623125503,
+      "text": "A note spot is found on every page of the calendar.",
+      "raw": "A note spot is found on every page of the calendar.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-012:023",
+      "parent_id": "dev-product-012",
+      "attempt": 23,
+      "seed": 1074436671,
+      "text": "There is an empty area for making jotting on every sheet of the calendar.",
+      "raw": "There is an empty area for making jotting on every sheet of the calendar.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-012:024",
+      "parent_id": "dev-product-012",
+      "attempt": 24,
+      "seed": 638871092,
+      "text": "The calendar features an empty area for jotting down notes on every page.",
+      "raw": "The calendar features an empty area for jotting down notes on every page.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-012:025",
+      "parent_id": "dev-product-012",
+      "attempt": 25,
+      "seed": 576518296,
+      "text": "A blank space for notes is located on each page of the calendar.",
+      "raw": "A blank space for notes is located on each page of the calendar.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-012:026",
+      "parent_id": "dev-product-012",
+      "attempt": 26,
+      "seed": 1759775202,
+      "text": "A note section is included in every page of the calendar.",
+      "raw": "A note section is included in every page of the calendar.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-012:027",
+      "parent_id": "dev-product-012",
+      "attempt": 27,
+      "seed": 1287797227,
+      "text": "The calendar contains an empty area where people can jot down notes on every page.",
+      "raw": "The calendar contains an empty area where people can jot down notes on every page.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-012:028",
+      "parent_id": "dev-product-012",
+      "attempt": 28,
+      "seed": 880707081,
+      "text": "A note spot exists on every page of the calendar.",
+      "raw": "A note spot exists on every page of the calendar.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-012:029",
+      "parent_id": "dev-product-012",
+      "attempt": 29,
+      "seed": 3028213997,
+      "text": "On each page of the calendar, there's a blank space reserved for taking notes.",
+      "raw": "On each page of the calendar, there's a blank space reserved for taking notes.",
+      "generated_tokens": 18,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-012:030",
+      "parent_id": "dev-product-012",
+      "attempt": 30,
+      "seed": 3721522291,
+      "text": "Each page of the calendar includes a designated area for jotting down notes.",
+      "raw": "Each page of the calendar includes a designated area for jotting down notes.",
+      "generated_tokens": 16,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-012:031",
+      "parent_id": "dev-product-012",
+      "attempt": 31,
+      "seed": 3822981920,
+      "text": "The calendar features an empty area dedicated to jotting down notes on every page.",
+      "raw": "The calendar features an empty area dedicated to jotting down notes on every page.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 513,
+  "generation_seconds": 8.995251409942284
+}

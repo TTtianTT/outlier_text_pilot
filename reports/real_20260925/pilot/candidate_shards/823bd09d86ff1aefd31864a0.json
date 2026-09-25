@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "dev-daily-007",
+    "group_id": "dev-daily-007",
+    "split": "dev",
+    "domain": "daily",
+    "text": "We bought fresh vegetables at the market on our way home."
+  },
+  "attempts": [
+    {
+      "candidate_id": "dev-daily-007:000",
+      "parent_id": "dev-daily-007",
+      "attempt": 0,
+      "seed": 555859942,
+      "text": "We purchased fresh produce at the supermarket during my evening commute.",
+      "raw": "We purchased fresh produce at the supermarket during my evening commute.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-007:001",
+      "parent_id": "dev-daily-007",
+      "attempt": 1,
+      "seed": 4218159826,
+      "text": "On our way home, we purchased fresh vegetables from the market.",
+      "raw": "On our way home, we purchased fresh vegetables from the market.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-007:002",
+      "parent_id": "dev-daily-007",
+      "attempt": 2,
+      "seed": 1863232969,
+      "text": "We picked up fresh vegetables along our journey back home.",
+      "raw": "We picked up fresh vegetables along our journey back home.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-007:003",
+      "parent_id": "dev-daily-007",
+      "attempt": 3,
+      "seed": 3065509494,
+      "text": "We picked up fresh produce near our destination while returning home.",
+      "raw": "We picked up fresh produce near our destination while returning home.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-007:004",
+      "parent_id": "dev-daily-007",
+      "attempt": 4,
+      "seed": 2548178350,
+      "text": "We acquired fresh produce from the store en route back.",
+      "raw": "We acquired fresh produce from the store en route back.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-007:005",
+      "parent_id": "dev-daily-007",
+      "attempt": 5,
+      "seed": 1974023041,
+      "text": "On our way home, we purchased fresh vegetables from the market.",
+      "raw": "On our way home, we purchased fresh vegetables from the market.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-007:006",
+      "parent_id": "dev-daily-007",
+      "attempt": 6,
+      "seed": 4200264941,
+      "text": "We acquired fresh produce from the grocery store en route to our abode.",
+      "raw": "We acquired fresh produce from the grocery store en route to our abode.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-007:007",
+      "parent_id": "dev-daily-007",
+      "attempt": 7,
+      "seed": 3621066191,
+      "text": "We purchased fresh produce in the store as we arrived back home.",
+      "raw": "We purchased fresh produce in the store as we arrived back home.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-007:008",
+      "parent_id": "dev-daily-007",
+      "attempt": 8,
+      "seed": 447890779,
+      "text": "We procured fresh produce in the marketplace en route home.",
+      "raw": "We procured fresh produce in the marketplace en route home.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-007:009",
+      "parent_id": "dev-daily-007",
+      "attempt": 9,
+      "seed": 4107792768,
+      "text": "On our way home, we purchased fresh vegetables from the market.",
+      "raw": "On our way home, we purchased fresh vegetables from the market.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-007:010",
+      "parent_id": "dev-daily-007",
+      "attempt": 10,
+      "seed": 1115689867,
+      "text": "We picked up fresh produce while heading home from the store.",
+      "raw": "We picked up fresh produce while heading home from the store.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-007:011",
+      "parent_id": "dev-daily-007",
+      "attempt": 11,
+      "seed": 4115820551,
+      "text": "We picked up fresh produce along our journey back home.",
+      "raw": "We picked up fresh produce along our journey back home.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-007:012",
+      "parent_id": "dev-daily-007",
+      "attempt": 12,
+      "seed": 13703418,
+      "text": "We picked up fresh produce by car.",
+      "raw": "We picked up fresh produce by car.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-007:013",
+      "parent_id": "dev-daily-007",
+      "attempt": 13,
+      "seed": 3114789440,
+      "text": "On our way home, we purchased fresh vegetables from the market.",
+      "raw": "On our way home, we purchased fresh vegetables from the market.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-007:014",
+      "parent_id": "dev-daily-007",
+      "attempt": 14,
+      "seed": 1990721984,
+      "text": "We purchased fresh produce from the grocery store while returning home.",
+      "raw": "We purchased fresh produce from the grocery store while returning home.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-007:015",
+      "parent_id": "dev-daily-007",
+      "attempt": 15,
+      "seed": 82710268,
+      "text": "We purchased fresh produce in the market as we traveled home.",
+      "raw": "We purchased fresh produce in the market as we traveled home.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-007:016",
+      "parent_id": "dev-daily-007",
+      "attempt": 16,
+      "seed": 3029764741,
+      "text": "We picked up fresh produce nearby as we walked back home.",
+      "raw": "We picked up fresh produce nearby as we walked back home.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-007:017",
+      "parent_id": "dev-daily-007",
+      "attempt": 17,
+      "seed": 1234318172,
+      "text": "At our home, we bought fresh vegetables from the market.",
+      "raw": "At our home, we bought fresh vegetables from the market.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-007:018",
+      "parent_id": "dev-daily-007",
+      "attempt": 18,
+      "seed": 1579294762,
+      "text": "We picked up fresh produce during our trip back home.",
+      "raw": "We picked up fresh produce during our trip back home.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-007:019",
+      "parent_id": "dev-daily-007",
+      "attempt": 19,
+      "seed": 3204263363,
+      "text": "We purchased fresh produce from the supermarket after returning home.",
+      "raw": "We purchased fresh produce from the supermarket after returning home.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-007:020",
+      "parent_id": "dev-daily-007",
+      "attempt": 20,
+      "seed": 1876248767,
+      "text": "We picked up fresh produce along our route to the house.",
+      "raw": "We picked up fresh produce along our route to the house.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-007:021",
+      "parent_id": "dev-daily-007",
+      "attempt": 21,
+      "seed": 4112583428,
+      "text": "At our home, we traveled to the market with fresh vegetables.",
+      "raw": "At our home, we traveled to the market with fresh vegetables.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-007:022",
+      "parent_id": "dev-daily-007",
+      "attempt": 22,
+      "seed": 1244491857,
+      "text": "We picked up fresh produce while returning home at the store.",
+      "raw": "We picked up fresh produce while returning home at the store.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-007:023",
+      "parent_id": "dev-daily-007",
+      "attempt": 23,
+      "seed": 2106866235,
+      "text": "We purchased fresh produce in the grocery store as we headed back from work.",
+      "raw": "We purchased fresh produce in the grocery store as we headed back from work.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-007:024",
+      "parent_id": "dev-daily-007",
+      "attempt": 24,
+      "seed": 1252047717,
+      "text": "We picked up fresh produce at the store on our journey back.",
+      "raw": "We picked up fresh produce at the store on our journey back.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-007:025",
+      "parent_id": "dev-daily-007",
+      "attempt": 25,
+      "seed": 1837323710,
+      "text": "At the market on our way home, we purchased fresh vegetables.",
+      "raw": "At the market on our way home, we purchased fresh vegetables.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-007:026",
+      "parent_id": "dev-daily-007",
+      "attempt": 26,
+      "seed": 3899536730,
+      "text": "We purchased fresh produce along the route back from the grocery store.",
+      "raw": "We purchased fresh produce along the route back from the grocery store.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-007:027",
+      "parent_id": "dev-daily-007",
+      "attempt": 27,
+      "seed": 3912499637,
+      "text": "We picked up fresh produce along with groceries in our trip to the store.",
+      "raw": "We picked up fresh produce along with groceries in our trip to the store.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-007:028",
+      "parent_id": "dev-daily-007",
+      "attempt": 28,
+      "seed": 2741943240,
+      "text": "We purchased fresh produce at the store on our return.",
+      "raw": "We purchased fresh produce at the store on our return.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-007:029",
+      "parent_id": "dev-daily-007",
+      "attempt": 29,
+      "seed": 1239547108,
+      "text": "On our way home, we bought fresh vegetables from the market.",
+      "raw": "On our way home, we bought fresh vegetables from the market.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-007:030",
+      "parent_id": "dev-daily-007",
+      "attempt": 30,
+      "seed": 1165272008,
+      "text": "We purchased organic produce near my residence.",
+      "raw": "We purchased organic produce near my residence.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-007:031",
+      "parent_id": "dev-daily-007",
+      "attempt": 31,
+      "seed": 917529834,
+      "text": "We picked up fresh produce at the grocery store en route to our residence.",
+      "raw": "We picked up fresh produce at the grocery store en route to our residence.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 424,
+  "generation_seconds": 7.4166221069172025
+}

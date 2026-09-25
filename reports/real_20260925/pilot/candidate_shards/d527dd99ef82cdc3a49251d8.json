@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "ood-science-007",
+    "group_id": "ood-science-007",
+    "split": "ood",
+    "domain": "science",
+    "text": "A lens can change the direction of light passing through it."
+  },
+  "attempts": [
+    {
+      "candidate_id": "ood-science-007:000",
+      "parent_id": "ood-science-007",
+      "attempt": 0,
+      "seed": 3809201247,
+      "text": "A lens alters the path of light entering it.",
+      "raw": "A lens alters the path of light entering it.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-007:001",
+      "parent_id": "ood-science-007",
+      "attempt": 1,
+      "seed": 1880869510,
+      "text": "A lens alters the path that light takes when entering it.",
+      "raw": "A lens alters the path that light takes when entering it.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-007:002",
+      "parent_id": "ood-science-007",
+      "attempt": 2,
+      "seed": 1731628960,
+      "text": "A lens alters how light flows through it.",
+      "raw": "A lens alters how light flows through it.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-007:003",
+      "parent_id": "ood-science-007",
+      "attempt": 3,
+      "seed": 657152580,
+      "text": "A lens alters the path that light takes as it passes through it.",
+      "raw": "A lens alters the path that light takes as it passes through it.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-007:004",
+      "parent_id": "ood-science-007",
+      "attempt": 4,
+      "seed": 229014586,
+      "text": "A lens alters the path that light takes as it passes through it.",
+      "raw": "A lens alters the path that light takes as it passes through it.",
+      "generated_tokens": 15,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-007:005",
+      "parent_id": "ood-science-007",
+      "attempt": 5,
+      "seed": 2916881653,
+      "text": "Light's direction can be altered by a lens.",
+      "raw": "Light's direction can be altered by a lens.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-007:006",
+      "parent_id": "ood-science-007",
+      "attempt": 6,
+      "seed": 97343618,
+      "text": "A lens alters the path of light that passes through it.",
+      "raw": "A lens alters the path of light that passes through it.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-007:007",
+      "parent_id": "ood-science-007",
+      "attempt": 7,
+      "seed": 3118351443,
+      "text": "A lens alters the path that light takes as it passes through it.",
+      "raw": "A lens alters the path that light takes as it passes through it.",
+      "generated_tokens": 15,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-007:008",
+      "parent_id": "ood-science-007",
+      "attempt": 8,
+      "seed": 2479652529,
+      "text": "A lens alters the path of light as it passes through it.",
+      "raw": "A lens alters the path of light as it passes through it.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-007:009",
+      "parent_id": "ood-science-007",
+      "attempt": 9,
+      "seed": 2214326789,
+      "text": "Light can be directed by a lens due to its properties.",
+      "raw": "Light can be directed by a lens due to its properties.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-007:010",
+      "parent_id": "ood-science-007",
+      "attempt": 10,
+      "seed": 3887112675,
+      "text": "A lens alters the path of light that flows through it.",
+      "raw": "A lens alters the path of light that flows through it.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-007:011",
+      "parent_id": "ood-science-007",
+      "attempt": 11,
+      "seed": 2391039989,
+      "text": "A lens alters the path that light takes as it passes through it.",
+      "raw": "A lens alters the path that light takes as it passes through it.",
+      "generated_tokens": 15,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-007:012",
+      "parent_id": "ood-science-007",
+      "attempt": 12,
+      "seed": 1777113388,
+      "text": "A lens alters the path of light as it passes through it.",
+      "raw": "A lens alters the path of light as it passes through it.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-007:013",
+      "parent_id": "ood-science-007",
+      "attempt": 13,
+      "seed": 3685960848,
+      "text": "The lens alters how light flows as it passes through it.",
+      "raw": "The lens alters how light flows as it passes through it.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-007:014",
+      "parent_id": "ood-science-007",
+      "attempt": 14,
+      "seed": 396722727,
+      "text": "A lens alters how light travels as it passes through it.",
+      "raw": "A lens alters how light travels as it passes through it.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-007:015",
+      "parent_id": "ood-science-007",
+      "attempt": 15,
+      "seed": 3244290242,
+      "text": "A lens alters how light moves as it passes through it.",
+      "raw": "A lens alters how light moves as it passes through it.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-007:016",
+      "parent_id": "ood-science-007",
+      "attempt": 16,
+      "seed": 1235293503,
+      "text": "A lens alters the path of light as it passes through it.",
+      "raw": "A lens alters the path of light as it passes through it.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-007:017",
+      "parent_id": "ood-science-007",
+      "attempt": 17,
+      "seed": 3634269256,
+      "text": "A lens alters how light flows through its passage.",
+      "raw": "A lens alters how light flows through its passage.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-007:018",
+      "parent_id": "ood-science-007",
+      "attempt": 18,
+      "seed": 2424994589,
+      "text": "A lens alters the path of light that passes through it.",
+      "raw": "A lens alters the path of light that passes through it.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-007:019",
+      "parent_id": "ood-science-007",
+      "attempt": 19,
+      "seed": 3774043784,
+      "text": "A lens redirects light as it passes through it.",
+      "raw": "A lens redirects light as it passes through it.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-007:020",
+      "parent_id": "ood-science-007",
+      "attempt": 20,
+      "seed": 1439972126,
+      "text": "A lens alters the path that light takes as it passes through it.",
+      "raw": "A lens alters the path that light takes as it passes through it.",
+      "generated_tokens": 15,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-007:021",
+      "parent_id": "ood-science-007",
+      "attempt": 21,
+      "seed": 1320938332,
+      "text": "Light traveling through a lens changes direction.",
+      "raw": "Light traveling through a lens changes direction.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-007:022",
+      "parent_id": "ood-science-007",
+      "attempt": 22,
+      "seed": 2428529678,
+      "text": "A lens alters the path that light takes when it passes through it.",
+      "raw": "A lens alters the path that light takes when it passes through it.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-007:023",
+      "parent_id": "ood-science-007",
+      "attempt": 23,
+      "seed": 1083535249,
+      "text": "A lens alters the path that light takes when traveling through it.",
+      "raw": "A lens alters the path that light takes when traveling through it.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-007:024",
+      "parent_id": "ood-science-007",
+      "attempt": 24,
+      "seed": 647028798,
+      "text": "A lens can redirect light.",
+      "raw": "A lens can redirect light.",
+      "generated_tokens": 7,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-007:025",
+      "parent_id": "ood-science-007",
+      "attempt": 25,
+      "seed": 160654928,
+      "text": "The lens alters the path of light as it passes through it.",
+      "raw": "The lens alters the path of light as it passes through it.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-007:026",
+      "parent_id": "ood-science-007",
+      "attempt": 26,
+      "seed": 3621375203,
+      "text": "A lens alters the path that light takes as it passes through it.",
+      "raw": "A lens alters the path that light takes as it passes through it.",
+      "generated_tokens": 15,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-007:027",
+      "parent_id": "ood-science-007",
+      "attempt": 27,
+      "seed": 4008016561,
+      "text": "A lens alters the path that light takes as it passes through it.",
+      "raw": "A lens alters the path that light takes as it passes through it.",
+      "generated_tokens": 15,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-007:028",
+      "parent_id": "ood-science-007",
+      "attempt": 28,
+      "seed": 2284879580,
+      "text": "A lens alters the path that light follows as it passes through it.",
+      "raw": "A lens alters the path that light follows as it passes through it.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-007:029",
+      "parent_id": "ood-science-007",
+      "attempt": 29,
+      "seed": 6579334,
+      "text": "The lens alters the path that light takes as it passes through it.",
+      "raw": "The lens alters the path that light takes as it passes through it.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-007:030",
+      "parent_id": "ood-science-007",
+      "attempt": 30,
+      "seed": 3445316260,
+      "text": "A lens alters the flow of light as it passes through it.",
+      "raw": "A lens alters the flow of light as it passes through it.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-007:031",
+      "parent_id": "ood-science-007",
+      "attempt": 31,
+      "seed": 3983367394,
+      "text": "A lens alters the path of light as it passes through it.",
+      "raw": "A lens alters the path of light as it passes through it.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    }
+  ],
+  "generated_tokens": 422,
+  "generation_seconds": 7.3879627760034055
+}

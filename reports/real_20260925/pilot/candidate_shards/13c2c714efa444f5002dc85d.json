@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "test-daily-007",
+    "group_id": "test-daily-007",
+    "split": "test",
+    "domain": "daily",
+    "text": "The bicycle was locked to a railing near the entrance."
+  },
+  "attempts": [
+    {
+      "candidate_id": "test-daily-007:000",
+      "parent_id": "test-daily-007",
+      "attempt": 0,
+      "seed": 835850219,
+      "text": "The bicycle is tethered securely against a rail at the entrance.",
+      "raw": "The bicycle is tethered securely against a rail at the entrance.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-007:001",
+      "parent_id": "test-daily-007",
+      "attempt": 1,
+      "seed": 2240462907,
+      "text": "Near the entrance, a locking bicycle was positioned against a railing.",
+      "raw": "Near the entrance, a locking bicycle was positioned against a railing.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-007:002",
+      "parent_id": "test-daily-007",
+      "attempt": 2,
+      "seed": 41694522,
+      "text": "A bicycle is secured against theft by being tethered to an arbor in front of the door.",
+      "raw": "A bicycle is secured against theft by being tethered to an arbor in front of the door.",
+      "generated_tokens": 21,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-007:003",
+      "parent_id": "test-daily-007",
+      "attempt": 3,
+      "seed": 46118985,
+      "text": "The bicycle was securely fastened to the railing by the entrance.",
+      "raw": "The bicycle was securely fastened to the railing by the entrance.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-007:004",
+      "parent_id": "test-daily-007",
+      "attempt": 4,
+      "seed": 177457836,
+      "text": "The bicycle was fastened to a rail near the entrance.",
+      "raw": "The bicycle was fastened to a rail near the entrance.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-007:005",
+      "parent_id": "test-daily-007",
+      "attempt": 5,
+      "seed": 3581130505,
+      "text": "Near the entrance, the bicycle was locked onto a railing.",
+      "raw": "Near the entrance, the bicycle was locked onto a railing.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-007:006",
+      "parent_id": "test-daily-007",
+      "attempt": 6,
+      "seed": 2102996955,
+      "text": "A bicycle is fastened against a rail by the entryway.",
+      "raw": "A bicycle is fastened against a rail by the entryway.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-007:007",
+      "parent_id": "test-daily-007",
+      "attempt": 7,
+      "seed": 1600959558,
+      "text": "The bike had its chain attached to an upright near the front door.",
+      "raw": "The bike had its chain attached to an upright near the front door.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-007:008",
+      "parent_id": "test-daily-007",
+      "attempt": 8,
+      "seed": 3012127114,
+      "text": "The bicycle was fastened to an rail beside the gate.",
+      "raw": "The bicycle was fastened to an rail beside the gate.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-007:009",
+      "parent_id": "test-daily-007",
+      "attempt": 9,
+      "seed": 3525138864,
+      "text": "Near the entrance, a bicycle was locked to a railing.",
+      "raw": "Near the entrance, a bicycle was locked to a railing.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-007:010",
+      "parent_id": "test-daily-007",
+      "attempt": 10,
+      "seed": 1530557317,
+      "text": "The bicycle was secured to a rail close by.",
+      "raw": "The bicycle was secured to a rail close by.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-007:011",
+      "parent_id": "test-daily-007",
+      "attempt": 11,
+      "seed": 2723842376,
+      "text": "The bicycle was securely attached to a railing at the entrance.",
+      "raw": "The bicycle was securely attached to a railing at the entrance.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-007:012",
+      "parent_id": "test-daily-007",
+      "attempt": 12,
+      "seed": 1784518236,
+      "text": "The bicycle was secured against theft by being attached to a rail at the front door.",
+      "raw": "The bicycle was secured against theft by being attached to a rail at the front door.",
+      "generated_tokens": 18,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-007:013",
+      "parent_id": "test-daily-007",
+      "attempt": 13,
+      "seed": 3697949544,
+      "text": "Near the entrance, a bicycle was locked to a railing.",
+      "raw": "Near the entrance, a bicycle was locked to a railing.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-007:014",
+      "parent_id": "test-daily-007",
+      "attempt": 14,
+      "seed": 1844940319,
+      "text": "The bicycle is securely fastened to a railing adjacent to the entrance.",
+      "raw": "The bicycle is securely fastened to a railing adjacent to the entrance.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-007:015",
+      "parent_id": "test-daily-007",
+      "attempt": 15,
+      "seed": 312010030,
+      "text": "The bicycle was attached to a railing by the door entry.",
+      "raw": "The bicycle was attached to a railing by the door entry.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-007:016",
+      "parent_id": "test-daily-007",
+      "attempt": 16,
+      "seed": 3630410902,
+      "text": "The bike was fastened to a rail near the entry point.",
+      "raw": "The bike was fastened to a rail near the entry point.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-007:017",
+      "parent_id": "test-daily-007",
+      "attempt": 17,
+      "seed": 3788693178,
+      "text": "Near the entrance, the bicycle was locked onto a railing.",
+      "raw": "Near the entrance, the bicycle was locked onto a railing.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-007:018",
+      "parent_id": "test-daily-007",
+      "attempt": 18,
+      "seed": 4076029791,
+      "text": "The bicycle was securely fastened to a railing near the entrance.",
+      "raw": "The bicycle was securely fastened to a railing near the entrance.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-007:019",
+      "parent_id": "test-daily-007",
+      "attempt": 19,
+      "seed": 2815921423,
+      "text": "The bicycle was securely fastened to a rail beside the entrance.",
+      "raw": "The bicycle was securely fastened to a rail beside the entrance.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-007:020",
+      "parent_id": "test-daily-007",
+      "attempt": 20,
+      "seed": 2595752298,
+      "text": "The bicycle was securely fastened to a railing at the entrance.",
+      "raw": "The bicycle was securely fastened to a railing at the entrance.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-007:021",
+      "parent_id": "test-daily-007",
+      "attempt": 21,
+      "seed": 3241444964,
+      "text": "Near the entrance, a bicycle was locked to a railing.",
+      "raw": "Near the entrance, a bicycle was locked to a railing.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-007:022",
+      "parent_id": "test-daily-007",
+      "attempt": 22,
+      "seed": 500623071,
+      "text": "The bike was securely fastened to the railing at the door entry.",
+      "raw": "The bike was securely fastened to the railing at the door entry.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-007:023",
+      "parent_id": "test-daily-007",
+      "attempt": 23,
+      "seed": 3663789027,
+      "text": "The bicycle was securely fastened to the railing at the front door exit.",
+      "raw": "The bicycle was securely fastened to the railing at the front door exit.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-007:024",
+      "parent_id": "test-daily-007",
+      "attempt": 24,
+      "seed": 530391328,
+      "text": "The bike was secured against theft by being anchored to a fence adjacent to the porch entryway.",
+      "raw": "The bike was secured against theft by being anchored to a fence adjacent to the porch entryway.",
+      "generated_tokens": 20,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-007:025",
+      "parent_id": "test-daily-007",
+      "attempt": 25,
+      "seed": 2030382112,
+      "text": "Near the entrance, the bicycle was locked to a railing.",
+      "raw": "Near the entrance, the bicycle was locked to a railing.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-007:026",
+      "parent_id": "test-daily-007",
+      "attempt": 26,
+      "seed": 2863463618,
+      "text": "The bicycle was secured against theft by being fastened to the railing near the building's front door.",
+      "raw": "The bicycle was secured against theft by being fastened to the railing near the building's front door.",
+      "generated_tokens": 21,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-007:027",
+      "parent_id": "test-daily-007",
+      "attempt": 27,
+      "seed": 1889949005,
+      "text": "A bicycle was secured with its wheels facing a railing at an entry point.",
+      "raw": "A bicycle was secured with its wheels facing a railing at an entry point.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-007:028",
+      "parent_id": "test-daily-007",
+      "attempt": 28,
+      "seed": 2142516211,
+      "text": "The bicycle is parked against a rail at the entry point.",
+      "raw": "The bicycle is parked against a rail at the entry point.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-007:029",
+      "parent_id": "test-daily-007",
+      "attempt": 29,
+      "seed": 4235501433,
+      "text": "A bicycle was secured to a railing close to the entrance.",
+      "raw": "A bicycle was secured to a railing close to the entrance.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-007:030",
+      "parent_id": "test-daily-007",
+      "attempt": 30,
+      "seed": 3130695617,
+      "text": "A bicycle is securely fastened against an entryway's rail.",
+      "raw": "A bicycle is securely fastened against an entryway's rail.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-007:031",
+      "parent_id": "test-daily-007",
+      "attempt": 31,
+      "seed": 1028174646,
+      "text": "The bicycle was securely fastened to a railing nearby at the entrance.",
+      "raw": "The bicycle was securely fastened to a railing nearby at the entrance.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 465,
+  "generation_seconds": 8.29799090186134
+}

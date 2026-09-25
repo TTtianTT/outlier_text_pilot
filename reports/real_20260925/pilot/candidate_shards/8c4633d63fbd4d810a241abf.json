@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "ood-science-029",
+    "group_id": "ood-science-029",
+    "split": "ood",
+    "domain": "science",
+    "text": "A mixture can sometimes be separated by taking advantage of differences in particle size."
+  },
+  "attempts": [
+    {
+      "candidate_id": "ood-science-029:000",
+      "parent_id": "ood-science-029",
+      "attempt": 0,
+      "seed": 63277514,
+      "text": "A mixture may occasionally be distinguished by capitalizing on disparities in particle dimensions.",
+      "raw": "A mixture may occasionally be distinguished by capitalizing on disparities in particle dimensions.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-029:001",
+      "parent_id": "ood-science-029",
+      "attempt": 1,
+      "seed": 921514375,
+      "text": "Sometimes a mixture can be separated by making use of differences in particle size.",
+      "raw": "Sometimes a mixture can be separated by making use of differences in particle size.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-029:002",
+      "parent_id": "ood-science-029",
+      "attempt": 2,
+      "seed": 3636106460,
+      "text": "A mixture might sometimes be separated by taking advantage of differences in particle size.",
+      "raw": "A mixture might sometimes be separated by taking advantage of differences in particle size.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-029:003",
+      "parent_id": "ood-science-029",
+      "attempt": 3,
+      "seed": 1695124234,
+      "text": "A mixture often separates through exploiting particle size variations.",
+      "raw": "A mixture often separates through exploiting particle size variations.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-029:004",
+      "parent_id": "ood-science-029",
+      "attempt": 4,
+      "seed": 2360310587,
+      "text": "A separation might occur when utilizing distinctions in particle size.",
+      "raw": "A separation might occur when utilizing distinctions in particle size.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-029:005",
+      "parent_id": "ood-science-029",
+      "attempt": 5,
+      "seed": 4196111054,
+      "text": "Sometimes a mixture can be separated by exploiting differences in particle size.",
+      "raw": "Sometimes a mixture can be separated by exploiting differences in particle size.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-029:006",
+      "parent_id": "ood-science-029",
+      "attempt": 6,
+      "seed": 436274868,
+      "text": "A mixture might sometimes be separated by taking advantage of differences in particle size.",
+      "raw": "A mixture might sometimes be separated by taking advantage of differences in particle size.",
+      "generated_tokens": 16,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-029:007",
+      "parent_id": "ood-science-029",
+      "attempt": 7,
+      "seed": 693965775,
+      "text": "A mix may often be distinguished by comparing particles' sizes.",
+      "raw": "A mix may often be distinguished by comparing particles' sizes.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-029:008",
+      "parent_id": "ood-science-029",
+      "attempt": 8,
+      "seed": 2587368254,
+      "text": "A mixture often separates by capitalizing on distinctions in particle size.",
+      "raw": "A mixture often separates by capitalizing on distinctions in particle size.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-029:009",
+      "parent_id": "ood-science-029",
+      "attempt": 9,
+      "seed": 2024475834,
+      "text": "Sometimes, a mixture can be separated by taking advantage of differences in particle size.",
+      "raw": "Sometimes, a mixture can be separated by taking advantage of differences in particle size.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-029:010",
+      "parent_id": "ood-science-029",
+      "attempt": 10,
+      "seed": 3687653637,
+      "text": "A solution may often be distinguished by utilizing distinctions based on particle size variations.",
+      "raw": "A solution may often be distinguished by utilizing distinctions based on particle size variations.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-029:011",
+      "parent_id": "ood-science-029",
+      "attempt": 11,
+      "seed": 2096960724,
+      "text": "A mixture often separates when using size differences to separate particles.",
+      "raw": "A mixture often separates when using size differences to separate particles.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-029:012",
+      "parent_id": "ood-science-029",
+      "attempt": 12,
+      "seed": 1644706527,
+      "text": "A mixture often separates when utilizing distinctions in particle dimensions.",
+      "raw": "A mixture often separates when utilizing distinctions in particle dimensions.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-029:013",
+      "parent_id": "ood-science-029",
+      "attempt": 13,
+      "seed": 326930284,
+      "text": "Sometimes, a mixture can be separated by taking advantage of differences in particle size.",
+      "raw": "Sometimes, a mixture can be separated by taking advantage of differences in particle size.",
+      "generated_tokens": 17,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-029:014",
+      "parent_id": "ood-science-029",
+      "attempt": 14,
+      "seed": 2343720054,
+      "text": "Sometimes, separating a mixture requires making use of variations in particle size.",
+      "raw": "Sometimes, separating a mixture requires making use of variations in particle size.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-029:015",
+      "parent_id": "ood-science-029",
+      "attempt": 15,
+      "seed": 4217684955,
+      "text": "A mix might occasionally be distinguished through particle distinctions.",
+      "raw": "A mix might occasionally be distinguished through particle distinctions.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-029:016",
+      "parent_id": "ood-science-029",
+      "attempt": 16,
+      "seed": 3033510874,
+      "text": "A mixture may sometimes be distinguished using particle size variations.",
+      "raw": "A mixture may sometimes be distinguished using particle size variations.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-029:017",
+      "parent_id": "ood-science-029",
+      "attempt": 17,
+      "seed": 119591176,
+      "text": "Sometimes, a mixture can be separated by taking advantage of differences in particle size.",
+      "raw": "Sometimes, a mixture can be separated by taking advantage of differences in particle size.",
+      "generated_tokens": 17,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-029:018",
+      "parent_id": "ood-science-029",
+      "attempt": 18,
+      "seed": 2039186564,
+      "text": "A substance may be divided using the particle size variations.",
+      "raw": "A substance may be divided using the particle size variations.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-029:019",
+      "parent_id": "ood-science-029",
+      "attempt": 19,
+      "seed": 4292033599,
+      "text": "A separation may occur when using particles' variations in size to differentiate a mixed substance.",
+      "raw": "A separation may occur when using particles' variations in size to differentiate a mixed substance.",
+      "generated_tokens": 18,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-029:020",
+      "parent_id": "ood-science-029",
+      "attempt": 20,
+      "seed": 2810661921,
+      "text": "A separation can often occur when using particle size variations.",
+      "raw": "A separation can often occur when using particle size variations.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-029:021",
+      "parent_id": "ood-science-029",
+      "attempt": 21,
+      "seed": 617503738,
+      "text": "Particle size differences can sometimes enable the separation of a mixture.",
+      "raw": "Particle size differences can sometimes enable the separation of a mixture.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-029:022",
+      "parent_id": "ood-science-029",
+      "attempt": 22,
+      "seed": 4191392190,
+      "text": "A mixture often separates when exploiting variations in particle size.",
+      "raw": "A mixture often separates when exploiting variations in particle size.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-029:023",
+      "parent_id": "ood-science-029",
+      "attempt": 23,
+      "seed": 75250292,
+      "text": "A mixture may sometimes be divided using distinctions based on varying particle sizes.",
+      "raw": "A mixture may sometimes be divided using distinctions based on varying particle sizes.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-029:024",
+      "parent_id": "ood-science-029",
+      "attempt": 24,
+      "seed": 4175465545,
+      "text": "A separation may occur when particles vary in size.",
+      "raw": "A separation may occur when particles vary in size.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-029:025",
+      "parent_id": "ood-science-029",
+      "attempt": 25,
+      "seed": 4158508884,
+      "text": "Sometimes a mixture can be separated by taking advantage of differences in particle size.",
+      "raw": "Sometimes a mixture can be separated by taking advantage of differences in particle size.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-029:026",
+      "parent_id": "ood-science-029",
+      "attempt": 26,
+      "seed": 3351719033,
+      "text": "A solution can usually be clarified by considering variations in particle dimensions.",
+      "raw": "A solution can usually be clarified by considering variations in particle dimensions.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-029:027",
+      "parent_id": "ood-science-029",
+      "attempt": 27,
+      "seed": 1091865406,
+      "text": "A mixture may occasionally be purified by capitalizing on disparities in particle size.",
+      "raw": "A mixture may occasionally be purified by capitalizing on disparities in particle size.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-029:028",
+      "parent_id": "ood-science-029",
+      "attempt": 28,
+      "seed": 215543985,
+      "text": "A mixture may typically be distinguished through exploiting distinctions in particle dimensions.",
+      "raw": "A mixture may typically be distinguished through exploiting distinctions in particle dimensions.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-029:029",
+      "parent_id": "ood-science-029",
+      "attempt": 29,
+      "seed": 2110864273,
+      "text": "Taking advantage of differences in particle size often allows separating a mixture.",
+      "raw": "Taking advantage of differences in particle size often allows separating a mixture.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-029:030",
+      "parent_id": "ood-science-029",
+      "attempt": 30,
+      "seed": 3836750307,
+      "text": "Sometimes, separating a mixture involves capitalizing on variations in particle size.",
+      "raw": "Sometimes, separating a mixture involves capitalizing on variations in particle size.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-029:031",
+      "parent_id": "ood-science-029",
+      "attempt": 31,
+      "seed": 4255386236,
+      "text": "Sometimes a mixture can be divided using particles of different sizes.",
+      "raw": "Sometimes a mixture can be divided using particles of different sizes.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 453,
+  "generation_seconds": 7.9612786108627915
+}

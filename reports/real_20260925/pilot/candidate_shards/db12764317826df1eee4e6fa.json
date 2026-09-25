@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "dev-daily-002",
+    "group_id": "dev-daily-002",
+    "split": "dev",
+    "domain": "daily",
+    "text": "We moved the meeting to the afternoon because the room was occupied."
+  },
+  "attempts": [
+    {
+      "candidate_id": "dev-daily-002:000",
+      "parent_id": "dev-daily-002",
+      "attempt": 0,
+      "seed": 2396429576,
+      "text": "We transferred the event to the afternoon due to the space being taken up.",
+      "raw": "We transferred the event to the afternoon due to the space being taken up.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-002:001",
+      "parent_id": "dev-daily-002",
+      "attempt": 1,
+      "seed": 1680836054,
+      "text": "Because of the room's occupation, we changed the meeting time to the afternoon.",
+      "raw": "Because of the room's occupation, we changed the meeting time to the afternoon.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-002:002",
+      "parent_id": "dev-daily-002",
+      "attempt": 2,
+      "seed": 86595284,
+      "text": "We postponed the meeting until the afternoon due to the room's occupancy.",
+      "raw": "We postponed the meeting until the afternoon due to the room's occupancy.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-002:003",
+      "parent_id": "dev-daily-002",
+      "attempt": 3,
+      "seed": 1646888797,
+      "text": "We shifted the meeting to the afternoon due to the room being booked.",
+      "raw": "We shifted the meeting to the afternoon due to the room being booked.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-002:004",
+      "parent_id": "dev-daily-002",
+      "attempt": 4,
+      "seed": 4047815803,
+      "text": "We shifted the gathering to the afternoon due to the space being taken up.",
+      "raw": "We shifted the gathering to the afternoon due to the space being taken up.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-002:005",
+      "parent_id": "dev-daily-002",
+      "attempt": 5,
+      "seed": 3750500920,
+      "text": "Because the room was occupied, we changed the meeting time to the afternoon.",
+      "raw": "Because the room was occupied, we changed the meeting time to the afternoon.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-002:006",
+      "parent_id": "dev-daily-002",
+      "attempt": 6,
+      "seed": 870870190,
+      "text": "We shifted the meeting to the afternoon due to the room being taken up.",
+      "raw": "We shifted the meeting to the afternoon due to the room being taken up.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-002:007",
+      "parent_id": "dev-daily-002",
+      "attempt": 7,
+      "seed": 3403850407,
+      "text": "The meeting was shifted to the afternoon due to the occupied room.",
+      "raw": "The meeting was shifted to the afternoon due to the occupied room.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-002:008",
+      "parent_id": "dev-daily-002",
+      "attempt": 8,
+      "seed": 1201672122,
+      "text": "We shifted the meeting to the afternoon due to the room being booked.",
+      "raw": "We shifted the meeting to the afternoon due to the room being booked.",
+      "generated_tokens": 15,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-002:009",
+      "parent_id": "dev-daily-002",
+      "attempt": 9,
+      "seed": 2793665979,
+      "text": "The meeting was moved to the afternoon due to the room being occupied.",
+      "raw": "The meeting was moved to the afternoon due to the room being occupied.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-002:010",
+      "parent_id": "dev-daily-002",
+      "attempt": 10,
+      "seed": 1439487862,
+      "text": "We rescheduled the meeting for the afternoon since the room was already taken.",
+      "raw": "We rescheduled the meeting for the afternoon since the room was already taken.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-002:011",
+      "parent_id": "dev-daily-002",
+      "attempt": 11,
+      "seed": 4264117746,
+      "text": "We shifted the meeting from morning to afternoon due to a booked room.",
+      "raw": "We shifted the meeting from morning to afternoon due to a booked room.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-002:012",
+      "parent_id": "dev-daily-002",
+      "attempt": 12,
+      "seed": 2877597630,
+      "text": "We transferred the conference to an afternoon session due to the venue's occupancy.",
+      "raw": "We transferred the conference to an afternoon session due to the venue's occupancy.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-002:013",
+      "parent_id": "dev-daily-002",
+      "attempt": 13,
+      "seed": 2333465956,
+      "text": "Due to the room being occupied, we postponed the meeting until the afternoon.",
+      "raw": "Due to the room being occupied, we postponed the meeting until the afternoon.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-002:014",
+      "parent_id": "dev-daily-002",
+      "attempt": 14,
+      "seed": 487360456,
+      "text": "We shifted the meeting to the afternoon since the room was taken.",
+      "raw": "We shifted the meeting to the afternoon since the room was taken.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-002:015",
+      "parent_id": "dev-daily-002",
+      "attempt": 15,
+      "seed": 470009218,
+      "text": "The meeting was relocated to the afternoon due to a full room.",
+      "raw": "The meeting was relocated to the afternoon due to a full room.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-002:016",
+      "parent_id": "dev-daily-002",
+      "attempt": 16,
+      "seed": 2395560876,
+      "text": "We shifted the meeting to the afternoon due to the room's occupation.",
+      "raw": "We shifted the meeting to the afternoon due to the room's occupation.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-002:017",
+      "parent_id": "dev-daily-002",
+      "attempt": 17,
+      "seed": 1180591095,
+      "text": "Due to the room's occupation, we reorganized the meeting schedule to the afternoon.",
+      "raw": "Due to the room's occupation, we reorganized the meeting schedule to the afternoon.",
+      "generated_tokens": 18,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-002:018",
+      "parent_id": "dev-daily-002",
+      "attempt": 18,
+      "seed": 2291295842,
+      "text": "We changed the meeting time to the afternoon due to the room being taken.",
+      "raw": "We changed the meeting time to the afternoon due to the room being taken.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-002:019",
+      "parent_id": "dev-daily-002",
+      "attempt": 19,
+      "seed": 1697798718,
+      "text": "The meeting was relocated to the afternoon due to a room occupation.",
+      "raw": "The meeting was relocated to the afternoon due to a room occupation.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-002:020",
+      "parent_id": "dev-daily-002",
+      "attempt": 20,
+      "seed": 2133051585,
+      "text": "We shifted the meeting to the afternoon due to the room's occupancy.",
+      "raw": "We shifted the meeting to the afternoon due to the room's occupancy.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-002:021",
+      "parent_id": "dev-daily-002",
+      "attempt": 21,
+      "seed": 3584033451,
+      "text": "The meeting was moved to the afternoon due to the room being occupied.",
+      "raw": "The meeting was moved to the afternoon due to the room being occupied.",
+      "generated_tokens": 15,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-002:022",
+      "parent_id": "dev-daily-002",
+      "attempt": 22,
+      "seed": 3669516841,
+      "text": "We shifted the gathering to an afternoon session since the venue was booked.",
+      "raw": "We shifted the gathering to an afternoon session since the venue was booked.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-002:023",
+      "parent_id": "dev-daily-002",
+      "attempt": 23,
+      "seed": 1132006107,
+      "text": "We shifted the meeting to the afternoon due to the room being unavailable.",
+      "raw": "We shifted the meeting to the afternoon due to the room being unavailable.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-002:024",
+      "parent_id": "dev-daily-002",
+      "attempt": 24,
+      "seed": 3063323298,
+      "text": "We shifted the meeting to an afternoon session due to the room being taken up.",
+      "raw": "We shifted the meeting to an afternoon session due to the room being taken up.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-002:025",
+      "parent_id": "dev-daily-002",
+      "attempt": 25,
+      "seed": 3087163749,
+      "text": "Because the room was occupied, we changed the time of the meeting from the morning to the afternoon.",
+      "raw": "Because the room was occupied, we changed the time of the meeting from the morning to the afternoon.",
+      "generated_tokens": 21,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-002:026",
+      "parent_id": "dev-daily-002",
+      "attempt": 26,
+      "seed": 4211753644,
+      "text": "We rescheduled the meeting for the afternoon due to the room being booked.",
+      "raw": "We rescheduled the meeting for the afternoon due to the room being booked.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-002:027",
+      "parent_id": "dev-daily-002",
+      "attempt": 27,
+      "seed": 3971385641,
+      "text": "We shifted the meeting to the afternoon due to the room's occupation.",
+      "raw": "We shifted the meeting to the afternoon due to the room's occupation.",
+      "generated_tokens": 15,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-002:028",
+      "parent_id": "dev-daily-002",
+      "attempt": 28,
+      "seed": 1977069805,
+      "text": "We shifted the gathering to later in the day due to the venue's occupancy.",
+      "raw": "We shifted the gathering to later in the day due to the venue's occupancy.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-002:029",
+      "parent_id": "dev-daily-002",
+      "attempt": 29,
+      "seed": 2237986249,
+      "text": "Because the room was occupied, we changed the meeting time from the morning to the afternoon.",
+      "raw": "Because the room was occupied, we changed the meeting time from the morning to the afternoon.",
+      "generated_tokens": 19,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-002:030",
+      "parent_id": "dev-daily-002",
+      "attempt": 30,
+      "seed": 244962576,
+      "text": "We shifted the meeting to the afternoon due to the space being booked.",
+      "raw": "We shifted the meeting to the afternoon due to the space being booked.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-002:031",
+      "parent_id": "dev-daily-002",
+      "attempt": 31,
+      "seed": 641192555,
+      "text": "We shifted the meeting time to the afternoon due to the room being taken.",
+      "raw": "We shifted the meeting time to the afternoon due to the room being taken.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 505,
+  "generation_seconds": 8.879404549021274
+}

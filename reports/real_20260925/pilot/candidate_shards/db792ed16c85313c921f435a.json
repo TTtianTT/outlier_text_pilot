@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "dev-daily-009",
+    "group_id": "dev-daily-009",
+    "split": "dev",
+    "domain": "daily",
+    "text": "I saved the document before shutting down the computer."
+  },
+  "attempts": [
+    {
+      "candidate_id": "dev-daily-009:000",
+      "parent_id": "dev-daily-009",
+      "attempt": 0,
+      "seed": 3810485299,
+      "text": "I preserved the file prior to disconnecting the device.",
+      "raw": "I preserved the file prior to disconnecting the device.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-009:001",
+      "parent_id": "dev-daily-009",
+      "attempt": 1,
+      "seed": 1266030582,
+      "text": "Before shutting down the computer, I saved the document.",
+      "raw": "Before shutting down the computer, I saved the document.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-009:002",
+      "parent_id": "dev-daily-009",
+      "attempt": 2,
+      "seed": 4087097174,
+      "text": "Before shutting down the computer, I saved the document.",
+      "raw": "Before shutting down the computer, I saved the document.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-009:003",
+      "parent_id": "dev-daily-009",
+      "attempt": 3,
+      "seed": 148390226,
+      "text": "I preserved the original word choices while slightly modifying them for smoother readability.",
+      "raw": "I preserved the original word choices while slightly modifying them for smoother readability.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-009:004",
+      "parent_id": "dev-daily-009",
+      "attempt": 4,
+      "seed": 2354385160,
+      "text": "I safeguarded the file prior to terminating the machine.",
+      "raw": "I safeguarded the file prior to terminating the machine.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-009:005",
+      "parent_id": "dev-daily-009",
+      "attempt": 5,
+      "seed": 2933337763,
+      "text": "Before shutting down the computer, I saved the document.",
+      "raw": "Before shutting down the computer, I saved the document.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-009:006",
+      "parent_id": "dev-daily-009",
+      "attempt": 6,
+      "seed": 3639723798,
+      "text": "Before turning off my computer, I backed up the document.",
+      "raw": "Before turning off my computer, I backed up the document.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-009:007",
+      "parent_id": "dev-daily-009",
+      "attempt": 7,
+      "seed": 1201063811,
+      "text": "I preserved the original wording.",
+      "raw": "I preserved the original wording.",
+      "generated_tokens": 7,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-009:008",
+      "parent_id": "dev-daily-009",
+      "attempt": 8,
+      "seed": 1645591351,
+      "text": "I preserved the file prior to terminating the device.",
+      "raw": "I preserved the file prior to terminating the device.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-009:009",
+      "parent_id": "dev-daily-009",
+      "attempt": 9,
+      "seed": 2625506125,
+      "text": "Before shutting down the computer, I saved the document.",
+      "raw": "Before shutting down the computer, I saved the document.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-009:010",
+      "parent_id": "dev-daily-009",
+      "attempt": 10,
+      "seed": 3890632429,
+      "text": "Before shutting down my computer, I saved the document.",
+      "raw": "Before shutting down my computer, I saved the document.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-009:011",
+      "parent_id": "dev-daily-009",
+      "attempt": 11,
+      "seed": 790610952,
+      "text": "I safeguarded the document prior to logging out of the machine.",
+      "raw": "I safeguarded the document prior to logging out of the machine.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-009:012",
+      "parent_id": "dev-daily-009",
+      "attempt": 12,
+      "seed": 1107235367,
+      "text": "I backed up the file prior to turning off the machine.",
+      "raw": "I backed up the file prior to turning off the machine.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-009:013",
+      "parent_id": "dev-daily-009",
+      "attempt": 13,
+      "seed": 108143842,
+      "text": "Before shutting down the computer, I saved the document.",
+      "raw": "Before shutting down the computer, I saved the document.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-009:014",
+      "parent_id": "dev-daily-009",
+      "attempt": 14,
+      "seed": 609946274,
+      "text": "I backed up the file before turning off the computer.",
+      "raw": "I backed up the file before turning off the computer.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-009:015",
+      "parent_id": "dev-daily-009",
+      "attempt": 15,
+      "seed": 4151281559,
+      "text": "I safeguarded the file prior to terminating the device.",
+      "raw": "I safeguarded the file prior to terminating the device.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-009:016",
+      "parent_id": "dev-daily-009",
+      "attempt": 16,
+      "seed": 2169409978,
+      "text": "I preserved the file prior to closing the machine.",
+      "raw": "I preserved the file prior to closing the machine.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-009:017",
+      "parent_id": "dev-daily-009",
+      "attempt": 17,
+      "seed": 3864443892,
+      "text": "Before shutting down the computer, I saved the document.",
+      "raw": "Before shutting down the computer, I saved the document.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-009:018",
+      "parent_id": "dev-daily-009",
+      "attempt": 18,
+      "seed": 2978905463,
+      "text": "I backed up the file prior to powering off the machine.",
+      "raw": "I backed up the file prior to powering off the machine.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-009:019",
+      "parent_id": "dev-daily-009",
+      "attempt": 19,
+      "seed": 3289463520,
+      "text": "I preserved the original wording but not changed anything.",
+      "raw": "I preserved the original wording but not changed anything.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-009:020",
+      "parent_id": "dev-daily-009",
+      "attempt": 20,
+      "seed": 3897485145,
+      "text": "I safeguarded the file prior to terminating the device.",
+      "raw": "I safeguarded the file prior to terminating the device.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-009:021",
+      "parent_id": "dev-daily-009",
+      "attempt": 21,
+      "seed": 2791560933,
+      "text": "Before shutting down the computer, I saved the document.",
+      "raw": "Before shutting down the computer, I saved the document.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-009:022",
+      "parent_id": "dev-daily-009",
+      "attempt": 22,
+      "seed": 2938164402,
+      "text": "Prior to turning off the computer, I backed up the document.",
+      "raw": "Prior to turning off the computer, I backed up the document.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-009:023",
+      "parent_id": "dev-daily-009",
+      "attempt": 23,
+      "seed": 1876470444,
+      "text": "I safeguarded the file prior to turning off the machine.",
+      "raw": "I safeguarded the file prior to turning off the machine.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-009:024",
+      "parent_id": "dev-daily-009",
+      "attempt": 24,
+      "seed": 2981975209,
+      "text": "I safeguarded the file prior to disconnecting the device.",
+      "raw": "I safeguarded the file prior to disconnecting the device.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-009:025",
+      "parent_id": "dev-daily-009",
+      "attempt": 25,
+      "seed": 3642321659,
+      "text": "Before shutting down the computer, I saved the document.",
+      "raw": "Before shutting down the computer, I saved the document.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-009:026",
+      "parent_id": "dev-daily-009",
+      "attempt": 26,
+      "seed": 1464971817,
+      "text": "I backed up the file prior to powering off the machine.",
+      "raw": "I backed up the file prior to powering off the machine.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-009:027",
+      "parent_id": "dev-daily-009",
+      "attempt": 27,
+      "seed": 2556131006,
+      "text": "I preserved the original sentence's phrasing and omitted any unnecessary changes.",
+      "raw": "I preserved the original sentence's phrasing and omitted any unnecessary changes.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-009:028",
+      "parent_id": "dev-daily-009",
+      "attempt": 28,
+      "seed": 154473685,
+      "text": "I preserved the file prior to closing the machine.",
+      "raw": "I preserved the file prior to closing the machine.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-009:029",
+      "parent_id": "dev-daily-009",
+      "attempt": 29,
+      "seed": 1390712207,
+      "text": "Before shutting down the computer, I saved the document.",
+      "raw": "Before shutting down the computer, I saved the document.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-009:030",
+      "parent_id": "dev-daily-009",
+      "attempt": 30,
+      "seed": 3020384608,
+      "text": "Before powering off my computer, I saved the document.",
+      "raw": "Before powering off my computer, I saved the document.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-009:031",
+      "parent_id": "dev-daily-009",
+      "attempt": 31,
+      "seed": 3115911054,
+      "text": "I preserved the original wording for this simple action statement.",
+      "raw": "I preserved the original wording for this simple action statement.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 391,
+  "generation_seconds": 6.849692900897935
+}

@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "test-product-009",
+    "group_id": "test-product-009",
+    "split": "test",
+    "domain": "product",
+    "text": "The camera bag has a padded divider in its main compartment."
+  },
+  "attempts": [
+    {
+      "candidate_id": "test-product-009:000",
+      "parent_id": "test-product-009",
+      "attempt": 0,
+      "seed": 108093531,
+      "text": "The camera bag includes a padded divider within its primary pocket.",
+      "raw": "The camera bag includes a padded divider within its primary pocket.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-009:001",
+      "parent_id": "test-product-009",
+      "attempt": 1,
+      "seed": 3155328115,
+      "text": "In the camera bag's main compartment, there is a padded divider.",
+      "raw": "In the camera bag's main compartment, there is a padded divider.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-009:002",
+      "parent_id": "test-product-009",
+      "attempt": 2,
+      "seed": 3951864185,
+      "text": "The camera bag incorporates a padded divider into its primary compartment.",
+      "raw": "The camera bag incorporates a padded divider into its primary compartment.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-009:003",
+      "parent_id": "test-product-009",
+      "attempt": 3,
+      "seed": 1412975629,
+      "text": "The camera bag includes a padding element that serves as a dividing mechanism within its central area.",
+      "raw": "The camera bag includes a padding element that serves as a dividing mechanism within its central area.",
+      "generated_tokens": 19,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-009:004",
+      "parent_id": "test-product-009",
+      "attempt": 4,
+      "seed": 3942407869,
+      "text": "The camera bag includes a dividers with padding inside the main compartment.",
+      "raw": "The camera bag includes a dividers with padding inside the main compartment.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-009:005",
+      "parent_id": "test-product-009",
+      "attempt": 5,
+      "seed": 3174011303,
+      "text": "A padded divider is found in the camera bag's main compartment.",
+      "raw": "A padded divider is found in the camera bag's main compartment.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-009:006",
+      "parent_id": "test-product-009",
+      "attempt": 6,
+      "seed": 1795908791,
+      "text": "The camera bag features a padded divider within its main compartment.",
+      "raw": "The camera bag features a padded divider within its main compartment.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-009:007",
+      "parent_id": "test-product-009",
+      "attempt": 7,
+      "seed": 3384326396,
+      "text": "The camera bag features a padding strip within its center pocket.",
+      "raw": "The camera bag features a padding strip within its center pocket.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-009:008",
+      "parent_id": "test-product-009",
+      "attempt": 8,
+      "seed": 219365220,
+      "text": "The camera bag features a padded divider within its primary compartment.",
+      "raw": "The camera bag features a padded divider within its primary compartment.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-009:009",
+      "parent_id": "test-product-009",
+      "attempt": 9,
+      "seed": 2139188953,
+      "text": "In its main compartment, the camera bag features a padded divider.",
+      "raw": "In its main compartment, the camera bag features a padded divider.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-009:010",
+      "parent_id": "test-product-009",
+      "attempt": 10,
+      "seed": 3845968249,
+      "text": "The camera bag includes a padded divider in its main compartment.",
+      "raw": "The camera bag includes a padded divider in its main compartment.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-009:011",
+      "parent_id": "test-product-009",
+      "attempt": 11,
+      "seed": 2651333537,
+      "text": "The camera bag features a padded divider within its main compartment.",
+      "raw": "The camera bag features a padded divider within its main compartment.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-009:012",
+      "parent_id": "test-product-009",
+      "attempt": 12,
+      "seed": 2524135177,
+      "text": "The camera bag features a padded divider within its primary storage area.",
+      "raw": "The camera bag features a padded divider within its primary storage area.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-009:013",
+      "parent_id": "test-product-009",
+      "attempt": 13,
+      "seed": 498816648,
+      "text": "In its main compartment, the camera bag features a padded divider.",
+      "raw": "In its main compartment, the camera bag features a padded divider.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-009:014",
+      "parent_id": "test-product-009",
+      "attempt": 14,
+      "seed": 3105033758,
+      "text": "The camera bag features a padded divider within its primary storage area.",
+      "raw": "The camera bag features a padded divider within its primary storage area.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-009:015",
+      "parent_id": "test-product-009",
+      "attempt": 15,
+      "seed": 1547864716,
+      "text": "The camera bag includes a padded divider within its main section.",
+      "raw": "The camera bag includes a padded divider within its main section.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-009:016",
+      "parent_id": "test-product-009",
+      "attempt": 16,
+      "seed": 234906948,
+      "text": "The camera bag features a padded divider within its primary section.",
+      "raw": "The camera bag features a padded divider within its primary section.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-009:017",
+      "parent_id": "test-product-009",
+      "attempt": 17,
+      "seed": 3267739648,
+      "text": "In the main compartment of the camera bag, there is a padded divider.",
+      "raw": "In the main compartment of the camera bag, there is a padded divider.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-009:018",
+      "parent_id": "test-product-009",
+      "attempt": 18,
+      "seed": 591354714,
+      "text": "The camera bag incorporates a padded divider within its primary storage area.",
+      "raw": "The camera bag incorporates a padded divider within its primary storage area.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-009:019",
+      "parent_id": "test-product-009",
+      "attempt": 19,
+      "seed": 3336953590,
+      "text": "The camera bag includes a padded divider in its main compartment.",
+      "raw": "The camera bag includes a padded divider in its main compartment.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-009:020",
+      "parent_id": "test-product-009",
+      "attempt": 20,
+      "seed": 1430660701,
+      "text": "The camera bag incorporates a padded divider within its primary pocket.",
+      "raw": "The camera bag incorporates a padded divider within its primary pocket.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-009:021",
+      "parent_id": "test-product-009",
+      "attempt": 21,
+      "seed": 1546268540,
+      "text": "In the main compartment of the camera bag, there is a padded divider.",
+      "raw": "In the main compartment of the camera bag, there is a padded divider.",
+      "generated_tokens": 16,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-009:022",
+      "parent_id": "test-product-009",
+      "attempt": 22,
+      "seed": 1154943298,
+      "text": "The camera bag features a padded divider within its main compartment.",
+      "raw": "The camera bag features a padded divider within its main compartment.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-009:023",
+      "parent_id": "test-product-009",
+      "attempt": 23,
+      "seed": 3517909245,
+      "text": "The camera bag features a padded divider within its main compartment.",
+      "raw": "The camera bag features a padded divider within its main compartment.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-009:024",
+      "parent_id": "test-product-009",
+      "attempt": 24,
+      "seed": 1724164881,
+      "text": "The camera bag features a padded partition inside its primary area.",
+      "raw": "The camera bag features a padded partition inside its primary area.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-009:025",
+      "parent_id": "test-product-009",
+      "attempt": 25,
+      "seed": 523823373,
+      "text": "The main compartment of the camera bag features a padded divider.",
+      "raw": "The main compartment of the camera bag features a padded divider.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-009:026",
+      "parent_id": "test-product-009",
+      "attempt": 26,
+      "seed": 1190287726,
+      "text": "The camera bag features a padded divider within its main compartment.",
+      "raw": "The camera bag features a padded divider within its main compartment.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-009:027",
+      "parent_id": "test-product-009",
+      "attempt": 27,
+      "seed": 1186453431,
+      "text": "The camera bag includes a padded divider within its main section.",
+      "raw": "The camera bag includes a padded divider within its main section.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-009:028",
+      "parent_id": "test-product-009",
+      "attempt": 28,
+      "seed": 438408514,
+      "text": "The camera bag incorporates a padded partition within its central section.",
+      "raw": "The camera bag incorporates a padded partition within its central section.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-009:029",
+      "parent_id": "test-product-009",
+      "attempt": 29,
+      "seed": 2889893230,
+      "text": "In its main compartment, the camera bag features a padded divider.",
+      "raw": "In its main compartment, the camera bag features a padded divider.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-009:030",
+      "parent_id": "test-product-009",
+      "attempt": 30,
+      "seed": 4281449362,
+      "text": "The camera bag features a padded divider within its primary compartment.",
+      "raw": "The camera bag features a padded divider within its primary compartment.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-009:031",
+      "parent_id": "test-product-009",
+      "attempt": 31,
+      "seed": 2271769606,
+      "text": "The camera bag features a divider in its central section.",
+      "raw": "The camera bag features a divider in its central section.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 438,
+  "generation_seconds": 7.699277905980125
+}

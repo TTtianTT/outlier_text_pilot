@@ -1,0 +1,73 @@
+{
+  "config": {
+    "data": "data/carriers_en.jsonl",
+    "evaluation": {
+      "bits": [
+        1,
+        2,
+        3
+      ],
+      "bootstrap": 200,
+      "key_seeds": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "margins": [
+        0.0,
+        0.0001,
+        0.0005,
+        0.001
+      ],
+      "primary_bits": 1,
+      "primary_margin": 0.0001
+    },
+    "filter": {
+      "max_edit_ratio": 0.7,
+      "max_tokens": 80,
+      "min_cosine": 0.85,
+      "min_entailment": 0.8,
+      "min_tokens": 5
+    },
+    "generation": {
+      "attempts": 32,
+      "max_new_tokens": 96,
+      "temperature": 0.9,
+      "top_p": 0.95
+    },
+    "model": {
+      "device": "cuda:0",
+      "dtype": "bfloat16",
+      "layer": -1,
+      "max_tokens": 128,
+      "name": "Qwen/Qwen2.5-1.5B-Instruct",
+      "revision": "main"
+    },
+    "parents_per_split": 4,
+    "quality": {
+      "device": "cuda:0",
+      "entailment_id": 1,
+      "nli_model": "cross-encoder/nli-deberta-v3-small",
+      "nli_revision": "main",
+      "semantic_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "semantic_revision": "main"
+    },
+    "seed": 20260925,
+    "selection": {
+      "calipers": {
+        "edit_ratio": 0.2,
+        "n_tokens": 4,
+        "nli_min": 0.15,
+        "nll_mean": 0.35,
+        "sem_dist": 0.04,
+        "zipf_mean": 0.35
+      },
+      "keep": 8,
+      "outlier_fraction": 0.25,
+      "ridge_alpha": 10.0
+    }
+  },
+  "corpus_hash": "9ce8c518ef75fffd186fdbcd7c1ba811efa32cbdd7eff41c07a6ecd10881c8fe",
+  "version": 1
+}

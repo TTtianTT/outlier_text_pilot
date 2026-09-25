@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "dev-daily-000",
+    "group_id": "dev-daily-000",
+    "split": "dev",
+    "domain": "daily",
+    "text": "I left my umbrella beside the front door before going to work."
+  },
+  "attempts": [
+    {
+      "candidate_id": "dev-daily-000:000",
+      "parent_id": "dev-daily-000",
+      "attempt": 0,
+      "seed": 1440478532,
+      "text": "I placed my umbrella next to the front door prior to commencing employment.",
+      "raw": "I placed my umbrella next to the front door prior to commencing employment.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-000:001",
+      "parent_id": "dev-daily-000",
+      "attempt": 1,
+      "seed": 525675475,
+      "text": "Before going to work, I left my umbrella beside the front door.",
+      "raw": "Before going to work, I left my umbrella beside the front door.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-000:002",
+      "parent_id": "dev-daily-000",
+      "attempt": 2,
+      "seed": 1984337246,
+      "text": "I placed my umbrella near the front door before heading to work.",
+      "raw": "I placed my umbrella near the front door before heading to work.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-000:003",
+      "parent_id": "dev-daily-000",
+      "attempt": 3,
+      "seed": 2135887625,
+      "text": "I placed my umbrella near the front door on my way to work.",
+      "raw": "I placed my umbrella near the front door on my way to work.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-000:004",
+      "parent_id": "dev-daily-000",
+      "attempt": 4,
+      "seed": 311353136,
+      "text": "I placed my umbrella near the front door prior to heading to work.",
+      "raw": "I placed my umbrella near the front door prior to heading to work.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-000:005",
+      "parent_id": "dev-daily-000",
+      "attempt": 5,
+      "seed": 4137228033,
+      "text": "Before going to work, I left my umbrella beside the front door.",
+      "raw": "Before going to work, I left my umbrella beside the front door.",
+      "generated_tokens": 15,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-000:006",
+      "parent_id": "dev-daily-000",
+      "attempt": 6,
+      "seed": 97822682,
+      "text": "Before heading to work, I placed my umbrella near the front door.",
+      "raw": "Before heading to work, I placed my umbrella near the front door.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-000:007",
+      "parent_id": "dev-daily-000",
+      "attempt": 7,
+      "seed": 1472520382,
+      "text": "I placed my umbrella next to the front door before heading to work.",
+      "raw": "I placed my umbrella next to the front door before heading to work.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-000:008",
+      "parent_id": "dev-daily-000",
+      "attempt": 8,
+      "seed": 334000824,
+      "text": "I put away my umbrella near the front door prior to attending work.",
+      "raw": "I put away my umbrella near the front door prior to attending work.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-000:009",
+      "parent_id": "dev-daily-000",
+      "attempt": 9,
+      "seed": 1967527050,
+      "text": "Before going to work, I left my umbrella beside the front door.",
+      "raw": "Before going to work, I left my umbrella beside the front door.",
+      "generated_tokens": 15,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-000:010",
+      "parent_id": "dev-daily-000",
+      "attempt": 10,
+      "seed": 1441927400,
+      "text": "Before heading to work, I placed my umbrella at the front door.",
+      "raw": "Before heading to work, I placed my umbrella at the front door.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-000:011",
+      "parent_id": "dev-daily-000",
+      "attempt": 11,
+      "seed": 3152149022,
+      "text": "I placed my umbrella next to the front door on my way to work.",
+      "raw": "I placed my umbrella next to the front door on my way to work.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-000:012",
+      "parent_id": "dev-daily-000",
+      "attempt": 12,
+      "seed": 2978782952,
+      "text": "I placed my umbrella near the front door before heading to work.",
+      "raw": "I placed my umbrella near the front door before heading to work.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-000:013",
+      "parent_id": "dev-daily-000",
+      "attempt": 13,
+      "seed": 2785830503,
+      "text": "Before going to work, I left my umbrella beside the front door.",
+      "raw": "Before going to work, I left my umbrella beside the front door.",
+      "generated_tokens": 15,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-000:014",
+      "parent_id": "dev-daily-000",
+      "attempt": 14,
+      "seed": 1526140801,
+      "text": "I placed my umbrella next to the front door prior to commencing my workplace journey.",
+      "raw": "I placed my umbrella next to the front door prior to commencing my workplace journey.",
+      "generated_tokens": 18,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-000:015",
+      "parent_id": "dev-daily-000",
+      "attempt": 15,
+      "seed": 2216120488,
+      "text": "I placed my umbrella at the entrance when heading for my workplace.",
+      "raw": "I placed my umbrella at the entrance when heading for my workplace.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-000:016",
+      "parent_id": "dev-daily-000",
+      "attempt": 16,
+      "seed": 168339386,
+      "text": "I left my umbrella at the front door before heading to work.",
+      "raw": "I left my umbrella at the front door before heading to work.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-000:017",
+      "parent_id": "dev-daily-000",
+      "attempt": 17,
+      "seed": 1131140762,
+      "text": "Before going to work, I left my umbrella beside the front door.",
+      "raw": "Before going to work, I left my umbrella beside the front door.",
+      "generated_tokens": 15,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-000:018",
+      "parent_id": "dev-daily-000",
+      "attempt": 18,
+      "seed": 1236089565,
+      "text": "I placed my umbrella adjacent to the front door prior to attending work.",
+      "raw": "I placed my umbrella adjacent to the front door prior to attending work.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-000:019",
+      "parent_id": "dev-daily-000",
+      "attempt": 19,
+      "seed": 3196701148,
+      "text": "I placed my umbrella at the entrance as I headed for my job.",
+      "raw": "I placed my umbrella at the entrance as I headed for my job.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-000:020",
+      "parent_id": "dev-daily-000",
+      "attempt": 20,
+      "seed": 3251912477,
+      "text": "I placed my umbrella adjacent to the front entrance prior to commencing employment.",
+      "raw": "I placed my umbrella adjacent to the front entrance prior to commencing employment.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-000:021",
+      "parent_id": "dev-daily-000",
+      "attempt": 21,
+      "seed": 489321741,
+      "text": "Before going to work, I left my umbrella beside the front door.",
+      "raw": "Before going to work, I left my umbrella beside the front door.",
+      "generated_tokens": 15,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-000:022",
+      "parent_id": "dev-daily-000",
+      "attempt": 22,
+      "seed": 1511999808,
+      "text": "I placed my umbrella next to the front door prior to commencing my workday.",
+      "raw": "I placed my umbrella next to the front door prior to commencing my workday.",
+      "generated_tokens": 18,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-000:023",
+      "parent_id": "dev-daily-000",
+      "attempt": 23,
+      "seed": 631074258,
+      "text": "I placed my umbrella near the front door prior to heading to work.",
+      "raw": "I placed my umbrella near the front door prior to heading to work.",
+      "generated_tokens": 15,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-000:024",
+      "parent_id": "dev-daily-000",
+      "attempt": 24,
+      "seed": 3187889015,
+      "text": "I placed my umbrella next to the front door before heading to work.",
+      "raw": "I placed my umbrella next to the front door before heading to work.",
+      "generated_tokens": 15,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-000:025",
+      "parent_id": "dev-daily-000",
+      "attempt": 25,
+      "seed": 1097234355,
+      "text": "Before going to work, I left my umbrella beside the front door.",
+      "raw": "Before going to work, I left my umbrella beside the front door.",
+      "generated_tokens": 15,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-000:026",
+      "parent_id": "dev-daily-000",
+      "attempt": 26,
+      "seed": 1727941138,
+      "text": "I placed my umbrella next to the front door before heading to work.",
+      "raw": "I placed my umbrella next to the front door before heading to work.",
+      "generated_tokens": 15,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-000:027",
+      "parent_id": "dev-daily-000",
+      "attempt": 27,
+      "seed": 39962442,
+      "text": "I placed my umbrella adjacent to the entrance upon leaving for work.",
+      "raw": "I placed my umbrella adjacent to the entrance upon leaving for work.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-000:028",
+      "parent_id": "dev-daily-000",
+      "attempt": 28,
+      "seed": 2605424386,
+      "text": "I placed my umbrella near the front door prior to commencing work.",
+      "raw": "I placed my umbrella near the front door prior to commencing work.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-000:029",
+      "parent_id": "dev-daily-000",
+      "attempt": 29,
+      "seed": 1755268981,
+      "text": "Before going to work, I left my umbrella beside the front door.",
+      "raw": "Before going to work, I left my umbrella beside the front door.",
+      "generated_tokens": 15,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-000:030",
+      "parent_id": "dev-daily-000",
+      "attempt": 30,
+      "seed": 1362313459,
+      "text": "I placed my umbrella next to the front door prior to heading off to work.",
+      "raw": "I placed my umbrella next to the front door prior to heading off to work.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-000:031",
+      "parent_id": "dev-daily-000",
+      "attempt": 31,
+      "seed": 684053744,
+      "text": "I had my umbrella nearby when I went into the office.",
+      "raw": "I had my umbrella nearby when I went into the office.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 484,
+  "generation_seconds": 8.790703417966142
+}

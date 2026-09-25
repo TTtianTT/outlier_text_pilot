@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "dev-product-010",
+    "group_id": "dev-product-010",
+    "split": "dev",
+    "domain": "product",
+    "text": "This phone stand folds flat when it is not in use."
+  },
+  "attempts": [
+    {
+      "candidate_id": "dev-product-010:000",
+      "parent_id": "dev-product-010",
+      "attempt": 0,
+      "seed": 2937488707,
+      "text": "This phone stand collapses into place when unused.",
+      "raw": "This phone stand collapses into place when unused.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-010:001",
+      "parent_id": "dev-product-010",
+      "attempt": 1,
+      "seed": 3203851573,
+      "text": "When this phone stand is not in use, it folds flat.",
+      "raw": "When this phone stand is not in use, it folds flat.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-010:002",
+      "parent_id": "dev-product-010",
+      "attempt": 2,
+      "seed": 1397123195,
+      "text": "This phone stand flattens when not in use.",
+      "raw": "This phone stand flattens when not in use.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-010:003",
+      "parent_id": "dev-product-010",
+      "attempt": 3,
+      "seed": 3622115663,
+      "text": "This phone stand folds compactly when not in use.",
+      "raw": "This phone stand folds compactly when not in use.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-010:004",
+      "parent_id": "dev-product-010",
+      "attempt": 4,
+      "seed": 3242836597,
+      "text": "This phone stand flattens for storage when unused.",
+      "raw": "This phone stand flattens for storage when unused.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-010:005",
+      "parent_id": "dev-product-010",
+      "attempt": 5,
+      "seed": 2908736696,
+      "text": "When this phone stand is not in use, it folds flat.",
+      "raw": "When this phone stand is not in use, it folds flat.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-010:006",
+      "parent_id": "dev-product-010",
+      "attempt": 6,
+      "seed": 127687667,
+      "text": "This phone stand can collapse into shape when not needed.",
+      "raw": "This phone stand can collapse into shape when not needed.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-010:007",
+      "parent_id": "dev-product-010",
+      "attempt": 7,
+      "seed": 1832714710,
+      "text": "This phone stand unfolds into a compact shape when unused.",
+      "raw": "This phone stand unfolds into a compact shape when unused.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-010:008",
+      "parent_id": "dev-product-010",
+      "attempt": 8,
+      "seed": 1035119176,
+      "text": "This phone holder flattens into place when unused.",
+      "raw": "This phone holder flattens into place when unused.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-010:009",
+      "parent_id": "dev-product-010",
+      "attempt": 9,
+      "seed": 1858489303,
+      "text": "When this phone stand is not in use, it folds flat.",
+      "raw": "When this phone stand is not in use, it folds flat.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-010:010",
+      "parent_id": "dev-product-010",
+      "attempt": 10,
+      "seed": 1119284622,
+      "text": "This phone stand flattens into a compact shape when not in use.",
+      "raw": "This phone stand flattens into a compact shape when not in use.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-010:011",
+      "parent_id": "dev-product-010",
+      "attempt": 11,
+      "seed": 3612998609,
+      "text": "The phone stand flattens itself when unused.",
+      "raw": "The phone stand flattens itself when unused.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-010:012",
+      "parent_id": "dev-product-010",
+      "attempt": 12,
+      "seed": 1247575558,
+      "text": "This phone holder compresses into a compact shape when unused.",
+      "raw": "This phone holder compresses into a compact shape when unused.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-010:013",
+      "parent_id": "dev-product-010",
+      "attempt": 13,
+      "seed": 3990431914,
+      "text": "When this phone stand isn't being used, it can be flattened for storage.",
+      "raw": "When this phone stand isn't being used, it can be flattened for storage.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-010:014",
+      "parent_id": "dev-product-010",
+      "attempt": 14,
+      "seed": 590710879,
+      "text": "This phone stand flattens when not in use.",
+      "raw": "This phone stand flattens when not in use.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-010:015",
+      "parent_id": "dev-product-010",
+      "attempt": 15,
+      "seed": 1579385446,
+      "text": "This telephone base collapses into a compact form when not employed.",
+      "raw": "This telephone base collapses into a compact form when not employed.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-010:016",
+      "parent_id": "dev-product-010",
+      "attempt": 16,
+      "seed": 2372024998,
+      "text": "This telephone support collapses flat when unused.",
+      "raw": "This telephone support collapses flat when unused.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-010:017",
+      "parent_id": "dev-product-010",
+      "attempt": 17,
+      "seed": 818916571,
+      "text": "When not in use, this phone stand folds into a flat configuration.",
+      "raw": "When not in use, this phone stand folds into a flat configuration.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-010:018",
+      "parent_id": "dev-product-010",
+      "attempt": 18,
+      "seed": 1900007952,
+      "text": "This phone stand unfolds to its full size when not in use.",
+      "raw": "This phone stand unfolds to its full size when not in use.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-010:019",
+      "parent_id": "dev-product-010",
+      "attempt": 19,
+      "seed": 3095631262,
+      "text": "The phone stand can collapse into a flat shape when unused.",
+      "raw": "The phone stand can collapse into a flat shape when unused.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-010:020",
+      "parent_id": "dev-product-010",
+      "attempt": 20,
+      "seed": 1237042882,
+      "text": "This phone stand flattens when unused.",
+      "raw": "This phone stand flattens when unused.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-010:021",
+      "parent_id": "dev-product-010",
+      "attempt": 21,
+      "seed": 4235461596,
+      "text": "When this phone stand is not in use, it folds into a flat shape.",
+      "raw": "When this phone stand is not in use, it folds into a flat shape.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-010:022",
+      "parent_id": "dev-product-010",
+      "attempt": 22,
+      "seed": 3098879930,
+      "text": "This phone stand flattens when unused.",
+      "raw": "This phone stand flattens when unused.",
+      "generated_tokens": 9,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-010:023",
+      "parent_id": "dev-product-010",
+      "attempt": 23,
+      "seed": 2014540031,
+      "text": "The phone stand flattens for storage when inactive.",
+      "raw": "The phone stand flattens for storage when inactive.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-010:024",
+      "parent_id": "dev-product-010",
+      "attempt": 24,
+      "seed": 3247692622,
+      "text": "This phone stand flattens when not in use.",
+      "raw": "This phone stand flattens when not in use.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-010:025",
+      "parent_id": "dev-product-010",
+      "attempt": 25,
+      "seed": 3822483143,
+      "text": "When this phone stand is not in use, fold it to be flat.",
+      "raw": "When this phone stand is not in use, fold it to be flat.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-010:026",
+      "parent_id": "dev-product-010",
+      "attempt": 26,
+      "seed": 2312379424,
+      "text": "This phone stand flattens into an upright position when unused.",
+      "raw": "This phone stand flattens into an upright position when unused.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-010:027",
+      "parent_id": "dev-product-010",
+      "attempt": 27,
+      "seed": 2514092211,
+      "text": "The phone stand can unfold to a compact size when not in use.",
+      "raw": "The phone stand can unfold to a compact size when not in use.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-010:028",
+      "parent_id": "dev-product-010",
+      "attempt": 28,
+      "seed": 2506964599,
+      "text": "This phone stand unfolds into a compact size for storage.",
+      "raw": "This phone stand unfolds into a compact size for storage.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-010:029",
+      "parent_id": "dev-product-010",
+      "attempt": 29,
+      "seed": 2379844569,
+      "text": "When not in use, this phone stand can be flattened.",
+      "raw": "When not in use, this phone stand can be flattened.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-010:030",
+      "parent_id": "dev-product-010",
+      "attempt": 30,
+      "seed": 2099770742,
+      "text": "This phone stand collapses into a flat shape when not in use.",
+      "raw": "This phone stand collapses into a flat shape when not in use.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-010:031",
+      "parent_id": "dev-product-010",
+      "attempt": 31,
+      "seed": 2626623870,
+      "text": "The phone stand collapses into a compact shape when not in use.",
+      "raw": "The phone stand collapses into a compact shape when not in use.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 405,
+  "generation_seconds": 7.082577659981325
+}

@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "test-product-000",
+    "group_id": "test-product-000",
+    "split": "test",
+    "domain": "product",
+    "text": "The suitcase has four wheels and an extendable handle."
+  },
+  "attempts": [
+    {
+      "candidate_id": "test-product-000:000",
+      "parent_id": "test-product-000",
+      "attempt": 0,
+      "seed": 2052946040,
+      "text": "The luggage possesses four wheels and a retractable strap.",
+      "raw": "The luggage possesses four wheels and a retractable strap.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-000:001",
+      "parent_id": "test-product-000",
+      "attempt": 1,
+      "seed": 146931526,
+      "text": "An extendable handle is in the suitcase along with four wheels.",
+      "raw": "An extendable handle is in the suitcase along with four wheels.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-000:002",
+      "parent_id": "test-product-000",
+      "attempt": 2,
+      "seed": 1768295323,
+      "text": "The suitcase possesses four wheels and an adjustable handle.",
+      "raw": "The suitcase possesses four wheels and an adjustable handle.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-000:003",
+      "parent_id": "test-product-000",
+      "attempt": 3,
+      "seed": 624556321,
+      "text": "The suitcase features four wheels and a telescopic handle.",
+      "raw": "The suitcase features four wheels and a telescopic handle.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-000:004",
+      "parent_id": "test-product-000",
+      "attempt": 4,
+      "seed": 4022037361,
+      "text": "The suitcase possesses four rolling wheels along with an adjustable grip.",
+      "raw": "The suitcase possesses four rolling wheels along with an adjustable grip.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-000:005",
+      "parent_id": "test-product-000",
+      "attempt": 5,
+      "seed": 2829275216,
+      "text": "An extendable handle is in a suitcase with four wheels.",
+      "raw": "An extendable handle is in a suitcase with four wheels.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-000:006",
+      "parent_id": "test-product-000",
+      "attempt": 6,
+      "seed": 926919695,
+      "text": "The suitcase possesses four wheels and an adjustable handle.",
+      "raw": "The suitcase possesses four wheels and an adjustable handle.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-000:007",
+      "parent_id": "test-product-000",
+      "attempt": 7,
+      "seed": 554859313,
+      "text": "The suitcase possesses four wheels and an adjustable handle.",
+      "raw": "The suitcase possesses four wheels and an adjustable handle.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-000:008",
+      "parent_id": "test-product-000",
+      "attempt": 8,
+      "seed": 3318574108,
+      "text": "The suitcase boasts four casters and a telescopic grab handle.",
+      "raw": "The suitcase boasts four casters and a telescopic grab handle.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-000:009",
+      "parent_id": "test-product-000",
+      "attempt": 9,
+      "seed": 933846609,
+      "text": "An extendable handle and four wheels are present in the suitcase.",
+      "raw": "An extendable handle and four wheels are present in the suitcase.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-000:010",
+      "parent_id": "test-product-000",
+      "attempt": 10,
+      "seed": 465446079,
+      "text": "The suitcase features four wheels and an adjustable handle.",
+      "raw": "The suitcase features four wheels and an adjustable handle.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-000:011",
+      "parent_id": "test-product-000",
+      "attempt": 11,
+      "seed": 2836184489,
+      "text": "The suitcase features four wheels and an adjustable handle.",
+      "raw": "The suitcase features four wheels and an adjustable handle.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-000:012",
+      "parent_id": "test-product-000",
+      "attempt": 12,
+      "seed": 2167139890,
+      "text": "The suitcase boasts four rotors and an adjustable grip.",
+      "raw": "The suitcase boasts four rotors and an adjustable grip.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-000:013",
+      "parent_id": "test-product-000",
+      "attempt": 13,
+      "seed": 3348265316,
+      "text": "A suitcase with four wheels and an extendable handle is being discussed.",
+      "raw": "A suitcase with four wheels and an extendable handle is being discussed.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-000:014",
+      "parent_id": "test-product-000",
+      "attempt": 14,
+      "seed": 2830433357,
+      "text": "The suitcase possesses four wheels and an adjustable handle.",
+      "raw": "The suitcase possesses four wheels and an adjustable handle.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-000:015",
+      "parent_id": "test-product-000",
+      "attempt": 15,
+      "seed": 2527036498,
+      "text": "The suitcase possesses four wheels and a foldable handle.",
+      "raw": "The suitcase possesses four wheels and a foldable handle.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-000:016",
+      "parent_id": "test-product-000",
+      "attempt": 16,
+      "seed": 142501179,
+      "text": "The handbag features four casters and a retractable strap.",
+      "raw": "The handbag features four casters and a retractable strap.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-000:017",
+      "parent_id": "test-product-000",
+      "attempt": 17,
+      "seed": 2851738486,
+      "text": "An extendable handle and four wheels are found in the suitcase.",
+      "raw": "An extendable handle and four wheels are found in the suitcase.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-000:018",
+      "parent_id": "test-product-000",
+      "attempt": 18,
+      "seed": 2404521246,
+      "text": "The suitcase possesses four wheels and an adjustable handle.",
+      "raw": "The suitcase possesses four wheels and an adjustable handle.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-000:019",
+      "parent_id": "test-product-000",
+      "attempt": 19,
+      "seed": 2140184468,
+      "text": "The suitcase features four wheels and an adjustable handle.",
+      "raw": "The suitcase features four wheels and an adjustable handle.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-000:020",
+      "parent_id": "test-product-000",
+      "attempt": 20,
+      "seed": 1557876152,
+      "text": "The suitcase possesses four wheels and an adjustable handle.",
+      "raw": "The suitcase possesses four wheels and an adjustable handle.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-000:021",
+      "parent_id": "test-product-000",
+      "attempt": 21,
+      "seed": 3209364931,
+      "text": "The suitcase with four wheels and an extendable handle is available.",
+      "raw": "The suitcase with four wheels and an extendable handle is available.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-000:022",
+      "parent_id": "test-product-000",
+      "attempt": 22,
+      "seed": 1752323298,
+      "text": "The suitcase features four wheels and an adjustable handle.",
+      "raw": "The suitcase features four wheels and an adjustable handle.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-000:023",
+      "parent_id": "test-product-000",
+      "attempt": 23,
+      "seed": 3784234605,
+      "text": "The suitcase possesses four wheels along with an adjustable handle.",
+      "raw": "The suitcase possesses four wheels along with an adjustable handle.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-000:024",
+      "parent_id": "test-product-000",
+      "attempt": 24,
+      "seed": 3118217492,
+      "text": "The suitcase is equipped with four wheels and a telescopic handle.",
+      "raw": "The suitcase is equipped with four wheels and a telescopic handle.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-000:025",
+      "parent_id": "test-product-000",
+      "attempt": 25,
+      "seed": 3144959818,
+      "text": "An extendable handle is in a suitcase with four wheels.",
+      "raw": "An extendable handle is in a suitcase with four wheels.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-000:026",
+      "parent_id": "test-product-000",
+      "attempt": 26,
+      "seed": 104922888,
+      "text": "The suitcase possesses four wheels along with an adjustable handle.",
+      "raw": "The suitcase possesses four wheels along with an adjustable handle.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-000:027",
+      "parent_id": "test-product-000",
+      "attempt": 27,
+      "seed": 1754184706,
+      "text": "The suitcase features four wheels and a foldable handle.",
+      "raw": "The suitcase features four wheels and a foldable handle.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-000:028",
+      "parent_id": "test-product-000",
+      "attempt": 28,
+      "seed": 3179237961,
+      "text": "The suitcase possesses four wheels and an adjustable handle.",
+      "raw": "The suitcase possesses four wheels and an adjustable handle.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-000:029",
+      "parent_id": "test-product-000",
+      "attempt": 29,
+      "seed": 458392765,
+      "text": "An extendable handle and four wheels are present in the suitcase.",
+      "raw": "An extendable handle and four wheels are present in the suitcase.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-000:030",
+      "parent_id": "test-product-000",
+      "attempt": 30,
+      "seed": 111920957,
+      "text": "The luggage features four wheels and a retractable grip.",
+      "raw": "The luggage features four wheels and a retractable grip.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-000:031",
+      "parent_id": "test-product-000",
+      "attempt": 31,
+      "seed": 3451164347,
+      "text": "The suitcase possesses four wheels and an adjustable handle.",
+      "raw": "The suitcase possesses four wheels and an adjustable handle.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    }
+  ],
+  "generated_tokens": 394,
+  "generation_seconds": 6.930768645135686
+}

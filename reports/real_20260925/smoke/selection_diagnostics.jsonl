@@ -1,0 +1,12 @@
+{"eligible":19,"pairs":5,"parent_id":"dev-product-007","reason":"caliper_match_failed","split":"dev"}
+{"eligible":5,"pairs":0,"parent_id":"dev-product-002","reason":"too_few_eligible","split":"dev"}
+{"eligible":5,"pairs":0,"parent_id":"dev-product-003","reason":"too_few_eligible","split":"dev"}
+{"eligible":3,"pairs":0,"parent_id":"dev-daily-009","reason":"too_few_eligible","split":"dev"}
+{"eligible":12,"pairs":0,"parent_id":"test-daily-006","reason":"too_few_eligible","split":"test"}
+{"eligible":16,"pairs":4,"parent_id":"test-product-010","reason":"caliper_match_failed","split":"test"}
+{"eligible":10,"pairs":0,"parent_id":"test-product-011","reason":"too_few_eligible","split":"test"}
+{"eligible":8,"pairs":0,"parent_id":"test-daily-008","reason":"too_few_eligible","split":"test"}
+{"eligible":15,"pairs":0,"parent_id":"ood-science-006","reason":"too_few_eligible","split":"ood"}
+{"eligible":18,"pairs":2,"parent_id":"ood-science-015","reason":"caliper_match_failed","split":"ood"}
+{"eligible":6,"pairs":0,"parent_id":"ood-science-023","reason":"too_few_eligible","split":"ood"}
+{"eligible":17,"pairs":6,"parent_id":"ood-science-025","reason":"caliper_match_failed","split":"ood"}

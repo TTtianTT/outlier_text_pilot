@@ -1,0 +1,21 @@
+{
+  "semantic": {
+    "name": "sentence-transformers/all-MiniLM-L6-v2",
+    "requested_revision": "main",
+    "resolved_revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
+    "tokenizer_sha256": "e942e75e79a0d07b397e54b640ddf836f07739edc9bca664be8dff729da6090c",
+    "local_file_hashes": {},
+    "transformers": "4.57.6",
+    "torch": "2.11.0+cu128"
+  },
+  "nli": {
+    "name": "cross-encoder/nli-deberta-v3-small",
+    "requested_revision": "main",
+    "resolved_revision": "fa2804872c3b4bd748f38c0185cc85775361e735",
+    "tokenizer_sha256": "b569bcca81615c7ceb7605b18900b0753782ae3ccd1bfb919cb04a8823b135c9",
+    "local_file_hashes": {},
+    "transformers": "4.57.6",
+    "torch": "2.11.0+cu128"
+  },
+  "entailment_id": 1
+}

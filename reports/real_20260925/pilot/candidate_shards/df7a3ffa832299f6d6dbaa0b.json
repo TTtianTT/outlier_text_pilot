@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "dev-product-008",
+    "group_id": "dev-product-008",
+    "split": "dev",
+    "domain": "product",
+    "text": "The headphones include a detachable audio cable."
+  },
+  "attempts": [
+    {
+      "candidate_id": "dev-product-008:000",
+      "parent_id": "dev-product-008",
+      "attempt": 0,
+      "seed": 3758211006,
+      "text": "The headphones have an attached audio cord.",
+      "raw": "The headphones have an attached audio cord.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-008:001",
+      "parent_id": "dev-product-008",
+      "attempt": 1,
+      "seed": 550658722,
+      "text": "A detachable audio cable is included with the headphones.",
+      "raw": "A detachable audio cable is included with the headphones.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-008:002",
+      "parent_id": "dev-product-008",
+      "attempt": 2,
+      "seed": 1373881650,
+      "text": "The headphones feature a removable audio cord.",
+      "raw": "The headphones feature a removable audio cord.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-008:003",
+      "parent_id": "dev-product-008",
+      "attempt": 3,
+      "seed": 251276900,
+      "text": "The headphones come with a detachable audio cable included.",
+      "raw": "The headphones come with a detachable audio cable included.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-008:004",
+      "parent_id": "dev-product-008",
+      "attempt": 4,
+      "seed": 1249807445,
+      "text": "The headphones feature an optional audio cord.",
+      "raw": "The headphones feature an optional audio cord.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-008:005",
+      "parent_id": "dev-product-008",
+      "attempt": 5,
+      "seed": 1556221826,
+      "text": "A detachable audio cable is included in the headphones.",
+      "raw": "A detachable audio cable is included in the headphones.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-008:006",
+      "parent_id": "dev-product-008",
+      "attempt": 6,
+      "seed": 1524397893,
+      "text": "The headphones come equipped with a detachable audio cord.",
+      "raw": "The headphones come equipped with a detachable audio cord.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-008:007",
+      "parent_id": "dev-product-008",
+      "attempt": 7,
+      "seed": 2893809264,
+      "text": "The headphones feature a detachable audio cable included.",
+      "raw": "The headphones feature a detachable audio cable included.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-008:008",
+      "parent_id": "dev-product-008",
+      "attempt": 8,
+      "seed": 1122381612,
+      "text": "The headphones have a removable audio cord included.",
+      "raw": "The headphones have a removable audio cord included.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-008:009",
+      "parent_id": "dev-product-008",
+      "attempt": 9,
+      "seed": 671421853,
+      "text": "A detachable audio cable is included in the headphones.",
+      "raw": "A detachable audio cable is included in the headphones.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-008:010",
+      "parent_id": "dev-product-008",
+      "attempt": 10,
+      "seed": 24321288,
+      "text": "The headphones possess an easily removable audio cord.",
+      "raw": "The headphones possess an easily removable audio cord.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-008:011",
+      "parent_id": "dev-product-008",
+      "attempt": 11,
+      "seed": 260512247,
+      "text": "The headphones feature an easily removable audio cord.",
+      "raw": "The headphones feature an easily removable audio cord.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-008:012",
+      "parent_id": "dev-product-008",
+      "attempt": 12,
+      "seed": 1387259755,
+      "text": "The headphones come with a removable audio cord.",
+      "raw": "The headphones come with a removable audio cord.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-008:013",
+      "parent_id": "dev-product-008",
+      "attempt": 13,
+      "seed": 35339431,
+      "text": "A detachable audio cable is included in the headphones.",
+      "raw": "A detachable audio cable is included in the headphones.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-008:014",
+      "parent_id": "dev-product-008",
+      "attempt": 14,
+      "seed": 1205257927,
+      "text": "The headphones feature a detachable audio cable.",
+      "raw": "The headphones feature a detachable audio cable.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-008:015",
+      "parent_id": "dev-product-008",
+      "attempt": 15,
+      "seed": 60660987,
+      "text": "The headphones feature a detachable audio cable.",
+      "raw": "The headphones feature a detachable audio cable.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-008:016",
+      "parent_id": "dev-product-008",
+      "attempt": 16,
+      "seed": 3471626488,
+      "text": "The headphones feature a removable audio cord.",
+      "raw": "The headphones feature a removable audio cord.",
+      "generated_tokens": 9,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-008:017",
+      "parent_id": "dev-product-008",
+      "attempt": 17,
+      "seed": 982432829,
+      "text": "A detachable audio cable is included in the headphones.",
+      "raw": "A detachable audio cable is included in the headphones.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-008:018",
+      "parent_id": "dev-product-008",
+      "attempt": 18,
+      "seed": 2975623403,
+      "text": "The headphones come with a detachable audio cord.",
+      "raw": "The headphones come with a detachable audio cord.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-008:019",
+      "parent_id": "dev-product-008",
+      "attempt": 19,
+      "seed": 3257984186,
+      "text": "The headphones have a detachable audio cable included.",
+      "raw": "The headphones have a detachable audio cable included.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-008:020",
+      "parent_id": "dev-product-008",
+      "attempt": 20,
+      "seed": 4194772804,
+      "text": "The headphones have an easily removable audio cord.",
+      "raw": "The headphones have an easily removable audio cord.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-008:021",
+      "parent_id": "dev-product-008",
+      "attempt": 21,
+      "seed": 2329685564,
+      "text": "A detachable audio cable is included in the headphones.",
+      "raw": "A detachable audio cable is included in the headphones.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-008:022",
+      "parent_id": "dev-product-008",
+      "attempt": 22,
+      "seed": 1511119633,
+      "text": "The headphones feature a detachable audio cord.",
+      "raw": "The headphones feature a detachable audio cord.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-008:023",
+      "parent_id": "dev-product-008",
+      "attempt": 23,
+      "seed": 1706959443,
+      "text": "The headphones come with an unattached audio cord.",
+      "raw": "The headphones come with an unattached audio cord.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-008:024",
+      "parent_id": "dev-product-008",
+      "attempt": 24,
+      "seed": 3304286076,
+      "text": "The headphones feature an interchangeable audio cord.",
+      "raw": "The headphones feature an interchangeable audio cord.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-008:025",
+      "parent_id": "dev-product-008",
+      "attempt": 25,
+      "seed": 1262406962,
+      "text": "A detachable audio cable is included with the headphones.",
+      "raw": "A detachable audio cable is included with the headphones.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-008:026",
+      "parent_id": "dev-product-008",
+      "attempt": 26,
+      "seed": 1650755343,
+      "text": "The headphones feature an interchangeable audio cord.",
+      "raw": "The headphones feature an interchangeable audio cord.",
+      "generated_tokens": 9,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-008:027",
+      "parent_id": "dev-product-008",
+      "attempt": 27,
+      "seed": 929905153,
+      "text": "The headphones come with an audio cable that can be detached.",
+      "raw": "The headphones come with an audio cable that can be detached.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-008:028",
+      "parent_id": "dev-product-008",
+      "attempt": 28,
+      "seed": 2488993986,
+      "text": "The headphones feature a removable audio cord.",
+      "raw": "The headphones feature a removable audio cord.",
+      "generated_tokens": 9,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-008:029",
+      "parent_id": "dev-product-008",
+      "attempt": 29,
+      "seed": 3878454649,
+      "text": "A detachable audio cable is included in the headphones.",
+      "raw": "A detachable audio cable is included in the headphones.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-008:030",
+      "parent_id": "dev-product-008",
+      "attempt": 30,
+      "seed": 443504561,
+      "text": "The headphones feature a detachable audio cable included.",
+      "raw": "The headphones feature a detachable audio cable included.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-008:031",
+      "parent_id": "dev-product-008",
+      "attempt": 31,
+      "seed": 2939815658,
+      "text": "The headphones feature a detachable audio cable.",
+      "raw": "The headphones feature a detachable audio cable.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    }
+  ],
+  "generated_tokens": 341,
+  "generation_seconds": 5.975735038984567
+}

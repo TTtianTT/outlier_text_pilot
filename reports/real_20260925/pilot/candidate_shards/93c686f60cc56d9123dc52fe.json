@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "test-product-013",
+    "group_id": "test-product-013",
+    "split": "test",
+    "domain": "product",
+    "text": "This rechargeable light has a battery indicator on the side."
+  },
+  "attempts": [
+    {
+      "candidate_id": "test-product-013:000",
+      "parent_id": "test-product-013",
+      "attempt": 0,
+      "seed": 802795935,
+      "text": "This item includes a battery display at its rear.",
+      "raw": "This item includes a battery display at its rear.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-013:001",
+      "parent_id": "test-product-013",
+      "attempt": 1,
+      "seed": 3016736287,
+      "text": "The rechargeable light features a battery indicator located on the side.",
+      "raw": "The rechargeable light features a battery indicator located on the side.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-013:002",
+      "parent_id": "test-product-013",
+      "attempt": 2,
+      "seed": 2394019431,
+      "text": "This rechargeable flashlight displays its battery level by an indicator located on the side.",
+      "raw": "This rechargeable flashlight displays its battery level by an indicator located on the side.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-013:003",
+      "parent_id": "test-product-013",
+      "attempt": 3,
+      "seed": 1386846459,
+      "text": "This rechargeable flashlight displays its battery level on the side.",
+      "raw": "This rechargeable flashlight displays its battery level on the side.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-013:004",
+      "parent_id": "test-product-013",
+      "attempt": 4,
+      "seed": 1152216634,
+      "text": "This rechargeable flashlight possesses a battery status display positioned along its edge.",
+      "raw": "This rechargeable flashlight possesses a battery status display positioned along its edge.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-013:005",
+      "parent_id": "test-product-013",
+      "attempt": 5,
+      "seed": 2926221537,
+      "text": "The rechargeable light features a battery indicator located on its side.",
+      "raw": "The rechargeable light features a battery indicator located on its side.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-013:006",
+      "parent_id": "test-product-013",
+      "attempt": 6,
+      "seed": 1465723687,
+      "text": "This rechargeable flashlight features a battery level display at its sides.",
+      "raw": "This rechargeable flashlight features a battery level display at its sides.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-013:007",
+      "parent_id": "test-product-013",
+      "attempt": 7,
+      "seed": 3882954419,
+      "text": "This rechargeable light features a battery indicator visible on its side.",
+      "raw": "This rechargeable light features a battery indicator visible on its side.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-013:008",
+      "parent_id": "test-product-013",
+      "attempt": 8,
+      "seed": 3232783207,
+      "text": "This device possesses a battery display near its edge.",
+      "raw": "This device possesses a battery display near its edge.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-013:009",
+      "parent_id": "test-product-013",
+      "attempt": 9,
+      "seed": 1669466789,
+      "text": "The rechargeable light displays its battery level on the side.",
+      "raw": "The rechargeable light displays its battery level on the side.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-013:010",
+      "parent_id": "test-product-013",
+      "attempt": 10,
+      "seed": 1200807684,
+      "text": "This rechargeable flashlight features a built-in battery level display at its rear.",
+      "raw": "This rechargeable flashlight features a built-in battery level display at its rear.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-013:011",
+      "parent_id": "test-product-013",
+      "attempt": 11,
+      "seed": 2473129726,
+      "text": "The rechargeable light features a battery indicator located at its side.",
+      "raw": "The rechargeable light features a battery indicator located at its side.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-013:012",
+      "parent_id": "test-product-013",
+      "attempt": 12,
+      "seed": 2918246176,
+      "text": "This rechargeable light features a battery level display at its rear.",
+      "raw": "This rechargeable light features a battery level display at its rear.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-013:013",
+      "parent_id": "test-product-013",
+      "attempt": 13,
+      "seed": 1310701925,
+      "text": "A battery indicator shows up on this rechargeable light's side.",
+      "raw": "A battery indicator shows up on this rechargeable light's side.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-013:014",
+      "parent_id": "test-product-013",
+      "attempt": 14,
+      "seed": 3649815701,
+      "text": "The rechargeable light contains a battery display located at its rear.",
+      "raw": "The rechargeable light contains a battery display located at its rear.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-013:015",
+      "parent_id": "test-product-013",
+      "attempt": 15,
+      "seed": 3919845193,
+      "text": "This rechargeable lamp possesses an auxiliary display panel situated along its lateral facet.",
+      "raw": "This rechargeable lamp possesses an auxiliary display panel situated along its lateral facet.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-013:016",
+      "parent_id": "test-product-013",
+      "attempt": 16,
+      "seed": 651836272,
+      "text": "This portable light contains a status lamp at its rear.",
+      "raw": "This portable light contains a status lamp at its rear.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-013:017",
+      "parent_id": "test-product-013",
+      "attempt": 17,
+      "seed": 2114486807,
+      "text": "There is a battery indicator located on the side of this rechargeable light.",
+      "raw": "There is a battery indicator located on the side of this rechargeable light.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-013:018",
+      "parent_id": "test-product-013",
+      "attempt": 18,
+      "seed": 3863855406,
+      "text": "This device includes a battery level display at its rear.",
+      "raw": "This device includes a battery level display at its rear.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-013:019",
+      "parent_id": "test-product-013",
+      "attempt": 19,
+      "seed": 2326692957,
+      "text": "The rechargeable flashlight displays its battery level on the back.",
+      "raw": "The rechargeable flashlight displays its battery level on the back.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-013:020",
+      "parent_id": "test-product-013",
+      "attempt": 20,
+      "seed": 2221374728,
+      "text": "This rechargable flashlight possesses a battery gauge on its rear panel.",
+      "raw": "This rechargable flashlight possesses a battery gauge on its rear panel.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-013:021",
+      "parent_id": "test-product-013",
+      "attempt": 21,
+      "seed": 3026220851,
+      "text": "The rechargeable light features a battery indicator located on its side.",
+      "raw": "The rechargeable light features a battery indicator located on its side.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-013:022",
+      "parent_id": "test-product-013",
+      "attempt": 22,
+      "seed": 3008965350,
+      "text": "This rechargeable flashlight features a battery level display at its rear.",
+      "raw": "This rechargeable flashlight features a battery level display at its rear.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-013:023",
+      "parent_id": "test-product-013",
+      "attempt": 23,
+      "seed": 3693976477,
+      "text": "This rechargeable flashlight features a status display on its side.",
+      "raw": "This rechargeable flashlight features a status display on its side.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-013:024",
+      "parent_id": "test-product-013",
+      "attempt": 24,
+      "seed": 3130144013,
+      "text": "This rechargable light features a battery presence indication near its edges.",
+      "raw": "This rechargable light features a battery presence indication near its edges.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-013:025",
+      "parent_id": "test-product-013",
+      "attempt": 25,
+      "seed": 1790290461,
+      "text": "The rechargeable light features a battery indicator located on the side.",
+      "raw": "The rechargeable light features a battery indicator located on the side.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-013:026",
+      "parent_id": "test-product-013",
+      "attempt": 26,
+      "seed": 4147314547,
+      "text": "This device features a battery indicator on its side.",
+      "raw": "This device features a battery indicator on its side.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-013:027",
+      "parent_id": "test-product-013",
+      "attempt": 27,
+      "seed": 1545584060,
+      "text": "This rechargeable light displays its battery level by an indicator located on the side.",
+      "raw": "This rechargeable light displays its battery level by an indicator located on the side.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-013:028",
+      "parent_id": "test-product-013",
+      "attempt": 28,
+      "seed": 2774662059,
+      "text": "This rechargeable flashlight possesses an auxiliary illumination display positioned towards the rear.",
+      "raw": "This rechargeable flashlight possesses an auxiliary illumination display positioned towards the rear.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-013:029",
+      "parent_id": "test-product-013",
+      "attempt": 29,
+      "seed": 364126162,
+      "text": "The rechargeable light includes a battery indicator located on the side.",
+      "raw": "The rechargeable light includes a battery indicator located on the side.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-013:030",
+      "parent_id": "test-product-013",
+      "attempt": 30,
+      "seed": 502268091,
+      "text": "This portable lamp displays its battery level near the back.",
+      "raw": "This portable lamp displays its battery level near the back.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-013:031",
+      "parent_id": "test-product-013",
+      "attempt": 31,
+      "seed": 3263616448,
+      "text": "The rechargeable light features a battery indicator located on its side.",
+      "raw": "The rechargeable light features a battery indicator located on its side.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    }
+  ],
+  "generated_tokens": 445,
+  "generation_seconds": 7.829582768958062
+}

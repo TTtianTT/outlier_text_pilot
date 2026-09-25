@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "test-product-003",
+    "group_id": "test-product-003",
+    "split": "test",
+    "domain": "product",
+    "text": "The watch strap can be replaced without removing the battery."
+  },
+  "attempts": [
+    {
+      "candidate_id": "test-product-003:000",
+      "parent_id": "test-product-003",
+      "attempt": 0,
+      "seed": 2156890152,
+      "text": "The watch band may be substituted without disassembling the battery.",
+      "raw": "The watch band may be substituted without disassembling the battery.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-003:001",
+      "parent_id": "test-product-003",
+      "attempt": 1,
+      "seed": 1728731216,
+      "text": "Without removing the battery, the watch strap can be easily replaced.",
+      "raw": "Without removing the battery, the watch strap can be easily replaced.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-003:002",
+      "parent_id": "test-product-003",
+      "attempt": 2,
+      "seed": 3237281393,
+      "text": "Replace the watch strap without taking off the battery.",
+      "raw": "Replace the watch strap without taking off the battery.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-003:003",
+      "parent_id": "test-product-003",
+      "attempt": 3,
+      "seed": 899367839,
+      "text": "The watch strap can be changed without taking off the battery.",
+      "raw": "The watch strap can be changed without taking off the battery.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-003:004",
+      "parent_id": "test-product-003",
+      "attempt": 4,
+      "seed": 3108010827,
+      "text": "The watch band can be changed without needing to take off the battery.",
+      "raw": "The watch band can be changed without needing to take off the battery.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-003:005",
+      "parent_id": "test-product-003",
+      "attempt": 5,
+      "seed": 3648668519,
+      "text": "Without removing the battery, the watch strap can be easily changed.",
+      "raw": "Without removing the battery, the watch strap can be easily changed.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-003:006",
+      "parent_id": "test-product-003",
+      "attempt": 6,
+      "seed": 4016644050,
+      "text": "The watch strap can be changed without taking off the battery.",
+      "raw": "The watch strap can be changed without taking off the battery.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-003:007",
+      "parent_id": "test-product-003",
+      "attempt": 7,
+      "seed": 1953903763,
+      "text": "The watch strap can be changed without taking out the battery.",
+      "raw": "The watch strap can be changed without taking out the battery.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-003:008",
+      "parent_id": "test-product-003",
+      "attempt": 8,
+      "seed": 106751340,
+      "text": "The watch band may be substituted without disconnection of the battery.",
+      "raw": "The watch band may be substituted without disconnection of the battery.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-003:009",
+      "parent_id": "test-product-003",
+      "attempt": 9,
+      "seed": 3279941929,
+      "text": "Without removing the battery, the watch strap can be changed.",
+      "raw": "Without removing the battery, the watch strap can be changed.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-003:010",
+      "parent_id": "test-product-003",
+      "attempt": 10,
+      "seed": 1630749236,
+      "text": "Replace the watch strap without taking off the battery.",
+      "raw": "Replace the watch strap without taking off the battery.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-003:011",
+      "parent_id": "test-product-003",
+      "attempt": 11,
+      "seed": 2608885818,
+      "text": "A replacement for the watch strap doesn't necessitate battery removal.",
+      "raw": "A replacement for the watch strap doesn't necessitate battery removal.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-003:012",
+      "parent_id": "test-product-003",
+      "attempt": 12,
+      "seed": 1939879538,
+      "text": "Replace the watch strap without dismounting the battery.",
+      "raw": "Replace the watch strap without dismounting the battery.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-003:013",
+      "parent_id": "test-product-003",
+      "attempt": 13,
+      "seed": 1059933463,
+      "text": "The watch strap can be replaced by not removing the battery.",
+      "raw": "The watch strap can be replaced by not removing the battery.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-003:014",
+      "parent_id": "test-product-003",
+      "attempt": 14,
+      "seed": 2165943474,
+      "text": "The watch strap may be substituted without needing to disengage the battery.",
+      "raw": "The watch strap may be substituted without needing to disengage the battery.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-003:015",
+      "parent_id": "test-product-003",
+      "attempt": 15,
+      "seed": 1768633579,
+      "text": "You may change the watch strap without taking off the battery.",
+      "raw": "You may change the watch strap without taking off the battery.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-003:016",
+      "parent_id": "test-product-003",
+      "attempt": 16,
+      "seed": 386312294,
+      "text": "The watch band may be changed without taking out the battery.",
+      "raw": "The watch band may be changed without taking out the battery.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-003:017",
+      "parent_id": "test-product-003",
+      "attempt": 17,
+      "seed": 908618606,
+      "text": "Without removing the battery, the watch strap can be easily replaced.",
+      "raw": "Without removing the battery, the watch strap can be easily replaced.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-003:018",
+      "parent_id": "test-product-003",
+      "attempt": 18,
+      "seed": 2620829595,
+      "text": "The watch band is replaceable without taking out the battery.",
+      "raw": "The watch band is replaceable without taking out the battery.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-003:019",
+      "parent_id": "test-product-003",
+      "attempt": 19,
+      "seed": 1629653812,
+      "text": "The watch strap can be replaced without taking out the battery.",
+      "raw": "The watch strap can be replaced without taking out the battery.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-003:020",
+      "parent_id": "test-product-003",
+      "attempt": 20,
+      "seed": 1879563125,
+      "text": "The watchband can be changed without needing to detach the battery.",
+      "raw": "The watchband can be changed without needing to detach the battery.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-003:021",
+      "parent_id": "test-product-003",
+      "attempt": 21,
+      "seed": 4264062124,
+      "text": "The strap of the watch can be changed without taking off the battery.",
+      "raw": "The strap of the watch can be changed without taking off the battery.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-003:022",
+      "parent_id": "test-product-003",
+      "attempt": 22,
+      "seed": 4258992494,
+      "text": "The watch band may be changed without taking off the battery.",
+      "raw": "The watch band may be changed without taking off the battery.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-003:023",
+      "parent_id": "test-product-003",
+      "attempt": 23,
+      "seed": 838593197,
+      "text": "The watch strap can be changed without taking off the battery.",
+      "raw": "The watch strap can be changed without taking off the battery.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-003:024",
+      "parent_id": "test-product-003",
+      "attempt": 24,
+      "seed": 2020540962,
+      "text": "The watch band can be swapped without taking off the power source.",
+      "raw": "The watch band can be swapped without taking off the power source.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-003:025",
+      "parent_id": "test-product-003",
+      "attempt": 25,
+      "seed": 649071740,
+      "text": "Without removing the battery, the watch strap can be easily replaced.",
+      "raw": "Without removing the battery, the watch strap can be easily replaced.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-003:026",
+      "parent_id": "test-product-003",
+      "attempt": 26,
+      "seed": 1655597970,
+      "text": "The watch strap can be changed without taking out the battery.",
+      "raw": "The watch strap can be changed without taking out the battery.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-003:027",
+      "parent_id": "test-product-003",
+      "attempt": 27,
+      "seed": 4183659909,
+      "text": "The watch strap can be changed without taking off the battery.",
+      "raw": "The watch strap can be changed without taking off the battery.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-003:028",
+      "parent_id": "test-product-003",
+      "attempt": 28,
+      "seed": 2030839577,
+      "text": "A strap on the watch may be changed without taking out the power source.",
+      "raw": "A strap on the watch may be changed without taking out the power source.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-003:029",
+      "parent_id": "test-product-003",
+      "attempt": 29,
+      "seed": 2270410129,
+      "text": "You can replace the watch strap by not taking off the battery.",
+      "raw": "You can replace the watch strap by not taking off the battery.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-003:030",
+      "parent_id": "test-product-003",
+      "attempt": 30,
+      "seed": 941142734,
+      "text": "The watch strap can be changed without taking off the battery.",
+      "raw": "The watch strap can be changed without taking off the battery.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-003:031",
+      "parent_id": "test-product-003",
+      "attempt": 31,
+      "seed": 4214967619,
+      "text": "You may replace the watch strap without taking off the battery.",
+      "raw": "You may replace the watch strap without taking off the battery.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 430,
+  "generation_seconds": 7.561050523072481
+}

@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "ood-science-009",
+    "group_id": "ood-science-009",
+    "split": "ood",
+    "domain": "science",
+    "text": "Water expands when it freezes under ordinary conditions."
+  },
+  "attempts": [
+    {
+      "candidate_id": "ood-science-009:000",
+      "parent_id": "ood-science-009",
+      "attempt": 0,
+      "seed": 2616732795,
+      "text": "Water increases in volume upon freezing at normal temperatures.",
+      "raw": "Water increases in volume upon freezing at normal temperatures.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-009:001",
+      "parent_id": "ood-science-009",
+      "attempt": 1,
+      "seed": 2134762134,
+      "text": "Under normal circumstances, water contracts upon freezing.",
+      "raw": "Under normal circumstances, water contracts upon freezing.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-009:002",
+      "parent_id": "ood-science-009",
+      "attempt": 2,
+      "seed": 3052349170,
+      "text": "Water typically increases in volume as it turns to ice at room temperature.",
+      "raw": "Water typically increases in volume as it turns to ice at room temperature.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-009:003",
+      "parent_id": "ood-science-009",
+      "attempt": 3,
+      "seed": 1463597599,
+      "text": "Water increases in volume when it turns into ice normally.",
+      "raw": "Water increases in volume when it turns into ice normally.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-009:004",
+      "parent_id": "ood-science-009",
+      "attempt": 4,
+      "seed": 1417760540,
+      "text": "Water increases volume upon freezing at typical temperatures.",
+      "raw": "Water increases volume upon freezing at typical temperatures.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-009:005",
+      "parent_id": "ood-science-009",
+      "attempt": 5,
+      "seed": 1597511926,
+      "text": "Under ordinary conditions, water expands when it freezes.",
+      "raw": "Under ordinary conditions, water expands when it freezes.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-009:006",
+      "parent_id": "ood-science-009",
+      "attempt": 6,
+      "seed": 2475295994,
+      "text": "Water usually increases in volume upon freezing at room temperature.",
+      "raw": "Water usually increases in volume upon freezing at room temperature.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-009:007",
+      "parent_id": "ood-science-009",
+      "attempt": 7,
+      "seed": 3826577469,
+      "text": "Water increases in volume as it turns to ice.",
+      "raw": "Water increases in volume as it turns to ice.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-009:008",
+      "parent_id": "ood-science-009",
+      "attempt": 8,
+      "seed": 1828286752,
+      "text": "Water typically increases in volume upon freezing at room temperature.",
+      "raw": "Water typically increases in volume upon freezing at room temperature.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-009:009",
+      "parent_id": "ood-science-009",
+      "attempt": 9,
+      "seed": 3809129936,
+      "text": "Under normal circumstances, water increases in volume upon freezing.",
+      "raw": "Under normal circumstances, water increases in volume upon freezing.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-009:010",
+      "parent_id": "ood-science-009",
+      "attempt": 10,
+      "seed": 3649729713,
+      "text": "Water becomes less dense when it turns to ice in normal circumstances.",
+      "raw": "Water becomes less dense when it turns to ice in normal circumstances.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-009:011",
+      "parent_id": "ood-science-009",
+      "attempt": 11,
+      "seed": 4194095556,
+      "text": "Water increases in volume when freezing at room temperature.",
+      "raw": "Water increases in volume when freezing at room temperature.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-009:012",
+      "parent_id": "ood-science-009",
+      "attempt": 12,
+      "seed": 1575730775,
+      "text": "Water contracts when freezing at normal temperatures.",
+      "raw": "Water contracts when freezing at normal temperatures.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-009:013",
+      "parent_id": "ood-science-009",
+      "attempt": 13,
+      "seed": 3564928736,
+      "text": "Under normal circumstances, water increases in volume upon freezing.",
+      "raw": "Under normal circumstances, water increases in volume upon freezing.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-009:014",
+      "parent_id": "ood-science-009",
+      "attempt": 14,
+      "seed": 277910010,
+      "text": "Water typically increases in volume when it turns to ice at room temperature.",
+      "raw": "Water typically increases in volume when it turns to ice at room temperature.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-009:015",
+      "parent_id": "ood-science-009",
+      "attempt": 15,
+      "seed": 2057762044,
+      "text": "Water increases in volume upon freezing at standard temperatures.",
+      "raw": "Water increases in volume upon freezing at standard temperatures.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-009:016",
+      "parent_id": "ood-science-009",
+      "attempt": 16,
+      "seed": 272248243,
+      "text": "Water increases in volume upon freezing at normal temperatures.",
+      "raw": "Water increases in volume upon freezing at normal temperatures.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-009:017",
+      "parent_id": "ood-science-009",
+      "attempt": 17,
+      "seed": 969292886,
+      "text": "Under normal circumstances, water contracts as it freezes.",
+      "raw": "Under normal circumstances, water contracts as it freezes.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-009:018",
+      "parent_id": "ood-science-009",
+      "attempt": 18,
+      "seed": 1500974708,
+      "text": "Water increases in volume upon freezing under normal circumstances.",
+      "raw": "Water increases in volume upon freezing under normal circumstances.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-009:019",
+      "parent_id": "ood-science-009",
+      "attempt": 19,
+      "seed": 4116877091,
+      "text": "Water increases in volume when it freezes at normal temperatures.",
+      "raw": "Water increases in volume when it freezes at normal temperatures.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-009:020",
+      "parent_id": "ood-science-009",
+      "attempt": 20,
+      "seed": 1546856856,
+      "text": "Water increases in volume upon freezing at standard temperatures.",
+      "raw": "Water increases in volume upon freezing at standard temperatures.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-009:021",
+      "parent_id": "ood-science-009",
+      "attempt": 21,
+      "seed": 1048391776,
+      "text": "Under normal circumstances, water increases in volume upon freezing.",
+      "raw": "Under normal circumstances, water increases in volume upon freezing.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-009:022",
+      "parent_id": "ood-science-009",
+      "attempt": 22,
+      "seed": 3093390585,
+      "text": "Water increases in volume when it turns to ice at normal temperatures.",
+      "raw": "Water increases in volume when it turns to ice at normal temperatures.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-009:023",
+      "parent_id": "ood-science-009",
+      "attempt": 23,
+      "seed": 650123392,
+      "text": "Water increases in volume upon freezing at room temperature.",
+      "raw": "Water increases in volume upon freezing at room temperature.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-009:024",
+      "parent_id": "ood-science-009",
+      "attempt": 24,
+      "seed": 4112734558,
+      "text": "Water increases in volume upon freezing at room temperature.",
+      "raw": "Water increases in volume upon freezing at room temperature.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-009:025",
+      "parent_id": "ood-science-009",
+      "attempt": 25,
+      "seed": 883085663,
+      "text": "Under normal circumstances, water contracts when freezing.",
+      "raw": "Under normal circumstances, water contracts when freezing.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-009:026",
+      "parent_id": "ood-science-009",
+      "attempt": 26,
+      "seed": 796832301,
+      "text": "Water typically contracts upon freezing at room temperature.",
+      "raw": "Water typically contracts upon freezing at room temperature.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-009:027",
+      "parent_id": "ood-science-009",
+      "attempt": 27,
+      "seed": 4203732794,
+      "text": "Water increases in volume when freezing at normal temperatures.",
+      "raw": "Water increases in volume when freezing at normal temperatures.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-009:028",
+      "parent_id": "ood-science-009",
+      "attempt": 28,
+      "seed": 4268056711,
+      "text": "Water becomes less dense when freezing in normal circumstances.",
+      "raw": "Water becomes less dense when freezing in normal circumstances.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-009:029",
+      "parent_id": "ood-science-009",
+      "attempt": 29,
+      "seed": 3017701147,
+      "text": "Under normal circumstances, water increases in volume upon freezing.",
+      "raw": "Under normal circumstances, water increases in volume upon freezing.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-009:030",
+      "parent_id": "ood-science-009",
+      "attempt": 30,
+      "seed": 4008150777,
+      "text": "Water typically increases in volume as it turns to ice at room temperature.",
+      "raw": "Water typically increases in volume as it turns to ice at room temperature.",
+      "generated_tokens": 15,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-009:031",
+      "parent_id": "ood-science-009",
+      "attempt": 31,
+      "seed": 691812546,
+      "text": "Water increases in volume upon freezing at normal temperatures.",
+      "raw": "Water increases in volume upon freezing at normal temperatures.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    }
+  ],
+  "generated_tokens": 372,
+  "generation_seconds": 6.522534986026585
+}

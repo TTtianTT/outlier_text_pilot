@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "ood-science-003",
+    "group_id": "ood-science-003",
+    "split": "ood",
+    "domain": "science",
+    "text": "A magnet has a north pole and a south pole."
+  },
+  "attempts": [
+    {
+      "candidate_id": "ood-science-003:000",
+      "parent_id": "ood-science-003",
+      "attempt": 0,
+      "seed": 3685319711,
+      "text": "A magnet exhibits a north and south pole.",
+      "raw": "A magnet exhibits a north and south pole.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-003:001",
+      "parent_id": "ood-science-003",
+      "attempt": 1,
+      "seed": 2942394681,
+      "text": "A north pole and a south pole are found in magnets.",
+      "raw": "A north pole and a south pole are found in magnets.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-003:002",
+      "parent_id": "ood-science-003",
+      "attempt": 2,
+      "seed": 899102614,
+      "text": "A magnet possesses a north pole and a south pole.",
+      "raw": "A magnet possesses a north pole and a south pole.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-003:003",
+      "parent_id": "ood-science-003",
+      "attempt": 3,
+      "seed": 2991133950,
+      "text": "A magnet possesses two poles – a northern and a southern pole.",
+      "raw": "A magnet possesses two poles – a northern and a southern pole.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-003:004",
+      "parent_id": "ood-science-003",
+      "attempt": 4,
+      "seed": 535728766,
+      "text": "A magnet possesses a north pole and a south pole.",
+      "raw": "A magnet possesses a north pole and a south pole.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-003:005",
+      "parent_id": "ood-science-003",
+      "attempt": 5,
+      "seed": 2793435800,
+      "text": "It has two poles; one is north and the other is south.",
+      "raw": "It has two poles; one is north and the other is south.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-003:006",
+      "parent_id": "ood-science-003",
+      "attempt": 6,
+      "seed": 3512357506,
+      "text": "A magnet possesses a north pole and a south pole.",
+      "raw": "A magnet possesses a north pole and a south pole.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-003:007",
+      "parent_id": "ood-science-003",
+      "attempt": 7,
+      "seed": 275075013,
+      "text": "A magnet possesses both a north pole and a south pole.",
+      "raw": "A magnet possesses both a north pole and a south pole.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-003:008",
+      "parent_id": "ood-science-003",
+      "attempt": 8,
+      "seed": 4210450075,
+      "text": "A magnet possesses a north pole and a south pole.",
+      "raw": "A magnet possesses a north pole and a south pole.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-003:009",
+      "parent_id": "ood-science-003",
+      "attempt": 9,
+      "seed": 761250770,
+      "text": "A north pole and a south pole are found in magnets.",
+      "raw": "A north pole and a south pole are found in magnets.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-003:010",
+      "parent_id": "ood-science-003",
+      "attempt": 10,
+      "seed": 2208496474,
+      "text": "A magnet exhibits distinct poles known as its north pole and south pole.",
+      "raw": "A magnet exhibits distinct poles known as its north pole and south pole.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-003:011",
+      "parent_id": "ood-science-003",
+      "attempt": 11,
+      "seed": 4270360687,
+      "text": "A magnet possesses a north pole and a south pole.",
+      "raw": "A magnet possesses a north pole and a south pole.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-003:012",
+      "parent_id": "ood-science-003",
+      "attempt": 12,
+      "seed": 2714569038,
+      "text": "A magnet exhibits a north-seeking terminal and a south-seeking terminal.",
+      "raw": "A magnet exhibits a north-seeking terminal and a south-seeking terminal.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-003:013",
+      "parent_id": "ood-science-003",
+      "attempt": 13,
+      "seed": 1545268332,
+      "text": "A magnet possesses two poles - a north pole and a south pole.",
+      "raw": "A magnet possesses two poles - a north pole and a south pole.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-003:014",
+      "parent_id": "ood-science-003",
+      "attempt": 14,
+      "seed": 1769622353,
+      "text": "A magnet possesses a northern magnetic pole and a southern magnetic pole.",
+      "raw": "A magnet possesses a northern magnetic pole and a southern magnetic pole.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-003:015",
+      "parent_id": "ood-science-003",
+      "attempt": 15,
+      "seed": 1879187952,
+      "text": "Magnet possesses north and south poles.",
+      "raw": "Magnet possesses north and south poles.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-003:016",
+      "parent_id": "ood-science-003",
+      "attempt": 16,
+      "seed": 194112683,
+      "text": "A magnet exhibits a north and south pole.",
+      "raw": "A magnet exhibits a north and south pole.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-003:017",
+      "parent_id": "ood-science-003",
+      "attempt": 17,
+      "seed": 3837615873,
+      "text": "A magnet exhibits a north pole and a south pole.",
+      "raw": "A magnet exhibits a north pole and a south pole.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-003:018",
+      "parent_id": "ood-science-003",
+      "attempt": 18,
+      "seed": 2877348657,
+      "text": "A magnet possesses two poles - a north pole and a south pole.",
+      "raw": "A magnet possesses two poles - a north pole and a south pole.",
+      "generated_tokens": 15,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-003:019",
+      "parent_id": "ood-science-003",
+      "attempt": 19,
+      "seed": 1659871231,
+      "text": "A magnet possesses both a north pole and a south pole.",
+      "raw": "A magnet possesses both a north pole and a south pole.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-003:020",
+      "parent_id": "ood-science-003",
+      "attempt": 20,
+      "seed": 1884623178,
+      "text": "A magnet possesses two poles: the north pole and the south pole.",
+      "raw": "A magnet possesses two poles: the north pole and the south pole.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-003:021",
+      "parent_id": "ood-science-003",
+      "attempt": 21,
+      "seed": 1576281048,
+      "text": "A magnet possesses a north pole and a south pole.",
+      "raw": "A magnet possesses a north pole and a south pole.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-003:022",
+      "parent_id": "ood-science-003",
+      "attempt": 22,
+      "seed": 936993038,
+      "text": "A magnet possesses a northern polarity and an southern polarity.",
+      "raw": "A magnet possesses a northern polarity and an southern polarity.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-003:023",
+      "parent_id": "ood-science-003",
+      "attempt": 23,
+      "seed": 4116525702,
+      "text": "Magnetic objects have a north and south pole.",
+      "raw": "Magnetic objects have a north and south pole.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-003:024",
+      "parent_id": "ood-science-003",
+      "attempt": 24,
+      "seed": 3169587436,
+      "text": "A magnet possesses a north pole and a south pole.",
+      "raw": "A magnet possesses a north pole and a south pole.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-003:025",
+      "parent_id": "ood-science-003",
+      "attempt": 25,
+      "seed": 1609148378,
+      "text": "A magnet possesses two poles - a north pole and a south pole.",
+      "raw": "A magnet possesses two poles - a north pole and a south pole.",
+      "generated_tokens": 15,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-003:026",
+      "parent_id": "ood-science-003",
+      "attempt": 26,
+      "seed": 1876735517,
+      "text": "A magnet possesses two poles - a north pole and a south pole.",
+      "raw": "A magnet possesses two poles - a north pole and a south pole.",
+      "generated_tokens": 15,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-003:027",
+      "parent_id": "ood-science-003",
+      "attempt": 27,
+      "seed": 2645346361,
+      "text": "A magnet possesses a north and south pole.",
+      "raw": "A magnet possesses a north and south pole.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-003:028",
+      "parent_id": "ood-science-003",
+      "attempt": 28,
+      "seed": 1099621337,
+      "text": "A magnet possesses opposite poles: a north pole and a south pole.",
+      "raw": "A magnet possesses opposite poles: a north pole and a south pole.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-003:029",
+      "parent_id": "ood-science-003",
+      "attempt": 29,
+      "seed": 3152611638,
+      "text": "A magnet features poles that are either north or south.",
+      "raw": "A magnet features poles that are either north or south.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-003:030",
+      "parent_id": "ood-science-003",
+      "attempt": 30,
+      "seed": 2617121915,
+      "text": "A magnet possesses two poles: a north pole and a south pole.",
+      "raw": "A magnet possesses two poles: a north pole and a south pole.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-003:031",
+      "parent_id": "ood-science-003",
+      "attempt": 31,
+      "seed": 3168746774,
+      "text": "A magnet exhibits a north and south pole.",
+      "raw": "A magnet exhibits a north and south pole.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    }
+  ],
+  "generated_tokens": 409,
+  "generation_seconds": 7.206132994964719
+}

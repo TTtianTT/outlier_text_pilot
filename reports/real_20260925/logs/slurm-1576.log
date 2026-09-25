@@ -1,0 +1,323 @@
+Fri Sep 25 14:49:58 2026       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 595.71.05              Driver Version: 595.71.05      CUDA Version: 13.2     |
++-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  NVIDIA RTX PRO 6000 Blac...    On  |   00000000:01:00.0 Off |                    0 |
+| N/A   23C    P8             33W /  600W |       0MiB /  97887MiB |      0%   E. Process |
+|                                         |                        |             Disabled |
++-----------------------------------------+------------------------+----------------------+
+
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|  No running processes found                                                             |
++-----------------------------------------------------------------------------------------+
+test_aead_and_wrong_key (test_core.CodecTests.test_aead_and_wrong_key) ... ok
+test_injected_target_field_and_missing_block_rejected (test_core.CodecTests.test_injected_target_field_and_missing_block_rejected) ... ok
+test_keygen_refuses_overwrite (test_core.CodecTests.test_keygen_refuses_overwrite) ... ok
+test_profile_tampering_rejected (test_core.CodecTests.test_profile_tampering_rejected) ... ok
+test_raw_decode_in_isolated_receiver_without_sender_cache (test_core.CodecTests.test_raw_decode_in_isolated_receiver_without_sender_cache) ... ok
+test_selection_failure_writes_no_successful_packet (test_core.CodecTests.test_selection_failure_writes_no_successful_packet) ... ok
+test_bit_packing_all_widths (test_core.ReadoutTests.test_bit_packing_all_widths) ... ok
+test_finite_pool_distribution_and_aborts (test_core.ReadoutTests.test_finite_pool_distribution_and_aborts) ... ok
+test_key_nonce_block_separation_and_margin (test_core.ReadoutTests.test_key_nonce_block_separation_and_margin) ... ok
+test_nonzero_padding_is_rejected (test_core.ReadoutTests.test_nonzero_padding_is_rejected) ... ok
+test_bootstrap_preserves_parent_pairing (test_core.SelectionTests.test_bootstrap_preserves_parent_pairing) ... ok
+test_matching_is_equal_budget_and_can_fail (test_core.SelectionTests.test_matching_is_equal_budget_and_can_fail) ... ok
+test_test_data_cannot_fit_nuisance_model (test_core.SelectionTests.test_test_data_cannot_fit_nuisance_model) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 0.075s
+
+OK
+`torch_dtype` is deprecated! Use `dtype` instead!
+`torch_dtype` is deprecated! Use `dtype` instead!
+saved 302 candidate features; calibration uses 4 dev parents only
+report: runs/real_20260925/smoke/report.md
+`torch_dtype` is deprecated! Use `dtype` instead!
+{
+  "status": "no_candidates",
+  "backend": "hf",
+  "fresh_text_forwards": 0,
+  "bits_checked": 0,
+  "bit_errors": 0,
+  "ber": null,
+  "sender_guarded_bits": 0,
+  "sender_guarded_bit_errors": 0,
+  "receiver_guard_rejections": 0,
+  "max_feature_l2_drift": 0.0,
+  "warning": "Same runtime only; this does not establish cross-device or edited-text reliability."
+}
+Smoke readout did not pass; status retained in readout_verification.json.
+`torch_dtype` is deprecated! Use `dtype` instead!
+generate 1/90 dev-daily-000: 21 unique
+generate 2/90 dev-daily-001: 29 unique
+generate 3/90 dev-daily-002: 29 unique
+generate 4/90 dev-daily-003: 29 unique
+generate 5/90 dev-daily-004: 29 unique
+generate 6/90 dev-daily-005: 30 unique
+generate 7/90 dev-daily-006: 23 unique
+generate 8/90 dev-daily-007: 29 unique
+generate 9/90 dev-daily-008: 32 unique
+generate 10/90 dev-daily-009: 21 unique
+generate 11/90 dev-daily-010: 22 unique
+generate 12/90 dev-daily-011: 15 unique
+generate 13/90 dev-daily-012: 28 unique
+generate 14/90 dev-daily-013: 22 unique
+generate 15/90 dev-daily-014: 24 unique
+generate 16/90 dev-product-000: 28 unique
+generate 17/90 dev-product-001: 27 unique
+generate 18/90 dev-product-002: 26 unique
+generate 19/90 dev-product-003: 28 unique
+generate 20/90 dev-product-004: 32 unique
+generate 21/90 dev-product-005: 29 unique
+generate 22/90 dev-product-006: 21 unique
+generate 23/90 dev-product-007: 30 unique
+generate 24/90 dev-product-008: 20 unique
+generate 25/90 dev-product-009: 30 unique
+generate 26/90 dev-product-010: 27 unique
+generate 27/90 dev-product-011: 18 unique
+generate 28/90 dev-product-012: 29 unique
+generate 29/90 dev-product-013: 30 unique
+generate 30/90 dev-product-014: 23 unique
+generate 31/90 test-daily-000: 14 unique
+generate 32/90 test-daily-001: 23 unique
+generate 33/90 test-daily-002: 27 unique
+generate 34/90 test-daily-003: 30 unique
+generate 35/90 test-daily-004: 32 unique
+generate 36/90 test-daily-005: 23 unique
+generate 37/90 test-daily-006: 16 unique
+generate 38/90 test-daily-007: 29 unique
+generate 39/90 test-daily-008: 28 unique
+generate 40/90 test-daily-009: 28 unique
+generate 41/90 test-daily-010: 20 unique
+generate 42/90 test-daily-011: 20 unique
+generate 43/90 test-daily-012: 28 unique
+generate 44/90 test-daily-013: 21 unique
+generate 45/90 test-daily-014: 13 unique
+generate 46/90 test-product-000: 19 unique
+generate 47/90 test-product-001: 29 unique
+generate 48/90 test-product-002: 27 unique
+generate 49/90 test-product-003: 24 unique
+generate 50/90 test-product-004: 26 unique
+generate 51/90 test-product-005: 11 unique
+generate 52/90 test-product-006: 26 unique
+generate 53/90 test-product-007: 21 unique
+generate 54/90 test-product-008: 19 unique
+generate 55/90 test-product-009: 21 unique
+generate 56/90 test-product-010: 27 unique
+generate 57/90 test-product-011: 24 unique
+generate 58/90 test-product-012: 27 unique
+generate 59/90 test-product-013: 29 unique
+generate 60/90 test-product-014: 31 unique
+generate 61/90 ood-science-000: 21 unique
+generate 62/90 ood-science-001: 27 unique
+generate 63/90 ood-science-002: 29 unique
+generate 64/90 ood-science-003: 19 unique
+generate 65/90 ood-science-004: 25 unique
+generate 66/90 ood-science-005: 20 unique
+generate 67/90 ood-science-006: 16 unique
+generate 68/90 ood-science-007: 22 unique
+generate 69/90 ood-science-008: 15 unique
+generate 70/90 ood-science-009: 24 unique
+generate 71/90 ood-science-010: 29 unique
+generate 72/90 ood-science-011: 26 unique
+generate 73/90 ood-science-012: 29 unique
+generate 74/90 ood-science-013: 27 unique
+generate 75/90 ood-science-014: 28 unique
+generate 76/90 ood-science-015: 27 unique
+generate 77/90 ood-science-016: 16 unique
+generate 78/90 ood-science-017: 16 unique
+generate 79/90 ood-science-018: 27 unique
+generate 80/90 ood-science-019: 13 unique
+generate 81/90 ood-science-020: 23 unique
+generate 82/90 ood-science-021: 31 unique
+generate 83/90 ood-science-022: 27 unique
+generate 84/90 ood-science-023: 30 unique
+generate 85/90 ood-science-024: 21 unique
+generate 86/90 ood-science-025: 29 unique
+generate 87/90 ood-science-026: 29 unique
+generate 88/90 ood-science-027: 29 unique
+generate 89/90 ood-science-028: 32 unique
+generate 90/90 ood-science-029: 29 unique
+features 1/90 dev-daily-000
+features 2/90 dev-daily-001
+features 3/90 dev-daily-002
+features 4/90 dev-daily-003
+features 5/90 dev-daily-004
+features 6/90 dev-daily-005
+features 7/90 dev-daily-006
+features 8/90 dev-daily-007
+features 9/90 dev-daily-008
+features 10/90 dev-daily-009
+features 11/90 dev-daily-010
+features 12/90 dev-daily-011
+features 13/90 dev-daily-012
+features 14/90 dev-daily-013
+features 15/90 dev-daily-014
+features 16/90 dev-product-000
+features 17/90 dev-product-001
+features 18/90 dev-product-002
+features 19/90 dev-product-003
+features 20/90 dev-product-004
+features 21/90 dev-product-005
+features 22/90 dev-product-006
+features 23/90 dev-product-007
+features 24/90 dev-product-008
+features 25/90 dev-product-009
+features 26/90 dev-product-010
+features 27/90 dev-product-011
+features 28/90 dev-product-012
+features 29/90 dev-product-013
+features 30/90 dev-product-014
+features 31/90 test-daily-000
+features 32/90 test-daily-001
+features 33/90 test-daily-002
+features 34/90 test-daily-003
+features 35/90 test-daily-004
+features 36/90 test-daily-005
+features 37/90 test-daily-006
+features 38/90 test-daily-007
+features 39/90 test-daily-008
+features 40/90 test-daily-009
+features 41/90 test-daily-010
+features 42/90 test-daily-011
+features 43/90 test-daily-012
+features 44/90 test-daily-013
+features 45/90 test-daily-014
+features 46/90 test-product-000
+features 47/90 test-product-001
+features 48/90 test-product-002
+features 49/90 test-product-003
+features 50/90 test-product-004
+features 51/90 test-product-005
+features 52/90 test-product-006
+features 53/90 test-product-007
+features 54/90 test-product-008
+features 55/90 test-product-009
+features 56/90 test-product-010
+features 57/90 test-product-011
+features 58/90 test-product-012
+features 59/90 test-product-013
+features 60/90 test-product-014
+features 61/90 ood-science-000
+features 62/90 ood-science-001
+features 63/90 ood-science-002
+features 64/90 ood-science-003
+features 65/90 ood-science-004
+features 66/90 ood-science-005
+features 67/90 ood-science-006
+features 68/90 ood-science-007
+features 69/90 ood-science-008
+features 70/90 ood-science-009
+features 71/90 ood-science-010
+features 72/90 ood-science-011
+features 73/90 ood-science-012
+features 74/90 ood-science-013
+features 75/90 ood-science-014
+features 76/90 ood-science-015
+features 77/90 ood-science-016
+features 78/90 ood-science-017
+features 79/90 ood-science-018
+features 80/90 ood-science-019
+features 81/90 ood-science-020
+features 82/90 ood-science-021
+features 83/90 ood-science-022
+features 84/90 ood-science-023
+features 85/90 ood-science-024
+features 86/90 ood-science-025
+features 87/90 ood-science-026
+features 88/90 ood-science-027
+features 89/90 ood-science-028
+features 90/90 ood-science-029
+saved 2230 candidate features; calibration uses 30 dev parents only
+report: runs/real_20260925/pilot/report.md
+`torch_dtype` is deprecated! Use `dtype` instead!
+{
+  "status": "no_candidates",
+  "backend": "hf",
+  "fresh_text_forwards": 0,
+  "bits_checked": 0,
+  "bit_errors": 0,
+  "ber": null,
+  "sender_guarded_bits": 0,
+  "sender_guarded_bit_errors": 0,
+  "receiver_guard_rejections": 0,
+  "max_feature_l2_drift": 0.0,
+  "warning": "Same runtime only; this does not establish cross-device or edited-text reliability."
+}
+Pilot readout did not pass; status retained in readout_verification.json.
+`torch_dtype` is deprecated! Use `dtype` instead!
+codec trial 1/20
+codec trial 2/20
+codec trial 3/20
+codec trial 4/20
+codec trial 5/20
+codec trial 6/20
+codec trial 7/20
+codec trial 8/20
+codec trial 9/20
+codec trial 10/20
+codec trial 11/20
+codec trial 12/20
+codec trial 13/20
+codec trial 14/20
+codec trial 15/20
+codec trial 16/20
+codec trial 17/20
+codec trial 18/20
+codec trial 19/20
+codec trial 20/20
+[
+  {
+    "method": "outlier",
+    "messages_attempted": 20,
+    "messages_encoded": 0,
+    "messages_recovered": 0,
+    "message_recovery_rate": 0.0,
+    "total_transmitted_wire_tokens": null,
+    "net_recovered_bits_per_wire_token": null,
+    "net_recovered_bits_per_wire_bit": null,
+    "runtime_seconds": 1.962256888160482
+  },
+  {
+    "method": "matched",
+    "messages_attempted": 20,
+    "messages_encoded": 0,
+    "messages_recovered": 0,
+    "message_recovery_rate": 0.0,
+    "total_transmitted_wire_tokens": null,
+    "net_recovered_bits_per_wire_token": null,
+    "net_recovered_bits_per_wire_bit": null,
+    "runtime_seconds": 1.9638995383866131
+  },
+  {
+    "method": "random",
+    "messages_attempted": 20,
+    "messages_encoded": 0,
+    "messages_recovered": 0,
+    "message_recovery_rate": 0.0,
+    "total_transmitted_wire_tokens": null,
+    "net_recovered_bits_per_wire_token": null,
+    "net_recovered_bits_per_wire_bit": null,
+    "runtime_seconds": 1.9309931281022727
+  },
+  {
+    "method": "nearest",
+    "messages_attempted": 20,
+    "messages_encoded": 0,
+    "messages_recovered": 0,
+    "message_recovery_rate": 0.0,
+    "total_transmitted_wire_tokens": null,
+    "net_recovered_bits_per_wire_token": null,
+    "net_recovered_bits_per_wire_bit": null,
+    "runtime_seconds": 1.9530628942884505
+  }
+]
+EXPERIMENT_COMPLETE

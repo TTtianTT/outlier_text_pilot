@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "ood-science-004",
+    "group_id": "ood-science-004",
+    "split": "ood",
+    "domain": "science",
+    "text": "Sound travels through air as changes in pressure."
+  },
+  "attempts": [
+    {
+      "candidate_id": "ood-science-004:000",
+      "parent_id": "ood-science-004",
+      "attempt": 0,
+      "seed": 2852095880,
+      "text": "Sound propagates through air via alterations in pressure.",
+      "raw": "Sound propagates through air via alterations in pressure.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-004:001",
+      "parent_id": "ood-science-004",
+      "attempt": 1,
+      "seed": 2980095162,
+      "text": "Changes in pressure allow sound to travel through air.",
+      "raw": "Changes in pressure allow sound to travel through air.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-004:002",
+      "parent_id": "ood-science-004",
+      "attempt": 2,
+      "seed": 3016945387,
+      "text": "Sound moves through air by altering pressure levels.",
+      "raw": "Sound moves through air by altering pressure levels.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-004:003",
+      "parent_id": "ood-science-004",
+      "attempt": 3,
+      "seed": 1724822057,
+      "text": "Sound moves within air due to variations in pressure.",
+      "raw": "Sound moves within air due to variations in pressure.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-004:004",
+      "parent_id": "ood-science-004",
+      "attempt": 4,
+      "seed": 2519254158,
+      "text": "Sound propagates through air due to variations in pressure.",
+      "raw": "Sound propagates through air due to variations in pressure.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-004:005",
+      "parent_id": "ood-science-004",
+      "attempt": 5,
+      "seed": 4079770503,
+      "text": "As sound, it travels through air due to changes in pressure.",
+      "raw": "As sound, it travels through air due to changes in pressure.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-004:006",
+      "parent_id": "ood-science-004",
+      "attempt": 6,
+      "seed": 997028626,
+      "text": "Sound moves through air due to variations in pressure.",
+      "raw": "Sound moves through air due to variations in pressure.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-004:007",
+      "parent_id": "ood-science-004",
+      "attempt": 7,
+      "seed": 3251624285,
+      "text": "Sound moves by altering air pressure.",
+      "raw": "Sound moves by altering air pressure.",
+      "generated_tokens": 8,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-004:008",
+      "parent_id": "ood-science-004",
+      "attempt": 8,
+      "seed": 3273659181,
+      "text": "Sound moves through air due to fluctuations in pressure.",
+      "raw": "Sound moves through air due to fluctuations in pressure.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-004:009",
+      "parent_id": "ood-science-004",
+      "attempt": 9,
+      "seed": 1148563507,
+      "text": "Changes in pressure cause sound to travel through air.",
+      "raw": "Changes in pressure cause sound to travel through air.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-004:010",
+      "parent_id": "ood-science-004",
+      "attempt": 10,
+      "seed": 2666361682,
+      "text": "Sound moves via air's fluctuations in pressure.",
+      "raw": "Sound moves via air's fluctuations in pressure.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-004:011",
+      "parent_id": "ood-science-004",
+      "attempt": 11,
+      "seed": 3147825192,
+      "text": "Sound moves through air due to variations in air pressure.",
+      "raw": "Sound moves through air due to variations in air pressure.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-004:012",
+      "parent_id": "ood-science-004",
+      "attempt": 12,
+      "seed": 1497514215,
+      "text": "Sound traverses through air due to alterations in pressure.",
+      "raw": "Sound traverses through air due to alterations in pressure.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-004:013",
+      "parent_id": "ood-science-004",
+      "attempt": 13,
+      "seed": 879284880,
+      "text": "Air carries sound when pressure levels vary.",
+      "raw": "Air carries sound when pressure levels vary.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-004:014",
+      "parent_id": "ood-science-004",
+      "attempt": 14,
+      "seed": 2729211402,
+      "text": "Sound propagates through air due to variations in pressure.",
+      "raw": "Sound propagates through air due to variations in pressure.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-004:015",
+      "parent_id": "ood-science-004",
+      "attempt": 15,
+      "seed": 3325622032,
+      "text": "Sound moves through air due to changing pressures.",
+      "raw": "Sound moves through air due to changing pressures.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-004:016",
+      "parent_id": "ood-science-004",
+      "attempt": 16,
+      "seed": 3788066771,
+      "text": "Sound propagates via alterations in atmospheric pressure.",
+      "raw": "Sound propagates via alterations in atmospheric pressure.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-004:017",
+      "parent_id": "ood-science-004",
+      "attempt": 17,
+      "seed": 3879434456,
+      "text": "As changes in pressure, sound travels through air.",
+      "raw": "As changes in pressure, sound travels through air.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-004:018",
+      "parent_id": "ood-science-004",
+      "attempt": 18,
+      "seed": 2444777649,
+      "text": "Sound propagates through air due to variations in pressure.",
+      "raw": "Sound propagates through air due to variations in pressure.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-004:019",
+      "parent_id": "ood-science-004",
+      "attempt": 19,
+      "seed": 1633159671,
+      "text": "Sound propagates via fluctuations in air pressure.",
+      "raw": "Sound propagates via fluctuations in air pressure.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-004:020",
+      "parent_id": "ood-science-004",
+      "attempt": 20,
+      "seed": 2252193384,
+      "text": "Sound propagates through air due to variations in pressure.",
+      "raw": "Sound propagates through air due to variations in pressure.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-004:021",
+      "parent_id": "ood-science-004",
+      "attempt": 21,
+      "seed": 1893914048,
+      "text": "Changes in pressure cause sound to travel through air.",
+      "raw": "Changes in pressure cause sound to travel through air.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-004:022",
+      "parent_id": "ood-science-004",
+      "attempt": 22,
+      "seed": 4292906222,
+      "text": "Air carries sound waves with variations in pressure levels.",
+      "raw": "Air carries sound waves with variations in pressure levels.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-004:023",
+      "parent_id": "ood-science-004",
+      "attempt": 23,
+      "seed": 1968722470,
+      "text": "Sound moves through air when pressure fluctuates.",
+      "raw": "Sound moves through air when pressure fluctuates.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-004:024",
+      "parent_id": "ood-science-004",
+      "attempt": 24,
+      "seed": 2327416306,
+      "text": "Sound passes through air as variations in pressure.",
+      "raw": "Sound passes through air as variations in pressure.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-004:025",
+      "parent_id": "ood-science-004",
+      "attempt": 25,
+      "seed": 1136684465,
+      "text": "Changes in pressure cause sound to travel through air.",
+      "raw": "Changes in pressure cause sound to travel through air.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-004:026",
+      "parent_id": "ood-science-004",
+      "attempt": 26,
+      "seed": 429711779,
+      "text": "Sound moves through air due to variations in pressure.",
+      "raw": "Sound moves through air due to variations in pressure.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-004:027",
+      "parent_id": "ood-science-004",
+      "attempt": 27,
+      "seed": 212029664,
+      "text": "Sound moves through air due to changes in air pressure.",
+      "raw": "Sound moves through air due to changes in air pressure.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-004:028",
+      "parent_id": "ood-science-004",
+      "attempt": 28,
+      "seed": 107796024,
+      "text": "Sound propagates via fluctuations in atmospheric pressure.",
+      "raw": "Sound propagates via fluctuations in atmospheric pressure.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-004:029",
+      "parent_id": "ood-science-004",
+      "attempt": 29,
+      "seed": 3039099414,
+      "text": "Changes in pressure cause sound to travel through air.",
+      "raw": "Changes in pressure cause sound to travel through air.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-004:030",
+      "parent_id": "ood-science-004",
+      "attempt": 30,
+      "seed": 1219117000,
+      "text": "Sound moves across air due to variations in pressure.",
+      "raw": "Sound moves across air due to variations in pressure.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-004:031",
+      "parent_id": "ood-science-004",
+      "attempt": 31,
+      "seed": 1624445948,
+      "text": "Sound moves throughout air due to variations in pressure.",
+      "raw": "Sound moves throughout air due to variations in pressure.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 349,
+  "generation_seconds": 6.152050116099417
+}

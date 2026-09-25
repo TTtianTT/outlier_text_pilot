@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "test-product-004",
+    "group_id": "test-product-004",
+    "split": "test",
+    "domain": "product",
+    "text": "This folder has two pockets for holding loose papers."
+  },
+  "attempts": [
+    {
+      "candidate_id": "test-product-004:000",
+      "parent_id": "test-product-004",
+      "attempt": 0,
+      "seed": 3130764742,
+      "text": "This container accommodates dual compartments dedicated to preserving unbound documents.",
+      "raw": "This container accommodates dual compartments dedicated to preserving unbound documents.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-004:001",
+      "parent_id": "test-product-004",
+      "attempt": 1,
+      "seed": 3495071983,
+      "text": "For holding loose papers, this folder features two pockets.",
+      "raw": "For holding loose papers, this folder features two pockets.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-004:002",
+      "parent_id": "test-product-004",
+      "attempt": 2,
+      "seed": 4280684378,
+      "text": "This folder boasts two compartments designed to accommodate scattered documents.",
+      "raw": "This folder boasts two compartments designed to accommodate scattered documents.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-004:003",
+      "parent_id": "test-product-004",
+      "attempt": 3,
+      "seed": 853129108,
+      "text": "This folder comprises two pouches designed to retain loose documents.",
+      "raw": "This folder comprises two pouches designed to retain loose documents.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-004:004",
+      "parent_id": "test-product-004",
+      "attempt": 4,
+      "seed": 2006084199,
+      "text": "This case features two compartments designed to accommodate scattered documents.",
+      "raw": "This case features two compartments designed to accommodate scattered documents.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-004:005",
+      "parent_id": "test-product-004",
+      "attempt": 5,
+      "seed": 883542713,
+      "text": "For holding loose papers, this folder features two pockets.",
+      "raw": "For holding loose papers, this folder features two pockets.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-004:006",
+      "parent_id": "test-product-004",
+      "attempt": 6,
+      "seed": 2021721523,
+      "text": "This folder comprises two compartments designed to accommodate scattered documents.",
+      "raw": "This folder comprises two compartments designed to accommodate scattered documents.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-004:007",
+      "parent_id": "test-product-004",
+      "attempt": 7,
+      "seed": 507942666,
+      "text": "This folder features two pockets designed to accommodate loose papers.",
+      "raw": "This folder features two pockets designed to accommodate loose papers.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-004:008",
+      "parent_id": "test-product-004",
+      "attempt": 8,
+      "seed": 2672102243,
+      "text": "This file contains two compartments designed to store loose papers.",
+      "raw": "This file contains two compartments designed to store loose papers.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-004:009",
+      "parent_id": "test-product-004",
+      "attempt": 9,
+      "seed": 3380501284,
+      "text": "Two pockets are present in this folder to hold loose papers.",
+      "raw": "Two pockets are present in this folder to hold loose papers.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-004:010",
+      "parent_id": "test-product-004",
+      "attempt": 10,
+      "seed": 2619945963,
+      "text": "This folder features two compartments designed to accommodate scattered documents.",
+      "raw": "This folder features two compartments designed to accommodate scattered documents.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-004:011",
+      "parent_id": "test-product-004",
+      "attempt": 11,
+      "seed": 3789595728,
+      "text": "This folder features two interior compartments designed to accommodate scattered documents.",
+      "raw": "This folder features two interior compartments designed to accommodate scattered documents.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-004:012",
+      "parent_id": "test-product-004",
+      "attempt": 12,
+      "seed": 1467393590,
+      "text": "This container includes two compartments dedicated to accommodating scattered documents.",
+      "raw": "This container includes two compartments dedicated to accommodating scattered documents.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-004:013",
+      "parent_id": "test-product-004",
+      "attempt": 13,
+      "seed": 1290212098,
+      "text": "Two pockets are present in this folder to accommodate loose papers.",
+      "raw": "Two pockets are present in this folder to accommodate loose papers.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-004:014",
+      "parent_id": "test-product-004",
+      "attempt": 14,
+      "seed": 373939950,
+      "text": "This folder features two compartments designed to accommodate loose documents.",
+      "raw": "This folder features two compartments designed to accommodate loose documents.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-004:015",
+      "parent_id": "test-product-004",
+      "attempt": 15,
+      "seed": 3683114512,
+      "text": "The folder contains two compartments designed to hold individual documents.",
+      "raw": "The folder contains two compartments designed to hold individual documents.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-004:016",
+      "parent_id": "test-product-004",
+      "attempt": 16,
+      "seed": 3930750807,
+      "text": "This folder features two compartments designed to accommodate loose papers.",
+      "raw": "This folder features two compartments designed to accommodate loose papers.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-004:017",
+      "parent_id": "test-product-004",
+      "attempt": 17,
+      "seed": 2843787005,
+      "text": "For keeping loose papers, this folder features two pockets.",
+      "raw": "For keeping loose papers, this folder features two pockets.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-004:018",
+      "parent_id": "test-product-004",
+      "attempt": 18,
+      "seed": 2753918462,
+      "text": "This folder boasts two compartments designed to accommodate scattered documents.",
+      "raw": "This folder boasts two compartments designed to accommodate scattered documents.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-004:019",
+      "parent_id": "test-product-004",
+      "attempt": 19,
+      "seed": 2221161164,
+      "text": "This folder possesses two compartments designed to accommodate scattered documents.",
+      "raw": "This folder possesses two compartments designed to accommodate scattered documents.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-004:020",
+      "parent_id": "test-product-004",
+      "attempt": 20,
+      "seed": 2411160566,
+      "text": "This folder features two compartments for containing scattered documents.",
+      "raw": "This folder features two compartments for containing scattered documents.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-004:021",
+      "parent_id": "test-product-004",
+      "attempt": 21,
+      "seed": 4115856098,
+      "text": "Two pockets are included in this folder to accommodate loose papers.",
+      "raw": "Two pockets are included in this folder to accommodate loose papers.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-004:022",
+      "parent_id": "test-product-004",
+      "attempt": 22,
+      "seed": 1169482220,
+      "text": "This folder features two compartments designed to accommodate scattered documents.",
+      "raw": "This folder features two compartments designed to accommodate scattered documents.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-004:023",
+      "parent_id": "test-product-004",
+      "attempt": 23,
+      "seed": 2519629815,
+      "text": "This folder features two compartments designed to accommodate loose documents.",
+      "raw": "This folder features two compartments designed to accommodate loose documents.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-004:024",
+      "parent_id": "test-product-004",
+      "attempt": 24,
+      "seed": 1374948636,
+      "text": "This folder contains two compartments for storing loose documents.",
+      "raw": "This folder contains two compartments for storing loose documents.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-004:025",
+      "parent_id": "test-product-004",
+      "attempt": 25,
+      "seed": 3605438974,
+      "text": "Two pockets are in this folder for keeping loose papers organized.",
+      "raw": "Two pockets are in this folder for keeping loose papers organized.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-004:026",
+      "parent_id": "test-product-004",
+      "attempt": 26,
+      "seed": 875627477,
+      "text": "This folder features two compartments designed to accommodate loose papers.",
+      "raw": "This folder features two compartments designed to accommodate loose papers.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-004:027",
+      "parent_id": "test-product-004",
+      "attempt": 27,
+      "seed": 65374618,
+      "text": "The folder includes two compartments designed to accommodate loose documents.",
+      "raw": "The folder includes two compartments designed to accommodate loose documents.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-004:028",
+      "parent_id": "test-product-004",
+      "attempt": 28,
+      "seed": 779969301,
+      "text": "This file boasts two compartments designed for accommodating scattered documents.",
+      "raw": "This file boasts two compartments designed for accommodating scattered documents.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-004:029",
+      "parent_id": "test-product-004",
+      "attempt": 29,
+      "seed": 685524090,
+      "text": "Two pockets are present in this folder to accommodate loose papers.",
+      "raw": "Two pockets are present in this folder to accommodate loose papers.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-004:030",
+      "parent_id": "test-product-004",
+      "attempt": 30,
+      "seed": 3563374349,
+      "text": "This folder boasts two internal compartments designed to accommodate scattered documents.",
+      "raw": "This folder boasts two internal compartments designed to accommodate scattered documents.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-004:031",
+      "parent_id": "test-product-004",
+      "attempt": 31,
+      "seed": 3141651877,
+      "text": "This folder includes two compartments designed to hold scattered documents.",
+      "raw": "This folder includes two compartments designed to hold scattered documents.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 392,
+  "generation_seconds": 6.886942310957238
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "feature_signature": {
+    "backend": "hf",
+    "feature_version": "plain-prefix-mean-unit-v1",
+    "spec": {
+      "device": "cuda:0",
+      "dtype": "bfloat16",
+      "layer": -1,
+      "max_tokens": 128,
+      "name": "Qwen/Qwen2.5-1.5B-Instruct",
+      "revision": "main"
+    },
+    "prefix_id": 151645,
+    "provenance": {
+      "name": "Qwen/Qwen2.5-1.5B-Instruct",
+      "requested_revision": "main",
+      "resolved_revision": "989aa7980e4cf806f80c7fef2b1adb7bc71aa306",
+      "tokenizer_sha256": "f884026e05f6dfffe68b72d580b588006d98b3bc0a128bb1ac425c76f7fc438c",
+      "local_file_hashes": {},
+      "transformers": "4.57.6",
+      "torch": "2.11.0+cu128"
+    }
+  },
+  "calibration_sha256": "0a3623daceaf4cbbc880829510ce2cb9d61a0a97cdae31d738c2f2739324ed3f",
+  "calibration_split": "dev",
+  "calibration_count": 4,
+  "feature_dimension": 1536
+}

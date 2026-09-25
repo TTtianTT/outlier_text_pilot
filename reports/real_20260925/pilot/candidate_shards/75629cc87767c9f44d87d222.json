@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "test-daily-014",
+    "group_id": "test-daily-014",
+    "split": "test",
+    "domain": "daily",
+    "text": "He returned the borrowed tool the following morning."
+  },
+  "attempts": [
+    {
+      "candidate_id": "test-daily-014:000",
+      "parent_id": "test-daily-014",
+      "attempt": 0,
+      "seed": 3813989983,
+      "text": "He returned the borrowed tool the next day.",
+      "raw": "He returned the borrowed tool the next day.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-014:001",
+      "parent_id": "test-daily-014",
+      "attempt": 1,
+      "seed": 2843971686,
+      "text": "The following morning, he returned the borrowed tool.",
+      "raw": "The following morning, he returned the borrowed tool.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-014:002",
+      "parent_id": "test-daily-014",
+      "attempt": 2,
+      "seed": 2547455899,
+      "text": "The man returned the borrowed tool the next day.",
+      "raw": "The man returned the borrowed tool the next day.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-014:003",
+      "parent_id": "test-daily-014",
+      "attempt": 3,
+      "seed": 2167890384,
+      "text": "He returned the borrowed tool the next day.",
+      "raw": "He returned the borrowed tool the next day.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-014:004",
+      "parent_id": "test-daily-014",
+      "attempt": 4,
+      "seed": 2622146360,
+      "text": "He returned the borrowed tool the next day.",
+      "raw": "He returned the borrowed tool the next day.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-014:005",
+      "parent_id": "test-daily-014",
+      "attempt": 5,
+      "seed": 3354534939,
+      "text": "The following morning, he returned the borrowed tool.",
+      "raw": "The following morning, he returned the borrowed tool.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-014:006",
+      "parent_id": "test-daily-014",
+      "attempt": 6,
+      "seed": 2714309886,
+      "text": "He handed back the borrowed tool the next day.",
+      "raw": "He handed back the borrowed tool the next day.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-014:007",
+      "parent_id": "test-daily-014",
+      "attempt": 7,
+      "seed": 2406783650,
+      "text": "He returned the borrowed tool in the morning.",
+      "raw": "He returned the borrowed tool in the morning.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-014:008",
+      "parent_id": "test-daily-014",
+      "attempt": 8,
+      "seed": 3587392275,
+      "text": "He returned the borrowed tool in the early morning.",
+      "raw": "He returned the borrowed tool in the early morning.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-014:009",
+      "parent_id": "test-daily-014",
+      "attempt": 9,
+      "seed": 278702094,
+      "text": "The next day, he returned the borrowed tool.",
+      "raw": "The next day, he returned the borrowed tool.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-014:010",
+      "parent_id": "test-daily-014",
+      "attempt": 10,
+      "seed": 3176383115,
+      "text": "He returned the borrowed tool the next day.",
+      "raw": "He returned the borrowed tool the next day.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-014:011",
+      "parent_id": "test-daily-014",
+      "attempt": 11,
+      "seed": 404105535,
+      "text": "He returned the borrowed tool the next day.",
+      "raw": "He returned the borrowed tool the next day.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-014:012",
+      "parent_id": "test-daily-014",
+      "attempt": 12,
+      "seed": 3847010757,
+      "text": "He returned the borrowed tool the same day.",
+      "raw": "He returned the borrowed tool the same day.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-014:013",
+      "parent_id": "test-daily-014",
+      "attempt": 13,
+      "seed": 1261858303,
+      "text": "The next day, he returned the borrowed tool.",
+      "raw": "The next day, he returned the borrowed tool.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-014:014",
+      "parent_id": "test-daily-014",
+      "attempt": 14,
+      "seed": 1520556954,
+      "text": "He returned the borrowed tool the next day.",
+      "raw": "He returned the borrowed tool the next day.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-014:015",
+      "parent_id": "test-daily-014",
+      "attempt": 15,
+      "seed": 4161264097,
+      "text": "He returned the borrowed tool the next day.",
+      "raw": "He returned the borrowed tool the next day.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-014:016",
+      "parent_id": "test-daily-014",
+      "attempt": 16,
+      "seed": 1015639164,
+      "text": "He returned the borrowed implement in the subsequent day.",
+      "raw": "He returned the borrowed implement in the subsequent day.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-014:017",
+      "parent_id": "test-daily-014",
+      "attempt": 17,
+      "seed": 3922612118,
+      "text": "The next day, he returned the borrowed tool.",
+      "raw": "The next day, he returned the borrowed tool.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-014:018",
+      "parent_id": "test-daily-014",
+      "attempt": 18,
+      "seed": 218970064,
+      "text": "He handed back the borrowed tool in the early morning hours of the next day.",
+      "raw": "He handed back the borrowed tool in the early morning hours of the next day.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-014:019",
+      "parent_id": "test-daily-014",
+      "attempt": 19,
+      "seed": 3759279344,
+      "text": "He returned the borrowed tool the next day.",
+      "raw": "He returned the borrowed tool the next day.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-014:020",
+      "parent_id": "test-daily-014",
+      "attempt": 20,
+      "seed": 2204404549,
+      "text": "He returned the borrowed tool in the early morning of the next day.",
+      "raw": "He returned the borrowed tool in the early morning of the next day.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-014:021",
+      "parent_id": "test-daily-014",
+      "attempt": 21,
+      "seed": 3045396479,
+      "text": "The next day, he returned the borrowed tool.",
+      "raw": "The next day, he returned the borrowed tool.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-014:022",
+      "parent_id": "test-daily-014",
+      "attempt": 22,
+      "seed": 3779417086,
+      "text": "He returned the borrowed tool the next day.",
+      "raw": "He returned the borrowed tool the next day.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-014:023",
+      "parent_id": "test-daily-014",
+      "attempt": 23,
+      "seed": 610240545,
+      "text": "He returned the borrowed tool the next day.",
+      "raw": "He returned the borrowed tool the next day.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-014:024",
+      "parent_id": "test-daily-014",
+      "attempt": 24,
+      "seed": 2234184464,
+      "text": "He returned the borrowed tool the next day.",
+      "raw": "He returned the borrowed tool the next day.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-014:025",
+      "parent_id": "test-daily-014",
+      "attempt": 25,
+      "seed": 3849675193,
+      "text": "The next day, he returned the borrowed tool.",
+      "raw": "The next day, he returned the borrowed tool.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-014:026",
+      "parent_id": "test-daily-014",
+      "attempt": 26,
+      "seed": 451625007,
+      "text": "He returned the borrowed tool the next day.",
+      "raw": "He returned the borrowed tool the next day.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-014:027",
+      "parent_id": "test-daily-014",
+      "attempt": 27,
+      "seed": 163358397,
+      "text": "The man recovered the borrowed tool on the subsequent day.",
+      "raw": "The man recovered the borrowed tool on the subsequent day.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-014:028",
+      "parent_id": "test-daily-014",
+      "attempt": 28,
+      "seed": 4271478140,
+      "text": "He returned the borrowed tool the next day.",
+      "raw": "He returned the borrowed tool the next day.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-014:029",
+      "parent_id": "test-daily-014",
+      "attempt": 29,
+      "seed": 1281734459,
+      "text": "The next day, he returned the borrowed tool.",
+      "raw": "The next day, he returned the borrowed tool.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-014:030",
+      "parent_id": "test-daily-014",
+      "attempt": 30,
+      "seed": 500312089,
+      "text": "The man returned the borrowed tool in the early morning of the next day.",
+      "raw": "The man returned the borrowed tool in the early morning of the next day.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-014:031",
+      "parent_id": "test-daily-014",
+      "attempt": 31,
+      "seed": 3561053325,
+      "text": "He handed back the borrowed tool the next day.",
+      "raw": "He handed back the borrowed tool the next day.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    }
+  ],
+  "generated_tokens": 353,
+  "generation_seconds": 6.218741356860846
+}

@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "ood-science-022",
+    "group_id": "ood-science-022",
+    "split": "ood",
+    "domain": "science",
+    "text": "A compass needle tends to align with the local magnetic field."
+  },
+  "attempts": [
+    {
+      "candidate_id": "ood-science-022:000",
+      "parent_id": "ood-science-022",
+      "attempt": 0,
+      "seed": 2390184831,
+      "text": "A compass needle typically points toward the nearby magnetic force.",
+      "raw": "A compass needle typically points toward the nearby magnetic force.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-022:001",
+      "parent_id": "ood-science-022",
+      "attempt": 1,
+      "seed": 1318054683,
+      "text": "The compass needle tends towards alignment with the local magnetic field.",
+      "raw": "The compass needle tends towards alignment with the local magnetic field.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-022:002",
+      "parent_id": "ood-science-022",
+      "attempt": 2,
+      "seed": 1777254891,
+      "text": "A compass needle usually points towards the nearby magnetic field.",
+      "raw": "A compass needle usually points towards the nearby magnetic field.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-022:003",
+      "parent_id": "ood-science-022",
+      "attempt": 3,
+      "seed": 3697144585,
+      "text": "The compass needle usually points towards the magnetic field nearby.",
+      "raw": "The compass needle usually points towards the magnetic field nearby.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-022:004",
+      "parent_id": "ood-science-022",
+      "attempt": 4,
+      "seed": 4289208108,
+      "text": "A compass needle usually points towards the nearby magnetic field.",
+      "raw": "A compass needle usually points towards the nearby magnetic field.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-022:005",
+      "parent_id": "ood-science-022",
+      "attempt": 5,
+      "seed": 1118108546,
+      "text": "A compass needle is likely to point in the direction of the Earth's magnetic field.",
+      "raw": "A compass needle is likely to point in the direction of the Earth's magnetic field.",
+      "generated_tokens": 18,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-022:006",
+      "parent_id": "ood-science-022",
+      "attempt": 6,
+      "seed": 1890333448,
+      "text": "A compass needle usually points north due to its attraction for the Earth's magnetic field.",
+      "raw": "A compass needle usually points north due to its attraction for the Earth's magnetic field.",
+      "generated_tokens": 18,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-022:007",
+      "parent_id": "ood-science-022",
+      "attempt": 7,
+      "seed": 1376067132,
+      "text": "A compass needle typically aligns with the nearby magnetic field.",
+      "raw": "A compass needle typically aligns with the nearby magnetic field.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-022:008",
+      "parent_id": "ood-science-022",
+      "attempt": 8,
+      "seed": 1655445818,
+      "text": "A compass needle leans toward the area's magnetic pull.",
+      "raw": "A compass needle leans toward the area's magnetic pull.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-022:009",
+      "parent_id": "ood-science-022",
+      "attempt": 9,
+      "seed": 1489149835,
+      "text": "A needle in a compass is likely to point towards a direction influenced by earth's magnetic field.",
+      "raw": "A needle in a compass is likely to point towards a direction influenced by earth's magnetic field.",
+      "generated_tokens": 20,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-022:010",
+      "parent_id": "ood-science-022",
+      "attempt": 10,
+      "seed": 2250560082,
+      "text": "A compass needle aligns itself with the nearby magnetic field.",
+      "raw": "A compass needle aligns itself with the nearby magnetic field.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-022:011",
+      "parent_id": "ood-science-022",
+      "attempt": 11,
+      "seed": 3293098517,
+      "text": "A compass needle tends to face towards the nearby magnetic field.",
+      "raw": "A compass needle tends to face towards the nearby magnetic field.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-022:012",
+      "parent_id": "ood-science-022",
+      "attempt": 12,
+      "seed": 507915304,
+      "text": "A compass needle usually faces in the direction of the nearest magnetic field source.",
+      "raw": "A compass needle usually faces in the direction of the nearest magnetic field source.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-022:013",
+      "parent_id": "ood-science-022",
+      "attempt": 13,
+      "seed": 2357092519,
+      "text": "The compass needle tends to face in the direction of the local magnetic field.",
+      "raw": "The compass needle tends to face in the direction of the local magnetic field.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-022:014",
+      "parent_id": "ood-science-022",
+      "attempt": 14,
+      "seed": 2062658547,
+      "text": "A compass needle usually points in the direction of the nearby magnetic field.",
+      "raw": "A compass needle usually points in the direction of the nearby magnetic field.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-022:015",
+      "parent_id": "ood-science-022",
+      "attempt": 15,
+      "seed": 2329907067,
+      "text": "The compass needle usually aligns itself with the nearby magnetic force.",
+      "raw": "The compass needle usually aligns itself with the nearby magnetic force.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-022:016",
+      "parent_id": "ood-science-022",
+      "attempt": 16,
+      "seed": 4102007451,
+      "text": "A compass needle usually aligns with the nearby magnetic field.",
+      "raw": "A compass needle usually aligns with the nearby magnetic field.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-022:017",
+      "parent_id": "ood-science-022",
+      "attempt": 17,
+      "seed": 1581237295,
+      "text": "The compass needle aligns itself with the local magnetic field.",
+      "raw": "The compass needle aligns itself with the local magnetic field.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-022:018",
+      "parent_id": "ood-science-022",
+      "attempt": 18,
+      "seed": 4136708598,
+      "text": "A compass needle usually points in the direction of the nearest magnetic north.",
+      "raw": "A compass needle usually points in the direction of the nearest magnetic north.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-022:019",
+      "parent_id": "ood-science-022",
+      "attempt": 19,
+      "seed": 172105830,
+      "text": "A compass needle usually points towards magnetic north.",
+      "raw": "A compass needle usually points towards magnetic north.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-022:020",
+      "parent_id": "ood-science-022",
+      "attempt": 20,
+      "seed": 1017434125,
+      "text": "A compass needle often points toward the nearby magnetic field.",
+      "raw": "A compass needle often points toward the nearby magnetic field.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-022:021",
+      "parent_id": "ood-science-022",
+      "attempt": 21,
+      "seed": 2908789268,
+      "text": "The compass needle aligns itself with the local magnetic field.",
+      "raw": "The compass needle aligns itself with the local magnetic field.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-022:022",
+      "parent_id": "ood-science-022",
+      "attempt": 22,
+      "seed": 2135103181,
+      "text": "A compass needle typically points in the direction of the Earth's magnetic field.",
+      "raw": "A compass needle typically points in the direction of the Earth's magnetic field.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-022:023",
+      "parent_id": "ood-science-022",
+      "attempt": 23,
+      "seed": 2761700974,
+      "text": "A compass needle tends to point north toward the Earth's magnetic field.",
+      "raw": "A compass needle tends to point north toward the Earth's magnetic field.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-022:024",
+      "parent_id": "ood-science-022",
+      "attempt": 24,
+      "seed": 3339206991,
+      "text": "A compass needle usually points towards the nearby magnetic field.",
+      "raw": "A compass needle usually points towards the nearby magnetic field.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-022:025",
+      "parent_id": "ood-science-022",
+      "attempt": 25,
+      "seed": 1535994760,
+      "text": "The compass needle aligns itself with the local magnetic field.",
+      "raw": "The compass needle aligns itself with the local magnetic field.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-022:026",
+      "parent_id": "ood-science-022",
+      "attempt": 26,
+      "seed": 1554258971,
+      "text": "A compass needle usually points towards the nearest magnetic field source.",
+      "raw": "A compass needle usually points towards the nearest magnetic field source.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-022:027",
+      "parent_id": "ood-science-022",
+      "attempt": 27,
+      "seed": 2379851712,
+      "text": "The compass needle aligns with the local magnetic field.",
+      "raw": "The compass needle aligns with the local magnetic field.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-022:028",
+      "parent_id": "ood-science-022",
+      "attempt": 28,
+      "seed": 2330997554,
+      "text": "A compass needle usually points towards the Earth's magnetic north.",
+      "raw": "A compass needle usually points towards the Earth's magnetic north.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-022:029",
+      "parent_id": "ood-science-022",
+      "attempt": 29,
+      "seed": 1365900794,
+      "text": "The compass needle often points in the direction of the nearby magnetic field.",
+      "raw": "The compass needle often points in the direction of the nearby magnetic field.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-022:030",
+      "parent_id": "ood-science-022",
+      "attempt": 30,
+      "seed": 2265555793,
+      "text": "The compass needle usually points in the direction of the nearby magnetic field.",
+      "raw": "The compass needle usually points in the direction of the nearby magnetic field.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-022:031",
+      "parent_id": "ood-science-022",
+      "attempt": 31,
+      "seed": 1269045805,
+      "text": "A compass needle aligns itself with the nearby magnetic field.",
+      "raw": "A compass needle aligns itself with the nearby magnetic field.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    }
+  ],
+  "generated_tokens": 442,
+  "generation_seconds": 7.743437106022611
+}

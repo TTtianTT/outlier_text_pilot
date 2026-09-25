@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "test-product-001",
+    "group_id": "test-product-001",
+    "split": "test",
+    "domain": "product",
+    "text": "This speaker can play music from a memory card."
+  },
+  "attempts": [
+    {
+      "candidate_id": "test-product-001:000",
+      "parent_id": "test-product-001",
+      "attempt": 0,
+      "seed": 3943920071,
+      "text": "This device supports playing music stored on a removable media.",
+      "raw": "This device supports playing music stored on a removable media.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-001:001",
+      "parent_id": "test-product-001",
+      "attempt": 1,
+      "seed": 3293722617,
+      "text": "A speaker can play music from a memory card.",
+      "raw": "A speaker can play music from a memory card.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-001:002",
+      "parent_id": "test-product-001",
+      "attempt": 2,
+      "seed": 1925554817,
+      "text": "This device allows playback of audio files stored on a memory stick.",
+      "raw": "This device allows playback of audio files stored on a memory stick.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-001:003",
+      "parent_id": "test-product-001",
+      "attempt": 3,
+      "seed": 2916030233,
+      "text": "This speaker is capable of playing music stored on a memory card.",
+      "raw": "This speaker is capable of playing music stored on a memory card.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-001:004",
+      "parent_id": "test-product-001",
+      "attempt": 4,
+      "seed": 2815140122,
+      "text": "This device supports playback of audio via an onboard memory module.",
+      "raw": "This device supports playback of audio via an onboard memory module.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-001:005",
+      "parent_id": "test-product-001",
+      "attempt": 5,
+      "seed": 2636828042,
+      "text": "A memory card allows this speaker to play music.",
+      "raw": "A memory card allows this speaker to play music.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-001:006",
+      "parent_id": "test-product-001",
+      "attempt": 6,
+      "seed": 2940825096,
+      "text": "This device supports playback of songs stored on an SD card.",
+      "raw": "This device supports playback of songs stored on an SD card.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-001:007",
+      "parent_id": "test-product-001",
+      "attempt": 7,
+      "seed": 1030501068,
+      "text": "The speaker supports accessing music through a memory card.",
+      "raw": "The speaker supports accessing music through a memory card.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-001:008",
+      "parent_id": "test-product-001",
+      "attempt": 8,
+      "seed": 3626753545,
+      "text": "This speaker supports loading music from an internal storage unit.",
+      "raw": "This speaker supports loading music from an internal storage unit.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-001:009",
+      "parent_id": "test-product-001",
+      "attempt": 9,
+      "seed": 360618325,
+      "text": "The speaker is capable of playing music using a memory card.",
+      "raw": "The speaker is capable of playing music using a memory card.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-001:010",
+      "parent_id": "test-product-001",
+      "attempt": 10,
+      "seed": 2993246143,
+      "text": "This device can handle playing music stored on a memory card.",
+      "raw": "This device can handle playing music stored on a memory card.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-001:011",
+      "parent_id": "test-product-001",
+      "attempt": 11,
+      "seed": 2784655295,
+      "text": "The speaker has access to music stored on a memory card.",
+      "raw": "The speaker has access to music stored on a memory card.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-001:012",
+      "parent_id": "test-product-001",
+      "attempt": 12,
+      "seed": 2771501171,
+      "text": "This device supports playing music via a memory card.",
+      "raw": "This device supports playing music via a memory card.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-001:013",
+      "parent_id": "test-product-001",
+      "attempt": 13,
+      "seed": 4109813686,
+      "text": "The speaker can play music from a memory card.",
+      "raw": "The speaker can play music from a memory card.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-001:014",
+      "parent_id": "test-product-001",
+      "attempt": 14,
+      "seed": 2214783070,
+      "text": "The specified speaker adeptly handles playing music sourced from an internal memory medium.",
+      "raw": "The specified speaker adeptly handles playing music sourced from an internal memory medium.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-001:015",
+      "parent_id": "test-product-001",
+      "attempt": 15,
+      "seed": 1953169917,
+      "text": "The designated speaker may utilize audio content sourced via a removable storage media element.",
+      "raw": "The designated speaker may utilize audio content sourced via a removable storage media element.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-001:016",
+      "parent_id": "test-product-001",
+      "attempt": 16,
+      "seed": 2544293682,
+      "text": "This device supports audio playback through a built-in memory card.",
+      "raw": "This device supports audio playback through a built-in memory card.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-001:017",
+      "parent_id": "test-product-001",
+      "attempt": 17,
+      "seed": 2586333892,
+      "text": "From a memory card, this speaker can play music.",
+      "raw": "From a memory card, this speaker can play music.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-001:018",
+      "parent_id": "test-product-001",
+      "attempt": 18,
+      "seed": 2787941497,
+      "text": "This device can stream music from an external storage medium.",
+      "raw": "This device can stream music from an external storage medium.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-001:019",
+      "parent_id": "test-product-001",
+      "attempt": 19,
+      "seed": 3290670080,
+      "text": "The speaker is capable of handling audio files stored on a memory device.",
+      "raw": "The speaker is capable of handling audio files stored on a memory device.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-001:020",
+      "parent_id": "test-product-001",
+      "attempt": 20,
+      "seed": 81326579,
+      "text": "This device can load music from a card.",
+      "raw": "This device can load music from a card.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-001:021",
+      "parent_id": "test-product-001",
+      "attempt": 21,
+      "seed": 535616819,
+      "text": "The speaker is capable of playing music stored on a memory card.",
+      "raw": "The speaker is capable of playing music stored on a memory card.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-001:022",
+      "parent_id": "test-product-001",
+      "attempt": 22,
+      "seed": 3780209501,
+      "text": "The speaker supports playback of audio files stored on a memory card.",
+      "raw": "The speaker supports playback of audio files stored on a memory card.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-001:023",
+      "parent_id": "test-product-001",
+      "attempt": 23,
+      "seed": 4281732180,
+      "text": "This device supports playing audio files from an SD card.",
+      "raw": "This device supports playing audio files from an SD card.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-001:024",
+      "parent_id": "test-product-001",
+      "attempt": 24,
+      "seed": 2859343322,
+      "text": "This device supports playback of audio files from an inserted memory stick.",
+      "raw": "This device supports playback of audio files from an inserted memory stick.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-001:025",
+      "parent_id": "test-product-001",
+      "attempt": 25,
+      "seed": 1654081307,
+      "text": "A speaker can play music from a memory card.",
+      "raw": "A speaker can play music from a memory card.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-001:026",
+      "parent_id": "test-product-001",
+      "attempt": 26,
+      "seed": 3352542815,
+      "text": "This device enables playing songs stored on a memory card.",
+      "raw": "This device enables playing songs stored on a memory card.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-001:027",
+      "parent_id": "test-product-001",
+      "attempt": 27,
+      "seed": 1270295300,
+      "text": "This speaker is capable of playing music through a memory card.",
+      "raw": "This speaker is capable of playing music through a memory card.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-001:028",
+      "parent_id": "test-product-001",
+      "attempt": 28,
+      "seed": 4009746903,
+      "text": "This device supports audio playback via an inserted memory medium.",
+      "raw": "This device supports audio playback via an inserted memory medium.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-001:029",
+      "parent_id": "test-product-001",
+      "attempt": 29,
+      "seed": 2220642272,
+      "text": "The speaker is capable of playing music stored on a memory card.",
+      "raw": "The speaker is capable of playing music stored on a memory card.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-001:030",
+      "parent_id": "test-product-001",
+      "attempt": 30,
+      "seed": 2528878948,
+      "text": "This speaker is capable of playing music stored on a memory card.",
+      "raw": "This speaker is capable of playing music stored on a memory card.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-001:031",
+      "parent_id": "test-product-001",
+      "attempt": 31,
+      "seed": 68559616,
+      "text": "This speaker is capable of playing music via a memory card.",
+      "raw": "This speaker is capable of playing music via a memory card.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 409,
+  "generation_seconds": 7.179675880121067
+}

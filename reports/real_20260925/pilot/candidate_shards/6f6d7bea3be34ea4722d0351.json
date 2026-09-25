@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "ood-science-016",
+    "group_id": "ood-science-016",
+    "split": "ood",
+    "domain": "science",
+    "text": "Condensation occurs when water vapor changes into liquid water."
+  },
+  "attempts": [
+    {
+      "candidate_id": "ood-science-016:000",
+      "parent_id": "ood-science-016",
+      "attempt": 0,
+      "seed": 3252059164,
+      "text": "Condensation happens when water vapor turns into liquid water.",
+      "raw": "Condensation happens when water vapor turns into liquid water.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-016:001",
+      "parent_id": "ood-science-016",
+      "attempt": 1,
+      "seed": 3690748752,
+      "text": "Water vapor turns to liquid when it condenses.",
+      "raw": "Water vapor turns to liquid when it condenses.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-016:002",
+      "parent_id": "ood-science-016",
+      "attempt": 2,
+      "seed": 4201199690,
+      "text": "Condensation happens when water vapor turns into liquid water.",
+      "raw": "Condensation happens when water vapor turns into liquid water.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-016:003",
+      "parent_id": "ood-science-016",
+      "attempt": 3,
+      "seed": 973699569,
+      "text": "Condensation happens when water vapor turns to liquid water.",
+      "raw": "Condensation happens when water vapor turns to liquid water.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-016:004",
+      "parent_id": "ood-science-016",
+      "attempt": 4,
+      "seed": 3390404799,
+      "text": "Water vapor transforms into liquid water through condensation.",
+      "raw": "Water vapor transforms into liquid water through condensation.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-016:005",
+      "parent_id": "ood-science-016",
+      "attempt": 5,
+      "seed": 2214052848,
+      "text": "Water vapor transforms into liquid water due to condensation.",
+      "raw": "Water vapor transforms into liquid water due to condensation.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-016:006",
+      "parent_id": "ood-science-016",
+      "attempt": 6,
+      "seed": 1176686026,
+      "text": "Condensation happens when water vapor turns into liquid water.",
+      "raw": "Condensation happens when water vapor turns into liquid water.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-016:007",
+      "parent_id": "ood-science-016",
+      "attempt": 7,
+      "seed": 80972856,
+      "text": "Condensation happens when water vapor turns into liquid water.",
+      "raw": "Condensation happens when water vapor turns into liquid water.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-016:008",
+      "parent_id": "ood-science-016",
+      "attempt": 8,
+      "seed": 3877619662,
+      "text": "Water vapor condenses to form liquid water.",
+      "raw": "Water vapor condenses to form liquid water.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-016:009",
+      "parent_id": "ood-science-016",
+      "attempt": 9,
+      "seed": 863822914,
+      "text": "Water vapor turns into liquid water through condensation.",
+      "raw": "Water vapor turns into liquid water through condensation.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-016:010",
+      "parent_id": "ood-science-016",
+      "attempt": 10,
+      "seed": 1227244683,
+      "text": "When water vapor transforms into liquid water, condensation happens.",
+      "raw": "When water vapor transforms into liquid water, condensation happens.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-016:011",
+      "parent_id": "ood-science-016",
+      "attempt": 11,
+      "seed": 3809640348,
+      "text": "Condensation happens when water vapor turns to liquid water.",
+      "raw": "Condensation happens when water vapor turns to liquid water.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-016:012",
+      "parent_id": "ood-science-016",
+      "attempt": 12,
+      "seed": 545063206,
+      "text": "Condensation happens when water vapor transforms to liquid water.",
+      "raw": "Condensation happens when water vapor transforms to liquid water.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-016:013",
+      "parent_id": "ood-science-016",
+      "attempt": 13,
+      "seed": 725114702,
+      "text": "Water vapor turns into liquid water due to condensation.",
+      "raw": "Water vapor turns into liquid water due to condensation.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-016:014",
+      "parent_id": "ood-science-016",
+      "attempt": 14,
+      "seed": 1788996439,
+      "text": "Water vapor transforms to liquid water through condensation.",
+      "raw": "Water vapor transforms to liquid water through condensation.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-016:015",
+      "parent_id": "ood-science-016",
+      "attempt": 15,
+      "seed": 317618410,
+      "text": "Condensation happens when water vapor turns to liquid water.",
+      "raw": "Condensation happens when water vapor turns to liquid water.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-016:016",
+      "parent_id": "ood-science-016",
+      "attempt": 16,
+      "seed": 787799374,
+      "text": "Condensation happens when water vapor turns to liquid water.",
+      "raw": "Condensation happens when water vapor turns to liquid water.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-016:017",
+      "parent_id": "ood-science-016",
+      "attempt": 17,
+      "seed": 4181881593,
+      "text": "When water vapor changes to liquid water, condensation happens.",
+      "raw": "When water vapor changes to liquid water, condensation happens.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-016:018",
+      "parent_id": "ood-science-016",
+      "attempt": 18,
+      "seed": 1053419897,
+      "text": "Water vapor transforms into liquid form through condensation.",
+      "raw": "Water vapor transforms into liquid form through condensation.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-016:019",
+      "parent_id": "ood-science-016",
+      "attempt": 19,
+      "seed": 2509651443,
+      "text": "Water vapor turns to liquid when it condenses.",
+      "raw": "Water vapor turns to liquid when it condenses.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-016:020",
+      "parent_id": "ood-science-016",
+      "attempt": 20,
+      "seed": 1444433798,
+      "text": "Condensation happens as water vapor turns to liquid water.",
+      "raw": "Condensation happens as water vapor turns to liquid water.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-016:021",
+      "parent_id": "ood-science-016",
+      "attempt": 21,
+      "seed": 2921367975,
+      "text": "Water vapor turns to liquid when it condenses.",
+      "raw": "Water vapor turns to liquid when it condenses.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-016:022",
+      "parent_id": "ood-science-016",
+      "attempt": 22,
+      "seed": 1928708251,
+      "text": "Condensation happens when water vapor turns into liquid water.",
+      "raw": "Condensation happens when water vapor turns into liquid water.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-016:023",
+      "parent_id": "ood-science-016",
+      "attempt": 23,
+      "seed": 1790400294,
+      "text": "Condensation happens when water vapor turns into liquid water.",
+      "raw": "Condensation happens when water vapor turns into liquid water.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-016:024",
+      "parent_id": "ood-science-016",
+      "attempt": 24,
+      "seed": 3359027416,
+      "text": "Condensation happens as water vapor turns into liquid water.",
+      "raw": "Condensation happens as water vapor turns into liquid water.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-016:025",
+      "parent_id": "ood-science-016",
+      "attempt": 25,
+      "seed": 997423552,
+      "text": "Water vapor turns to liquid when it condenses.",
+      "raw": "Water vapor turns to liquid when it condenses.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-016:026",
+      "parent_id": "ood-science-016",
+      "attempt": 26,
+      "seed": 1938625353,
+      "text": "Condensation happens as water vapor turns into liquid water.",
+      "raw": "Condensation happens as water vapor turns into liquid water.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-016:027",
+      "parent_id": "ood-science-016",
+      "attempt": 27,
+      "seed": 2799203755,
+      "text": "Condensation happens when water vapor turns to liquid water.",
+      "raw": "Condensation happens when water vapor turns to liquid water.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-016:028",
+      "parent_id": "ood-science-016",
+      "attempt": 28,
+      "seed": 3339707901,
+      "text": "Condensation happens when steam turns to water.",
+      "raw": "Condensation happens when steam turns to water.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-016:029",
+      "parent_id": "ood-science-016",
+      "attempt": 29,
+      "seed": 480225794,
+      "text": "When water vapor transforms into liquid water, condensation happens.",
+      "raw": "When water vapor transforms into liquid water, condensation happens.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-016:030",
+      "parent_id": "ood-science-016",
+      "attempt": 30,
+      "seed": 1497621635,
+      "text": "Condensation happens as water vapor turns to liquid water.",
+      "raw": "Condensation happens as water vapor turns to liquid water.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-016:031",
+      "parent_id": "ood-science-016",
+      "attempt": 31,
+      "seed": 2290177470,
+      "text": "Condensation happens when water vapor turns into liquid water.",
+      "raw": "Condensation happens when water vapor turns into liquid water.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    }
+  ],
+  "generated_tokens": 375,
+  "generation_seconds": 6.581451043952256
+}

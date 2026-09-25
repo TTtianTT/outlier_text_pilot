@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "test-product-008",
+    "group_id": "test-product-008",
+    "split": "test",
+    "domain": "product",
+    "text": "The shelf includes the screws needed for assembly."
+  },
+  "attempts": [
+    {
+      "candidate_id": "test-product-008:000",
+      "parent_id": "test-product-008",
+      "attempt": 0,
+      "seed": 2687619151,
+      "text": "The shelf contains the necessary screws for assembly.",
+      "raw": "The shelf contains the necessary screws for assembly.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-008:001",
+      "parent_id": "test-product-008",
+      "attempt": 1,
+      "seed": 559824998,
+      "text": "For assembly, the shelf contains screws necessary.",
+      "raw": "For assembly, the shelf contains screws necessary.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-008:002",
+      "parent_id": "test-product-008",
+      "attempt": 2,
+      "seed": 3223956106,
+      "text": "The shelf contains the necessary screws for assembly.",
+      "raw": "The shelf contains the necessary screws for assembly.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-008:003",
+      "parent_id": "test-product-008",
+      "attempt": 3,
+      "seed": 1142882745,
+      "text": "The shelf contains the required screws for assembly.",
+      "raw": "The shelf contains the required screws for assembly.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-008:004",
+      "parent_id": "test-product-008",
+      "attempt": 4,
+      "seed": 3329436679,
+      "text": "The shelf contains the required fasteners for installation.",
+      "raw": "The shelf contains the required fasteners for installation.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-008:005",
+      "parent_id": "test-product-008",
+      "attempt": 5,
+      "seed": 611195812,
+      "text": "For assembly, the shelf contains the required screws.",
+      "raw": "For assembly, the shelf contains the required screws.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-008:006",
+      "parent_id": "test-product-008",
+      "attempt": 6,
+      "seed": 3894115354,
+      "text": "The shelf contains the screws required for assembling.",
+      "raw": "The shelf contains the screws required for assembling.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-008:007",
+      "parent_id": "test-product-008",
+      "attempt": 7,
+      "seed": 2709126407,
+      "text": "The shelf contains the necessary screws for assembling.",
+      "raw": "The shelf contains the necessary screws for assembling.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-008:008",
+      "parent_id": "test-product-008",
+      "attempt": 8,
+      "seed": 1094758574,
+      "text": "The shelf contains the required fasteners for mounting.",
+      "raw": "The shelf contains the required fasteners for mounting.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-008:009",
+      "parent_id": "test-product-008",
+      "attempt": 9,
+      "seed": 3405308638,
+      "text": "For assembly, the shelf contains the screws required.",
+      "raw": "For assembly, the shelf contains the screws required.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-008:010",
+      "parent_id": "test-product-008",
+      "attempt": 10,
+      "seed": 1503898475,
+      "text": "The shelf contains the screws required for assembly.",
+      "raw": "The shelf contains the screws required for assembly.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-008:011",
+      "parent_id": "test-product-008",
+      "attempt": 11,
+      "seed": 364375599,
+      "text": "The shelf contains screws necessary for assembly.",
+      "raw": "The shelf contains screws necessary for assembly.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-008:012",
+      "parent_id": "test-product-008",
+      "attempt": 12,
+      "seed": 2127247979,
+      "text": "The shelf contains the required screws for assembly.",
+      "raw": "The shelf contains the required screws for assembly.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-008:013",
+      "parent_id": "test-product-008",
+      "attempt": 13,
+      "seed": 2326460029,
+      "text": "Assembly requires the screws found on this shelf.",
+      "raw": "Assembly requires the screws found on this shelf.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-008:014",
+      "parent_id": "test-product-008",
+      "attempt": 14,
+      "seed": 3045571710,
+      "text": "The shelf contains the required screws for assembly.",
+      "raw": "The shelf contains the required screws for assembly.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-008:015",
+      "parent_id": "test-product-008",
+      "attempt": 15,
+      "seed": 1485853789,
+      "text": "The shelf contains the required screws for assembly.",
+      "raw": "The shelf contains the required screws for assembly.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-008:016",
+      "parent_id": "test-product-008",
+      "attempt": 16,
+      "seed": 2535820351,
+      "text": "The shelf contains the required fasteners for assembly.",
+      "raw": "The shelf contains the required fasteners for assembly.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-008:017",
+      "parent_id": "test-product-008",
+      "attempt": 17,
+      "seed": 2961907821,
+      "text": "Screws for assembly are included on the shelf.",
+      "raw": "Screws for assembly are included on the shelf.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-008:018",
+      "parent_id": "test-product-008",
+      "attempt": 18,
+      "seed": 2254497833,
+      "text": "The shelf contains the required screws for assembly.",
+      "raw": "The shelf contains the required screws for assembly.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-008:019",
+      "parent_id": "test-product-008",
+      "attempt": 19,
+      "seed": 1187365174,
+      "text": "The shelf contains screws required during assembly.",
+      "raw": "The shelf contains screws required during assembly.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-008:020",
+      "parent_id": "test-product-008",
+      "attempt": 20,
+      "seed": 1621599783,
+      "text": "The shelf contains screws required for assembly.",
+      "raw": "The shelf contains screws required for assembly.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-008:021",
+      "parent_id": "test-product-008",
+      "attempt": 21,
+      "seed": 3813926048,
+      "text": "Needed for assembly, the screws are included on the shelf.",
+      "raw": "Needed for assembly, the screws are included on the shelf.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-008:022",
+      "parent_id": "test-product-008",
+      "attempt": 22,
+      "seed": 2840082346,
+      "text": "The shelf contains the screws required for assembly.",
+      "raw": "The shelf contains the screws required for assembly.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-008:023",
+      "parent_id": "test-product-008",
+      "attempt": 23,
+      "seed": 1563997154,
+      "text": "The shelf contains the necessary screws for assembly.",
+      "raw": "The shelf contains the necessary screws for assembly.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-008:024",
+      "parent_id": "test-product-008",
+      "attempt": 24,
+      "seed": 1838280635,
+      "text": "The shelf comprises the necessary fasteners for assembly.",
+      "raw": "The shelf comprises the necessary fasteners for assembly.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-008:025",
+      "parent_id": "test-product-008",
+      "attempt": 25,
+      "seed": 68675813,
+      "text": "For assembly, the shelf contains necessary screws.",
+      "raw": "For assembly, the shelf contains necessary screws.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-008:026",
+      "parent_id": "test-product-008",
+      "attempt": 26,
+      "seed": 2841011120,
+      "text": "The shelf contains the necessary screws for assembling.",
+      "raw": "The shelf contains the necessary screws for assembling.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-008:027",
+      "parent_id": "test-product-008",
+      "attempt": 27,
+      "seed": 1753454234,
+      "text": "The shelf contains the required screws for assembly.",
+      "raw": "The shelf contains the required screws for assembly.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-008:028",
+      "parent_id": "test-product-008",
+      "attempt": 28,
+      "seed": 3149419722,
+      "text": "The shelf contains the required fasteners for installation.",
+      "raw": "The shelf contains the required fasteners for installation.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-008:029",
+      "parent_id": "test-product-008",
+      "attempt": 29,
+      "seed": 3671304113,
+      "text": "Needed for assembly, the screws are included on the shelf.",
+      "raw": "Needed for assembly, the screws are included on the shelf.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-008:030",
+      "parent_id": "test-product-008",
+      "attempt": 30,
+      "seed": 1755459047,
+      "text": "The shelf contains the necessary screws for assembly.",
+      "raw": "The shelf contains the necessary screws for assembly.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-008:031",
+      "parent_id": "test-product-008",
+      "attempt": 31,
+      "seed": 1532112801,
+      "text": "The shelf contains screws necessary for assembly.",
+      "raw": "The shelf contains screws necessary for assembly.",
+      "generated_tokens": 9,
+      "generation_status": "duplicate_or_identity"
+    }
+  ],
+  "generated_tokens": 331,
+  "generation_seconds": 5.819853012915701
+}

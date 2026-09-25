@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "test-product-010",
+    "group_id": "test-product-010",
+    "split": "test",
+    "domain": "product",
+    "text": "This stapler can be refilled by opening the top section."
+  },
+  "attempts": [
+    {
+      "candidate_id": "test-product-010:000",
+      "parent_id": "test-product-010",
+      "attempt": 0,
+      "seed": 2784835187,
+      "text": "This stapler can be replenished by flipping open its upper component.",
+      "raw": "This stapler can be replenished by flipping open its upper component.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-010:001",
+      "parent_id": "test-product-010",
+      "attempt": 1,
+      "seed": 3126265885,
+      "text": "Opening the top section allows you to refill this stapler.",
+      "raw": "Opening the top section allows you to refill this stapler.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-010:002",
+      "parent_id": "test-product-010",
+      "attempt": 2,
+      "seed": 651267283,
+      "text": "This stapler allows you to refill it by opening its top part.",
+      "raw": "This stapler allows you to refill it by opening its top part.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-010:003",
+      "parent_id": "test-product-010",
+      "attempt": 3,
+      "seed": 1756416907,
+      "text": "To refill this stapler, open the upper part.",
+      "raw": "To refill this stapler, open the upper part.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-010:004",
+      "parent_id": "test-product-010",
+      "attempt": 4,
+      "seed": 2255677796,
+      "text": "This stapler is refillable via its top portion.",
+      "raw": "This stapler is refillable via its top portion.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-010:005",
+      "parent_id": "test-product-010",
+      "attempt": 5,
+      "seed": 1917243237,
+      "text": "Opening the top section of this stapler allows for refilling it.",
+      "raw": "Opening the top section of this stapler allows for refilling it.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-010:006",
+      "parent_id": "test-product-010",
+      "attempt": 6,
+      "seed": 3867623825,
+      "text": "This stapler can be refilled by opening the upper section.",
+      "raw": "This stapler can be refilled by opening the upper section.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-010:007",
+      "parent_id": "test-product-010",
+      "attempt": 7,
+      "seed": 2173711663,
+      "text": "This stapler allows for easy refill through its open-top design.",
+      "raw": "This stapler allows for easy refill through its open-top design.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-010:008",
+      "parent_id": "test-product-010",
+      "attempt": 8,
+      "seed": 683043630,
+      "text": "This stapler can be refilled by accessing its upper compartment.",
+      "raw": "This stapler can be refilled by accessing its upper compartment.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-010:009",
+      "parent_id": "test-product-010",
+      "attempt": 9,
+      "seed": 597263988,
+      "text": "Opening the top section of this stapler allows for refilling.",
+      "raw": "Opening the top section of this stapler allows for refilling.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-010:010",
+      "parent_id": "test-product-010",
+      "attempt": 10,
+      "seed": 727485505,
+      "text": "You can refill this stapler by opening its top part.",
+      "raw": "You can refill this stapler by opening its top part.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-010:011",
+      "parent_id": "test-product-010",
+      "attempt": 11,
+      "seed": 1890293769,
+      "text": "This stapler can be refilled by opening its top section.",
+      "raw": "This stapler can be refilled by opening its top section.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-010:012",
+      "parent_id": "test-product-010",
+      "attempt": 12,
+      "seed": 2805880435,
+      "text": "This stapler is refillable by accessing its upper compartment.",
+      "raw": "This stapler is refillable by accessing its upper compartment.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-010:013",
+      "parent_id": "test-product-010",
+      "attempt": 13,
+      "seed": 1904739478,
+      "text": "Opening the top section allows you to refill this stapler.",
+      "raw": "Opening the top section allows you to refill this stapler.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-010:014",
+      "parent_id": "test-product-010",
+      "attempt": 14,
+      "seed": 3450453621,
+      "text": "You can refill this stapler by opening its top part.",
+      "raw": "You can refill this stapler by opening its top part.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-010:015",
+      "parent_id": "test-product-010",
+      "attempt": 15,
+      "seed": 2204512580,
+      "text": "The stapler allows refill via its top compartment.",
+      "raw": "The stapler allows refill via its top compartment.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-010:016",
+      "parent_id": "test-product-010",
+      "attempt": 16,
+      "seed": 1045616826,
+      "text": "This stapler can be refilled by opening its top part.",
+      "raw": "This stapler can be refilled by opening its top part.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-010:017",
+      "parent_id": "test-product-010",
+      "attempt": 17,
+      "seed": 3964194982,
+      "text": "You can refill this stapler by opening its top section.",
+      "raw": "You can refill this stapler by opening its top section.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-010:018",
+      "parent_id": "test-product-010",
+      "attempt": 18,
+      "seed": 2263700259,
+      "text": "This stapler can be refilled by opening its top section.",
+      "raw": "This stapler can be refilled by opening its top section.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-010:019",
+      "parent_id": "test-product-010",
+      "attempt": 19,
+      "seed": 538924506,
+      "text": "The stapler can be refilled by opening its top part.",
+      "raw": "The stapler can be refilled by opening its top part.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-010:020",
+      "parent_id": "test-product-010",
+      "attempt": 20,
+      "seed": 1233940626,
+      "text": "This stapler's refill mechanism involves unfastening its upper segment.",
+      "raw": "This stapler's refill mechanism involves unfastening its upper segment.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-010:021",
+      "parent_id": "test-product-010",
+      "attempt": 21,
+      "seed": 1678416295,
+      "text": "The top section of this stapler allows for easy refill.",
+      "raw": "The top section of this stapler allows for easy refill.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-010:022",
+      "parent_id": "test-product-010",
+      "attempt": 22,
+      "seed": 3981335609,
+      "text": "You can refill this stapler by opening its top part.",
+      "raw": "You can refill this stapler by opening its top part.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-010:023",
+      "parent_id": "test-product-010",
+      "attempt": 23,
+      "seed": 2004117902,
+      "text": "The stapler can be reloaded by lifting its upper part.",
+      "raw": "The stapler can be reloaded by lifting its upper part.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-010:024",
+      "parent_id": "test-product-010",
+      "attempt": 24,
+      "seed": 2094824330,
+      "text": "This stapler is refillable by removing its top part.",
+      "raw": "This stapler is refillable by removing its top part.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-010:025",
+      "parent_id": "test-product-010",
+      "attempt": 25,
+      "seed": 3417338783,
+      "text": "Opening the top section of this stapler allows for refilling.",
+      "raw": "Opening the top section of this stapler allows for refilling.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-010:026",
+      "parent_id": "test-product-010",
+      "attempt": 26,
+      "seed": 870501432,
+      "text": "You can refill this stapler by unbuttoning the upper segment.",
+      "raw": "You can refill this stapler by unbuttoning the upper segment.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-010:027",
+      "parent_id": "test-product-010",
+      "attempt": 27,
+      "seed": 46977473,
+      "text": "This stapler allows you to refill its contents by simply tilting the top part open.",
+      "raw": "This stapler allows you to refill its contents by simply tilting the top part open.",
+      "generated_tokens": 19,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-010:028",
+      "parent_id": "test-product-010",
+      "attempt": 28,
+      "seed": 3844889493,
+      "text": "This stapler is refillable by opening its top part.",
+      "raw": "This stapler is refillable by opening its top part.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-010:029",
+      "parent_id": "test-product-010",
+      "attempt": 29,
+      "seed": 3583772497,
+      "text": "The stapler allows for refilling by opening its top part.",
+      "raw": "The stapler allows for refilling by opening its top part.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-010:030",
+      "parent_id": "test-product-010",
+      "attempt": 30,
+      "seed": 3644423346,
+      "text": "You can refill this stapler by lifting the top portion.",
+      "raw": "You can refill this stapler by lifting the top portion.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-010:031",
+      "parent_id": "test-product-010",
+      "attempt": 31,
+      "seed": 1340624989,
+      "text": "This stapler allows refilling through its top part.",
+      "raw": "This stapler allows refilling through its top part.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 438,
+  "generation_seconds": 7.687249271897599
+}

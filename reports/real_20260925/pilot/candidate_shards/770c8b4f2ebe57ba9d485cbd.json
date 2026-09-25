@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "dev-product-006",
+    "group_id": "dev-product-006",
+    "split": "dev",
+    "domain": "product",
+    "text": "This cotton shirt can be washed in cold water."
+  },
+  "attempts": [
+    {
+      "candidate_id": "dev-product-006:000",
+      "parent_id": "dev-product-006",
+      "attempt": 0,
+      "seed": 147750653,
+      "text": "This cotton shirt is suitable for washing in cold water.",
+      "raw": "This cotton shirt is suitable for washing in cold water.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-006:001",
+      "parent_id": "dev-product-006",
+      "attempt": 1,
+      "seed": 1686428480,
+      "text": "Can you wash this cotton shirt in cold water?",
+      "raw": "Can you wash this cotton shirt in cold water?",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-006:002",
+      "parent_id": "dev-product-006",
+      "attempt": 2,
+      "seed": 1319678412,
+      "text": "You may wash this cotton shirt in cold water.",
+      "raw": "You may wash this cotton shirt in cold water.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-006:003",
+      "parent_id": "dev-product-006",
+      "attempt": 3,
+      "seed": 2242770831,
+      "text": "A cotton shirt may be cleaned with cool water.",
+      "raw": "A cotton shirt may be cleaned with cool water.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-006:004",
+      "parent_id": "dev-product-006",
+      "attempt": 4,
+      "seed": 2065210153,
+      "text": "This cotton shirt may be laundered in cold water.",
+      "raw": "This cotton shirt may be laundered in cold water.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-006:005",
+      "parent_id": "dev-product-006",
+      "attempt": 5,
+      "seed": 2590787820,
+      "text": "You can wash this cotton shirt in cold water.",
+      "raw": "You can wash this cotton shirt in cold water.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-006:006",
+      "parent_id": "dev-product-006",
+      "attempt": 6,
+      "seed": 3748399421,
+      "text": "You may wash this cotton shirt in cold water.",
+      "raw": "You may wash this cotton shirt in cold water.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-006:007",
+      "parent_id": "dev-product-006",
+      "attempt": 7,
+      "seed": 727377157,
+      "text": "This cotton shirt is washable in cold water.",
+      "raw": "This cotton shirt is washable in cold water.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-006:008",
+      "parent_id": "dev-product-006",
+      "attempt": 8,
+      "seed": 2714860491,
+      "text": "This cotton shirt is washable in cold water.",
+      "raw": "This cotton shirt is washable in cold water.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-006:009",
+      "parent_id": "dev-product-006",
+      "attempt": 9,
+      "seed": 2412029338,
+      "text": "Can you wash this cotton shirt in cold water?",
+      "raw": "Can you wash this cotton shirt in cold water?",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-006:010",
+      "parent_id": "dev-product-006",
+      "attempt": 10,
+      "seed": 3639233126,
+      "text": "You may wash this cotton shirt in cold water.",
+      "raw": "You may wash this cotton shirt in cold water.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-006:011",
+      "parent_id": "dev-product-006",
+      "attempt": 11,
+      "seed": 358832368,
+      "text": "This cotton shirt is suitable for washing in cold water.",
+      "raw": "This cotton shirt is suitable for washing in cold water.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-006:012",
+      "parent_id": "dev-product-006",
+      "attempt": 12,
+      "seed": 1645149300,
+      "text": "This cotton shirt is compatible with washing in cold water.",
+      "raw": "This cotton shirt is compatible with washing in cold water.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-006:013",
+      "parent_id": "dev-product-006",
+      "attempt": 13,
+      "seed": 713370776,
+      "text": "Cotton shirts can be washed in cold water.",
+      "raw": "Cotton shirts can be washed in cold water.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-006:014",
+      "parent_id": "dev-product-006",
+      "attempt": 14,
+      "seed": 574189076,
+      "text": "You can wash this cotton shirt in cold water.",
+      "raw": "You can wash this cotton shirt in cold water.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-006:015",
+      "parent_id": "dev-product-006",
+      "attempt": 15,
+      "seed": 3168729036,
+      "text": "Wear this cotton shirt in cold water for washing.",
+      "raw": "Wear this cotton shirt in cold water for washing.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-006:016",
+      "parent_id": "dev-product-006",
+      "attempt": 16,
+      "seed": 2543114193,
+      "text": "This cotton shirt is washable in cold water.",
+      "raw": "This cotton shirt is washable in cold water.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-006:017",
+      "parent_id": "dev-product-006",
+      "attempt": 17,
+      "seed": 1009120582,
+      "text": "Can this cotton shirt be washed in cold water?",
+      "raw": "Can this cotton shirt be washed in cold water?",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-006:018",
+      "parent_id": "dev-product-006",
+      "attempt": 18,
+      "seed": 2114865788,
+      "text": "This cotton shirt washes well in cold water.",
+      "raw": "This cotton shirt washes well in cold water.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-006:019",
+      "parent_id": "dev-product-006",
+      "attempt": 19,
+      "seed": 427332376,
+      "text": "Cotton shirts should be cleaned with cold water.",
+      "raw": "Cotton shirts should be cleaned with cold water.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-006:020",
+      "parent_id": "dev-product-006",
+      "attempt": 20,
+      "seed": 472476959,
+      "text": "This cotton shirt may be laundered with cold water.",
+      "raw": "This cotton shirt may be laundered with cold water.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-006:021",
+      "parent_id": "dev-product-006",
+      "attempt": 21,
+      "seed": 2894334490,
+      "text": "You can wash this cotton shirt in cold water.",
+      "raw": "You can wash this cotton shirt in cold water.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-006:022",
+      "parent_id": "dev-product-006",
+      "attempt": 22,
+      "seed": 942110534,
+      "text": "Cotton shirts may be cleaned in cold water.",
+      "raw": "Cotton shirts may be cleaned in cold water.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-006:023",
+      "parent_id": "dev-product-006",
+      "attempt": 23,
+      "seed": 1138438453,
+      "text": "The cotton shirt may be cleaned in cool water.",
+      "raw": "The cotton shirt may be cleaned in cool water.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-006:024",
+      "parent_id": "dev-product-006",
+      "attempt": 24,
+      "seed": 919109911,
+      "text": "This cotton shirt can be laundered in cool water.",
+      "raw": "This cotton shirt can be laundered in cool water.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-006:025",
+      "parent_id": "dev-product-006",
+      "attempt": 25,
+      "seed": 2672067505,
+      "text": "You can wash this cotton shirt in cold water.",
+      "raw": "You can wash this cotton shirt in cold water.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-006:026",
+      "parent_id": "dev-product-006",
+      "attempt": 26,
+      "seed": 3739323893,
+      "text": "You can wash this cotton shirt in cold water.",
+      "raw": "You can wash this cotton shirt in cold water.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-006:027",
+      "parent_id": "dev-product-006",
+      "attempt": 27,
+      "seed": 3293211316,
+      "text": "The cotton shirt may be cleaned with cold water.",
+      "raw": "The cotton shirt may be cleaned with cold water.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-006:028",
+      "parent_id": "dev-product-006",
+      "attempt": 28,
+      "seed": 99151230,
+      "text": "This cotton t-shirt is washable in cold water.",
+      "raw": "This cotton t-shirt is washable in cold water.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-006:029",
+      "parent_id": "dev-product-006",
+      "attempt": 29,
+      "seed": 2412993934,
+      "text": "Cotton shirts can be laundered in cold water.",
+      "raw": "Cotton shirts can be laundered in cold water.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-006:030",
+      "parent_id": "dev-product-006",
+      "attempt": 30,
+      "seed": 1628647747,
+      "text": "You may wash this cotton shirt in cold water.",
+      "raw": "You may wash this cotton shirt in cold water.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-006:031",
+      "parent_id": "dev-product-006",
+      "attempt": 31,
+      "seed": 2591022888,
+      "text": "A cotton shirt may also be cleaned with cool water.",
+      "raw": "A cotton shirt may also be cleaned with cool water.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 362,
+  "generation_seconds": 6.335886241169646
+}

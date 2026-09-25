@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "test-product-012",
+    "group_id": "test-product-012",
+    "split": "test",
+    "domain": "product",
+    "text": "The mirror can stand on a table or hang on a wall."
+  },
+  "attempts": [
+    {
+      "candidate_id": "test-product-012:000",
+      "parent_id": "test-product-012",
+      "attempt": 0,
+      "seed": 3875939643,
+      "text": "The mirror may be positioned either on a tabletop or as an ornament adorning a wall surface.",
+      "raw": "The mirror may be positioned either on a tabletop or as an ornament adorning a wall surface.",
+      "generated_tokens": 20,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-012:001",
+      "parent_id": "test-product-012",
+      "attempt": 1,
+      "seed": 3015780032,
+      "text": "A mirror can be placed either on a table or hung from a wall.",
+      "raw": "A mirror can be placed either on a table or hung from a wall.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-012:002",
+      "parent_id": "test-product-012",
+      "attempt": 2,
+      "seed": 2108751372,
+      "text": "You may place the mirror upon a tabletop or affix it to a wall.",
+      "raw": "You may place the mirror upon a tabletop or affix it to a wall.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-012:003",
+      "parent_id": "test-product-012",
+      "attempt": 3,
+      "seed": 1527617859,
+      "text": "You may place the mirror either on a tabletop or hung from a wall.",
+      "raw": "You may place the mirror either on a tabletop or hung from a wall.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-012:004",
+      "parent_id": "test-product-012",
+      "attempt": 4,
+      "seed": 169514787,
+      "text": "The mirror may be placed on a table or hung from a wall.",
+      "raw": "The mirror may be placed on a table or hung from a wall.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-012:005",
+      "parent_id": "test-product-012",
+      "attempt": 5,
+      "seed": 237964227,
+      "text": "You can either place the mirror on a table or hang it on a wall.",
+      "raw": "You can either place the mirror on a table or hang it on a wall.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-012:006",
+      "parent_id": "test-product-012",
+      "attempt": 6,
+      "seed": 2012611894,
+      "text": "The mirror may rest upon a tabletop or drape from a wall.",
+      "raw": "The mirror may rest upon a tabletop or drape from a wall.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-012:007",
+      "parent_id": "test-product-012",
+      "attempt": 7,
+      "seed": 260368890,
+      "text": "The mirror may rest upon a tabletop or affix itself to the wall.",
+      "raw": "The mirror may rest upon a tabletop or affix itself to the wall.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-012:008",
+      "parent_id": "test-product-012",
+      "attempt": 8,
+      "seed": 2680478179,
+      "text": "The mirror may be positioned either atop a table or adorning a wall.",
+      "raw": "The mirror may be positioned either atop a table or adorning a wall.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-012:009",
+      "parent_id": "test-product-012",
+      "attempt": 9,
+      "seed": 3413482984,
+      "text": "A mirror can either stand on a table or be hung on a wall.",
+      "raw": "A mirror can either stand on a table or be hung on a wall.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-012:010",
+      "parent_id": "test-product-012",
+      "attempt": 10,
+      "seed": 2350806881,
+      "text": "The mirror can be placed either on a tabletop or hung on a wall.",
+      "raw": "The mirror can be placed either on a tabletop or hung on a wall.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-012:011",
+      "parent_id": "test-product-012",
+      "attempt": 11,
+      "seed": 2074427806,
+      "text": "The mirror may be placed either on a table or hung on a wall.",
+      "raw": "The mirror may be placed either on a table or hung on a wall.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-012:012",
+      "parent_id": "test-product-012",
+      "attempt": 12,
+      "seed": 716812144,
+      "text": "The mirror may be placed either atop a table or affixed to a wall.",
+      "raw": "The mirror may be placed either atop a table or affixed to a wall.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-012:013",
+      "parent_id": "test-product-012",
+      "attempt": 13,
+      "seed": 4227103117,
+      "text": "A mirror can be placed either on a table or hung on a wall.",
+      "raw": "A mirror can be placed either on a table or hung on a wall.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-012:014",
+      "parent_id": "test-product-012",
+      "attempt": 14,
+      "seed": 1979629323,
+      "text": "The mirror may rest upon a table or be suspended from a wall.",
+      "raw": "The mirror may rest upon a table or be suspended from a wall.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-012:015",
+      "parent_id": "test-product-012",
+      "attempt": 15,
+      "seed": 816960604,
+      "text": "The mirror may be placed either on a table or hung from a wall.",
+      "raw": "The mirror may be placed either on a table or hung from a wall.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-012:016",
+      "parent_id": "test-product-012",
+      "attempt": 16,
+      "seed": 449525201,
+      "text": "The mirror may rest upon a tabletop or be affixed to a wall.",
+      "raw": "The mirror may rest upon a tabletop or be affixed to a wall.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-012:017",
+      "parent_id": "test-product-012",
+      "attempt": 17,
+      "seed": 3643742552,
+      "text": "A mirror can be placed either on a table or hung on a wall.",
+      "raw": "A mirror can be placed either on a table or hung on a wall.",
+      "generated_tokens": 16,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-012:018",
+      "parent_id": "test-product-012",
+      "attempt": 18,
+      "seed": 2989822983,
+      "text": "A mirror may rest upon a table or be suspended from a wall.",
+      "raw": "A mirror may rest upon a table or be suspended from a wall.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-012:019",
+      "parent_id": "test-product-012",
+      "attempt": 19,
+      "seed": 1005161251,
+      "text": "A mirror may rest upon a tabletop or be affixed to a wall.",
+      "raw": "A mirror may rest upon a tabletop or be affixed to a wall.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-012:020",
+      "parent_id": "test-product-012",
+      "attempt": 20,
+      "seed": 3407496845,
+      "text": "The mirror can rest upon a tabletop or be mounted to a wall.",
+      "raw": "The mirror can rest upon a tabletop or be mounted to a wall.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-012:021",
+      "parent_id": "test-product-012",
+      "attempt": 21,
+      "seed": 3469895978,
+      "text": "A mirror can be placed either on a table or hung on a wall.",
+      "raw": "A mirror can be placed either on a table or hung on a wall.",
+      "generated_tokens": 16,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-012:022",
+      "parent_id": "test-product-012",
+      "attempt": 22,
+      "seed": 3758704485,
+      "text": "You can place the mirror either on a tabletop or on a wall.",
+      "raw": "You can place the mirror either on a tabletop or on a wall.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-012:023",
+      "parent_id": "test-product-012",
+      "attempt": 23,
+      "seed": 2429663600,
+      "text": "The mirror may rest on a table or be hung on a wall.",
+      "raw": "The mirror may rest on a table or be hung on a wall.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-012:024",
+      "parent_id": "test-product-012",
+      "attempt": 24,
+      "seed": 1193629305,
+      "text": "The mirror may be placed atop a table or suspended from a wall.",
+      "raw": "The mirror may be placed atop a table or suspended from a wall.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-012:025",
+      "parent_id": "test-product-012",
+      "attempt": 25,
+      "seed": 3444704016,
+      "text": "A mirror can be placed either on a table or hung on a wall.",
+      "raw": "A mirror can be placed either on a table or hung on a wall.",
+      "generated_tokens": 16,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-012:026",
+      "parent_id": "test-product-012",
+      "attempt": 26,
+      "seed": 829837461,
+      "text": "The mirror can be placed either on a tabletop or hung on a wall.",
+      "raw": "The mirror can be placed either on a tabletop or hung on a wall.",
+      "generated_tokens": 16,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-012:027",
+      "parent_id": "test-product-012",
+      "attempt": 27,
+      "seed": 459965212,
+      "text": "The mirror may be positioned either atop a desk or adjoined to a wall.",
+      "raw": "The mirror may be positioned either atop a desk or adjoined to a wall.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-012:028",
+      "parent_id": "test-product-012",
+      "attempt": 28,
+      "seed": 492881328,
+      "text": "A mirror may be placed either atop a tabletop or affixed to a wall surface.",
+      "raw": "A mirror may be placed either atop a tabletop or affixed to a wall surface.",
+      "generated_tokens": 18,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-012:029",
+      "parent_id": "test-product-012",
+      "attempt": 29,
+      "seed": 1936729777,
+      "text": "A mirror can either stand on a table or be hung on a wall.",
+      "raw": "A mirror can either stand on a table or be hung on a wall.",
+      "generated_tokens": 16,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-012:030",
+      "parent_id": "test-product-012",
+      "attempt": 30,
+      "seed": 3820472649,
+      "text": "The mirror may rest upon a tabletop or be suspended from a wall.",
+      "raw": "The mirror may rest upon a tabletop or be suspended from a wall.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-012:031",
+      "parent_id": "test-product-012",
+      "attempt": 31,
+      "seed": 1524316112,
+      "text": "The mirror may be placed on a tabletop or hung from a wall.",
+      "raw": "The mirror may be placed on a tabletop or hung from a wall.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 512,
+  "generation_seconds": 8.99573331209831
+}

@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "test-daily-002",
+    "group_id": "test-daily-002",
+    "split": "test",
+    "domain": "daily",
+    "text": "We decided to visit the museum after the rain stopped."
+  },
+  "attempts": [
+    {
+      "candidate_id": "test-daily-002:000",
+      "parent_id": "test-daily-002",
+      "attempt": 0,
+      "seed": 1906945543,
+      "text": "We opted for a museum trip once the rains ceased.",
+      "raw": "We opted for a museum trip once the rains ceased.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-002:001",
+      "parent_id": "test-daily-002",
+      "attempt": 1,
+      "seed": 177681566,
+      "text": "After the rain ceased, we decided to pay a visit to the museum.",
+      "raw": "After the rain ceased, we decided to pay a visit to the museum.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-002:002",
+      "parent_id": "test-daily-002",
+      "attempt": 2,
+      "seed": 1575731989,
+      "text": "We chose to explore the museum once the rain had subsided.",
+      "raw": "We chose to explore the museum once the rain had subsided.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-002:003",
+      "parent_id": "test-daily-002",
+      "attempt": 3,
+      "seed": 979640411,
+      "text": "We chose to explore the museum once the downpour subsided.",
+      "raw": "We chose to explore the museum once the downpour subsided.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-002:004",
+      "parent_id": "test-daily-002",
+      "attempt": 4,
+      "seed": 760935186,
+      "text": "We opted for a museum outing following cessation of rain.",
+      "raw": "We opted for a museum outing following cessation of rain.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-002:005",
+      "parent_id": "test-daily-002",
+      "attempt": 5,
+      "seed": 3702924234,
+      "text": "After the rain stopped, we decided to visit the museum.",
+      "raw": "After the rain stopped, we decided to visit the museum.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-002:006",
+      "parent_id": "test-daily-002",
+      "attempt": 6,
+      "seed": 4056680409,
+      "text": "We selected to explore the museum once the rain ceased.",
+      "raw": "We selected to explore the museum once the rain ceased.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-002:007",
+      "parent_id": "test-daily-002",
+      "attempt": 7,
+      "seed": 1895394181,
+      "text": "We chose to explore the museum when it ended raining.",
+      "raw": "We chose to explore the museum when it ended raining.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-002:008",
+      "parent_id": "test-daily-002",
+      "attempt": 8,
+      "seed": 2500870255,
+      "text": "We selected the museum for when the rain ceased.",
+      "raw": "We selected the museum for when the rain ceased.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-002:009",
+      "parent_id": "test-daily-002",
+      "attempt": 9,
+      "seed": 3396924148,
+      "text": "After the rain subsided, we opted to explore the museum.",
+      "raw": "After the rain subsided, we opted to explore the museum.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-002:010",
+      "parent_id": "test-daily-002",
+      "attempt": 10,
+      "seed": 2800567266,
+      "text": "We chose to explore the museum following the cessation of the rainfall.",
+      "raw": "We chose to explore the museum following the cessation of the rainfall.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-002:011",
+      "parent_id": "test-daily-002",
+      "attempt": 11,
+      "seed": 2143538907,
+      "text": "We chose to explore the museum following the cessation of rain.",
+      "raw": "We chose to explore the museum following the cessation of rain.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-002:012",
+      "parent_id": "test-daily-002",
+      "attempt": 12,
+      "seed": 4170963488,
+      "text": "We chose to explore the museum once the rainfall ceased.",
+      "raw": "We chose to explore the museum once the rainfall ceased.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-002:013",
+      "parent_id": "test-daily-002",
+      "attempt": 13,
+      "seed": 1819125669,
+      "text": "After the rain ceased, we chose to explore the museum.",
+      "raw": "After the rain ceased, we chose to explore the museum.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-002:014",
+      "parent_id": "test-daily-002",
+      "attempt": 14,
+      "seed": 1042464636,
+      "text": "We opted for a trip to the museum once the rain had ceased.",
+      "raw": "We opted for a trip to the museum once the rain had ceased.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-002:015",
+      "parent_id": "test-daily-002",
+      "attempt": 15,
+      "seed": 1024258829,
+      "text": "We decided to visit the museum once the rain had ceased.",
+      "raw": "We decided to visit the museum once the rain had ceased.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-002:016",
+      "parent_id": "test-daily-002",
+      "attempt": 16,
+      "seed": 2011662104,
+      "text": "We chose to explore the museum once the rain subsided.",
+      "raw": "We chose to explore the museum once the rain subsided.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-002:017",
+      "parent_id": "test-daily-002",
+      "attempt": 17,
+      "seed": 555134045,
+      "text": "The rain had subsided before we made our decision to visit the museum.",
+      "raw": "The rain had subsided before we made our decision to visit the museum.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-002:018",
+      "parent_id": "test-daily-002",
+      "attempt": 18,
+      "seed": 3838287238,
+      "text": "We chose to visit the museum when the rain ceased.",
+      "raw": "We chose to visit the museum when the rain ceased.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-002:019",
+      "parent_id": "test-daily-002",
+      "attempt": 19,
+      "seed": 4080974845,
+      "text": "We planned a trip to the museum once the rain had subsided.",
+      "raw": "We planned a trip to the museum once the rain had subsided.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-002:020",
+      "parent_id": "test-daily-002",
+      "attempt": 20,
+      "seed": 1745542806,
+      "text": "We chose to explore the museum once the rain ceased.",
+      "raw": "We chose to explore the museum once the rain ceased.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-002:021",
+      "parent_id": "test-daily-002",
+      "attempt": 21,
+      "seed": 1562674905,
+      "text": "After the rain stopped, we decided to visit the museum.",
+      "raw": "After the rain stopped, we decided to visit the museum.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-002:022",
+      "parent_id": "test-daily-002",
+      "attempt": 22,
+      "seed": 743734079,
+      "text": "We chose to explore the museum once the rain ceased.",
+      "raw": "We chose to explore the museum once the rain ceased.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-002:023",
+      "parent_id": "test-daily-002",
+      "attempt": 23,
+      "seed": 2371015795,
+      "text": "We chose to go to the museum when it stopped raining.",
+      "raw": "We chose to go to the museum when it stopped raining.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-002:024",
+      "parent_id": "test-daily-002",
+      "attempt": 24,
+      "seed": 638231115,
+      "text": "We chose to explore the museum following the cessation of precipitation.",
+      "raw": "We chose to explore the museum following the cessation of precipitation.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-002:025",
+      "parent_id": "test-daily-002",
+      "attempt": 25,
+      "seed": 1001702421,
+      "text": "After the rain ceased, we decided to visit the museum.",
+      "raw": "After the rain ceased, we decided to visit the museum.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-002:026",
+      "parent_id": "test-daily-002",
+      "attempt": 26,
+      "seed": 706503926,
+      "text": "We opted for a trip to the museum once the rain had subsided.",
+      "raw": "We opted for a trip to the museum once the rain had subsided.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-002:027",
+      "parent_id": "test-daily-002",
+      "attempt": 27,
+      "seed": 1905682434,
+      "text": "We selected a museum stay following cessation of rain.",
+      "raw": "We selected a museum stay following cessation of rain.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-002:028",
+      "parent_id": "test-daily-002",
+      "attempt": 28,
+      "seed": 661253872,
+      "text": "We chose to explore the museum once the rain subsided.",
+      "raw": "We chose to explore the museum once the rain subsided.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-002:029",
+      "parent_id": "test-daily-002",
+      "attempt": 29,
+      "seed": 2913995288,
+      "text": "After the rain ceased, we chose to explore the museum.",
+      "raw": "After the rain ceased, we chose to explore the museum.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-002:030",
+      "parent_id": "test-daily-002",
+      "attempt": 30,
+      "seed": 2142501913,
+      "text": "We chose to explore the museum when the rain subsided.",
+      "raw": "We chose to explore the museum when the rain subsided.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-002:031",
+      "parent_id": "test-daily-002",
+      "attempt": 31,
+      "seed": 2400850264,
+      "text": "We chose to explore the museum once the rain subsided.",
+      "raw": "We chose to explore the museum once the rain subsided.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    }
+  ],
+  "generated_tokens": 421,
+  "generation_seconds": 7.405612205853686
+}

@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "ood-science-020",
+    "group_id": "ood-science-020",
+    "split": "ood",
+    "domain": "science",
+    "text": "Air resistance acts against the motion of an object through air."
+  },
+  "attempts": [
+    {
+      "candidate_id": "ood-science-020:000",
+      "parent_id": "ood-science-020",
+      "attempt": 0,
+      "seed": 1335081981,
+      "text": "Air resistance opposes an object's movement through air.",
+      "raw": "Air resistance opposes an object's movement through air.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-020:001",
+      "parent_id": "ood-science-020",
+      "attempt": 1,
+      "seed": 3310559507,
+      "text": "Through air, an object experiences resistance as it moves.",
+      "raw": "Through air, an object experiences resistance as it moves.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-020:002",
+      "parent_id": "ood-science-020",
+      "attempt": 2,
+      "seed": 3205489281,
+      "text": "Air resistance opposes the movement of an item through air.",
+      "raw": "Air resistance opposes the movement of an item through air.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-020:003",
+      "parent_id": "ood-science-020",
+      "attempt": 3,
+      "seed": 534101125,
+      "text": "Air resistance opposes the movement of a body in air.",
+      "raw": "Air resistance opposes the movement of a body in air.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-020:004",
+      "parent_id": "ood-science-020",
+      "attempt": 4,
+      "seed": 519943487,
+      "text": "Air resistance opposes an object's movement in air.",
+      "raw": "Air resistance opposes an object's movement in air.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-020:005",
+      "parent_id": "ood-science-020",
+      "attempt": 5,
+      "seed": 383029593,
+      "text": "Against the motion of an object through air, air resistance acts.",
+      "raw": "Against the motion of an object through air, air resistance acts.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-020:006",
+      "parent_id": "ood-science-020",
+      "attempt": 6,
+      "seed": 3778386757,
+      "text": "Air resistance opposes the movement of an item through air.",
+      "raw": "Air resistance opposes the movement of an item through air.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-020:007",
+      "parent_id": "ood-science-020",
+      "attempt": 7,
+      "seed": 3900813210,
+      "text": "Air resistance opposes an object's movement in air.",
+      "raw": "Air resistance opposes an object's movement in air.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-020:008",
+      "parent_id": "ood-science-020",
+      "attempt": 8,
+      "seed": 4261496115,
+      "text": "Air resistance opposes the movement of an item across air.",
+      "raw": "Air resistance opposes the movement of an item across air.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-020:009",
+      "parent_id": "ood-science-020",
+      "attempt": 9,
+      "seed": 1897527150,
+      "text": "An object moving through air experiences resistance from the air.",
+      "raw": "An object moving through air experiences resistance from the air.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-020:010",
+      "parent_id": "ood-science-020",
+      "attempt": 10,
+      "seed": 1876364484,
+      "text": "Air resistance opposes an object's movement in air.",
+      "raw": "Air resistance opposes an object's movement in air.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-020:011",
+      "parent_id": "ood-science-020",
+      "attempt": 11,
+      "seed": 2357800089,
+      "text": "Air resistance opposes an object's movement in the atmosphere.",
+      "raw": "Air resistance opposes an object's movement in the atmosphere.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-020:012",
+      "parent_id": "ood-science-020",
+      "attempt": 12,
+      "seed": 948206494,
+      "text": "Air resistance opposes an object's movement within air.",
+      "raw": "Air resistance opposes an object's movement within air.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-020:013",
+      "parent_id": "ood-science-020",
+      "attempt": 13,
+      "seed": 196506745,
+      "text": "An object experiences resistance while moving through air due to its motion.",
+      "raw": "An object experiences resistance while moving through air due to its motion.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-020:014",
+      "parent_id": "ood-science-020",
+      "attempt": 14,
+      "seed": 1523294061,
+      "text": "Air resistance opposes an object's movement through the air.",
+      "raw": "Air resistance opposes an object's movement through the air.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-020:015",
+      "parent_id": "ood-science-020",
+      "attempt": 15,
+      "seed": 1408244613,
+      "text": "Air resistance opposes the movement of a body through the atmosphere.",
+      "raw": "Air resistance opposes the movement of a body through the atmosphere.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-020:016",
+      "parent_id": "ood-science-020",
+      "attempt": 16,
+      "seed": 3077038375,
+      "text": "Air resistance opposes the movement of an item through the atmosphere.",
+      "raw": "Air resistance opposes the movement of an item through the atmosphere.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-020:017",
+      "parent_id": "ood-science-020",
+      "attempt": 17,
+      "seed": 288537009,
+      "text": "An object moving through air experiences resistance.",
+      "raw": "An object moving through air experiences resistance.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-020:018",
+      "parent_id": "ood-science-020",
+      "attempt": 18,
+      "seed": 2225289564,
+      "text": "Objects moving against air resistance in the atmosphere.",
+      "raw": "Objects moving against air resistance in the atmosphere.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-020:019",
+      "parent_id": "ood-science-020",
+      "attempt": 19,
+      "seed": 3855827968,
+      "text": "Air resistance opposes an object's movement in the air.",
+      "raw": "Air resistance opposes an object's movement in the air.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-020:020",
+      "parent_id": "ood-science-020",
+      "attempt": 20,
+      "seed": 1883636769,
+      "text": "Air resistance opposes the movement of an item in the air.",
+      "raw": "Air resistance opposes the movement of an item in the air.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-020:021",
+      "parent_id": "ood-science-020",
+      "attempt": 21,
+      "seed": 3230290061,
+      "text": "The presence of air resistance opposes the movement of an object within it.",
+      "raw": "The presence of air resistance opposes the movement of an object within it.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-020:022",
+      "parent_id": "ood-science-020",
+      "attempt": 22,
+      "seed": 1913142640,
+      "text": "Air resistance opposes the movement of an item within the atmosphere.",
+      "raw": "Air resistance opposes the movement of an item within the atmosphere.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-020:023",
+      "parent_id": "ood-science-020",
+      "attempt": 23,
+      "seed": 3071444141,
+      "text": "Air resistance opposes an object's movement in air.",
+      "raw": "Air resistance opposes an object's movement in air.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-020:024",
+      "parent_id": "ood-science-020",
+      "attempt": 24,
+      "seed": 1631498407,
+      "text": "Air resistance opposes an object's movement through the atmosphere.",
+      "raw": "Air resistance opposes an object's movement through the atmosphere.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-020:025",
+      "parent_id": "ood-science-020",
+      "attempt": 25,
+      "seed": 1383188684,
+      "text": "An object moves through air in the presence of air resistance.",
+      "raw": "An object moves through air in the presence of air resistance.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-020:026",
+      "parent_id": "ood-science-020",
+      "attempt": 26,
+      "seed": 987137217,
+      "text": "Air resistance opposes an object's movement through the air.",
+      "raw": "Air resistance opposes an object's movement through the air.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-020:027",
+      "parent_id": "ood-science-020",
+      "attempt": 27,
+      "seed": 3436675377,
+      "text": "Air resistance opposes an object's movement through air.",
+      "raw": "Air resistance opposes an object's movement through air.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-020:028",
+      "parent_id": "ood-science-020",
+      "attempt": 28,
+      "seed": 4038740716,
+      "text": "Air resistance opposes an object's movement within air.",
+      "raw": "Air resistance opposes an object's movement within air.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-020:029",
+      "parent_id": "ood-science-020",
+      "attempt": 29,
+      "seed": 2005167053,
+      "text": "An object moving through air experiences air resistance opposing its motion.",
+      "raw": "An object moving through air experiences air resistance opposing its motion.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-020:030",
+      "parent_id": "ood-science-020",
+      "attempt": 30,
+      "seed": 762270299,
+      "text": "Air resistance opposes an object's movement through the atmosphere.",
+      "raw": "Air resistance opposes an object's movement through the atmosphere.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-020:031",
+      "parent_id": "ood-science-020",
+      "attempt": 31,
+      "seed": 3606156746,
+      "text": "Air resistance opposes an object's movement through air.",
+      "raw": "Air resistance opposes an object's movement through air.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    }
+  ],
+  "generated_tokens": 383,
+  "generation_seconds": 6.714025492081419
+}

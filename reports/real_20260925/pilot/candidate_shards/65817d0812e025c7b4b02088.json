@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "dev-product-013",
+    "group_id": "dev-product-013",
+    "split": "dev",
+    "domain": "product",
+    "text": "This towel has a loop for hanging it on a hook."
+  },
+  "attempts": [
+    {
+      "candidate_id": "dev-product-013:000",
+      "parent_id": "dev-product-013",
+      "attempt": 0,
+      "seed": 3053083616,
+      "text": "This towel features an attachment point to hang it using a bracket.",
+      "raw": "This towel features an attachment point to hang it using a bracket.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-013:001",
+      "parent_id": "dev-product-013",
+      "attempt": 1,
+      "seed": 2356761270,
+      "text": "A towel has a loop for hanging it on a hook.",
+      "raw": "A towel has a loop for hanging it on a hook.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-013:002",
+      "parent_id": "dev-product-013",
+      "attempt": 2,
+      "seed": 3622278982,
+      "text": "This towel features an attachment point for hanging it using a hook.",
+      "raw": "This towel features an attachment point for hanging it using a hook.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-013:003",
+      "parent_id": "dev-product-013",
+      "attempt": 3,
+      "seed": 3590901262,
+      "text": "The towel includes an attachment suitable for hanging from a hook.",
+      "raw": "The towel includes an attachment suitable for hanging from a hook.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-013:004",
+      "parent_id": "dev-product-013",
+      "attempt": 4,
+      "seed": 1203213890,
+      "text": "This towel possesses a loop for hanging it upon a hook.",
+      "raw": "This towel possesses a loop for hanging it upon a hook.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-013:005",
+      "parent_id": "dev-product-013",
+      "attempt": 5,
+      "seed": 1209311678,
+      "text": "It is possible to hang this towel by adding a loop at its end.",
+      "raw": "It is possible to hang this towel by adding a loop at its end.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-013:006",
+      "parent_id": "dev-product-013",
+      "attempt": 6,
+      "seed": 2423321135,
+      "text": "This towel possesses an attachment suitable for hanging by a hook.",
+      "raw": "This towel possesses an attachment suitable for hanging by a hook.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-013:007",
+      "parent_id": "dev-product-013",
+      "attempt": 7,
+      "seed": 3442631966,
+      "text": "There is a loop included in this towel for hanging it from a hook.",
+      "raw": "There is a loop included in this towel for hanging it from a hook.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-013:008",
+      "parent_id": "dev-product-013",
+      "attempt": 8,
+      "seed": 807351029,
+      "text": "This towel features a loop to hang it from a hook.",
+      "raw": "This towel features a loop to hang it from a hook.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-013:009",
+      "parent_id": "dev-product-013",
+      "attempt": 9,
+      "seed": 4252979474,
+      "text": "A loop is used to hang this towel on a hook.",
+      "raw": "A loop is used to hang this towel on a hook.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-013:010",
+      "parent_id": "dev-product-013",
+      "attempt": 10,
+      "seed": 1725289464,
+      "text": "This towel features a loop designed for hanging from a hook.",
+      "raw": "This towel features a loop designed for hanging from a hook.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-013:011",
+      "parent_id": "dev-product-013",
+      "attempt": 11,
+      "seed": 1536896881,
+      "text": "This towel features a loop suitable for hanging it from a hook.",
+      "raw": "This towel features a loop suitable for hanging it from a hook.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-013:012",
+      "parent_id": "dev-product-013",
+      "attempt": 12,
+      "seed": 3051322734,
+      "text": "This towel features a loop to hang it from a hook.",
+      "raw": "This towel features a loop to hang it from a hook.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-013:013",
+      "parent_id": "dev-product-013",
+      "attempt": 13,
+      "seed": 2696117982,
+      "text": "A loop is present on this towel to hang it using a hook.",
+      "raw": "A loop is present on this towel to hang it using a hook.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-013:014",
+      "parent_id": "dev-product-013",
+      "attempt": 14,
+      "seed": 90914605,
+      "text": "This towel features an attachment suitable for hanging from a nail.",
+      "raw": "This towel features an attachment suitable for hanging from a nail.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-013:015",
+      "parent_id": "dev-product-013",
+      "attempt": 15,
+      "seed": 1547748580,
+      "text": "The towel features a loop to hang it from a hook.",
+      "raw": "The towel features a loop to hang it from a hook.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-013:016",
+      "parent_id": "dev-product-013",
+      "attempt": 16,
+      "seed": 775976599,
+      "text": "This towel features a loop designed for hanging it from a hook.",
+      "raw": "This towel features a loop designed for hanging it from a hook.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-013:017",
+      "parent_id": "dev-product-013",
+      "attempt": 17,
+      "seed": 3106342429,
+      "text": "A loop is available in this towel to hang it using a hook.",
+      "raw": "A loop is available in this towel to hang it using a hook.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-013:018",
+      "parent_id": "dev-product-013",
+      "attempt": 18,
+      "seed": 3534675326,
+      "text": "This towel features an attachment for hanging it on a hook.",
+      "raw": "This towel features an attachment for hanging it on a hook.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-013:019",
+      "parent_id": "dev-product-013",
+      "attempt": 19,
+      "seed": 2266791445,
+      "text": "The towel features a loop suitable for hanging on a hook.",
+      "raw": "The towel features a loop suitable for hanging on a hook.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-013:020",
+      "parent_id": "dev-product-013",
+      "attempt": 20,
+      "seed": 3203609319,
+      "text": "This towel possesses a loop to hang it upon a hook.",
+      "raw": "This towel possesses a loop to hang it upon a hook.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-013:021",
+      "parent_id": "dev-product-013",
+      "attempt": 21,
+      "seed": 1731705090,
+      "text": "A loop is used to hang this towel on a hook.",
+      "raw": "A loop is used to hang this towel on a hook.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-013:022",
+      "parent_id": "dev-product-013",
+      "attempt": 22,
+      "seed": 1185767602,
+      "text": "This towel features an attachment designed for hanging by attaching to a hook.",
+      "raw": "This towel features an attachment designed for hanging by attaching to a hook.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-013:023",
+      "parent_id": "dev-product-013",
+      "attempt": 23,
+      "seed": 748181095,
+      "text": "This towel features a loop suitable for hanging with a hook.",
+      "raw": "This towel features a loop suitable for hanging with a hook.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-013:024",
+      "parent_id": "dev-product-013",
+      "attempt": 24,
+      "seed": 1728378689,
+      "text": "This towel includes a loop to hang it using a hook.",
+      "raw": "This towel includes a loop to hang it using a hook.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-013:025",
+      "parent_id": "dev-product-013",
+      "attempt": 25,
+      "seed": 142770184,
+      "text": "A loop is present on this towel for hanging it on a hook.",
+      "raw": "A loop is present on this towel for hanging it on a hook.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-013:026",
+      "parent_id": "dev-product-013",
+      "attempt": 26,
+      "seed": 3710667970,
+      "text": "This towel features a loop for hanging it from a hook.",
+      "raw": "This towel features a loop for hanging it from a hook.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-013:027",
+      "parent_id": "dev-product-013",
+      "attempt": 27,
+      "seed": 744242901,
+      "text": "This towel features a loop suitable for hanging by a hook.",
+      "raw": "This towel features a loop suitable for hanging by a hook.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-013:028",
+      "parent_id": "dev-product-013",
+      "attempt": 28,
+      "seed": 590748401,
+      "text": "This towel features an attachment suitable for hanging with a hook.",
+      "raw": "This towel features an attachment suitable for hanging with a hook.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-013:029",
+      "parent_id": "dev-product-013",
+      "attempt": 29,
+      "seed": 3634893110,
+      "text": "A loop is available on this towel for hanging it using a hook.",
+      "raw": "A loop is available on this towel for hanging it using a hook.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-013:030",
+      "parent_id": "dev-product-013",
+      "attempt": 30,
+      "seed": 3485854627,
+      "text": "This towel features an attachment for hanging it using a hook.",
+      "raw": "This towel features an attachment for hanging it using a hook.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-013:031",
+      "parent_id": "dev-product-013",
+      "attempt": 31,
+      "seed": 4078447140,
+      "text": "This towel features an attachment suitable for hanging via a loop near its edges.",
+      "raw": "This towel features an attachment suitable for hanging via a loop near its edges.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 439,
+  "generation_seconds": 7.852373831905425
+}

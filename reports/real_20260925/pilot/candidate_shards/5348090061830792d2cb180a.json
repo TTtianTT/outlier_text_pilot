@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "test-product-005",
+    "group_id": "test-product-005",
+    "split": "test",
+    "domain": "product",
+    "text": "The fan comes with a remote control and a timer."
+  },
+  "attempts": [
+    {
+      "candidate_id": "test-product-005:000",
+      "parent_id": "test-product-005",
+      "attempt": 0,
+      "seed": 2914779962,
+      "text": "The fan includes both a remote control and a timer.",
+      "raw": "The fan includes both a remote control and a timer.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-005:001",
+      "parent_id": "test-product-005",
+      "attempt": 1,
+      "seed": 4182773694,
+      "text": "A remote control and a timer are included with the fan.",
+      "raw": "A remote control and a timer are included with the fan.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-005:002",
+      "parent_id": "test-product-005",
+      "attempt": 2,
+      "seed": 2015918048,
+      "text": "The fan includes both a remote control and a timer.",
+      "raw": "The fan includes both a remote control and a timer.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-005:003",
+      "parent_id": "test-product-005",
+      "attempt": 3,
+      "seed": 2965992126,
+      "text": "The fan includes a remote control and a timer.",
+      "raw": "The fan includes a remote control and a timer.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-005:004",
+      "parent_id": "test-product-005",
+      "attempt": 4,
+      "seed": 232620357,
+      "text": "The fan includes a remote control and a timer.",
+      "raw": "The fan includes a remote control and a timer.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-005:005",
+      "parent_id": "test-product-005",
+      "attempt": 5,
+      "seed": 830964205,
+      "text": "A remote control and a timer come with the fan.",
+      "raw": "A remote control and a timer come with the fan.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-005:006",
+      "parent_id": "test-product-005",
+      "attempt": 6,
+      "seed": 4107750564,
+      "text": "The fan includes both a remote control and a timer.",
+      "raw": "The fan includes both a remote control and a timer.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-005:007",
+      "parent_id": "test-product-005",
+      "attempt": 7,
+      "seed": 1876348620,
+      "text": "The fan includes both a remote control and a timer.",
+      "raw": "The fan includes both a remote control and a timer.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-005:008",
+      "parent_id": "test-product-005",
+      "attempt": 8,
+      "seed": 1521027433,
+      "text": "The device includes both a remote control and a timer.",
+      "raw": "The device includes both a remote control and a timer.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-005:009",
+      "parent_id": "test-product-005",
+      "attempt": 9,
+      "seed": 2968186832,
+      "text": "A fan comes equipped with both a remote control and a timer.",
+      "raw": "A fan comes equipped with both a remote control and a timer.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-005:010",
+      "parent_id": "test-product-005",
+      "attempt": 10,
+      "seed": 134433188,
+      "text": "The fan includes both a remote control and a timer.",
+      "raw": "The fan includes both a remote control and a timer.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-005:011",
+      "parent_id": "test-product-005",
+      "attempt": 11,
+      "seed": 2440076305,
+      "text": "The fan includes both a remote control and a timer.",
+      "raw": "The fan includes both a remote control and a timer.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-005:012",
+      "parent_id": "test-product-005",
+      "attempt": 12,
+      "seed": 3680848166,
+      "text": "The fan includes a remote control and a timer.",
+      "raw": "The fan includes a remote control and a timer.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-005:013",
+      "parent_id": "test-product-005",
+      "attempt": 13,
+      "seed": 1834044861,
+      "text": "The fan includes both a remote control and a timer.",
+      "raw": "The fan includes both a remote control and a timer.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-005:014",
+      "parent_id": "test-product-005",
+      "attempt": 14,
+      "seed": 597292144,
+      "text": "The fan is equipped with both a remote control and a timer.",
+      "raw": "The fan is equipped with both a remote control and a timer.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-005:015",
+      "parent_id": "test-product-005",
+      "attempt": 15,
+      "seed": 32694386,
+      "text": "The fan includes a remote control and a timer.",
+      "raw": "The fan includes a remote control and a timer.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-005:016",
+      "parent_id": "test-product-005",
+      "attempt": 16,
+      "seed": 819075277,
+      "text": "The fan is equipped with a remote control and a timer.",
+      "raw": "The fan is equipped with a remote control and a timer.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-005:017",
+      "parent_id": "test-product-005",
+      "attempt": 17,
+      "seed": 2798476739,
+      "text": "A remote control and a timer come along with the fan.",
+      "raw": "A remote control and a timer come along with the fan.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-005:018",
+      "parent_id": "test-product-005",
+      "attempt": 18,
+      "seed": 323671071,
+      "text": "The fan includes both a remote control and a timer.",
+      "raw": "The fan includes both a remote control and a timer.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-005:019",
+      "parent_id": "test-product-005",
+      "attempt": 19,
+      "seed": 3695973889,
+      "text": "The fan includes both a remote control and a timer.",
+      "raw": "The fan includes both a remote control and a timer.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-005:020",
+      "parent_id": "test-product-005",
+      "attempt": 20,
+      "seed": 257693835,
+      "text": "The fan is equipped with a remote control and timer.",
+      "raw": "The fan is equipped with a remote control and timer.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-005:021",
+      "parent_id": "test-product-005",
+      "attempt": 21,
+      "seed": 4279447150,
+      "text": "A remote control and a timer come along with the fan.",
+      "raw": "A remote control and a timer come along with the fan.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-005:022",
+      "parent_id": "test-product-005",
+      "attempt": 22,
+      "seed": 2955523277,
+      "text": "The fan includes both a remote control and a timer.",
+      "raw": "The fan includes both a remote control and a timer.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-005:023",
+      "parent_id": "test-product-005",
+      "attempt": 23,
+      "seed": 2895848675,
+      "text": "The fan includes both a remote control and a timer.",
+      "raw": "The fan includes both a remote control and a timer.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-005:024",
+      "parent_id": "test-product-005",
+      "attempt": 24,
+      "seed": 4290645899,
+      "text": "The fan includes both a remote control and a timer.",
+      "raw": "The fan includes both a remote control and a timer.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-005:025",
+      "parent_id": "test-product-005",
+      "attempt": 25,
+      "seed": 884631452,
+      "text": "A fan includes both a remote control and a timer.",
+      "raw": "A fan includes both a remote control and a timer.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-005:026",
+      "parent_id": "test-product-005",
+      "attempt": 26,
+      "seed": 4115015196,
+      "text": "The fan includes both a remote control and a timer.",
+      "raw": "The fan includes both a remote control and a timer.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-005:027",
+      "parent_id": "test-product-005",
+      "attempt": 27,
+      "seed": 944927770,
+      "text": "The fan includes a remote control and a timer.",
+      "raw": "The fan includes a remote control and a timer.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-005:028",
+      "parent_id": "test-product-005",
+      "attempt": 28,
+      "seed": 3729443193,
+      "text": "The fan includes a remote control and a timer.",
+      "raw": "The fan includes a remote control and a timer.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-005:029",
+      "parent_id": "test-product-005",
+      "attempt": 29,
+      "seed": 1748473069,
+      "text": "A remote control and a timer come with the fan.",
+      "raw": "A remote control and a timer come with the fan.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-005:030",
+      "parent_id": "test-product-005",
+      "attempt": 30,
+      "seed": 2213174907,
+      "text": "The fan includes both a remote control and a timer.",
+      "raw": "The fan includes both a remote control and a timer.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-005:031",
+      "parent_id": "test-product-005",
+      "attempt": 31,
+      "seed": 2485015615,
+      "text": "The fan includes both a remote control and a timer.",
+      "raw": "The fan includes both a remote control and a timer.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    }
+  ],
+  "generated_tokens": 386,
+  "generation_seconds": 6.805769664933905
+}

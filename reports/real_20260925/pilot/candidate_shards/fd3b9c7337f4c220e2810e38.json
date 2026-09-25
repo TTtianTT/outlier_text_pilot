@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "ood-science-017",
+    "group_id": "ood-science-017",
+    "split": "ood",
+    "domain": "science",
+    "text": "A prism can separate white light into a range of colors."
+  },
+  "attempts": [
+    {
+      "candidate_id": "ood-science-017:000",
+      "parent_id": "ood-science-017",
+      "attempt": 0,
+      "seed": 3944658896,
+      "text": "A prism splits white light into various hues.",
+      "raw": "A prism splits white light into various hues.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-017:001",
+      "parent_id": "ood-science-017",
+      "attempt": 1,
+      "seed": 2220146251,
+      "text": "A prism divides white light into various hues.",
+      "raw": "A prism divides white light into various hues.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-017:002",
+      "parent_id": "ood-science-017",
+      "attempt": 2,
+      "seed": 1888386775,
+      "text": "A prism splits white light into different hues.",
+      "raw": "A prism splits white light into different hues.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-017:003",
+      "parent_id": "ood-science-017",
+      "attempt": 3,
+      "seed": 1562901811,
+      "text": "A prism disperses white light into various hues.",
+      "raw": "A prism disperses white light into various hues.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-017:004",
+      "parent_id": "ood-science-017",
+      "attempt": 4,
+      "seed": 276944305,
+      "text": "A prism can disperse white light into various hues.",
+      "raw": "A prism can disperse white light into various hues.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-017:005",
+      "parent_id": "ood-science-017",
+      "attempt": 5,
+      "seed": 711086038,
+      "text": "White light is separated into a range of colors by a prism.",
+      "raw": "White light is separated into a range of colors by a prism.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-017:006",
+      "parent_id": "ood-science-017",
+      "attempt": 6,
+      "seed": 953687063,
+      "text": "A prism breaks white light into various hues.",
+      "raw": "A prism breaks white light into various hues.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-017:007",
+      "parent_id": "ood-science-017",
+      "attempt": 7,
+      "seed": 2775002505,
+      "text": "A prism disperses white light into various hues.",
+      "raw": "A prism disperses white light into various hues.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-017:008",
+      "parent_id": "ood-science-017",
+      "attempt": 8,
+      "seed": 3306086577,
+      "text": "A prism can disperse white light into various hues.",
+      "raw": "A prism can disperse white light into various hues.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-017:009",
+      "parent_id": "ood-science-017",
+      "attempt": 9,
+      "seed": 2897880025,
+      "text": "A prism divides white light into various shades.",
+      "raw": "A prism divides white light into various shades.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-017:010",
+      "parent_id": "ood-science-017",
+      "attempt": 10,
+      "seed": 3157805641,
+      "text": "A prism can disperse white light into a spectrum of various hues.",
+      "raw": "A prism can disperse white light into a spectrum of various hues.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-017:011",
+      "parent_id": "ood-science-017",
+      "attempt": 11,
+      "seed": 3877601678,
+      "text": "A prism breaks white light into different hues.",
+      "raw": "A prism breaks white light into different hues.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-017:012",
+      "parent_id": "ood-science-017",
+      "attempt": 12,
+      "seed": 2488394520,
+      "text": "A prism breaks white light into various hues.",
+      "raw": "A prism breaks white light into various hues.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-017:013",
+      "parent_id": "ood-science-017",
+      "attempt": 13,
+      "seed": 1028155617,
+      "text": "A prism splits white light into various colors.",
+      "raw": "A prism splits white light into various colors.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-017:014",
+      "parent_id": "ood-science-017",
+      "attempt": 14,
+      "seed": 1609023785,
+      "text": "A prism splits white light into various hues.",
+      "raw": "A prism splits white light into various hues.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-017:015",
+      "parent_id": "ood-science-017",
+      "attempt": 15,
+      "seed": 2267675823,
+      "text": "A prism disperses white light into various hues.",
+      "raw": "A prism disperses white light into various hues.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-017:016",
+      "parent_id": "ood-science-017",
+      "attempt": 16,
+      "seed": 2127420642,
+      "text": "A prism splits white light into various hues.",
+      "raw": "A prism splits white light into various hues.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-017:017",
+      "parent_id": "ood-science-017",
+      "attempt": 17,
+      "seed": 671201179,
+      "text": "A prism is capable of dispersing white light into an array of hues.",
+      "raw": "A prism is capable of dispersing white light into an array of hues.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-017:018",
+      "parent_id": "ood-science-017",
+      "attempt": 18,
+      "seed": 3971671058,
+      "text": "A prism splits white light into various hues.",
+      "raw": "A prism splits white light into various hues.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-017:019",
+      "parent_id": "ood-science-017",
+      "attempt": 19,
+      "seed": 2218355424,
+      "text": "A prism breaks down white light into various hues.",
+      "raw": "A prism breaks down white light into various hues.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-017:020",
+      "parent_id": "ood-science-017",
+      "attempt": 20,
+      "seed": 3589191263,
+      "text": "A prism breaks down white light into various hues.",
+      "raw": "A prism breaks down white light into various hues.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-017:021",
+      "parent_id": "ood-science-017",
+      "attempt": 21,
+      "seed": 2856410017,
+      "text": "A prism disperses white light into various hues.",
+      "raw": "A prism disperses white light into various hues.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-017:022",
+      "parent_id": "ood-science-017",
+      "attempt": 22,
+      "seed": 2224965721,
+      "text": "A prism disperses white light into a spectrum of hues.",
+      "raw": "A prism disperses white light into a spectrum of hues.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-017:023",
+      "parent_id": "ood-science-017",
+      "attempt": 23,
+      "seed": 843141078,
+      "text": "A prism can disperse white light into various hues.",
+      "raw": "A prism can disperse white light into various hues.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-017:024",
+      "parent_id": "ood-science-017",
+      "attempt": 24,
+      "seed": 2274821763,
+      "text": "A prism splits white light into various hues.",
+      "raw": "A prism splits white light into various hues.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-017:025",
+      "parent_id": "ood-science-017",
+      "attempt": 25,
+      "seed": 1923140391,
+      "text": "A prism can disperse white light into various hues.",
+      "raw": "A prism can disperse white light into various hues.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-017:026",
+      "parent_id": "ood-science-017",
+      "attempt": 26,
+      "seed": 96672874,
+      "text": "A prism disperses white light into various hues.",
+      "raw": "A prism disperses white light into various hues.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-017:027",
+      "parent_id": "ood-science-017",
+      "attempt": 27,
+      "seed": 3203014891,
+      "text": "A prism can split white light into different hues.",
+      "raw": "A prism can split white light into different hues.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-017:028",
+      "parent_id": "ood-science-017",
+      "attempt": 28,
+      "seed": 2867096676,
+      "text": "A prism splits white light into various hues.",
+      "raw": "A prism splits white light into various hues.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-017:029",
+      "parent_id": "ood-science-017",
+      "attempt": 29,
+      "seed": 2396641079,
+      "text": "White light is separated into a variety of hues by a prism.",
+      "raw": "White light is separated into a variety of hues by a prism.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-017:030",
+      "parent_id": "ood-science-017",
+      "attempt": 30,
+      "seed": 3163218676,
+      "text": "A prism splits white light into various hues.",
+      "raw": "A prism splits white light into various hues.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-017:031",
+      "parent_id": "ood-science-017",
+      "attempt": 31,
+      "seed": 3327066804,
+      "text": "A prism splits white light into various colors.",
+      "raw": "A prism splits white light into various colors.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    }
+  ],
+  "generated_tokens": 358,
+  "generation_seconds": 6.2845516100060195
+}

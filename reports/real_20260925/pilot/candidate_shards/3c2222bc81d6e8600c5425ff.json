@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "test-daily-006",
+    "group_id": "test-daily-006",
+    "split": "test",
+    "domain": "daily",
+    "text": "We opened the windows to let some fresh air into the room."
+  },
+  "attempts": [
+    {
+      "candidate_id": "test-daily-006:000",
+      "parent_id": "test-daily-006",
+      "attempt": 0,
+      "seed": 3202345068,
+      "text": "We opened the windows to admit some fresh air into the room.",
+      "raw": "We opened the windows to admit some fresh air into the room.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-006:001",
+      "parent_id": "test-daily-006",
+      "attempt": 1,
+      "seed": 3214721418,
+      "text": "Letting in some fresh air, we opened the windows.",
+      "raw": "Letting in some fresh air, we opened the windows.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-006:002",
+      "parent_id": "test-daily-006",
+      "attempt": 2,
+      "seed": 48590480,
+      "text": "We opened the windows to allow some fresh air into the room.",
+      "raw": "We opened the windows to allow some fresh air into the room.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-006:003",
+      "parent_id": "test-daily-006",
+      "attempt": 3,
+      "seed": 941825278,
+      "text": "We opened the windows to allow a bit of fresh air into the room.",
+      "raw": "We opened the windows to allow a bit of fresh air into the room.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-006:004",
+      "parent_id": "test-daily-006",
+      "attempt": 4,
+      "seed": 1810542558,
+      "text": "We opened the windows to admit some fresh air into the chamber.",
+      "raw": "We opened the windows to admit some fresh air into the chamber.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-006:005",
+      "parent_id": "test-daily-006",
+      "attempt": 5,
+      "seed": 4244904615,
+      "text": "Letting in some fresh air, we opened the windows.",
+      "raw": "Letting in some fresh air, we opened the windows.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-006:006",
+      "parent_id": "test-daily-006",
+      "attempt": 6,
+      "seed": 89290236,
+      "text": "We opened the windows to introduce some fresh air into the room.",
+      "raw": "We opened the windows to introduce some fresh air into the room.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-006:007",
+      "parent_id": "test-daily-006",
+      "attempt": 7,
+      "seed": 2769931410,
+      "text": "We opened the windows to admit a bit of fresh air inside.",
+      "raw": "We opened the windows to admit a bit of fresh air inside.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-006:008",
+      "parent_id": "test-daily-006",
+      "attempt": 8,
+      "seed": 1288415885,
+      "text": "We opened the windows to admit some fresh air into the room.",
+      "raw": "We opened the windows to admit some fresh air into the room.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-006:009",
+      "parent_id": "test-daily-006",
+      "attempt": 9,
+      "seed": 873810791,
+      "text": "Letting in some fresh air, we opened the windows.",
+      "raw": "Letting in some fresh air, we opened the windows.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-006:010",
+      "parent_id": "test-daily-006",
+      "attempt": 10,
+      "seed": 2265476352,
+      "text": "We opened the windows to admit some fresh air into the room.",
+      "raw": "We opened the windows to admit some fresh air into the room.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-006:011",
+      "parent_id": "test-daily-006",
+      "attempt": 11,
+      "seed": 515987942,
+      "text": "We opened the windows to allow in some fresh air.",
+      "raw": "We opened the windows to allow in some fresh air.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-006:012",
+      "parent_id": "test-daily-006",
+      "attempt": 12,
+      "seed": 305629932,
+      "text": "We opened the windows to admit some fresh air into the space.",
+      "raw": "We opened the windows to admit some fresh air into the space.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-006:013",
+      "parent_id": "test-daily-006",
+      "attempt": 13,
+      "seed": 4252059557,
+      "text": "Letting in some fresh air, we opened the windows.",
+      "raw": "Letting in some fresh air, we opened the windows.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-006:014",
+      "parent_id": "test-daily-006",
+      "attempt": 14,
+      "seed": 318505336,
+      "text": "We opened the windows to admit some fresh air into the room.",
+      "raw": "We opened the windows to admit some fresh air into the room.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-006:015",
+      "parent_id": "test-daily-006",
+      "attempt": 15,
+      "seed": 639994368,
+      "text": "We opened the windows to admit a bit of fresh air inside the space.",
+      "raw": "We opened the windows to admit a bit of fresh air inside the space.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-006:016",
+      "parent_id": "test-daily-006",
+      "attempt": 16,
+      "seed": 1850130972,
+      "text": "We opened the windows to admit some fresh air into the room.",
+      "raw": "We opened the windows to admit some fresh air into the room.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-006:017",
+      "parent_id": "test-daily-006",
+      "attempt": 17,
+      "seed": 671485338,
+      "text": "Let some fresh air into the room by opening the windows.",
+      "raw": "Let some fresh air into the room by opening the windows.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-006:018",
+      "parent_id": "test-daily-006",
+      "attempt": 18,
+      "seed": 339761925,
+      "text": "We opened the windows to allow some fresh air into the room.",
+      "raw": "We opened the windows to allow some fresh air into the room.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-006:019",
+      "parent_id": "test-daily-006",
+      "attempt": 19,
+      "seed": 245440516,
+      "text": "We opened the windows to allow some fresh air inside the space.",
+      "raw": "We opened the windows to allow some fresh air inside the space.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-006:020",
+      "parent_id": "test-daily-006",
+      "attempt": 20,
+      "seed": 1541834300,
+      "text": "We opened the windows to admit some fresh air into the space.",
+      "raw": "We opened the windows to admit some fresh air into the space.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-006:021",
+      "parent_id": "test-daily-006",
+      "attempt": 21,
+      "seed": 3603752168,
+      "text": "Letting in some fresh air, we opened the windows.",
+      "raw": "Letting in some fresh air, we opened the windows.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-006:022",
+      "parent_id": "test-daily-006",
+      "attempt": 22,
+      "seed": 3316686958,
+      "text": "We opened the windows to allow fresh air into the room.",
+      "raw": "We opened the windows to allow fresh air into the room.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-006:023",
+      "parent_id": "test-daily-006",
+      "attempt": 23,
+      "seed": 1561550715,
+      "text": "Open the windows so that fresh air can enter the room.",
+      "raw": "Open the windows so that fresh air can enter the room.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-006:024",
+      "parent_id": "test-daily-006",
+      "attempt": 24,
+      "seed": 2740559020,
+      "text": "We opened the windows to admit some fresh air into the room.",
+      "raw": "We opened the windows to admit some fresh air into the room.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-006:025",
+      "parent_id": "test-daily-006",
+      "attempt": 25,
+      "seed": 2911696874,
+      "text": "To let some fresh air into the room, we opened the windows.",
+      "raw": "To let some fresh air into the room, we opened the windows.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-006:026",
+      "parent_id": "test-daily-006",
+      "attempt": 26,
+      "seed": 3121035850,
+      "text": "We opened the windows to admit some fresh air into the room.",
+      "raw": "We opened the windows to admit some fresh air into the room.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-006:027",
+      "parent_id": "test-daily-006",
+      "attempt": 27,
+      "seed": 2062748497,
+      "text": "We opened the windows to introduce some fresh air into the room.",
+      "raw": "We opened the windows to introduce some fresh air into the room.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-006:028",
+      "parent_id": "test-daily-006",
+      "attempt": 28,
+      "seed": 1348528886,
+      "text": "We opened the windows to admit some fresh air into the space.",
+      "raw": "We opened the windows to admit some fresh air into the space.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-006:029",
+      "parent_id": "test-daily-006",
+      "attempt": 29,
+      "seed": 1368580234,
+      "text": "Letting in some fresh air, we opened the windows.",
+      "raw": "Letting in some fresh air, we opened the windows.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-006:030",
+      "parent_id": "test-daily-006",
+      "attempt": 30,
+      "seed": 2114110621,
+      "text": "We opened the windows to admit some fresh air into the room.",
+      "raw": "We opened the windows to admit some fresh air into the room.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-006:031",
+      "parent_id": "test-daily-006",
+      "attempt": 31,
+      "seed": 3170065847,
+      "text": "We opened the windows to allow fresh air inside the room.",
+      "raw": "We opened the windows to allow fresh air inside the room.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 441,
+  "generation_seconds": 7.714471687097102
+}

@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "ood-science-002",
+    "group_id": "ood-science-002",
+    "split": "ood",
+    "domain": "science",
+    "text": "An electric circuit must form a closed path for a steady current to flow."
+  },
+  "attempts": [
+    {
+      "candidate_id": "ood-science-002:000",
+      "parent_id": "ood-science-002",
+      "attempt": 0,
+      "seed": 429853904,
+      "text": "A closed electrical loop is necessary for electricity to sustain a constant movement.",
+      "raw": "A closed electrical loop is necessary for electricity to sustain a constant movement.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-002:001",
+      "parent_id": "ood-science-002",
+      "attempt": 1,
+      "seed": 3566715687,
+      "text": "To allow steady current, an electric circuit must have a closed path forming.",
+      "raw": "To allow steady current, an electric circuit must have a closed path forming.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-002:002",
+      "parent_id": "ood-science-002",
+      "attempt": 2,
+      "seed": 2793863698,
+      "text": "A steady current can flow through an electric circuit only if its path forms a closed loop.",
+      "raw": "A steady current can flow through an electric circuit only if its path forms a closed loop.",
+      "generated_tokens": 19,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-002:003",
+      "parent_id": "ood-science-002",
+      "attempt": 3,
+      "seed": 2368858163,
+      "text": "A closed electrical loop is necessary for continuous current.",
+      "raw": "A closed electrical loop is necessary for continuous current.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-002:004",
+      "parent_id": "ood-science-002",
+      "attempt": 4,
+      "seed": 2252570641,
+      "text": "A circuit needs to create a loop for electricity to maintain a consistent movement.",
+      "raw": "A circuit needs to create a loop for electricity to maintain a consistent movement.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-002:005",
+      "parent_id": "ood-science-002",
+      "attempt": 5,
+      "seed": 3555049522,
+      "text": "A closed path is necessary for steady current flow in an electric circuit.",
+      "raw": "A closed path is necessary for steady current flow in an electric circuit.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-002:006",
+      "parent_id": "ood-science-002",
+      "attempt": 6,
+      "seed": 3966383581,
+      "text": "A steady current can flow through an electric circuit only when it forms a closed loop.",
+      "raw": "A steady current can flow through an electric circuit only when it forms a closed loop.",
+      "generated_tokens": 18,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-002:007",
+      "parent_id": "ood-science-002",
+      "attempt": 7,
+      "seed": 3044422446,
+      "text": "An electric circuit needs a closed path for a steady current to occur.",
+      "raw": "An electric circuit needs a closed path for a steady current to occur.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-002:008",
+      "parent_id": "ood-science-002",
+      "attempt": 8,
+      "seed": 3533537152,
+      "text": "A closed electrical loop is necessary for electricity to proceed steadily.",
+      "raw": "A closed electrical loop is necessary for electricity to proceed steadily.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-002:009",
+      "parent_id": "ood-science-002",
+      "attempt": 9,
+      "seed": 3793238515,
+      "text": "A steady current will only flow through an electric circuit if that circuit forms a closed path.",
+      "raw": "A steady current will only flow through an electric circuit if that circuit forms a closed path.",
+      "generated_tokens": 19,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-002:010",
+      "parent_id": "ood-science-002",
+      "attempt": 10,
+      "seed": 1144007731,
+      "text": "A steady electrical current can only occur when an electric circuit is enclosed in a loop.",
+      "raw": "A steady electrical current can only occur when an electric circuit is enclosed in a loop.",
+      "generated_tokens": 18,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-002:011",
+      "parent_id": "ood-science-002",
+      "attempt": 11,
+      "seed": 2361532112,
+      "text": "Electric circuits require a closed path for steady current to flow.",
+      "raw": "Electric circuits require a closed path for steady current to flow.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-002:012",
+      "parent_id": "ood-science-002",
+      "attempt": 12,
+      "seed": 1181663077,
+      "text": "An electrical circuit needs to be closed for current to circulate steadily.",
+      "raw": "An electrical circuit needs to be closed for current to circulate steadily.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-002:013",
+      "parent_id": "ood-science-002",
+      "attempt": 13,
+      "seed": 1066138658,
+      "text": "A steady current will flow if an electric circuit forms a closed path.",
+      "raw": "A steady current will flow if an electric circuit forms a closed path.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-002:014",
+      "parent_id": "ood-science-002",
+      "attempt": 14,
+      "seed": 1502222034,
+      "text": "A steady current will only flow through a closed electrical pathway.",
+      "raw": "A steady current will only flow through a closed electrical pathway.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-002:015",
+      "parent_id": "ood-science-002",
+      "attempt": 15,
+      "seed": 3043529503,
+      "text": "A continuous electrical loop is necessary for a constant electric current to occur.",
+      "raw": "A continuous electrical loop is necessary for a constant electric current to occur.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-002:016",
+      "parent_id": "ood-science-002",
+      "attempt": 16,
+      "seed": 681805136,
+      "text": "An electrical circuit needs to create a continuous loop for electrons to steadily move.",
+      "raw": "An electrical circuit needs to create a continuous loop for electrons to steadily move.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-002:017",
+      "parent_id": "ood-science-002",
+      "attempt": 17,
+      "seed": 236493743,
+      "text": "A steady current flows through an electric circuit only when it forms a closed path.",
+      "raw": "A steady current flows through an electric circuit only when it forms a closed path.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-002:018",
+      "parent_id": "ood-science-002",
+      "attempt": 18,
+      "seed": 2477925727,
+      "text": "A closed electrical circuit is necessary for constant current to pass.",
+      "raw": "A closed electrical circuit is necessary for constant current to pass.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-002:019",
+      "parent_id": "ood-science-002",
+      "attempt": 19,
+      "seed": 3125075818,
+      "text": "An electric circuit needs to be closed to allow a steady current.",
+      "raw": "An electric circuit needs to be closed to allow a steady current.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-002:020",
+      "parent_id": "ood-science-002",
+      "attempt": 20,
+      "seed": 2317952142,
+      "text": "A closed electrical loop is necessary for electricity to circulate steadily.",
+      "raw": "A closed electrical loop is necessary for electricity to circulate steadily.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-002:021",
+      "parent_id": "ood-science-002",
+      "attempt": 21,
+      "seed": 3104482098,
+      "text": "A steady current flows through an electric circuit when it forms a closed path.",
+      "raw": "A steady current flows through an electric circuit when it forms a closed path.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-002:022",
+      "parent_id": "ood-science-002",
+      "attempt": 22,
+      "seed": 104430364,
+      "text": "For a steady current to flow, an electric circuit must form a closed path.",
+      "raw": "For a steady current to flow, an electric circuit must form a closed path.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-002:023",
+      "parent_id": "ood-science-002",
+      "attempt": 23,
+      "seed": 1633874675,
+      "text": "A steady current can only flow through a closed electric circuit.",
+      "raw": "A steady current can only flow through a closed electric circuit.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-002:024",
+      "parent_id": "ood-science-002",
+      "attempt": 24,
+      "seed": 4014353254,
+      "text": "An electric circuit needs to be closed for steady current to flow.",
+      "raw": "An electric circuit needs to be closed for steady current to flow.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-002:025",
+      "parent_id": "ood-science-002",
+      "attempt": 25,
+      "seed": 2525488497,
+      "text": "For a steady current to flow, an electric circuit must form a closed path.",
+      "raw": "For a steady current to flow, an electric circuit must form a closed path.",
+      "generated_tokens": 17,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-002:026",
+      "parent_id": "ood-science-002",
+      "attempt": 26,
+      "seed": 2961675332,
+      "text": "A steady current can only flow through a closed electric circuit.",
+      "raw": "A steady current can only flow through a closed electric circuit.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-002:027",
+      "parent_id": "ood-science-002",
+      "attempt": 27,
+      "seed": 2904718500,
+      "text": "A steady current flows through an electric circuit when it forms a closed loop.",
+      "raw": "A steady current flows through an electric circuit when it forms a closed loop.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-002:028",
+      "parent_id": "ood-science-002",
+      "attempt": 28,
+      "seed": 931148224,
+      "text": "An electric circuit needs to create a complete loop for a stable flow of electricity.",
+      "raw": "An electric circuit needs to create a complete loop for a stable flow of electricity.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-002:029",
+      "parent_id": "ood-science-002",
+      "attempt": 29,
+      "seed": 2236464456,
+      "text": "For a steady current to flow, an electric circuit must form a closed path.",
+      "raw": "For a steady current to flow, an electric circuit must form a closed path.",
+      "generated_tokens": 17,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-002:030",
+      "parent_id": "ood-science-002",
+      "attempt": 30,
+      "seed": 456817994,
+      "text": "A complete electrical circuit is necessary for continuous current.",
+      "raw": "A complete electrical circuit is necessary for continuous current.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-002:031",
+      "parent_id": "ood-science-002",
+      "attempt": 31,
+      "seed": 3256754634,
+      "text": "An electric circuit needs to be closed in order for a steady current to flow.",
+      "raw": "An electric circuit needs to be closed in order for a steady current to flow.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 488,
+  "generation_seconds": 8.575995642924681
+}

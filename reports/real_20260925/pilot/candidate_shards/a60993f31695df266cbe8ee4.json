@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "dev-daily-011",
+    "group_id": "dev-daily-011",
+    "split": "dev",
+    "domain": "daily",
+    "text": "She checked the address twice before leaving the house."
+  },
+  "attempts": [
+    {
+      "candidate_id": "dev-daily-011:000",
+      "parent_id": "dev-daily-011",
+      "attempt": 0,
+      "seed": 2289110768,
+      "text": "She verified the address twice prior to going outside.",
+      "raw": "She verified the address twice prior to going outside.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-011:001",
+      "parent_id": "dev-daily-011",
+      "attempt": 1,
+      "seed": 3197128493,
+      "text": "Before leaving the house, she double-checked the address.",
+      "raw": "Before leaving the house, she double-checked the address.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-011:002",
+      "parent_id": "dev-daily-011",
+      "attempt": 2,
+      "seed": 1936638164,
+      "text": "She double-checked the address before heading out of the house.",
+      "raw": "She double-checked the address before heading out of the house.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-011:003",
+      "parent_id": "dev-daily-011",
+      "attempt": 3,
+      "seed": 2496890584,
+      "text": "She double-checked the address before going out.",
+      "raw": "She double-checked the address before going out.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-011:004",
+      "parent_id": "dev-daily-011",
+      "attempt": 4,
+      "seed": 544490353,
+      "text": "She double-checked the address prior to departing from home.",
+      "raw": "She double-checked the address prior to departing from home.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-011:005",
+      "parent_id": "dev-daily-011",
+      "attempt": 5,
+      "seed": 3309413619,
+      "text": "Before leaving the house, she double-checked the address.",
+      "raw": "Before leaving the house, she double-checked the address.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-011:006",
+      "parent_id": "dev-daily-011",
+      "attempt": 6,
+      "seed": 4193459016,
+      "text": "She double-checked the address before she left the house.",
+      "raw": "She double-checked the address before she left the house.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-011:007",
+      "parent_id": "dev-daily-011",
+      "attempt": 7,
+      "seed": 4174528855,
+      "text": "She double-checked the address inside the house before going out.",
+      "raw": "She double-checked the address inside the house before going out.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-011:008",
+      "parent_id": "dev-daily-011",
+      "attempt": 8,
+      "seed": 2783142151,
+      "text": "She double-checked the address before going outside.",
+      "raw": "She double-checked the address before going outside.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-011:009",
+      "parent_id": "dev-daily-011",
+      "attempt": 9,
+      "seed": 3175523887,
+      "text": "Before leaving the house, she double-checked the address twice.",
+      "raw": "Before leaving the house, she double-checked the address twice.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-011:010",
+      "parent_id": "dev-daily-011",
+      "attempt": 10,
+      "seed": 3829915740,
+      "text": "She double-checked the address before she left the house.",
+      "raw": "She double-checked the address before she left the house.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-011:011",
+      "parent_id": "dev-daily-011",
+      "attempt": 11,
+      "seed": 248394460,
+      "text": "She verified the address twice prior to departing from home.",
+      "raw": "She verified the address twice prior to departing from home.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-011:012",
+      "parent_id": "dev-daily-011",
+      "attempt": 12,
+      "seed": 2870205454,
+      "text": "She verified the address twice prior to going outside.",
+      "raw": "She verified the address twice prior to going outside.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-011:013",
+      "parent_id": "dev-daily-011",
+      "attempt": 13,
+      "seed": 1474170285,
+      "text": "Before leaving the house, she double-checked the address twice.",
+      "raw": "Before leaving the house, she double-checked the address twice.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-011:014",
+      "parent_id": "dev-daily-011",
+      "attempt": 14,
+      "seed": 1784976118,
+      "text": "She double-checked the address before she left the house.",
+      "raw": "She double-checked the address before she left the house.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-011:015",
+      "parent_id": "dev-daily-011",
+      "attempt": 15,
+      "seed": 3090362048,
+      "text": "She double-checked the address before leaving the house.",
+      "raw": "She double-checked the address before leaving the house.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-011:016",
+      "parent_id": "dev-daily-011",
+      "attempt": 16,
+      "seed": 4280897084,
+      "text": "She double-checked the address prior to departing home.",
+      "raw": "She double-checked the address prior to departing home.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-011:017",
+      "parent_id": "dev-daily-011",
+      "attempt": 17,
+      "seed": 175570747,
+      "text": "Before she left the house, she double-checked the address.",
+      "raw": "Before she left the house, she double-checked the address.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-011:018",
+      "parent_id": "dev-daily-011",
+      "attempt": 18,
+      "seed": 4106786018,
+      "text": "She double-checked the address before she left the house.",
+      "raw": "She double-checked the address before she left the house.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-011:019",
+      "parent_id": "dev-daily-011",
+      "attempt": 19,
+      "seed": 3626051669,
+      "text": "She double-checked the address prior to going outside.",
+      "raw": "She double-checked the address prior to going outside.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-011:020",
+      "parent_id": "dev-daily-011",
+      "attempt": 20,
+      "seed": 3295056139,
+      "text": "She double-checked the address before leaving the house.",
+      "raw": "She double-checked the address before leaving the house.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-011:021",
+      "parent_id": "dev-daily-011",
+      "attempt": 21,
+      "seed": 3823584531,
+      "text": "Before leaving the house, she double-checked the address.",
+      "raw": "Before leaving the house, she double-checked the address.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-011:022",
+      "parent_id": "dev-daily-011",
+      "attempt": 22,
+      "seed": 1403968340,
+      "text": "She double-checked the address before leaving the house.",
+      "raw": "She double-checked the address before leaving the house.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-011:023",
+      "parent_id": "dev-daily-011",
+      "attempt": 23,
+      "seed": 3225764747,
+      "text": "She double-checked the address before leaving the house.",
+      "raw": "She double-checked the address before leaving the house.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-011:024",
+      "parent_id": "dev-daily-011",
+      "attempt": 24,
+      "seed": 892028415,
+      "text": "She double-checked the address prior to departing from home.",
+      "raw": "She double-checked the address prior to departing from home.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-011:025",
+      "parent_id": "dev-daily-011",
+      "attempt": 25,
+      "seed": 3164365424,
+      "text": "Before leaving the house, she double-checked the address twice.",
+      "raw": "Before leaving the house, she double-checked the address twice.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-011:026",
+      "parent_id": "dev-daily-011",
+      "attempt": 26,
+      "seed": 1703592907,
+      "text": "She double-checked the address before leaving the house.",
+      "raw": "She double-checked the address before leaving the house.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-011:027",
+      "parent_id": "dev-daily-011",
+      "attempt": 27,
+      "seed": 1866150856,
+      "text": "She double-checked the address prior to departing home.",
+      "raw": "She double-checked the address prior to departing home.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-011:028",
+      "parent_id": "dev-daily-011",
+      "attempt": 28,
+      "seed": 2036496294,
+      "text": "She double-checked the address before leaving the house.",
+      "raw": "She double-checked the address before leaving the house.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-011:029",
+      "parent_id": "dev-daily-011",
+      "attempt": 29,
+      "seed": 1237795982,
+      "text": "Before leaving the house, she double-checked the address.",
+      "raw": "Before leaving the house, she double-checked the address.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-011:030",
+      "parent_id": "dev-daily-011",
+      "attempt": 30,
+      "seed": 813173697,
+      "text": "She double-checked the address before she left the house.",
+      "raw": "She double-checked the address before she left the house.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-011:031",
+      "parent_id": "dev-daily-011",
+      "attempt": 31,
+      "seed": 821525499,
+      "text": "She verified the address two times prior to departing.",
+      "raw": "She verified the address two times prior to departing.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 374,
+  "generation_seconds": 6.565724246902391
+}

@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "ood-science-024",
+    "group_id": "ood-science-024",
+    "split": "ood",
+    "domain": "science",
+    "text": "Heat can travel through a solid by conduction."
+  },
+  "attempts": [
+    {
+      "candidate_id": "ood-science-024:000",
+      "parent_id": "ood-science-024",
+      "attempt": 0,
+      "seed": 80685661,
+      "text": "Heat may pass through a solid via conduction.",
+      "raw": "Heat may pass through a solid via conduction.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-024:001",
+      "parent_id": "ood-science-024",
+      "attempt": 1,
+      "seed": 3391909356,
+      "text": "Conduction allows heat to pass through solids.",
+      "raw": "Conduction allows heat to pass through solids.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-024:002",
+      "parent_id": "ood-science-024",
+      "attempt": 2,
+      "seed": 414390743,
+      "text": "Heat can move through a solid via conduction.",
+      "raw": "Heat can move through a solid via conduction.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-024:003",
+      "parent_id": "ood-science-024",
+      "attempt": 3,
+      "seed": 2838664698,
+      "text": "Heat can pass through solids via conduction.",
+      "raw": "Heat can pass through solids via conduction.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-024:004",
+      "parent_id": "ood-science-024",
+      "attempt": 4,
+      "seed": 3032893313,
+      "text": "Heat can move through a material via conduction.",
+      "raw": "Heat can move through a material via conduction.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-024:005",
+      "parent_id": "ood-science-024",
+      "attempt": 5,
+      "seed": 1755067058,
+      "text": "Conduction allows heat to transfer through solids.",
+      "raw": "Conduction allows heat to transfer through solids.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-024:006",
+      "parent_id": "ood-science-024",
+      "attempt": 6,
+      "seed": 2232842081,
+      "text": "Heat can move through a solid via conduction.",
+      "raw": "Heat can move through a solid via conduction.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-024:007",
+      "parent_id": "ood-science-024",
+      "attempt": 7,
+      "seed": 344438733,
+      "text": "Heat can traverse a solid via conduction.",
+      "raw": "Heat can traverse a solid via conduction.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-024:008",
+      "parent_id": "ood-science-024",
+      "attempt": 8,
+      "seed": 159263157,
+      "text": "Heat can move across a solid via conduction.",
+      "raw": "Heat can move across a solid via conduction.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-024:009",
+      "parent_id": "ood-science-024",
+      "attempt": 9,
+      "seed": 3327555301,
+      "text": "Conduction is how heat can pass through a solid.",
+      "raw": "Conduction is how heat can pass through a solid.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-024:010",
+      "parent_id": "ood-science-024",
+      "attempt": 10,
+      "seed": 4207200549,
+      "text": "Heat can move across a solid via conduction.",
+      "raw": "Heat can move across a solid via conduction.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-024:011",
+      "parent_id": "ood-science-024",
+      "attempt": 11,
+      "seed": 641490465,
+      "text": "Heat moves through solids via conduction.",
+      "raw": "Heat moves through solids via conduction.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-024:012",
+      "parent_id": "ood-science-024",
+      "attempt": 12,
+      "seed": 2244417647,
+      "text": "Heat passes through a solid via conduction.",
+      "raw": "Heat passes through a solid via conduction.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-024:013",
+      "parent_id": "ood-science-024",
+      "attempt": 13,
+      "seed": 2266424082,
+      "text": "Conduction allows heat to pass through solids.",
+      "raw": "Conduction allows heat to pass through solids.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-024:014",
+      "parent_id": "ood-science-024",
+      "attempt": 14,
+      "seed": 2355564737,
+      "text": "Heat can move across a solid via conduction.",
+      "raw": "Heat can move across a solid via conduction.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-024:015",
+      "parent_id": "ood-science-024",
+      "attempt": 15,
+      "seed": 1241218765,
+      "text": "Heat can move across a solid via conduction.",
+      "raw": "Heat can move across a solid via conduction.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-024:016",
+      "parent_id": "ood-science-024",
+      "attempt": 16,
+      "seed": 4025805473,
+      "text": "Heat may transfer across a material via conduction.",
+      "raw": "Heat may transfer across a material via conduction.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-024:017",
+      "parent_id": "ood-science-024",
+      "attempt": 17,
+      "seed": 2407829220,
+      "text": "By conduction, heat can move through a solid.",
+      "raw": "By conduction, heat can move through a solid.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-024:018",
+      "parent_id": "ood-science-024",
+      "attempt": 18,
+      "seed": 1817665509,
+      "text": "Heat can pass through a solid via conduction.",
+      "raw": "Heat can pass through a solid via conduction.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-024:019",
+      "parent_id": "ood-science-024",
+      "attempt": 19,
+      "seed": 2381151939,
+      "text": "Heat can move across a solid via conduction.",
+      "raw": "Heat can move across a solid via conduction.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-024:020",
+      "parent_id": "ood-science-024",
+      "attempt": 20,
+      "seed": 1316523849,
+      "text": "Heat can move through matter via conduction.",
+      "raw": "Heat can move through matter via conduction.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-024:021",
+      "parent_id": "ood-science-024",
+      "attempt": 21,
+      "seed": 3792616172,
+      "text": "By conduction, heat can be transferred through solids.",
+      "raw": "By conduction, heat can be transferred through solids.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-024:022",
+      "parent_id": "ood-science-024",
+      "attempt": 22,
+      "seed": 610040533,
+      "text": "Heat can pass through a solid via conduction.",
+      "raw": "Heat can pass through a solid via conduction.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-024:023",
+      "parent_id": "ood-science-024",
+      "attempt": 23,
+      "seed": 4033718038,
+      "text": "Heat can pass through a solid via conduction.",
+      "raw": "Heat can pass through a solid via conduction.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-024:024",
+      "parent_id": "ood-science-024",
+      "attempt": 24,
+      "seed": 4000221926,
+      "text": "Heat may propagate within a solid via conduction.",
+      "raw": "Heat may propagate within a solid via conduction.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-024:025",
+      "parent_id": "ood-science-024",
+      "attempt": 25,
+      "seed": 1156373175,
+      "text": "By conduction, heat can move through solids.",
+      "raw": "By conduction, heat can move through solids.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-024:026",
+      "parent_id": "ood-science-024",
+      "attempt": 26,
+      "seed": 2703304559,
+      "text": "Heat can move through solids using conduction.",
+      "raw": "Heat can move through solids using conduction.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-024:027",
+      "parent_id": "ood-science-024",
+      "attempt": 27,
+      "seed": 235173629,
+      "text": "Heat can move in a solid via conduction.",
+      "raw": "Heat can move in a solid via conduction.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-024:028",
+      "parent_id": "ood-science-024",
+      "attempt": 28,
+      "seed": 406943965,
+      "text": "Heat can traverse through a solid via conduction.",
+      "raw": "Heat can traverse through a solid via conduction.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-024:029",
+      "parent_id": "ood-science-024",
+      "attempt": 29,
+      "seed": 808175510,
+      "text": "Conduction allows heat to pass through solids.",
+      "raw": "Conduction allows heat to pass through solids.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-024:030",
+      "parent_id": "ood-science-024",
+      "attempt": 30,
+      "seed": 2344236355,
+      "text": "Heat can move across a solid via conduction.",
+      "raw": "Heat can move across a solid via conduction.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-024:031",
+      "parent_id": "ood-science-024",
+      "attempt": 31,
+      "seed": 3709505344,
+      "text": "Heat can move across a solid via conduction.",
+      "raw": "Heat can move across a solid via conduction.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    }
+  ],
+  "generated_tokens": 344,
+  "generation_seconds": 6.022900840034708
+}

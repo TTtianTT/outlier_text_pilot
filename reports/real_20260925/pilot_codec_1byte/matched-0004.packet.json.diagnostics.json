@@ -1,0 +1,20 @@
+{
+  "status": "failed",
+  "backend": "hf",
+  "method": "matched",
+  "message_bits": 8,
+  "channel_bits_with_aead": 8,
+  "required_blocks": 8,
+  "constructed_blocks": 0,
+  "failure": {
+    "block": 0,
+    "reason": "candidate_selection_failed"
+  },
+  "offline_selection_seconds": 1.8360093235969543e-05,
+  "candidate_feature_cache_reused": true,
+  "note": "Selection timing excludes cached generation/features. No ECC. No edits/resynchronization guarantee.",
+  "transmitted_tokens": 0,
+  "wire_bytes": 0,
+  "aborted_before_transmission": true,
+  "recovered_message_bits": 0
+}

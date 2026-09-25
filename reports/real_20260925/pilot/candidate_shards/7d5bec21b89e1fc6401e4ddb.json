@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "dev-daily-005",
+    "group_id": "dev-daily-005",
+    "split": "dev",
+    "domain": "daily",
+    "text": "I usually walk to the office when the weather is dry."
+  },
+  "attempts": [
+    {
+      "candidate_id": "dev-daily-005:000",
+      "parent_id": "dev-daily-005",
+      "attempt": 0,
+      "seed": 2739357570,
+      "text": "I commonly stroll to work on sunny days.",
+      "raw": "I commonly stroll to work on sunny days.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-005:001",
+      "parent_id": "dev-daily-005",
+      "attempt": 1,
+      "seed": 148669076,
+      "text": "Usually when it's dry outside, I walk to work.",
+      "raw": "Usually when it's dry outside, I walk to work.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-005:002",
+      "parent_id": "dev-daily-005",
+      "attempt": 2,
+      "seed": 2328531906,
+      "text": "I generally stroll to work whenever the air conditions are arid.",
+      "raw": "I generally stroll to work whenever the air conditions are arid.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-005:003",
+      "parent_id": "dev-daily-005",
+      "attempt": 3,
+      "seed": 586457205,
+      "text": "I commonly stroll to work during dry conditions.",
+      "raw": "I commonly stroll to work during dry conditions.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-005:004",
+      "parent_id": "dev-daily-005",
+      "attempt": 4,
+      "seed": 2856710027,
+      "text": "I frequently traverse the workplace via pedestrian walkways on clear days.",
+      "raw": "I frequently traverse the workplace via pedestrian walkways on clear days.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-005:005",
+      "parent_id": "dev-daily-005",
+      "attempt": 5,
+      "seed": 2531310439,
+      "text": "When the weather is dry, I often walk to my workplace.",
+      "raw": "When the weather is dry, I often walk to my workplace.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-005:006",
+      "parent_id": "dev-daily-005",
+      "attempt": 6,
+      "seed": 1149085506,
+      "text": "I often stroll to my workplace when the climate is not wet.",
+      "raw": "I often stroll to my workplace when the climate is not wet.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-005:007",
+      "parent_id": "dev-daily-005",
+      "attempt": 7,
+      "seed": 3590687773,
+      "text": "I frequently stride to my workplace under sunny conditions.",
+      "raw": "I frequently stride to my workplace under sunny conditions.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-005:008",
+      "parent_id": "dev-daily-005",
+      "attempt": 8,
+      "seed": 2403704336,
+      "text": "I frequently traverse my workplace on foot provided the weather conditions are favorable.",
+      "raw": "I frequently traverse my workplace on foot provided the weather conditions are favorable.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-005:009",
+      "parent_id": "dev-daily-005",
+      "attempt": 9,
+      "seed": 1772012168,
+      "text": "When the weather is dry, I usually walk to the office.",
+      "raw": "When the weather is dry, I usually walk to the office.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-005:010",
+      "parent_id": "dev-daily-005",
+      "attempt": 10,
+      "seed": 698113046,
+      "text": "I prefer walking to work on sunny days.",
+      "raw": "I prefer walking to work on sunny days.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-005:011",
+      "parent_id": "dev-daily-005",
+      "attempt": 11,
+      "seed": 3414175430,
+      "text": "I typically go for walks to my workplace on days with dry conditions.",
+      "raw": "I typically go for walks to my workplace on days with dry conditions.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-005:012",
+      "parent_id": "dev-daily-005",
+      "attempt": 12,
+      "seed": 3460242942,
+      "text": "I frequently stroll to work during favorable conditions.",
+      "raw": "I frequently stroll to work during favorable conditions.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-005:013",
+      "parent_id": "dev-daily-005",
+      "attempt": 13,
+      "seed": 2320579480,
+      "text": "When the weather is dry, I typically walk to the office.",
+      "raw": "When the weather is dry, I typically walk to the office.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-005:014",
+      "parent_id": "dev-daily-005",
+      "attempt": 14,
+      "seed": 63020815,
+      "text": "I generally make my way to work via walking when it's not raining outside.",
+      "raw": "I generally make my way to work via walking when it's not raining outside.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-005:015",
+      "parent_id": "dev-daily-005",
+      "attempt": 15,
+      "seed": 1506114448,
+      "text": "I frequently stroll to my workplace during sunny conditions.",
+      "raw": "I frequently stroll to my workplace during sunny conditions.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-005:016",
+      "parent_id": "dev-daily-005",
+      "attempt": 16,
+      "seed": 3626002236,
+      "text": "I frequently traverse my workplace by walking under conditions of dry weather.",
+      "raw": "I frequently traverse my workplace by walking under conditions of dry weather.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-005:017",
+      "parent_id": "dev-daily-005",
+      "attempt": 17,
+      "seed": 944573167,
+      "text": "When the weather is dry, I typically walk to the office.",
+      "raw": "When the weather is dry, I typically walk to the office.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-005:018",
+      "parent_id": "dev-daily-005",
+      "attempt": 18,
+      "seed": 1148901814,
+      "text": "I prefer walking to work on days with dry weather.",
+      "raw": "I prefer walking to work on days with dry weather.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-005:019",
+      "parent_id": "dev-daily-005",
+      "attempt": 19,
+      "seed": 3457103056,
+      "text": "I often take a stroll to work on dry days.",
+      "raw": "I often take a stroll to work on dry days.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-005:020",
+      "parent_id": "dev-daily-005",
+      "attempt": 20,
+      "seed": 1406620208,
+      "text": "I frequently stroll to my workplace whenever the climate is non-soggy.",
+      "raw": "I frequently stroll to my workplace whenever the climate is non-soggy.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-005:021",
+      "parent_id": "dev-daily-005",
+      "attempt": 21,
+      "seed": 3772975461,
+      "text": "When it's dry outside, I tend to walk to the office.",
+      "raw": "When it's dry outside, I tend to walk to the office.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-005:022",
+      "parent_id": "dev-daily-005",
+      "attempt": 22,
+      "seed": 3108024782,
+      "text": "I usually take a stroll to the workplace when there's no moisture in the air.",
+      "raw": "I usually take a stroll to the workplace when there's no moisture in the air.",
+      "generated_tokens": 18,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-005:023",
+      "parent_id": "dev-daily-005",
+      "attempt": 23,
+      "seed": 857266571,
+      "text": "I frequently stroll to work whenever conditions are dry.",
+      "raw": "I frequently stroll to work whenever conditions are dry.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-005:024",
+      "parent_id": "dev-daily-005",
+      "attempt": 24,
+      "seed": 841115463,
+      "text": "I generally stroll to work during sunny conditions.",
+      "raw": "I generally stroll to work during sunny conditions.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-005:025",
+      "parent_id": "dev-daily-005",
+      "attempt": 25,
+      "seed": 2438592520,
+      "text": "When it's dry outside, I typically stroll to work.",
+      "raw": "When it's dry outside, I typically stroll to work.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-005:026",
+      "parent_id": "dev-daily-005",
+      "attempt": 26,
+      "seed": 3181686127,
+      "text": "I prefer walking to work on dry days.",
+      "raw": "I prefer walking to work on dry days.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-005:027",
+      "parent_id": "dev-daily-005",
+      "attempt": 27,
+      "seed": 3110864616,
+      "text": "I frequently stroll to the workplace during favorable conditions.",
+      "raw": "I frequently stroll to the workplace during favorable conditions.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-005:028",
+      "parent_id": "dev-daily-005",
+      "attempt": 28,
+      "seed": 1667658070,
+      "text": "I frequently stride to my workplace whenever the climate permits it.",
+      "raw": "I frequently stride to my workplace whenever the climate permits it.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-005:029",
+      "parent_id": "dev-daily-005",
+      "attempt": 29,
+      "seed": 2206924002,
+      "text": "When the weather is dry, I typically walk to the office.",
+      "raw": "When the weather is dry, I typically walk to the office.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-005:030",
+      "parent_id": "dev-daily-005",
+      "attempt": 30,
+      "seed": 2536257761,
+      "text": "I frequently journey to work on foot during sunny days.",
+      "raw": "I frequently journey to work on foot during sunny days.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-005:031",
+      "parent_id": "dev-daily-005",
+      "attempt": 31,
+      "seed": 2093621374,
+      "text": "I typically strolls to my workplace when skies are not wet.",
+      "raw": "I typically strolls to my workplace when skies are not wet.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 415,
+  "generation_seconds": 7.441135510802269
+}

@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "dev-product-007",
+    "group_id": "dev-product-007",
+    "split": "dev",
+    "domain": "product",
+    "text": "The chair height can be adjusted using the lever below the seat."
+  },
+  "attempts": [
+    {
+      "candidate_id": "dev-product-007:000",
+      "parent_id": "dev-product-007",
+      "attempt": 0,
+      "seed": 759851315,
+      "text": "The chair's height is adjustable via the lever beneath the seat.",
+      "raw": "The chair's height is adjustable via the lever beneath the seat.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-007:001",
+      "parent_id": "dev-product-007",
+      "attempt": 1,
+      "seed": 845918175,
+      "text": "Use a lever beneath the seat to adjust the chair height.",
+      "raw": "Use a lever beneath the seat to adjust the chair height.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-007:002",
+      "parent_id": "dev-product-007",
+      "attempt": 2,
+      "seed": 2776777233,
+      "text": "Adjustable chair height is achieved through the lever located beneath the seat.",
+      "raw": "Adjustable chair height is achieved through the lever located beneath the seat.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-007:003",
+      "parent_id": "dev-product-007",
+      "attempt": 3,
+      "seed": 2444070486,
+      "text": "Adjusting chair height involves a lever beneath the seat.",
+      "raw": "Adjusting chair height involves a lever beneath the seat.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-007:004",
+      "parent_id": "dev-product-007",
+      "attempt": 4,
+      "seed": 774003542,
+      "text": "Adjust the chair height via the lever beneath the seat.",
+      "raw": "Adjust the chair height via the lever beneath the seat.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-007:005",
+      "parent_id": "dev-product-007",
+      "attempt": 5,
+      "seed": 3047077110,
+      "text": "Using the lever beneath the seat, you can adjust the chair height.",
+      "raw": "Using the lever beneath the seat, you can adjust the chair height.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-007:006",
+      "parent_id": "dev-product-007",
+      "attempt": 6,
+      "seed": 292909956,
+      "text": "Adjust the chair's height by pulling on the handle beside the backrest.",
+      "raw": "Adjust the chair's height by pulling on the handle beside the backrest.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-007:007",
+      "parent_id": "dev-product-007",
+      "attempt": 7,
+      "seed": 280251900,
+      "text": "Adjusting the chair height involves moving a lever underneath the seat.",
+      "raw": "Adjusting the chair height involves moving a lever underneath the seat.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-007:008",
+      "parent_id": "dev-product-007",
+      "attempt": 8,
+      "seed": 1236269471,
+      "text": "Adjusting the chair height involves turning the knob next to the seat.",
+      "raw": "Adjusting the chair height involves turning the knob next to the seat.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-007:009",
+      "parent_id": "dev-product-007",
+      "attempt": 9,
+      "seed": 2721751520,
+      "text": "Use a lever located beneath the seat to adjust the chair height.",
+      "raw": "Use a lever located beneath the seat to adjust the chair height.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-007:010",
+      "parent_id": "dev-product-007",
+      "attempt": 10,
+      "seed": 2925705298,
+      "text": "Adjust the chair's height by pulling the lever beneath the seat.",
+      "raw": "Adjust the chair's height by pulling the lever beneath the seat.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-007:011",
+      "parent_id": "dev-product-007",
+      "attempt": 11,
+      "seed": 3594604645,
+      "text": "The adjustable height of the chair is achieved via the lever situated beneath the seat.",
+      "raw": "The adjustable height of the chair is achieved via the lever situated beneath the seat.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-007:012",
+      "parent_id": "dev-product-007",
+      "attempt": 12,
+      "seed": 2044253855,
+      "text": "Adjusting the chair height involves pulling on the lever beneath the seat.",
+      "raw": "Adjusting the chair height involves pulling on the lever beneath the seat.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-007:013",
+      "parent_id": "dev-product-007",
+      "attempt": 13,
+      "seed": 455928289,
+      "text": "Below the seat is a lever that allows adjusting the chair height.",
+      "raw": "Below the seat is a lever that allows adjusting the chair height.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-007:014",
+      "parent_id": "dev-product-007",
+      "attempt": 14,
+      "seed": 2964081886,
+      "text": "Adjust the chair's height via the lever beneath the seat.",
+      "raw": "Adjust the chair's height via the lever beneath the seat.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-007:015",
+      "parent_id": "dev-product-007",
+      "attempt": 15,
+      "seed": 55666624,
+      "text": "Adjust the chair's height with the lever beneath the seat.",
+      "raw": "Adjust the chair's height with the lever beneath the seat.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-007:016",
+      "parent_id": "dev-product-007",
+      "attempt": 16,
+      "seed": 1093733812,
+      "text": "Adjusting the chair height involves operating the lever beneath the seat.",
+      "raw": "Adjusting the chair height involves operating the lever beneath the seat.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-007:017",
+      "parent_id": "dev-product-007",
+      "attempt": 17,
+      "seed": 1293341290,
+      "text": "Use the lever beneath the seat to adjust the chair height.",
+      "raw": "Use the lever beneath the seat to adjust the chair height.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-007:018",
+      "parent_id": "dev-product-007",
+      "attempt": 18,
+      "seed": 2790427352,
+      "text": "You can modify the chair's height by turning the knob under the seat.",
+      "raw": "You can modify the chair's height by turning the knob under the seat.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-007:019",
+      "parent_id": "dev-product-007",
+      "attempt": 19,
+      "seed": 3205577412,
+      "text": "You can change the chair's height with the lever beneath the seat.",
+      "raw": "You can change the chair's height with the lever beneath the seat.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-007:020",
+      "parent_id": "dev-product-007",
+      "attempt": 20,
+      "seed": 3857916241,
+      "text": "Adjustable chair height is changed through the lever beneath the seat.",
+      "raw": "Adjustable chair height is changed through the lever beneath the seat.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-007:021",
+      "parent_id": "dev-product-007",
+      "attempt": 21,
+      "seed": 1411185870,
+      "text": "Using the lever beneath the seat, you can adjust the chair's height.",
+      "raw": "Using the lever beneath the seat, you can adjust the chair's height.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-007:022",
+      "parent_id": "dev-product-007",
+      "attempt": 22,
+      "seed": 1040602378,
+      "text": "Adjust the chair's height with the lever beneath the seat.",
+      "raw": "Adjust the chair's height with the lever beneath the seat.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-007:023",
+      "parent_id": "dev-product-007",
+      "attempt": 23,
+      "seed": 3905439199,
+      "text": "The chair's height can be changed with a lever under the seat.",
+      "raw": "The chair's height can be changed with a lever under the seat.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-007:024",
+      "parent_id": "dev-product-007",
+      "attempt": 24,
+      "seed": 2975855407,
+      "text": "Adjusting chair height utilizes the lever beneath the seat.",
+      "raw": "Adjusting chair height utilizes the lever beneath the seat.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-007:025",
+      "parent_id": "dev-product-007",
+      "attempt": 25,
+      "seed": 2148308726,
+      "text": "Use a lever beneath the seat to change the chair's height.",
+      "raw": "Use a lever beneath the seat to change the chair's height.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-007:026",
+      "parent_id": "dev-product-007",
+      "attempt": 26,
+      "seed": 3023290522,
+      "text": "Adjustable chair height is achieved through the lever located beneath the seat.",
+      "raw": "Adjustable chair height is achieved through the lever located beneath the seat.",
+      "generated_tokens": 15,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-007:027",
+      "parent_id": "dev-product-007",
+      "attempt": 27,
+      "seed": 1261163752,
+      "text": "The adjustable chair height is accessed through the lever located beneath the seat.",
+      "raw": "The adjustable chair height is accessed through the lever located beneath the seat.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-007:028",
+      "parent_id": "dev-product-007",
+      "attempt": 28,
+      "seed": 1321404689,
+      "text": "The chair's height can be changed via the lever beneath the seat.",
+      "raw": "The chair's height can be changed via the lever beneath the seat.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-007:029",
+      "parent_id": "dev-product-007",
+      "attempt": 29,
+      "seed": 3055065798,
+      "text": "Use a lever below the seat to adjust the chair height.",
+      "raw": "Use a lever below the seat to adjust the chair height.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-007:030",
+      "parent_id": "dev-product-007",
+      "attempt": 30,
+      "seed": 1867748903,
+      "text": "Adjusting chair height involves pulling on the handle behind the seat.",
+      "raw": "Adjusting chair height involves pulling on the handle behind the seat.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-007:031",
+      "parent_id": "dev-product-007",
+      "attempt": 31,
+      "seed": 90714238,
+      "text": "Adjustable chair height is achieved by utilizing a lever beneath the seat.",
+      "raw": "Adjustable chair height is achieved by utilizing a lever beneath the seat.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 455,
+  "generation_seconds": 8.685055742971599
+}

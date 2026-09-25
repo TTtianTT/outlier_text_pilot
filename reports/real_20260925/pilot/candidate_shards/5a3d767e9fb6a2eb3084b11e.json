@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "ood-science-013",
+    "group_id": "ood-science-013",
+    "split": "ood",
+    "domain": "science",
+    "text": "The Moon reflects sunlight rather than producing its own visible light."
+  },
+  "attempts": [
+    {
+      "candidate_id": "ood-science-013:000",
+      "parent_id": "ood-science-013",
+      "attempt": 0,
+      "seed": 116236699,
+      "text": "The Moon scatters sunlight instead of emitting its own light visibly.",
+      "raw": "The Moon scatters sunlight instead of emitting its own light visibly.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-013:001",
+      "parent_id": "ood-science-013",
+      "attempt": 1,
+      "seed": 55261255,
+      "text": "Rather than producing its own visible light, the Moon reflects sunlight.",
+      "raw": "Rather than producing its own visible light, the Moon reflects sunlight.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-013:002",
+      "parent_id": "ood-science-013",
+      "attempt": 2,
+      "seed": 1386844549,
+      "text": "The Moon bounces daylight instead of making its own visible rays.",
+      "raw": "The Moon bounces daylight instead of making its own visible rays.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-013:003",
+      "parent_id": "ood-science-013",
+      "attempt": 3,
+      "seed": 1688448329,
+      "text": "The Moon bounces sunlight but doesn't make its own seen glow.",
+      "raw": "The Moon bounces sunlight but doesn't make its own seen glow.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-013:004",
+      "parent_id": "ood-science-013",
+      "attempt": 4,
+      "seed": 1412073455,
+      "text": "The Moon bounces sunlight instead of generating its own light that is visible.",
+      "raw": "The Moon bounces sunlight instead of generating its own light that is visible.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-013:005",
+      "parent_id": "ood-science-013",
+      "attempt": 5,
+      "seed": 3936080346,
+      "text": "Rather than producing its own visible light, the Moon reflects sunlight.",
+      "raw": "Rather than producing its own visible light, the Moon reflects sunlight.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-013:006",
+      "parent_id": "ood-science-013",
+      "attempt": 6,
+      "seed": 2350486276,
+      "text": "The Moon scatters sunlight instead of emitting its own light.",
+      "raw": "The Moon scatters sunlight instead of emitting its own light.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-013:007",
+      "parent_id": "ood-science-013",
+      "attempt": 7,
+      "seed": 1540092420,
+      "text": "The Moon reflects sunlight instead of emitting its own light.",
+      "raw": "The Moon reflects sunlight instead of emitting its own light.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-013:008",
+      "parent_id": "ood-science-013",
+      "attempt": 8,
+      "seed": 3480071142,
+      "text": "The Moon scatters sunlight instead of emitting its own luminous glow.",
+      "raw": "The Moon scatters sunlight instead of emitting its own luminous glow.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-013:009",
+      "parent_id": "ood-science-013",
+      "attempt": 9,
+      "seed": 4051450594,
+      "text": "Rather than reflecting sunlight, the Moon produces its own invisible light.",
+      "raw": "Rather than reflecting sunlight, the Moon produces its own invisible light.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-013:010",
+      "parent_id": "ood-science-013",
+      "attempt": 10,
+      "seed": 27920687,
+      "text": "The Moon scatters sunlight instead of generating its own apparent glow.",
+      "raw": "The Moon scatters sunlight instead of generating its own apparent glow.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-013:011",
+      "parent_id": "ood-science-013",
+      "attempt": 11,
+      "seed": 2446226418,
+      "text": "The Moon does not produce its own light; it reflects sunlight instead.",
+      "raw": "The Moon does not produce its own light; it reflects sunlight instead.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-013:012",
+      "parent_id": "ood-science-013",
+      "attempt": 12,
+      "seed": 1300872277,
+      "text": "The Moon bounces sunlight instead of emitting its own visible light.",
+      "raw": "The Moon bounces sunlight instead of emitting its own visible light.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-013:013",
+      "parent_id": "ood-science-013",
+      "attempt": 13,
+      "seed": 781273169,
+      "text": "Sunlight reflects off the Moon instead of it creating its own visible light.",
+      "raw": "Sunlight reflects off the Moon instead of it creating its own visible light.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-013:014",
+      "parent_id": "ood-science-013",
+      "attempt": 14,
+      "seed": 295758456,
+      "text": "The Moon scatters sunlight instead of emitting its own luminescence.",
+      "raw": "The Moon scatters sunlight instead of emitting its own luminescence.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-013:015",
+      "parent_id": "ood-science-013",
+      "attempt": 15,
+      "seed": 1695959076,
+      "text": "The Moon scatters sunlight instead of emitting its own visible light.",
+      "raw": "The Moon scatters sunlight instead of emitting its own visible light.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-013:016",
+      "parent_id": "ood-science-013",
+      "attempt": 16,
+      "seed": 858096974,
+      "text": "The Moon scatters sunlight instead of emitting its own apparent glow.",
+      "raw": "The Moon scatters sunlight instead of emitting its own apparent glow.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-013:017",
+      "parent_id": "ood-science-013",
+      "attempt": 17,
+      "seed": 758555186,
+      "text": "Rather than reflecting sunlight, the Moon produces its own visible light.",
+      "raw": "Rather than reflecting sunlight, the Moon produces its own visible light.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-013:018",
+      "parent_id": "ood-science-013",
+      "attempt": 18,
+      "seed": 202508722,
+      "text": "The Moon bounces sunlight instead of generating its own apparent glow.",
+      "raw": "The Moon bounces sunlight instead of generating its own apparent glow.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-013:019",
+      "parent_id": "ood-science-013",
+      "attempt": 19,
+      "seed": 3199994814,
+      "text": "The moon does not generate its own light; it reflects sunlight instead.",
+      "raw": "The moon does not generate its own light; it reflects sunlight instead.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-013:020",
+      "parent_id": "ood-science-013",
+      "attempt": 20,
+      "seed": 965684170,
+      "text": "The Moon scatters sunlight rather than emitting its own visible glow.",
+      "raw": "The Moon scatters sunlight rather than emitting its own visible glow.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-013:021",
+      "parent_id": "ood-science-013",
+      "attempt": 21,
+      "seed": 3558073289,
+      "text": "Rather than producing its own visible light, the Moon reflects sunlight.",
+      "raw": "Rather than producing its own visible light, the Moon reflects sunlight.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-013:022",
+      "parent_id": "ood-science-013",
+      "attempt": 22,
+      "seed": 1014060756,
+      "text": "The Moon reflects sunlight instead of generating its own visible light.",
+      "raw": "The Moon reflects sunlight instead of generating its own visible light.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-013:023",
+      "parent_id": "ood-science-013",
+      "attempt": 23,
+      "seed": 1411795846,
+      "text": "The Moon bounces sunlight but it doesn't create its own glow.",
+      "raw": "The Moon bounces sunlight but it doesn't create its own glow.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-013:024",
+      "parent_id": "ood-science-013",
+      "attempt": 24,
+      "seed": 949495433,
+      "text": "The moon scatters sunlight instead of emitting its own visible light.",
+      "raw": "The moon scatters sunlight instead of emitting its own visible light.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-013:025",
+      "parent_id": "ood-science-013",
+      "attempt": 25,
+      "seed": 3684781705,
+      "text": "Visible light is not produced by the Moon; it reflects solar radiation instead.",
+      "raw": "Visible light is not produced by the Moon; it reflects solar radiation instead.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-013:026",
+      "parent_id": "ood-science-013",
+      "attempt": 26,
+      "seed": 3595657908,
+      "text": "The Moon scatters sunlight instead of generating its own observable glow.",
+      "raw": "The Moon scatters sunlight instead of generating its own observable glow.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-013:027",
+      "parent_id": "ood-science-013",
+      "attempt": 27,
+      "seed": 2161379999,
+      "text": "The Moon reflects sunlight instead of emitting its own light.",
+      "raw": "The Moon reflects sunlight instead of emitting its own light.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-013:028",
+      "parent_id": "ood-science-013",
+      "attempt": 28,
+      "seed": 2138780438,
+      "text": "The Moon bounces sunlight instead of creating its own visible glow.",
+      "raw": "The Moon bounces sunlight instead of creating its own visible glow.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-013:029",
+      "parent_id": "ood-science-013",
+      "attempt": 29,
+      "seed": 3220537869,
+      "text": "Rather than producing its own visible light, the Moon reflects sunlight.",
+      "raw": "Rather than producing its own visible light, the Moon reflects sunlight.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-013:030",
+      "parent_id": "ood-science-013",
+      "attempt": 30,
+      "seed": 526916976,
+      "text": "The Moon bounces sunlight instead of generating its own luminescence.",
+      "raw": "The Moon bounces sunlight instead of generating its own luminescence.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-013:031",
+      "parent_id": "ood-science-013",
+      "attempt": 31,
+      "seed": 2076115438,
+      "text": "The Moon mirrors sunlight instead of creating its own sightly.",
+      "raw": "The Moon mirrors sunlight instead of creating its own sightly.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 454,
+  "generation_seconds": 8.003440155182034
+}

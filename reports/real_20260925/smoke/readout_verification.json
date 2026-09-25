@@ -1,0 +1,13 @@
+{
+  "status": "no_candidates",
+  "backend": "hf",
+  "fresh_text_forwards": 0,
+  "bits_checked": 0,
+  "bit_errors": 0,
+  "ber": null,
+  "sender_guarded_bits": 0,
+  "sender_guarded_bit_errors": 0,
+  "receiver_guard_rejections": 0,
+  "max_feature_l2_drift": 0.0,
+  "warning": "Same runtime only; this does not establish cross-device or edited-text reliability."
+}

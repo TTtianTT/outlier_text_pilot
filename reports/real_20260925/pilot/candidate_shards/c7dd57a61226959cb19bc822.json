@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "ood-science-012",
+    "group_id": "ood-science-012",
+    "split": "ood",
+    "domain": "science",
+    "text": "Dissolving salt in water produces a mixture with dissolved ions."
+  },
+  "attempts": [
+    {
+      "candidate_id": "ood-science-012:000",
+      "parent_id": "ood-science-012",
+      "attempt": 0,
+      "seed": 1820424208,
+      "text": "Adding salt to water forms an electrolyte solution comprising charged particles.",
+      "raw": "Adding salt to water forms an electrolyte solution comprising charged particles.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-012:001",
+      "parent_id": "ood-science-012",
+      "attempt": 1,
+      "seed": 3812951284,
+      "text": "Produces a mixture of dissolved ions when salt is dissolved in water.",
+      "raw": "Produces a mixture of dissolved ions when salt is dissolved in water.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-012:002",
+      "parent_id": "ood-science-012",
+      "attempt": 2,
+      "seed": 1574852101,
+      "text": "Mixing salt with water leads to a solution containing dissolved elements.",
+      "raw": "Mixing salt with water leads to a solution containing dissolved elements.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-012:003",
+      "parent_id": "ood-science-012",
+      "attempt": 3,
+      "seed": 3970879762,
+      "text": "Adding salt to water results in a solution containing ionized salts.",
+      "raw": "Adding salt to water results in a solution containing ionized salts.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-012:004",
+      "parent_id": "ood-science-012",
+      "attempt": 4,
+      "seed": 231826560,
+      "text": "Mixing salt with water leads to an ionic solution.",
+      "raw": "Mixing salt with water leads to an ionic solution.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-012:005",
+      "parent_id": "ood-science-012",
+      "attempt": 5,
+      "seed": 2017611831,
+      "text": "A mixture of ions is formed when salt dissolves in water.",
+      "raw": "A mixture of ions is formed when salt dissolves in water.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-012:006",
+      "parent_id": "ood-science-012",
+      "attempt": 6,
+      "seed": 2109476710,
+      "text": "Adding salt to water results in a solution containing dissolved ions.",
+      "raw": "Adding salt to water results in a solution containing dissolved ions.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-012:007",
+      "parent_id": "ood-science-012",
+      "attempt": 7,
+      "seed": 1497381244,
+      "text": "Ions are dissolved into a solution when salt is mixed with water.",
+      "raw": "Ions are dissolved into a solution when salt is mixed with water.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-012:008",
+      "parent_id": "ood-science-012",
+      "attempt": 8,
+      "seed": 370914197,
+      "text": "Mixing salt with water forms an ionized solution.",
+      "raw": "Mixing salt with water forms an ionized solution.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-012:009",
+      "parent_id": "ood-science-012",
+      "attempt": 9,
+      "seed": 314745605,
+      "text": "A mixture of dissolved ions is produced when salt dissolves in water.",
+      "raw": "A mixture of dissolved ions is produced when salt dissolves in water.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-012:010",
+      "parent_id": "ood-science-012",
+      "attempt": 10,
+      "seed": 1511121272,
+      "text": "Mixing salt with water forms a solution containing electrolytes.",
+      "raw": "Mixing salt with water forms a solution containing electrolytes.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-012:011",
+      "parent_id": "ood-science-012",
+      "attempt": 11,
+      "seed": 2220237517,
+      "text": "Dissolving salt in water results in a solution containing dissolved ions.",
+      "raw": "Dissolving salt in water results in a solution containing dissolved ions.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-012:012",
+      "parent_id": "ood-science-012",
+      "attempt": 12,
+      "seed": 4166618003,
+      "text": "Mixing salt with water creates an ionized solution.",
+      "raw": "Mixing salt with water creates an ionized solution.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-012:013",
+      "parent_id": "ood-science-012",
+      "attempt": 13,
+      "seed": 2752694039,
+      "text": "Producing a mixture of dissolved ions from salt when added to water.",
+      "raw": "Producing a mixture of dissolved ions from salt when added to water.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-012:014",
+      "parent_id": "ood-science-012",
+      "attempt": 14,
+      "seed": 2043447025,
+      "text": "Adding salt to water results in a solution containing dissolved ions.",
+      "raw": "Adding salt to water results in a solution containing dissolved ions.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-012:015",
+      "parent_id": "ood-science-012",
+      "attempt": 15,
+      "seed": 2594024540,
+      "text": "Dissolving salt in water forms a solution containing dissolved ions.",
+      "raw": "Dissolving salt in water forms a solution containing dissolved ions.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-012:016",
+      "parent_id": "ood-science-012",
+      "attempt": 16,
+      "seed": 2287566783,
+      "text": "Dissolving salt in water forms a solution containing dissolved ions.",
+      "raw": "Dissolving salt in water forms a solution containing dissolved ions.",
+      "generated_tokens": 14,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-012:017",
+      "parent_id": "ood-science-012",
+      "attempt": 17,
+      "seed": 1011813307,
+      "text": "A mixture with dissolved ions results from dissolving salt in water.",
+      "raw": "A mixture with dissolved ions results from dissolving salt in water.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-012:018",
+      "parent_id": "ood-science-012",
+      "attempt": 18,
+      "seed": 1019352685,
+      "text": "When salt is added to water, it leads to the formation of a solution containing dissolved ions.",
+      "raw": "When salt is added to water, it leads to the formation of a solution containing dissolved ions.",
+      "generated_tokens": 20,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-012:019",
+      "parent_id": "ood-science-012",
+      "attempt": 19,
+      "seed": 1031108455,
+      "text": "Dissolving salt in water results in a solution containing dissolved ions.",
+      "raw": "Dissolving salt in water results in a solution containing dissolved ions.",
+      "generated_tokens": 15,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-012:020",
+      "parent_id": "ood-science-012",
+      "attempt": 20,
+      "seed": 2945283082,
+      "text": "Adding salt to water results in an ion-containing solution.",
+      "raw": "Adding salt to water results in an ion-containing solution.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-012:021",
+      "parent_id": "ood-science-012",
+      "attempt": 21,
+      "seed": 2538717893,
+      "text": "Produces a mixture containing dissolved ions when salt is dissolved in water.",
+      "raw": "Produces a mixture containing dissolved ions when salt is dissolved in water.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-012:022",
+      "parent_id": "ood-science-012",
+      "attempt": 22,
+      "seed": 3396657867,
+      "text": "Mixing sodium chloride with liquid results in an electrolyte solution.",
+      "raw": "Mixing sodium chloride with liquid results in an electrolyte solution.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-012:023",
+      "parent_id": "ood-science-012",
+      "attempt": 23,
+      "seed": 1876481212,
+      "text": "Dissolution of salt in water creates an ionized solution.",
+      "raw": "Dissolution of salt in water creates an ionized solution.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-012:024",
+      "parent_id": "ood-science-012",
+      "attempt": 24,
+      "seed": 10906102,
+      "text": "Melting table sugar in water creates a solution containing dissolved atoms.",
+      "raw": "Melting table sugar in water creates a solution containing dissolved atoms.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-012:025",
+      "parent_id": "ood-science-012",
+      "attempt": 25,
+      "seed": 3135649513,
+      "text": "A mixture containing dissolved ions is formed when salt dissolves in water.",
+      "raw": "A mixture containing dissolved ions is formed when salt dissolves in water.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-012:026",
+      "parent_id": "ood-science-012",
+      "attempt": 26,
+      "seed": 3655062228,
+      "text": "Mixing salt with water results in an ion-containing solution.",
+      "raw": "Mixing salt with water results in an ion-containing solution.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-012:027",
+      "parent_id": "ood-science-012",
+      "attempt": 27,
+      "seed": 140562627,
+      "text": "When you add salt to water, it creates a solution containing dissolved particles.",
+      "raw": "When you add salt to water, it creates a solution containing dissolved particles.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-012:028",
+      "parent_id": "ood-science-012",
+      "attempt": 28,
+      "seed": 941327389,
+      "text": "Melting ice creates a solution containing dissolved molecules.",
+      "raw": "Melting ice creates a solution containing dissolved molecules.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-012:029",
+      "parent_id": "ood-science-012",
+      "attempt": 29,
+      "seed": 2262176489,
+      "text": "Producing a solution containing dissolved ions from mixing salt with water results in an ionized mixture.",
+      "raw": "Producing a solution containing dissolved ions from mixing salt with water results in an ionized mixture.",
+      "generated_tokens": 20,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-012:030",
+      "parent_id": "ood-science-012",
+      "attempt": 30,
+      "seed": 2580755700,
+      "text": "Mixing salt with water leads to an ionized solution.",
+      "raw": "Mixing salt with water leads to an ionized solution.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-012:031",
+      "parent_id": "ood-science-012",
+      "attempt": 31,
+      "seed": 2238738899,
+      "text": "Salt dissolves in water to form an ionized solution.",
+      "raw": "Salt dissolves in water to form an ionized solution.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 453,
+  "generation_seconds": 7.953444468090311
+}

@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "ood-science-027",
+    "group_id": "ood-science-027",
+    "split": "ood",
+    "domain": "science",
+    "text": "A wave can transfer energy without carrying matter over the same distance."
+  },
+  "attempts": [
+    {
+      "candidate_id": "ood-science-027:000",
+      "parent_id": "ood-science-027",
+      "attempt": 0,
+      "seed": 264373369,
+      "text": "A wave transfers energy without transporting matter over the same span.",
+      "raw": "A wave transfers energy without transporting matter over the same span.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-027:001",
+      "parent_id": "ood-science-027",
+      "attempt": 1,
+      "seed": 793940494,
+      "text": "Energy is transferred by waves even though they don't move any matter.",
+      "raw": "Energy is transferred by waves even though they don't move any matter.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-027:002",
+      "parent_id": "ood-science-027",
+      "attempt": 2,
+      "seed": 3942171302,
+      "text": "A wave transfers energy without moving matter over the same distance.",
+      "raw": "A wave transfers energy without moving matter over the same distance.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-027:003",
+      "parent_id": "ood-science-027",
+      "attempt": 3,
+      "seed": 4123087582,
+      "text": "A wave transfers energy without moving any matter over the same distance.",
+      "raw": "A wave transfers energy without moving any matter over the same distance.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-027:004",
+      "parent_id": "ood-science-027",
+      "attempt": 4,
+      "seed": 3961566388,
+      "text": "A wave can transmit energy without transporting matter over the same distance.",
+      "raw": "A wave can transmit energy without transporting matter over the same distance.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-027:005",
+      "parent_id": "ood-science-027",
+      "attempt": 5,
+      "seed": 4148423942,
+      "text": "Without matter, a wave can transmit energy over the same distance.",
+      "raw": "Without matter, a wave can transmit energy over the same distance.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-027:006",
+      "parent_id": "ood-science-027",
+      "attempt": 6,
+      "seed": 3003733435,
+      "text": "A wave transfers energy across distances without moving any material particles.",
+      "raw": "A wave transfers energy across distances without moving any material particles.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-027:007",
+      "parent_id": "ood-science-027",
+      "attempt": 7,
+      "seed": 2274563292,
+      "text": "A wave transfers energy without moving any matter for the same distance.",
+      "raw": "A wave transfers energy without moving any matter for the same distance.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-027:008",
+      "parent_id": "ood-science-027",
+      "attempt": 8,
+      "seed": 3200087335,
+      "text": "A wave can transmit energy without transporting matter over the same space.",
+      "raw": "A wave can transmit energy without transporting matter over the same space.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-027:009",
+      "parent_id": "ood-science-027",
+      "attempt": 9,
+      "seed": 1573832019,
+      "text": "Without matter, a wave transfers energy over the same distance.",
+      "raw": "Without matter, a wave transfers energy over the same distance.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-027:010",
+      "parent_id": "ood-science-027",
+      "attempt": 10,
+      "seed": 1654374810,
+      "text": "A wave transfers energy across distances without moving any matter.",
+      "raw": "A wave transfers energy across distances without moving any matter.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-027:011",
+      "parent_id": "ood-science-027",
+      "attempt": 11,
+      "seed": 499728244,
+      "text": "A wave can transmit energy without moving any substance across the same distance.",
+      "raw": "A wave can transmit energy without moving any substance across the same distance.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-027:012",
+      "parent_id": "ood-science-027",
+      "attempt": 12,
+      "seed": 2933294969,
+      "text": "A wave transfers energy without moving matter over the same distance.",
+      "raw": "A wave transfers energy without moving matter over the same distance.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-027:013",
+      "parent_id": "ood-science-027",
+      "attempt": 13,
+      "seed": 3724449449,
+      "text": "Energy from a wave can be transmitted even when it doesn't carry any material particles.",
+      "raw": "Energy from a wave can be transmitted even when it doesn't carry any material particles.",
+      "generated_tokens": 18,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-027:014",
+      "parent_id": "ood-science-027",
+      "attempt": 14,
+      "seed": 2705959953,
+      "text": "A wave transfers energy without physically transporting matter for the same distance.",
+      "raw": "A wave transfers energy without physically transporting matter for the same distance.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-027:015",
+      "parent_id": "ood-science-027",
+      "attempt": 15,
+      "seed": 3480629542,
+      "text": "A wave transfers energy but does not carry matter over the same distance.",
+      "raw": "A wave transfers energy but does not carry matter over the same distance.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-027:016",
+      "parent_id": "ood-science-027",
+      "attempt": 16,
+      "seed": 1791519093,
+      "text": "A wave transfers energy without physically moving matter over the same distance.",
+      "raw": "A wave transfers energy without physically moving matter over the same distance.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-027:017",
+      "parent_id": "ood-science-027",
+      "attempt": 17,
+      "seed": 2262949672,
+      "text": "Energy is transferred by a wave without moving any matter in between them.",
+      "raw": "Energy is transferred by a wave without moving any matter in between them.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-027:018",
+      "parent_id": "ood-science-027",
+      "attempt": 18,
+      "seed": 3860651235,
+      "text": "A wave transfers energy through space without moving any matter.",
+      "raw": "A wave transfers energy through space without moving any matter.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-027:019",
+      "parent_id": "ood-science-027",
+      "attempt": 19,
+      "seed": 3309633784,
+      "text": "A wave transfers energy without moving matter over the same distance.",
+      "raw": "A wave transfers energy without moving matter over the same distance.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "ood-science-027:020",
+      "parent_id": "ood-science-027",
+      "attempt": 20,
+      "seed": 733172581,
+      "text": "A wave transfers energy over a similar distance without moving any matter.",
+      "raw": "A wave transfers energy over a similar distance without moving any matter.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-027:021",
+      "parent_id": "ood-science-027",
+      "attempt": 21,
+      "seed": 3336717074,
+      "text": "Without matter, a wave transfers energy across equal distances.",
+      "raw": "Without matter, a wave transfers energy across equal distances.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-027:022",
+      "parent_id": "ood-science-027",
+      "attempt": 22,
+      "seed": 4077692502,
+      "text": "A wave transfers energy without moving any matter over the same space.",
+      "raw": "A wave transfers energy without moving any matter over the same space.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-027:023",
+      "parent_id": "ood-science-027",
+      "attempt": 23,
+      "seed": 1072184356,
+      "text": "A wave can transmit energy without moving any material through the same interval.",
+      "raw": "A wave can transmit energy without moving any material through the same interval.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-027:024",
+      "parent_id": "ood-science-027",
+      "attempt": 24,
+      "seed": 1803352362,
+      "text": "A wave is capable of transferring energy without transporting matter over equivalent distances.",
+      "raw": "A wave is capable of transferring energy without transporting matter over equivalent distances.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-027:025",
+      "parent_id": "ood-science-027",
+      "attempt": 25,
+      "seed": 3428967773,
+      "text": "Energy can be transferred by waves without matter moving directly from one place to another.",
+      "raw": "Energy can be transferred by waves without matter moving directly from one place to another.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-027:026",
+      "parent_id": "ood-science-027",
+      "attempt": 26,
+      "seed": 3656265034,
+      "text": "A wave transfers energy to another location without moving any material.",
+      "raw": "A wave transfers energy to another location without moving any material.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-027:027",
+      "parent_id": "ood-science-027",
+      "attempt": 27,
+      "seed": 1585230951,
+      "text": "A wave transfers energy across a space without moving any matter.",
+      "raw": "A wave transfers energy across a space without moving any matter.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-027:028",
+      "parent_id": "ood-science-027",
+      "attempt": 28,
+      "seed": 1750934415,
+      "text": "A wave can transmit energy without moving any material through the same span.",
+      "raw": "A wave can transmit energy without moving any material through the same span.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-027:029",
+      "parent_id": "ood-science-027",
+      "attempt": 29,
+      "seed": 1353135522,
+      "text": "Energy can be transferred by a wave even when it doesn't carry any matter over the same distance.",
+      "raw": "Energy can be transferred by a wave even when it doesn't carry any matter over the same distance.",
+      "generated_tokens": 21,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-027:030",
+      "parent_id": "ood-science-027",
+      "attempt": 30,
+      "seed": 946198253,
+      "text": "A wave transfers energy across space without moving any matter.",
+      "raw": "A wave transfers energy across space without moving any matter.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "ood-science-027:031",
+      "parent_id": "ood-science-027",
+      "attempt": 31,
+      "seed": 1273704771,
+      "text": "A wave transfers energy without moving matter over the same distance.",
+      "raw": "A wave transfers energy without moving matter over the same distance.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    }
+  ],
+  "generated_tokens": 452,
+  "generation_seconds": 7.944846925092861
+}

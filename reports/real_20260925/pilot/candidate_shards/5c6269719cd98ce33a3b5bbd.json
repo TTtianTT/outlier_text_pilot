@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "dev-product-014",
+    "group_id": "dev-product-014",
+    "split": "dev",
+    "domain": "product",
+    "text": "The power adapter is sold separately from the device."
+  },
+  "attempts": [
+    {
+      "candidate_id": "dev-product-014:000",
+      "parent_id": "dev-product-014",
+      "attempt": 0,
+      "seed": 1964379182,
+      "text": "The adapter is purchased apart from the gadget.",
+      "raw": "The adapter is purchased apart from the gadget.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-014:001",
+      "parent_id": "dev-product-014",
+      "attempt": 1,
+      "seed": 2147047921,
+      "text": "The device comes with a power adapter, sold separately.",
+      "raw": "The device comes with a power adapter, sold separately.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-014:002",
+      "parent_id": "dev-product-014",
+      "attempt": 2,
+      "seed": 3897721902,
+      "text": "The power adapter is available as an extra item alongside the device.",
+      "raw": "The power adapter is available as an extra item alongside the device.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-014:003",
+      "parent_id": "dev-product-014",
+      "attempt": 3,
+      "seed": 452802504,
+      "text": "The power adapter is available as an additional purchase with the device.",
+      "raw": "The power adapter is available as an additional purchase with the device.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-014:004",
+      "parent_id": "dev-product-014",
+      "attempt": 4,
+      "seed": 4042310435,
+      "text": "A power adapter is purchased independently of the gadget.",
+      "raw": "A power adapter is purchased independently of the gadget.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-014:005",
+      "parent_id": "dev-product-014",
+      "attempt": 5,
+      "seed": 3523741094,
+      "text": "The device comes with its own power adapter, not included in the sale.",
+      "raw": "The device comes with its own power adapter, not included in the sale.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-014:006",
+      "parent_id": "dev-product-014",
+      "attempt": 6,
+      "seed": 513751178,
+      "text": "The device comes with its own power adapter.",
+      "raw": "The device comes with its own power adapter.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-014:007",
+      "parent_id": "dev-product-014",
+      "attempt": 7,
+      "seed": 2444312989,
+      "text": "The power adapter is sold alongside the device.",
+      "raw": "The power adapter is sold alongside the device.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-014:008",
+      "parent_id": "dev-product-014",
+      "attempt": 8,
+      "seed": 132961230,
+      "text": "The charger is available individually with the gadget.",
+      "raw": "The charger is available individually with the gadget.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-014:009",
+      "parent_id": "dev-product-014",
+      "attempt": 9,
+      "seed": 2228143179,
+      "text": "The device comes with a separate power adapter.",
+      "raw": "The device comes with a separate power adapter.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-014:010",
+      "parent_id": "dev-product-014",
+      "attempt": 10,
+      "seed": 847846778,
+      "text": "The power adapter is purchased apart from the device.",
+      "raw": "The power adapter is purchased apart from the device.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-014:011",
+      "parent_id": "dev-product-014",
+      "attempt": 11,
+      "seed": 3625396268,
+      "text": "The power adapter is bought apart from the gadget.",
+      "raw": "The power adapter is bought apart from the gadget.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-014:012",
+      "parent_id": "dev-product-014",
+      "attempt": 12,
+      "seed": 4279750068,
+      "text": "The power adapter is sold alongside the device.",
+      "raw": "The power adapter is sold alongside the device.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-014:013",
+      "parent_id": "dev-product-014",
+      "attempt": 13,
+      "seed": 563234080,
+      "text": "The device comes with a power adapter, sold separately.",
+      "raw": "The device comes with a power adapter, sold separately.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-014:014",
+      "parent_id": "dev-product-014",
+      "attempt": 14,
+      "seed": 308822652,
+      "text": "The device comes with its own power adapter.",
+      "raw": "The device comes with its own power adapter.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-014:015",
+      "parent_id": "dev-product-014",
+      "attempt": 15,
+      "seed": 2605770941,
+      "text": "The device comes with its own power adapter.",
+      "raw": "The device comes with its own power adapter.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-014:016",
+      "parent_id": "dev-product-014",
+      "attempt": 16,
+      "seed": 3802904950,
+      "text": "The power adapter is sold alongside the device.",
+      "raw": "The power adapter is sold alongside the device.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-014:017",
+      "parent_id": "dev-product-014",
+      "attempt": 17,
+      "seed": 2237778200,
+      "text": "The device is sold with its power adapter.",
+      "raw": "The device is sold with its power adapter.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-014:018",
+      "parent_id": "dev-product-014",
+      "attempt": 18,
+      "seed": 1116897991,
+      "text": "The power adapter is sold alongside the device.",
+      "raw": "The power adapter is sold alongside the device.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-014:019",
+      "parent_id": "dev-product-014",
+      "attempt": 19,
+      "seed": 1517435340,
+      "text": "A power adapter is available separately with the device.",
+      "raw": "A power adapter is available separately with the device.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-014:020",
+      "parent_id": "dev-product-014",
+      "attempt": 20,
+      "seed": 2533396510,
+      "text": "The power adapter is purchased individually with the gadget.",
+      "raw": "The power adapter is purchased individually with the gadget.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-014:021",
+      "parent_id": "dev-product-014",
+      "attempt": 21,
+      "seed": 2986306139,
+      "text": "The device comes with its own power adapter.",
+      "raw": "The device comes with its own power adapter.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-014:022",
+      "parent_id": "dev-product-014",
+      "attempt": 22,
+      "seed": 1045492262,
+      "text": "The power adapter is not included with the device; it's available separately.",
+      "raw": "The power adapter is not included with the device; it's available separately.",
+      "generated_tokens": 16,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-014:023",
+      "parent_id": "dev-product-014",
+      "attempt": 23,
+      "seed": 3190389421,
+      "text": "The power adapter can be purchased individually alongside the device.",
+      "raw": "The power adapter can be purchased individually alongside the device.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-014:024",
+      "parent_id": "dev-product-014",
+      "attempt": 24,
+      "seed": 793639164,
+      "text": "The power adapter is sold alongside the device.",
+      "raw": "The power adapter is sold alongside the device.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-product-014:025",
+      "parent_id": "dev-product-014",
+      "attempt": 25,
+      "seed": 2331799424,
+      "text": "The device comes with a power adapter; it's not included.",
+      "raw": "The device comes with a power adapter; it's not included.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-014:026",
+      "parent_id": "dev-product-014",
+      "attempt": 26,
+      "seed": 381748740,
+      "text": "The power adapter for the device can be purchased individually.",
+      "raw": "The power adapter for the device can be purchased individually.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-014:027",
+      "parent_id": "dev-product-014",
+      "attempt": 27,
+      "seed": 1053269227,
+      "text": "The power adapter is bought alongside the product.",
+      "raw": "The power adapter is bought alongside the product.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-014:028",
+      "parent_id": "dev-product-014",
+      "attempt": 28,
+      "seed": 201098502,
+      "text": "The charger is bought individually with the gadget.",
+      "raw": "The charger is bought individually with the gadget.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-014:029",
+      "parent_id": "dev-product-014",
+      "attempt": 29,
+      "seed": 3156385781,
+      "text": "The device comes with a power adapter; there's no separate purchase needed for it.",
+      "raw": "The device comes with a power adapter; there's no separate purchase needed for it.",
+      "generated_tokens": 18,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-014:030",
+      "parent_id": "dev-product-014",
+      "attempt": 30,
+      "seed": 367348639,
+      "text": "The device does not come with its own power adapter; you'll need to purchase one separately.",
+      "raw": "The device does not come with its own power adapter; you'll need to purchase one separately.",
+      "generated_tokens": 20,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-product-014:031",
+      "parent_id": "dev-product-014",
+      "attempt": 31,
+      "seed": 1325004121,
+      "text": "The device comes with its own power adapter.",
+      "raw": "The device comes with its own power adapter.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    }
+  ],
+  "generated_tokens": 375,
+  "generation_seconds": 6.58757289708592
+}

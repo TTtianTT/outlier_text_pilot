@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "test-product-014",
+    "group_id": "test-product-014",
+    "split": "test",
+    "domain": "product",
+    "text": "The wireless mouse requires one battery that is not included."
+  },
+  "attempts": [
+    {
+      "candidate_id": "test-product-014:000",
+      "parent_id": "test-product-014",
+      "attempt": 0,
+      "seed": 2862879452,
+      "text": "A wireless mouse necessitates an external battery which is absent.",
+      "raw": "A wireless mouse necessitates an external battery which is absent.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-014:001",
+      "parent_id": "test-product-014",
+      "attempt": 1,
+      "seed": 1961599993,
+      "text": "A wireless mouse necessitates a non-included battery.",
+      "raw": "A wireless mouse necessitates a non-included battery.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-014:002",
+      "parent_id": "test-product-014",
+      "attempt": 2,
+      "seed": 815901785,
+      "text": "A wireless mouse needs an additional battery that isn't provided with it.",
+      "raw": "A wireless mouse needs an additional battery that isn't provided with it.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-014:003",
+      "parent_id": "test-product-014",
+      "attempt": 3,
+      "seed": 3686805672,
+      "text": "A wireless mouse needs a separate battery provided by the user.",
+      "raw": "A wireless mouse needs a separate battery provided by the user.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-014:004",
+      "parent_id": "test-product-014",
+      "attempt": 4,
+      "seed": 3410692538,
+      "text": "The wireless mouse necessitates an external battery that isn't provided.",
+      "raw": "The wireless mouse necessitates an external battery that isn't provided.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-014:005",
+      "parent_id": "test-product-014",
+      "attempt": 5,
+      "seed": 3383688183,
+      "text": "A wireless mouse needs a non-included battery.",
+      "raw": "A wireless mouse needs a non-included battery.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-014:006",
+      "parent_id": "test-product-014",
+      "attempt": 6,
+      "seed": 2062637386,
+      "text": "Wireless mice come with their own batteries, so there's no need to purchase an additional one.",
+      "raw": "Wireless mice come with their own batteries, so there's no need to purchase an additional one.",
+      "generated_tokens": 21,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-014:007",
+      "parent_id": "test-product-014",
+      "attempt": 7,
+      "seed": 2696504151,
+      "text": "The wireless mouse needs a separate battery, which isn't included.",
+      "raw": "The wireless mouse needs a separate battery, which isn't included.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-014:008",
+      "parent_id": "test-product-014",
+      "attempt": 8,
+      "seed": 4129930027,
+      "text": "The wireless mouse necessitates an external battery that's absent.",
+      "raw": "The wireless mouse necessitates an external battery that's absent.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-014:009",
+      "parent_id": "test-product-014",
+      "attempt": 9,
+      "seed": 423475374,
+      "text": "A wireless mouse needs an additional battery which is not provided.",
+      "raw": "A wireless mouse needs an additional battery which is not provided.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-014:010",
+      "parent_id": "test-product-014",
+      "attempt": 10,
+      "seed": 835233579,
+      "text": "The wireless mouse needs to be equipped with an additional battery that you must purchase separately.",
+      "raw": "The wireless mouse needs to be equipped with an additional battery that you must purchase separately.",
+      "generated_tokens": 18,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-014:011",
+      "parent_id": "test-product-014",
+      "attempt": 11,
+      "seed": 3120301946,
+      "text": "A wireless mouse needs a battery that isn't provided.",
+      "raw": "A wireless mouse needs a battery that isn't provided.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-014:012",
+      "parent_id": "test-product-014",
+      "attempt": 12,
+      "seed": 1775804932,
+      "text": "The wireless mouse needs an external battery.",
+      "raw": "The wireless mouse needs an external battery.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-014:013",
+      "parent_id": "test-product-014",
+      "attempt": 13,
+      "seed": 3051703292,
+      "text": "One does not receive a battery with the wireless mouse.",
+      "raw": "One does not receive a battery with the wireless mouse.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-014:014",
+      "parent_id": "test-product-014",
+      "attempt": 14,
+      "seed": 2980717546,
+      "text": "A wireless mouse needs an extra battery that you should purchase separately.",
+      "raw": "A wireless mouse needs an extra battery that you should purchase separately.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-014:015",
+      "parent_id": "test-product-014",
+      "attempt": 15,
+      "seed": 2165986794,
+      "text": "The wireless mouse needs a separate battery that comes with it.",
+      "raw": "The wireless mouse needs a separate battery that comes with it.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-014:016",
+      "parent_id": "test-product-014",
+      "attempt": 16,
+      "seed": 3118606807,
+      "text": "The wireless mouse necessitates an additional battery, which is not provided.",
+      "raw": "The wireless mouse necessitates an additional battery, which is not provided.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-014:017",
+      "parent_id": "test-product-014",
+      "attempt": 17,
+      "seed": 966136672,
+      "text": "One needs to purchase a separate battery for the wireless mouse that comes with it.",
+      "raw": "One needs to purchase a separate battery for the wireless mouse that comes with it.",
+      "generated_tokens": 17,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-014:018",
+      "parent_id": "test-product-014",
+      "attempt": 18,
+      "seed": 1012800776,
+      "text": "The wireless mouse needs an external battery not provided with it.",
+      "raw": "The wireless mouse needs an external battery not provided with it.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-014:019",
+      "parent_id": "test-product-014",
+      "attempt": 19,
+      "seed": 1800025879,
+      "text": "The wireless mouse needs a separate battery not provided with it.",
+      "raw": "The wireless mouse needs a separate battery not provided with it.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-014:020",
+      "parent_id": "test-product-014",
+      "attempt": 20,
+      "seed": 1220790231,
+      "text": "The wireless mouse necessitates an external battery not provided with it.",
+      "raw": "The wireless mouse necessitates an external battery not provided with it.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-014:021",
+      "parent_id": "test-product-014",
+      "attempt": 21,
+      "seed": 1746941673,
+      "text": "One battery must be purchased separately for the wireless mouse.",
+      "raw": "One battery must be purchased separately for the wireless mouse.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-014:022",
+      "parent_id": "test-product-014",
+      "attempt": 22,
+      "seed": 928220373,
+      "text": "A wireless mouse needs an unprovided battery component.",
+      "raw": "A wireless mouse needs an unprovided battery component.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-014:023",
+      "parent_id": "test-product-014",
+      "attempt": 23,
+      "seed": 3755817946,
+      "text": "The wireless mouse needs a single battery, which which is not provided.",
+      "raw": "The wireless mouse needs a single battery, which which is not provided.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-014:024",
+      "parent_id": "test-product-014",
+      "attempt": 24,
+      "seed": 1167915461,
+      "text": "A wireless mouse necessitates an integral battery component.",
+      "raw": "A wireless mouse necessitates an integral battery component.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-014:025",
+      "parent_id": "test-product-014",
+      "attempt": 25,
+      "seed": 3880237883,
+      "text": "A wireless mouse needs a non-included battery.",
+      "raw": "A wireless mouse needs a non-included battery.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-product-014:026",
+      "parent_id": "test-product-014",
+      "attempt": 26,
+      "seed": 2205111694,
+      "text": "Wireless mice require an additional battery, which isn't included.",
+      "raw": "Wireless mice require an additional battery, which isn't included.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-014:027",
+      "parent_id": "test-product-014",
+      "attempt": 27,
+      "seed": 2460158233,
+      "text": "The wireless mouse needs a battery, which isn't provided with it.",
+      "raw": "The wireless mouse needs a battery, which isn't provided with it.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-014:028",
+      "parent_id": "test-product-014",
+      "attempt": 28,
+      "seed": 3306996001,
+      "text": "The wireless mouse necessitates an external battery, which is absent.",
+      "raw": "The wireless mouse necessitates an external battery, which is absent.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-014:029",
+      "parent_id": "test-product-014",
+      "attempt": 29,
+      "seed": 1355893884,
+      "text": "One must purchase a battery separately for the wireless mouse.",
+      "raw": "One must purchase a battery separately for the wireless mouse.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-014:030",
+      "parent_id": "test-product-014",
+      "attempt": 30,
+      "seed": 1562964119,
+      "text": "You must purchase an additional rechargeable battery for your wireless mouse.",
+      "raw": "You must purchase an additional rechargeable battery for your wireless mouse.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-product-014:031",
+      "parent_id": "test-product-014",
+      "attempt": 31,
+      "seed": 877376517,
+      "text": "The wireless mouse needs a separate battery that isn't provided.",
+      "raw": "The wireless mouse needs a separate battery that isn't provided.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    }
+  ],
+  "generated_tokens": 431,
+  "generation_seconds": 7.587416846072301
+}

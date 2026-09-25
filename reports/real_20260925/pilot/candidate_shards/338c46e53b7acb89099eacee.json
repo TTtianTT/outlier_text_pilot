@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "dev-daily-014",
+    "group_id": "dev-daily-014",
+    "split": "dev",
+    "domain": "daily",
+    "text": "I borrowed a book about gardening from a friend."
+  },
+  "attempts": [
+    {
+      "candidate_id": "dev-daily-014:000",
+      "parent_id": "dev-daily-014",
+      "attempt": 0,
+      "seed": 611215019,
+      "text": "I obtained a gardening book from a companion.",
+      "raw": "I obtained a gardening book from a companion.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-014:001",
+      "parent_id": "dev-daily-014",
+      "attempt": 1,
+      "seed": 2209869746,
+      "text": "From a friend, I borrowed a gardening book.",
+      "raw": "From a friend, I borrowed a gardening book.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-014:002",
+      "parent_id": "dev-daily-014",
+      "attempt": 2,
+      "seed": 238838288,
+      "text": "I requested an gardening-related book from a acquaintance.",
+      "raw": "I requested an gardening-related book from a acquaintance.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-014:003",
+      "parent_id": "dev-daily-014",
+      "attempt": 3,
+      "seed": 911715006,
+      "text": "I acquired a gardening book through a peer loan.",
+      "raw": "I acquired a gardening book through a peer loan.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-014:004",
+      "parent_id": "dev-daily-014",
+      "attempt": 4,
+      "seed": 1994382470,
+      "text": "I obtained a gardening book from a companion.",
+      "raw": "I obtained a gardening book from a companion.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-014:005",
+      "parent_id": "dev-daily-014",
+      "attempt": 5,
+      "seed": 3092146141,
+      "text": "A gardening book was lent to me by a friend.",
+      "raw": "A gardening book was lent to me by a friend.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-014:006",
+      "parent_id": "dev-daily-014",
+      "attempt": 6,
+      "seed": 3609357704,
+      "text": "A friend loaned me a gardening book.",
+      "raw": "A friend loaned me a gardening book.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-014:007",
+      "parent_id": "dev-daily-014",
+      "attempt": 7,
+      "seed": 158813752,
+      "text": "I borrowed a gardening book from a friend.",
+      "raw": "I borrowed a gardening book from a friend.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-014:008",
+      "parent_id": "dev-daily-014",
+      "attempt": 8,
+      "seed": 828166011,
+      "text": "I borrowed a gardening book from a buddy.",
+      "raw": "I borrowed a gardening book from a buddy.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-014:009",
+      "parent_id": "dev-daily-014",
+      "attempt": 9,
+      "seed": 2350098302,
+      "text": "From a friend, I borrowed a gardening book.",
+      "raw": "From a friend, I borrowed a gardening book.",
+      "generated_tokens": 11,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-014:010",
+      "parent_id": "dev-daily-014",
+      "attempt": 10,
+      "seed": 1953922232,
+      "text": "My friend lent me a gardening book.",
+      "raw": "My friend lent me a gardening book.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-014:011",
+      "parent_id": "dev-daily-014",
+      "attempt": 11,
+      "seed": 1982925418,
+      "text": "I acquired a gardening guide from a peer.",
+      "raw": "I acquired a gardening guide from a peer.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-014:012",
+      "parent_id": "dev-daily-014",
+      "attempt": 12,
+      "seed": 3236135783,
+      "text": "I asked a buddy to loan me an orchid manual.",
+      "raw": "I asked a buddy to loan me an orchid manual.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-014:013",
+      "parent_id": "dev-daily-014",
+      "attempt": 13,
+      "seed": 1114530486,
+      "text": "A friend lent me a gardening book.",
+      "raw": "A friend lent me a gardening book.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-014:014",
+      "parent_id": "dev-daily-014",
+      "attempt": 14,
+      "seed": 1143506460,
+      "text": "A gardening book was lent to me by a buddy.",
+      "raw": "A gardening book was lent to me by a buddy.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-014:015",
+      "parent_id": "dev-daily-014",
+      "attempt": 15,
+      "seed": 1222570972,
+      "text": "I obtained an agricultural tome from someone dear to me.",
+      "raw": "I obtained an agricultural tome from someone dear to me.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-014:016",
+      "parent_id": "dev-daily-014",
+      "attempt": 16,
+      "seed": 1514286450,
+      "text": "I obtained a gardening guide from someone.",
+      "raw": "I obtained a gardening guide from someone.",
+      "generated_tokens": 9,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-014:017",
+      "parent_id": "dev-daily-014",
+      "attempt": 17,
+      "seed": 1308589832,
+      "text": "A friend lent me a gardening book.",
+      "raw": "A friend lent me a gardening book.",
+      "generated_tokens": 9,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-014:018",
+      "parent_id": "dev-daily-014",
+      "attempt": 18,
+      "seed": 3719184361,
+      "text": "A gardening book was loaned to me by a friend.",
+      "raw": "A gardening book was loaned to me by a friend.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-014:019",
+      "parent_id": "dev-daily-014",
+      "attempt": 19,
+      "seed": 4189451289,
+      "text": "The person obtained a gardening guide from their acquaintance.",
+      "raw": "The person obtained a gardening guide from their acquaintance.",
+      "generated_tokens": 11,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-014:020",
+      "parent_id": "dev-daily-014",
+      "attempt": 20,
+      "seed": 441008071,
+      "text": "I acquired an instructional text on horticulture from a companion.",
+      "raw": "I acquired an instructional text on horticulture from a companion.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-014:021",
+      "parent_id": "dev-daily-014",
+      "attempt": 21,
+      "seed": 2364738093,
+      "text": "A friend lent me a gardening book.",
+      "raw": "A friend lent me a gardening book.",
+      "generated_tokens": 9,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-014:022",
+      "parent_id": "dev-daily-014",
+      "attempt": 22,
+      "seed": 766061191,
+      "text": "I obtained a gardening book from a buddy.",
+      "raw": "I obtained a gardening book from a buddy.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-014:023",
+      "parent_id": "dev-daily-014",
+      "attempt": 23,
+      "seed": 457243863,
+      "text": "I borrowed an gardening book from my friend.",
+      "raw": "I borrowed an gardening book from my friend.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-014:024",
+      "parent_id": "dev-daily-014",
+      "attempt": 24,
+      "seed": 2199757887,
+      "text": "I acquired an gardening reference from a acquaintance.",
+      "raw": "I acquired an gardening reference from a acquaintance.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-014:025",
+      "parent_id": "dev-daily-014",
+      "attempt": 25,
+      "seed": 2410689016,
+      "text": "A gardening book was lent to me by a friend.",
+      "raw": "A gardening book was lent to me by a friend.",
+      "generated_tokens": 12,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-014:026",
+      "parent_id": "dev-daily-014",
+      "attempt": 26,
+      "seed": 2056569190,
+      "text": "My friend lent me a gardening book.",
+      "raw": "My friend lent me a gardening book.",
+      "generated_tokens": 9,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-014:027",
+      "parent_id": "dev-daily-014",
+      "attempt": 27,
+      "seed": 2978926614,
+      "text": "I borrowed a gardening book from a pal.",
+      "raw": "I borrowed a gardening book from a pal.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-014:028",
+      "parent_id": "dev-daily-014",
+      "attempt": 28,
+      "seed": 898078285,
+      "text": "I obtained a gardening book from a buddy.",
+      "raw": "I obtained a gardening book from a buddy.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "dev-daily-014:029",
+      "parent_id": "dev-daily-014",
+      "attempt": 29,
+      "seed": 1358361703,
+      "text": "A garden book was lent to me by my friend.",
+      "raw": "A garden book was lent to me by my friend.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-014:030",
+      "parent_id": "dev-daily-014",
+      "attempt": 30,
+      "seed": 2887919677,
+      "text": "I acquired a gardening book from a buddy.",
+      "raw": "I acquired a gardening book from a buddy.",
+      "generated_tokens": 10,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "dev-daily-014:031",
+      "parent_id": "dev-daily-014",
+      "attempt": 31,
+      "seed": 1998701230,
+      "text": "I borrowed a gardening book from a friend.",
+      "raw": "I borrowed a gardening book from a friend.",
+      "generated_tokens": 10,
+      "generation_status": "duplicate_or_identity"
+    }
+  ],
+  "generated_tokens": 339,
+  "generation_seconds": 5.96246904018335
+}

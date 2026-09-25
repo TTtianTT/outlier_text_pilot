@@ -1,0 +1,190 @@
+{
+  "generation_status": {
+    "ok": 302,
+    "duplicate_or_identity": 82
+  },
+  "splits": {
+    "dev": {
+      "parents": 4,
+      "feature_candidates": 105,
+      "eligible_candidates": 32,
+      "matched_parents": 0,
+      "selection_reasons": {
+        "caliper_match_failed": 1,
+        "too_few_eligible": 3
+      },
+      "filter_failure_counts_nonexclusive": {
+        "edit_ratio": 21,
+        "cosine": 59,
+        "bidirectional_nli": 53
+      }
+    },
+    "test": {
+      "parents": 4,
+      "feature_candidates": 95,
+      "eligible_candidates": 46,
+      "matched_parents": 0,
+      "selection_reasons": {
+        "too_few_eligible": 3,
+        "caliper_match_failed": 1
+      },
+      "filter_failure_counts_nonexclusive": {
+        "edit_ratio": 14,
+        "bidirectional_nli": 23,
+        "cosine": 41
+      }
+    },
+    "ood": {
+      "parents": 4,
+      "feature_candidates": 102,
+      "eligible_candidates": 56,
+      "matched_parents": 0,
+      "selection_reasons": {
+        "too_few_eligible": 2,
+        "caliper_match_failed": 2
+      },
+      "filter_failure_counts_nonexclusive": {
+        "edit_ratio": 29,
+        "cosine": 31,
+        "bidirectional_nli": 3
+      }
+    }
+  },
+  "primary": {
+    "summary": [
+      {
+        "split": "test",
+        "bits": "1",
+        "margin": "0.0001",
+        "method": "outlier",
+        "parents": "4",
+        "matched_parents": "0",
+        "coverage_all": "0.0",
+        "coverage_matched": "",
+        "full_coverage_all": "0.0",
+        "pool_proxy_tv_success": ""
+      },
+      {
+        "split": "test",
+        "bits": "1",
+        "margin": "0.0001",
+        "method": "matched",
+        "parents": "4",
+        "matched_parents": "0",
+        "coverage_all": "0.0",
+        "coverage_matched": "",
+        "full_coverage_all": "0.0",
+        "pool_proxy_tv_success": ""
+      },
+      {
+        "split": "test",
+        "bits": "1",
+        "margin": "0.0001",
+        "method": "random",
+        "parents": "4",
+        "matched_parents": "0",
+        "coverage_all": "0.0",
+        "coverage_matched": "",
+        "full_coverage_all": "0.0",
+        "pool_proxy_tv_success": ""
+      },
+      {
+        "split": "test",
+        "bits": "1",
+        "margin": "0.0001",
+        "method": "nearest",
+        "parents": "4",
+        "matched_parents": "0",
+        "coverage_all": "0.0",
+        "coverage_matched": "",
+        "full_coverage_all": "0.0",
+        "pool_proxy_tv_success": ""
+      },
+      {
+        "split": "ood",
+        "bits": "1",
+        "margin": "0.0001",
+        "method": "outlier",
+        "parents": "4",
+        "matched_parents": "0",
+        "coverage_all": "0.0",
+        "coverage_matched": "",
+        "full_coverage_all": "0.0",
+        "pool_proxy_tv_success": ""
+      },
+      {
+        "split": "ood",
+        "bits": "1",
+        "margin": "0.0001",
+        "method": "matched",
+        "parents": "4",
+        "matched_parents": "0",
+        "coverage_all": "0.0",
+        "coverage_matched": "",
+        "full_coverage_all": "0.0",
+        "pool_proxy_tv_success": ""
+      },
+      {
+        "split": "ood",
+        "bits": "1",
+        "margin": "0.0001",
+        "method": "random",
+        "parents": "4",
+        "matched_parents": "0",
+        "coverage_all": "0.0",
+        "coverage_matched": "",
+        "full_coverage_all": "0.0",
+        "pool_proxy_tv_success": ""
+      },
+      {
+        "split": "ood",
+        "bits": "1",
+        "margin": "0.0001",
+        "method": "nearest",
+        "parents": "4",
+        "matched_parents": "0",
+        "coverage_all": "0.0",
+        "coverage_matched": "",
+        "full_coverage_all": "0.0",
+        "pool_proxy_tv_success": ""
+      }
+    ],
+    "paired_deltas": [
+      {
+        "split": "test",
+        "bits": "1",
+        "margin": "0.0001",
+        "comparison": "outlier-minus-matched",
+        "delta": "0.0",
+        "ci_low": "0.0",
+        "ci_high": "0.0",
+        "source_groups": "4",
+        "keys": "4"
+      },
+      {
+        "split": "ood",
+        "bits": "1",
+        "margin": "0.0001",
+        "comparison": "outlier-minus-matched",
+        "delta": "0.0",
+        "ci_low": "0.0",
+        "ci_high": "0.0",
+        "source_groups": "4",
+        "keys": "4"
+      }
+    ]
+  },
+  "readout": {
+    "status": "no_candidates",
+    "backend": "hf",
+    "fresh_text_forwards": 0,
+    "bits_checked": 0,
+    "bit_errors": 0,
+    "ber": null,
+    "sender_guarded_bits": 0,
+    "sender_guarded_bit_errors": 0,
+    "receiver_guard_rejections": 0,
+    "max_feature_l2_drift": 0.0,
+    "warning": "Same runtime only; this does not establish cross-device or edited-text reliability."
+  }
+}

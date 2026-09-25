@@ -1,0 +1,333 @@
+{
+  "parent": {
+    "id": "test-daily-000",
+    "group_id": "test-daily-000",
+    "split": "test",
+    "domain": "daily",
+    "text": "He put the groceries in the refrigerator before making lunch."
+  },
+  "attempts": [
+    {
+      "candidate_id": "test-daily-000:000",
+      "parent_id": "test-daily-000",
+      "attempt": 0,
+      "seed": 415253350,
+      "text": "He placed the groceries inside the fridge prior to preparing lunch.",
+      "raw": "He placed the groceries inside the fridge prior to preparing lunch.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-000:001",
+      "parent_id": "test-daily-000",
+      "attempt": 1,
+      "seed": 1549324416,
+      "text": "Before making lunch, he put the groceries in the refrigerator.",
+      "raw": "Before making lunch, he put the groceries in the refrigerator.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-000:002",
+      "parent_id": "test-daily-000",
+      "attempt": 2,
+      "seed": 3090606444,
+      "text": "He placed the groceries in the refrigerator prior to preparing lunch.",
+      "raw": "He placed the groceries in the refrigerator prior to preparing lunch.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-000:003",
+      "parent_id": "test-daily-000",
+      "attempt": 3,
+      "seed": 1968793603,
+      "text": "He placed the groceries in the refrigerator prior to preparing lunch.",
+      "raw": "He placed the groceries in the refrigerator prior to preparing lunch.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-000:004",
+      "parent_id": "test-daily-000",
+      "attempt": 4,
+      "seed": 1041363481,
+      "text": "He placed the groceries in the fridge prior to preparing lunch.",
+      "raw": "He placed the groceries in the fridge prior to preparing lunch.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-000:005",
+      "parent_id": "test-daily-000",
+      "attempt": 5,
+      "seed": 1668097974,
+      "text": "Before making lunch, he put the groceries in the refrigerator.",
+      "raw": "Before making lunch, he put the groceries in the refrigerator.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-000:006",
+      "parent_id": "test-daily-000",
+      "attempt": 6,
+      "seed": 4188522531,
+      "text": "He placed the groceries into the refrigerator prior to preparing lunch.",
+      "raw": "He placed the groceries into the refrigerator prior to preparing lunch.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-000:007",
+      "parent_id": "test-daily-000",
+      "attempt": 7,
+      "seed": 3702480503,
+      "text": "He placed the groceries in the refrigerator prior to preparing lunch.",
+      "raw": "He placed the groceries in the refrigerator prior to preparing lunch.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-000:008",
+      "parent_id": "test-daily-000",
+      "attempt": 8,
+      "seed": 1433835136,
+      "text": "He placed groceries in the refrigerator prior to preparing lunch.",
+      "raw": "He placed groceries in the refrigerator prior to preparing lunch.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-000:009",
+      "parent_id": "test-daily-000",
+      "attempt": 9,
+      "seed": 1586322183,
+      "text": "Before making lunch, he placed the groceries in the refrigerator.",
+      "raw": "Before making lunch, he placed the groceries in the refrigerator.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-000:010",
+      "parent_id": "test-daily-000",
+      "attempt": 10,
+      "seed": 4059314915,
+      "text": "He placed the groceries in the refrigerator before preparing lunch.",
+      "raw": "He placed the groceries in the refrigerator before preparing lunch.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-000:011",
+      "parent_id": "test-daily-000",
+      "attempt": 11,
+      "seed": 1421041425,
+      "text": "He placed the groceries in the refrigerator prior to preparing lunch.",
+      "raw": "He placed the groceries in the refrigerator prior to preparing lunch.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-000:012",
+      "parent_id": "test-daily-000",
+      "attempt": 12,
+      "seed": 2047995521,
+      "text": "He positioned the groceries into the refrigerator prior to preparing dinner.",
+      "raw": "He positioned the groceries into the refrigerator prior to preparing dinner.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-000:013",
+      "parent_id": "test-daily-000",
+      "attempt": 13,
+      "seed": 479633802,
+      "text": "Before making lunch, he placed the groceries in the refrigerator.",
+      "raw": "Before making lunch, he placed the groceries in the refrigerator.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-000:014",
+      "parent_id": "test-daily-000",
+      "attempt": 14,
+      "seed": 4261579332,
+      "text": "He placed the groceries in the refrigerator prior to preparing lunch.",
+      "raw": "He placed the groceries in the refrigerator prior to preparing lunch.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-000:015",
+      "parent_id": "test-daily-000",
+      "attempt": 15,
+      "seed": 4162331790,
+      "text": "Before preparing lunch, he placed the groceries in the refrigerator.",
+      "raw": "Before preparing lunch, he placed the groceries in the refrigerator.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-000:016",
+      "parent_id": "test-daily-000",
+      "attempt": 16,
+      "seed": 813689484,
+      "text": "He placed groceries into the refrigerator prior to preparing lunch.",
+      "raw": "He placed groceries into the refrigerator prior to preparing lunch.",
+      "generated_tokens": 12,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-000:017",
+      "parent_id": "test-daily-000",
+      "attempt": 17,
+      "seed": 572069282,
+      "text": "Before making lunch, he put the groceries in the refrigerator.",
+      "raw": "Before making lunch, he put the groceries in the refrigerator.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-000:018",
+      "parent_id": "test-daily-000",
+      "attempt": 18,
+      "seed": 3520127781,
+      "text": "He placed the groceries into the refrigerator prior to preparing lunch.",
+      "raw": "He placed the groceries into the refrigerator prior to preparing lunch.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-000:019",
+      "parent_id": "test-daily-000",
+      "attempt": 19,
+      "seed": 3375898140,
+      "text": "He placed the groceries in the refrigerator prior to preparing lunch.",
+      "raw": "He placed the groceries in the refrigerator prior to preparing lunch.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-000:020",
+      "parent_id": "test-daily-000",
+      "attempt": 20,
+      "seed": 4254876588,
+      "text": "He placed the groceries in the fridge prior to preparing lunch.",
+      "raw": "He placed the groceries in the fridge prior to preparing lunch.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-000:021",
+      "parent_id": "test-daily-000",
+      "attempt": 21,
+      "seed": 2862648751,
+      "text": "Before making lunch, he put the groceries in the refrigerator.",
+      "raw": "Before making lunch, he put the groceries in the refrigerator.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-000:022",
+      "parent_id": "test-daily-000",
+      "attempt": 22,
+      "seed": 2477786866,
+      "text": "He placed the groceries into the refrigerator before embarking on lunch preparation.",
+      "raw": "He placed the groceries into the refrigerator before embarking on lunch preparation.",
+      "generated_tokens": 15,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-000:023",
+      "parent_id": "test-daily-000",
+      "attempt": 23,
+      "seed": 4237329937,
+      "text": "He placed the groceries in the refrigerator prior to preparing lunch.",
+      "raw": "He placed the groceries in the refrigerator prior to preparing lunch.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-000:024",
+      "parent_id": "test-daily-000",
+      "attempt": 24,
+      "seed": 2088896095,
+      "text": "He stored the groceries in the refrigerator prior to preparing lunch.",
+      "raw": "He stored the groceries in the refrigerator prior to preparing lunch.",
+      "generated_tokens": 13,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-000:025",
+      "parent_id": "test-daily-000",
+      "attempt": 25,
+      "seed": 2113281508,
+      "text": "Before making lunch, he put the groceries in the refrigerator.",
+      "raw": "Before making lunch, he put the groceries in the refrigerator.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-000:026",
+      "parent_id": "test-daily-000",
+      "attempt": 26,
+      "seed": 2843155911,
+      "text": "He placed the groceries in the fridge prior to preparing lunch.",
+      "raw": "He placed the groceries in the fridge prior to preparing lunch.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-000:027",
+      "parent_id": "test-daily-000",
+      "attempt": 27,
+      "seed": 1775486327,
+      "text": "He placed the groceries into the refrigerator prior to preparing lunch.",
+      "raw": "He placed the groceries into the refrigerator prior to preparing lunch.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-000:028",
+      "parent_id": "test-daily-000",
+      "attempt": 28,
+      "seed": 2554793950,
+      "text": "He placed the groceries inside the fridge prior to creating the meal.",
+      "raw": "He placed the groceries inside the fridge prior to creating the meal.",
+      "generated_tokens": 14,
+      "generation_status": "ok"
+    },
+    {
+      "candidate_id": "test-daily-000:029",
+      "parent_id": "test-daily-000",
+      "attempt": 29,
+      "seed": 2571887276,
+      "text": "Before making lunch, he put the groceries in the refrigerator.",
+      "raw": "Before making lunch, he put the groceries in the refrigerator.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-000:030",
+      "parent_id": "test-daily-000",
+      "attempt": 30,
+      "seed": 567869148,
+      "text": "He placed the groceries in the refrigerator prior to preparing lunch.",
+      "raw": "He placed the groceries in the refrigerator prior to preparing lunch.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    },
+    {
+      "candidate_id": "test-daily-000:031",
+      "parent_id": "test-daily-000",
+      "attempt": 31,
+      "seed": 1807653041,
+      "text": "He placed the groceries into the refrigerator prior to preparing lunch.",
+      "raw": "He placed the groceries into the refrigerator prior to preparing lunch.",
+      "generated_tokens": 13,
+      "generation_status": "duplicate_or_identity"
+    }
+  ],
+  "generated_tokens": 416,
+  "generation_seconds": 7.3216344360262156
+}
